@@ -1,2 +1,5 @@
-.venv
+.venv/
+venv/
+__pycache__/
+*.pyc
 genai_judiciary_multi_agent_system.docx
