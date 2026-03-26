@@ -1,0 +1,48 @@
+
+--- case0061_CH002 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 176
+791 GOVERNMENT OF NCT OF DELHI v. RATIRAM & ORS. (Civil Appeal No. 379 of 2023) JANUARY 20, 2023 [M. R. SHAH AND C. T. RAVIKUMAR, JJ.] Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2 013: s. 24(2) – Land acquisition, when deemed to have lapsed – Writ petition by the private respondent-writ petitioner seeking decl aration that acquisition proceedings pertaining to subject land is deemed to have lapsed in view of s.24(2) – High Court relying upon the decision in Pune Municipal Corporation case held the acquisition is deemed to have lapsed on the ground that compensation with respect to t he land was not tendered – Sustainability of – Held: Not sustai nable – Possession of the land was taken over and handed ov er to the beneficiary department – Impugned Judgment contrary to l aw laid down by this Court in the Constitution Bench decision in the Indore Development Authority’s case – Order passed by the High Court is quashed and set aside – Land Acquisition Act,
+
+--- case0061_CH003 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 193
+2023) JANUARY 20, 2023 [M. R. SHAH AND C. T. RAVIKUMAR, JJ.] Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2 013: s. 24(2) – Land acquisition, when deemed to have lapsed – Writ petition by the private respondent-writ petitioner seeking decl aration that acquisition proceedings pertaining to subject land is deemed to have lapsed in view of s.24(2) – High Court relying upon the decision in Pune Municipal Corporation case held the acquisition is deemed to have lapsed on the ground that compensation with respect to t he land was not tendered – Sustainability of – Held: Not sustai nable – Possession of the land was taken over and handed ov er to the beneficiary department – Impugned Judgment contrary to l aw laid down by this Court in the Constitution Bench decision in the Indore Development Authority’s case – Order passed by the High Court is quashed and set aside – Land Acquisition Act, 1894. Indore Development Authority Vs. Manoharlal and Ors, (2020) 8 SCC 129 – followed. Case Law Reference (2020) 8 SCC 129 followed Para 5 CIVIL APPELLATE JURISDICTION : Civil Appeal No.379 of
+
+--- case0061_CH004 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 87
+1894. Indore Development Authority Vs. Manoharlal and Ors, (2020) 8 SCC 129 – followed. Case Law Reference (2020) 8 SCC 129 followed Para 5 CIVIL APPELLATE JURISDICTION : Civil Appeal No.379 of 2023. From the Judgment and Order dated 13.02.2017 of the High Court of Delhi at New Delhi in Writ Petition (C) No.8685 of 2015. Chandra Prakash, Vivek Singh, Ms. C. P. Rajwar, Ms. Somi Sharma, Advs. for the Appellant. [2023] 1 S.C.R. 791 The Judgment of the Court was delivered by M. R. SHAH, J.
+
+--- case0061_CH005 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 142
+2015. Chandra Prakash, Vivek Singh, Ms. C. P. Rajwar, Ms. Somi Sharma, Advs. for the Appellant. [2023] 1 S.C.R. 791 The Judgment of the Court was delivered by M. R. SHAH, J. 1. Feeling aggrieved and dissatisfied with the impugne d judgment and order passed by the High Court of Delhi at New Del hi dated 13.02.2017 in Writ Petition (C) No. 8685 of 2015 by which the High Court has allowed the said writ petition preferred by the private respondent herein and has declared that the acquisition with res pect to the land in question is deemed to have lapsed by virtue of S ection 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (hereinafter refer red to as “Act, 2013”), the Government of NCT of Delhi has preferre d the present appeal.
+
+--- case0061_CH006 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 149
+1. Feeling aggrieved and dissatisfied with the impugne d judgment and order passed by the High Court of Delhi at New Del hi dated 13.02.2017 in Writ Petition (C) No. 8685 of 2015 by which the High Court has allowed the said writ petition preferred by the private respondent herein and has declared that the acquisition with res pect to the land in question is deemed to have lapsed by virtue of S ection 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (hereinafter refer red to as “Act, 2013”), the Government of NCT of Delhi has preferre d the present appeal. 2. From the impugned judgment and order passed by the High Court and even from the counter affidavit filed on beh alf of the appellant and others before the High Court, it appears that it was the s pecific
+
+--- case0061_CH016 ---
+SECTION: decision
+ROLE: prosecution
+WORDS: 73
+aside and is accordingly quashed and set aside. 6. In view of the above and for the reasons stated above, pre sent appeal succeeds. The impugned judgment and order passed by the Hi gh Court, declaring that the acquisition with respect to th e land in question is deemed to have lapsed under Section 24(2) of the Act, 2013, is hereb y quashed and set aside. Consequently, the original writ petition stands dismissed.
+
+--- case0061_CH017 ---
+SECTION: decision
+ROLE: prosecution
+WORDS: 42
+Present appeal is accordingly allowed. However, in the fac ts and circumstances of the case, there shall be no order as to cos ts. Pending application, if any, also stands disposed of. Nidhi Jain Appeal allowed. (Assisted by : Abhishek Agnihotri, LCRA)
+
+--- case0061_CH001 ---
+SECTION: title
+ROLE: prosecution
+WORDS: 6
+791 GOVERNMENT OF NCT OF DELHI

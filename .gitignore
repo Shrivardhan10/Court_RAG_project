@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.pyc
 genai_judiciary_multi_agent_system.docx
+data.ipynb
+data2021
+data2022
+data2023

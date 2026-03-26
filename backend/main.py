@@ -14,7 +14,6 @@ INPUT_CASE_TEXT = (
     "The defence claims it was an unforeseen complication."
 )
 
-
 def _parse_fact_fields(facts: str) -> dict[str, str]:
 	fields = {"act": "", "intent": "", "weapon": "", "outcome": ""}
 	for line in (facts or "").splitlines():
@@ -112,6 +111,17 @@ def _extract_case_name(preview: str, case_id: str) -> str:
 	return text[:120]
 
 
+def _section_display_name(section: str) -> str:
+	return {
+		"facts": "facts",
+		"issues": "issues",
+		"prosecution_arguments": "prosecution-arguments",
+		"defense_arguments": "defense-arguments",
+		"court_analysis": "court-analysis",
+		"decision": "decision",
+	}.get(section, "other")
+
+
 def _format_statutes_for_prompt(statutes: list[dict]) -> str:
 	if not statutes:
 		return "No statutes retrieved."
@@ -124,7 +134,11 @@ def _format_statutes_for_prompt(statutes: list[dict]) -> str:
 	return "\n".join(parts)
 
 
-def _format_precedents_for_prompt(precedents: list[dict], facts: str) -> tuple[str, dict[str, str]]:
+def _format_precedents_for_prompt(
+	precedents: list[dict],
+	facts: str,
+	citation_prefix: str = "P",
+) -> tuple[str, dict[str, str]]:
 	if not precedents:
 		return "No precedents retrieved.", {}
 
@@ -133,12 +147,17 @@ def _format_precedents_for_prompt(precedents: list[dict], facts: str) -> tuple[s
 	citation_map: dict[str, str] = {}
 	for rank, precedent in enumerate(precedents[:3], start=1):
 		case_id = precedent.get("case_id", "")
+		chunk_id = precedent.get("chunk_id", "")
+		section = _section_display_name(str(precedent.get("section", "other")))
 		score = float(precedent.get("score", 0.0))
 		case_name = _extract_case_name(precedent.get("text_preview", ""), case_id)
-		citation = f"P{rank}"
+		citation = f"{citation_prefix}{rank}"
 		citation_map[case_id] = citation
+		chunk_ref = chunk_id if chunk_id else "full-case"
+		preview = (precedent.get("text_preview", "") or "").replace("\n", " ").strip()
 		parts.append(
-			f"- [{citation}] {case_name} (similarity={score:.4f}) | Potential relevance: {issue_tags}"
+			f"- [{citation}] case={case_name} | chunk={chunk_ref} | section={section} | "
+			f"score={score:.4f} | relevance={issue_tags} | snippet={preview[:140]}"
 		)
 
 	return "\n".join(parts), citation_map
@@ -176,6 +195,13 @@ def _looks_non_argumentative(text: str) -> bool:
 	return False
 
 
+def _has_citation_mapping(text: str) -> bool:
+	content = (text or "")
+	if "Evidence Mapping" not in content:
+		return False
+	return re.search(r"\[P\d+\]", content) is not None
+
+
 def _extract_precedent_labels(precedents: str) -> list[str]:
 	labels = re.findall(r"\[(P\d+)\]", precedents or "")
 	# Preserve order, remove duplicates.
@@ -208,16 +234,25 @@ def _has_section_markers(text: str, markers: list[str]) -> bool:
 def _is_valid_prosecution_output(text: str) -> bool:
 	if _looks_non_argumentative(text):
 		return False
-	return _has_section_markers(
+	if not _has_section_markers(
 		text,
-		["charges", "key evidence", "statutory basis", "precedent support", "conclusion"],
-	)
+		[
+			"charges",
+			"key evidence",
+			"statutory basis",
+			"precedent support",
+			"conclusion",
+			"evidence mapping",
+		],
+	):
+		return False
+	return _has_citation_mapping(text)
 
 
 def _is_valid_defense_output(text: str) -> bool:
 	if _looks_non_argumentative(text):
 		return False
-	return _has_section_markers(
+	if not _has_section_markers(
 		text,
 		[
 			"weaknesses in prosecution case",
@@ -225,8 +260,11 @@ def _is_valid_defense_output(text: str) -> bool:
 			"precedent distinguishing",
 			"mitigating factors",
 			"relief sought",
+			"evidence mapping",
 		],
-	)
+	):
+		return False
+	return _has_citation_mapping(text)
 
 
 def _is_valid_judge_output(text: str) -> bool:
@@ -263,7 +301,10 @@ def _build_prosecution_fallback(facts: str, statutes: str, precedents: str) -> s
 		"4) Precedent Support\n"
 		f"The prosecution cites {precedent_ref} for principles on intent inference, weapon use, and causation from the proved facts.\n\n"
 		"5) Conclusion\n"
-		"Given the alleged intentional assault, weapon use, and grave outcome, conviction on the primary charge is sought."
+		"Given the alleged intentional assault, weapon use, and grave outcome, conviction on the primary charge is sought.\n\n"
+		"6) Evidence Mapping\n"
+		f"- Intent and causation claim -> {precedent_ref}\n"
+		f"- Charge framing and statutory fit -> {precedent_ref}"
 	)
 
 
@@ -283,7 +324,10 @@ def _build_defense_fallback(facts: str, statutes: str, precedents: str, prosecut
 		"4) Mitigating Factors\n"
 		f"Possible mitigation includes dispute context and ambiguity regarding intention ({fields.get('intent') or 'intent disputed'}).\n\n"
 		"5) Relief Sought\n"
-		"Acquittal on the most serious charge or, alternatively, conviction on a lesser offence with proportional sentencing."
+		"Acquittal on the most serious charge or, alternatively, conviction on a lesser offence with proportional sentencing.\n\n"
+		"6) Evidence Mapping\n"
+		f"- Factual mismatch against prosecution theory -> {precedent_ref}\n"
+		f"- Mitigation and lesser-offence argument -> {precedent_ref}"
 	)
 
 
@@ -373,30 +417,74 @@ def run_legal_pipeline(case_text: str) -> None:
 	statutes = statute_retriever.retrieve_statutes(facts, top_k=3)
 
 	print("[main] Retrieving precedents based on extracted facts...")
-	precedents = precedent_retriever.retrieve_precedents(facts, top_k=3)
+	prosecution_precedents = precedent_retriever.retrieve_precedents(
+		facts,
+		top_k=3,
+		side_hint="prosecution",
+		allowed_sections=[
+			"facts",
+			"issues",
+			"prosecution_arguments",
+			"court_analysis",
+			"decision",
+			"other",
+		],
+	)
+	defense_precedents = precedent_retriever.retrieve_precedents(
+		facts,
+		top_k=3,
+		side_hint="defense",
+		allowed_sections=[
+			"facts",
+			"issues",
+			"defense_arguments",
+			"court_analysis",
+			"decision",
+			"other",
+		],
+	)
+	judge_precedents = precedent_retriever.retrieve_precedents(
+		facts,
+		top_k=3,
+		side_hint="judge",
+	)
 
 	statutes_for_prompt = _format_statutes_for_prompt(statutes)
-	precedents_for_prompt, _ = _format_precedents_for_prompt(precedents, facts)
+	prosecution_precedents_for_prompt, _ = _format_precedents_for_prompt(
+		prosecution_precedents,
+		facts,
+		citation_prefix="P",
+	)
+	defense_precedents_for_prompt, _ = _format_precedents_for_prompt(
+		defense_precedents,
+		facts,
+		citation_prefix="P",
+	)
+	judge_precedents_for_prompt, _ = _format_precedents_for_prompt(
+		judge_precedents,
+		facts,
+		citation_prefix="J",
+	)
 
 	print("[main] Running prosecution agent...")
 	prosecution_output = run_prosecution_agent(
 		facts=facts,
 		statutes=statutes_for_prompt,
-		precedents=precedents_for_prompt,
+		precedents=prosecution_precedents_for_prompt,
 	)
 	prosecution_output = _sanitize_agent_output(prosecution_output)
 	if not _is_valid_prosecution_output(prosecution_output):
 		prosecution_output = _build_prosecution_fallback(
 			facts=facts,
 			statutes=statutes_for_prompt,
-			precedents=precedents_for_prompt,
+			precedents=prosecution_precedents_for_prompt,
 		)
 
 	print("[main] Running defense agent...")
 	defense_output = run_defense_agent(
 		facts=facts,
 		statutes=statutes_for_prompt,
-		precedents=precedents_for_prompt,
+		precedents=defense_precedents_for_prompt,
 		prosecution_output=prosecution_output,
 	)
 	defense_output = _sanitize_agent_output(defense_output)
@@ -404,7 +492,7 @@ def run_legal_pipeline(case_text: str) -> None:
 		defense_output = _build_defense_fallback(
 			facts=facts,
 			statutes=statutes_for_prompt,
-			precedents=precedents_for_prompt,
+			precedents=defense_precedents_for_prompt,
 			prosecution_output=prosecution_output,
 		)
 
@@ -414,14 +502,14 @@ def run_legal_pipeline(case_text: str) -> None:
 		prosecution_output=prosecution_output,
 		defense_output=defense_output,
 		statutes=statutes_for_prompt,
-		precedents=precedents_for_prompt,
+		precedents=judge_precedents_for_prompt,
 	)
 	judge_output = _sanitize_agent_output(judge_output)
 	if not _is_valid_judge_output(judge_output):
 		judge_output = _build_judge_fallback(
 			facts=facts,
 			statutes=statutes_for_prompt,
-			precedents=precedents_for_prompt,
+			precedents=judge_precedents_for_prompt,
 			prosecution_output=prosecution_output,
 			defense_output=defense_output,
 		)
@@ -430,7 +518,7 @@ def run_legal_pipeline(case_text: str) -> None:
 	print(facts)
 
 	_print_statutes(statutes)
-	_print_precedents(precedents)
+	_print_precedents(judge_precedents)
 
 	print("\n========== PROSECUTION ARGUMENT ==========")
 	print(prosecution_output)

@@ -20,6 +20,7 @@ def get_prosecution_prompt(facts: str, statutes: str, precedents: str) -> str:
 		"Important rules:\n"
 		"- Use facts as the primary basis of argument.\n"
 		"- Use precedents only as citations like [P1], [P2], [P3], not as copied text.\n"
+		"- Every legal claim must cite at least one retrieved chunk id citation [P#].\n"
 		"- Do not repeat case captions, court names, or appeal numbers.\n"
 		"Write complete sentences only. Do not output placeholders or fragments.\n"
 		"Be concise and structured with these sections:\n"
@@ -27,10 +28,11 @@ def get_prosecution_prompt(facts: str, statutes: str, precedents: str) -> str:
 		"2) Key Evidence from Facts\n"
 		"3) Statutory Basis\n"
 		"4) Precedent Support (citation + one-line relevance)\n"
-		"5) Conclusion\n\n"
+		"5) Conclusion\n"
+		"6) Evidence Mapping (bullet list: Claim -> [P#], [P#])\n\n"
 		f"Facts:\n{facts.strip()}\n\n"
 		f"Relevant Statutes:\n{statutes.strip()}\n\n"
-		f"Relevant Precedents:\n{precedents.strip()}"
+		f"Retrieved Precedent Chunks:\n{precedents.strip()}"
 	)
 
 
@@ -46,6 +48,7 @@ def get_defense_prompt(
 		"Important rules:\n"
 		"- Attack prosecution on intent, causation, witness reliability, and charge selection where applicable.\n"
 		"- Distinguish precedents by factual differences; cite only as [P1], [P2], [P3].\n"
+		"- Every defense point must map to at least one retrieved chunk citation [P#].\n"
 		"- Do not copy case captions or procedural metadata.\n"
 		"Write complete sentences only. Do not copy precedent text verbatim.\n"
 		"Be concise and structured with these sections:\n"
@@ -53,10 +56,11 @@ def get_defense_prompt(
 		"2) Statutory Counter-Interpretation\n"
 		"3) Precedent Distinguishing (citation + factual mismatch)\n"
 		"4) Mitigating Factors\n"
-		"5) Relief Sought\n\n"
+		"5) Relief Sought\n"
+		"6) Evidence Mapping (bullet list: Defense Point -> [P#], [P#])\n\n"
 		f"Facts:\n{facts.strip()}\n\n"
 		f"Relevant Statutes:\n{statutes.strip()}\n\n"
-		f"Relevant Precedents:\n{precedents.strip()}\n\n"
+		f"Retrieved Precedent Chunks:\n{precedents.strip()}\n\n"
 		f"Prosecution Argument:\n{prosecution_output.strip()}"
 	)
 

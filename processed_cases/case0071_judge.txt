@@ -1,0 +1,96 @@
+
+--- case0071_CH002 ---
+SECTION: facts
+ROLE: judge
+WORDS: 14
+907 DELHI DEVELOPMENT AUTHORITY v. RAJESH DUA & ORS. (Civil Appeal No. 363 of
+
+--- case0071_CH003 ---
+SECTION: facts
+ROLE: judge
+WORDS: 257
+907 DELHI DEVELOPMENT AUTHORITY v. RAJESH DUA & ORS. (Civil Appeal No. 363 of 2023) JANUARY 20, 2023 [M. R. SHAH AND C.T RAVIKUMAR, JJ.] Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 – s.24(2) – High Court relied upon its decision in Smt. Harbans Kaur v. Govt. of NCT of Delhi and Ors., in which it had relied on the Supreme Court decision in case of Pune Municipal Corporation and Anr. v. Harakchand Misirimal Solanki & Ors. – It held that depositing of the amount of compensation with the Reference Court cannot be reg arded as compensation having been paid to the landowners and declared that the acquisition with respect to the land in question is de emed to have lapsed as actual physical possession of the subjec t land was not taken over of the land acquiring agency – Held: The decision in case of Pune Municipal Corporation and Anr. v. Harakchand Misirimal Solanki & Ors. has been overruled by the subsequent Constitution Bench decision in Indore Development authority v. Manoharlal and Ors. – Applying the law laid by the Supreme Court in the instant case, the compensation with respect to the land in question was deposited in the Reference Court in th e year 1967 and that between 1967 and 2017, there is nothing on record to show grievance of original landowners regarding non- payment of compensation and the possession of the land was taken in t he year 1967– Therefore, impugned judgment of the High Cour t
+
+--- case0071_CH012 ---
+SECTION: court_analysis
+ROLE: judge
+WORDS: 17
+consideration. Therefore, that decision too cannot prevail, in the light of the discussion in the present judgment.
+
+--- case0071_CH013 ---
+SECTION: court_analysis
+ROLE: judge
+WORDS: 758
+consideration. Therefore, that decision too cannot prevail, in the light of the discussion in the present judgment. 366. In view of the aforesaid discussion, we answer the questions as under: 366.1. Under the provisions of Section 24(1)(a) in case the award is not made as on 1-1-2014, the date of commencement of the 2013 Act, there is no lapse of proceedings. Compensation has to be determined under the provisions of the 2013 Act. 366.2. In case the award has been passed within the window period of five years excluding the period covered by an interim order of the court, then proceedings shall contin ue as provided under Section 24(1)(b) of the 2013 Act under the 366.3. The word “or” used in Section 24(2) between possession and compensation has to be read as “nor” or as “and”. The deemed lapse of land acquisition proceeding s under Section 24(2) of the 2013 Act takes place where due to i naction of authorities for five years or more prior to commencem ent of the said Act, the possession of land has not been taken nor compensation has been paid. In other words, in case posse ssion has been taken, compensation has not been paid then there is no lapse. Similarly, if compensation has been paid, possession has not been taken then there is no lapse. 366.4. The expression “paid” in the main part of Section 24(2) of the 2013 Act does not include a deposit of compensation in court. The consequence of non-deposit is provided in the proviso to Section 24(2) in case it has not been deposited with respect to majority of landholdings then all benefici aries (landowners) as on the date of notification for land acquisiti on under Section 4 of the 1894 Act shall be entitled t o compensation in accordance with the provisions of the 2013 Act. In case the obligation under Section 31 of the L and Acquisition Act, 1894 has not been fulfilled, interest under Section 34 of the said Act can be granted. Non-deposit of compensation (in court) does not result in the lapse of land acquisition proceedings. In case of non-deposit with respect t o the majority of holdings for five years or more, compensation under the 2013 Act has to be paid to the “landowners” as on the date of notification for land acquisition under Section 4 of the 1894 Act. 366.5. In case a person has been tendered the compensation as provided under Section 31(1) of the 1894 Ac t, it is not open to him to claim that acquisition has lapsed under Section 24(2) due to non-payment or non-deposit of compensation in court. The obligation to pay is complete by tendering the amount under Section 31(1). The landowners who had refused to accept compensation or who sough t reference for higher compensation, cannot claim that th e acquisition proceedings had lapsed under Section 24(2) of the 366.6. The proviso to Section 24(2) of the 2013 Act is to be treated as part of Section 24(2), not part of Sec tion 24(1)(b). 366.7. The mode of taking possession under the 1894 Act and as contemplated under Section 24(2) is by drawing of inquest report/memorandum. Once award has been passed on taking possession under Section 16 of the 1894 Act, the land vests in State there is no divesting provided under Section 24(2) of the 2013 Act, as once possession has been taken there is n o lapse under Section 24(2). 366.8. The provisions of Section 24(2) providing for a deemed lapse of proceedings are applicable in case autho rities have failed due to their inaction to take possession and pa y compensation for five years or more before the 2013 Act came into force, in a proceeding for land acquisition pen ding with the authority concerned as on 1-1-2014. The period of subsistence DELHI DEVELOPMENT AUTHORITY v. RAJESH DUA AND ORS. [M. R. SHAH, J.] of interim orders passed by court has to be excluded in the computation of five years. 366.9. Section 24(2) of the 2013 Act does not give rise to new cause of action to question the legality of concluded proceedings of land acquisition. Section 24 applies to a proceeding pending on the date of enforcement of the 2013 Act i.e. 1-1-2014. It does not revive stale and tim e-barred claims and does not reopen concluded proceedings nor allow landowners to question the legality of mode of taki ng possession to reopen proceedings or mode of deposit of compensation in the treasury instead of court to invalidate acquisition.”
+
+--- case0071_CH014 ---
+SECTION: court_analysis
+ROLE: judge
+WORDS: 865
+366. In view of the aforesaid discussion, we answer the questions as under: 366.1. Under the provisions of Section 24(1)(a) in case the award is not made as on 1-1-2014, the date of commencement of the 2013 Act, there is no lapse of proceedings. Compensation has to be determined under the provisions of the 2013 Act. 366.2. In case the award has been passed within the window period of five years excluding the period covered by an interim order of the court, then proceedings shall contin ue as provided under Section 24(1)(b) of the 2013 Act under the 366.3. The word “or” used in Section 24(2) between possession and compensation has to be read as “nor” or as “and”. The deemed lapse of land acquisition proceeding s under Section 24(2) of the 2013 Act takes place where due to i naction of authorities for five years or more prior to commencem ent of the said Act, the possession of land has not been taken nor compensation has been paid. In other words, in case posse ssion has been taken, compensation has not been paid then there is no lapse. Similarly, if compensation has been paid, possession has not been taken then there is no lapse. 366.4. The expression “paid” in the main part of Section 24(2) of the 2013 Act does not include a deposit of compensation in court. The consequence of non-deposit is provided in the proviso to Section 24(2) in case it has not been deposited with respect to majority of landholdings then all benefici aries (landowners) as on the date of notification for land acquisiti on under Section 4 of the 1894 Act shall be entitled t o compensation in accordance with the provisions of the 2013 Act. In case the obligation under Section 31 of the L and Acquisition Act, 1894 has not been fulfilled, interest under Section 34 of the said Act can be granted. Non-deposit of compensation (in court) does not result in the lapse of land acquisition proceedings. In case of non-deposit with respect t o the majority of holdings for five years or more, compensation under the 2013 Act has to be paid to the “landowners” as on the date of notification for land acquisition under Section 4 of the 1894 Act. 366.5. In case a person has been tendered the compensation as provided under Section 31(1) of the 1894 Ac t, it is not open to him to claim that acquisition has lapsed under Section 24(2) due to non-payment or non-deposit of compensation in court. The obligation to pay is complete by tendering the amount under Section 31(1). The landowners who had refused to accept compensation or who sough t reference for higher compensation, cannot claim that th e acquisition proceedings had lapsed under Section 24(2) of the 366.6. The proviso to Section 24(2) of the 2013 Act is to be treated as part of Section 24(2), not part of Sec tion 24(1)(b). 366.7. The mode of taking possession under the 1894 Act and as contemplated under Section 24(2) is by drawing of inquest report/memorandum. Once award has been passed on taking possession under Section 16 of the 1894 Act, the land vests in State there is no divesting provided under Section 24(2) of the 2013 Act, as once possession has been taken there is n o lapse under Section 24(2). 366.8. The provisions of Section 24(2) providing for a deemed lapse of proceedings are applicable in case autho rities have failed due to their inaction to take possession and pa y compensation for five years or more before the 2013 Act came into force, in a proceeding for land acquisition pen ding with the authority concerned as on 1-1-2014. The period of subsistence DELHI DEVELOPMENT AUTHORITY v. RAJESH DUA AND ORS. [M. R. SHAH, J.] of interim orders passed by court has to be excluded in the computation of five years. 366.9. Section 24(2) of the 2013 Act does not give rise to new cause of action to question the legality of concluded proceedings of land acquisition. Section 24 applies to a proceeding pending on the date of enforcement of the 2013 Act i.e. 1-1-2014. It does not revive stale and tim e-barred claims and does not reopen concluded proceedings nor allow landowners to question the legality of mode of taki ng possession to reopen proceedings or mode of deposit of compensation in the treasury instead of court to invalidate acquisition.” 5. Applying the law laid down by this Court in the case of Indore Development Authority (supra) , and considering the fact that the compensation with respect to the land in question was depos ited in the Reference Court in the year 1967 and that between 1967 and 2017, nothing is on record to show that the writ petitioners were praying and/ or a grievance was made by the original landowners with respect to non-payment of compensation and that the possession of the la nd in question was stated to be taken in the year 1967 by drawing the panchnama, the impugned judgment and order passed by the High Co urt is unsustainable and the same deserves to be quashed and set aside and
+
+--- case0071_CH004 ---
+SECTION: decision
+ROLE: judge
+WORDS: 104
+unsustainable – Accordingly, set aside – Appeal allow ed. Indore Development Authority vs Manoharlal & Ors. (2020) 8 SCC 129 : [2020] 3 SCR 1 – followed. Pune Municipal Corporation & Anr. vs. Harakchand Misrimal Solanki & ors (2014) 3 SCC 183 : [2014] 1 SCR 783 – referred to. Smt. Harbans Kaur vs. Govt. of NCT of Delhi and Ors. [W.P.(C) 5358 of 2014, decided on 02.02.2015] – referred to. [2023] 1 S.C.R. 907 Case Law Reference [2020] 3 SCR 1 followed Para 4, 4.1, 5 (2014) 3 SCC 183 referred to Para 2, 4.1 CIVIL APPELLATE JURISDICTION : Civil Appeal No.363 of
+
+--- case0071_CH005 ---
+SECTION: decision
+ROLE: judge
+WORDS: 110
+2023. From the Judgment and Order dated 05.09.2017 of the High Court of Delhi at New Delhi in WP (C) No.6478 of 2017. Atul Kumar, Ms. Sweety Singh, Ms. Archana Kumari, Rahul Pandey, Avs Kadyan, Rajiv Ranjan, Mishra Saurabh, M s. Sujeeta Srivastava, Nishit Agrawal, Ms. Kanishka Mittal, Ms. Vanya Agrawal, Ashwani Kumar, Anshay Dhatwalia, Ms. Binu Tamta, Ms. Smita Ma an, Nitin Mishra, Ishaan Sharma, Mohit Kumar Gupta, Shekhar Yadav, Ms. Iti Sharma, Rahul Bhatia, Rachita Kadyan, N. S. Vashist, Gag an Gupta, Ms. Astha Tyagi, Dinesh Chander Trehan, Ms. Diksha Narula, Advs. for the appearing parties. The Judgment of the Court was delivered by M. R. SHAH, J.
+
+--- case0071_CH006 ---
+SECTION: decision
+ROLE: judge
+WORDS: 121
+1. Feeling aggrieved and dissatisfied with the impugne d judgment and order passed by the High Court of Delhi at New Delhi in Writ Petition(C) No. 6478 of 2017 by which the High Court has allowed t he said writ petition preferred by the respondent Nos. 1 and 2 herein and has declared that the acquisition proceedings initiated under the Land Acquisition Act, 1894 (hereinafter referred to as “ Act, 1894”) with regard to the land in question is deemed to have lapsed under Section 24(2) of the Right to Fair Compensation and Transparency in Land Acquisiti on, Rehabilitation and Resettlement Act, 2013 (hereinafter refer red to as “Act, 2013”), the Delhi Development Authority (DDA) has prefe rred the present appeal.
+
+--- case0071_CH007 ---
+SECTION: decision
+ROLE: judge
+WORDS: 23
+2. In the present case, the land in question was acquired in the year 1964 and the award was declared in the year
+
+--- case0071_CH008 ---
+SECTION: decision
+ROLE: judge
+WORDS: 287
+1967. According to the Land Acquisition Collector (LAC) and so stated in the counter affidavit filed before the High Court, the possession of the land in q uestion was taken over in the year 1967 by drawing the panchnam a. The compensation with respect to the land in question was duly dep osited with the Reference Court in the year 1967 itself. That the reafter the respondent Nos. 1 and 2 herein – original writ petitioners fil ed the writ petition before the High Court in the year 2017 and prayed to dec lare that the acquisition with respect to the land in question is deemed to have lapsed under Section 24(2) of the Act, 2013 as the compensat ion was not actually tendered/paid to the landowners. Re lying upon its earlier decision in the case of Smt. Harbans Kaur Vs. Govt. of NCT of Delhi and Ors. [W.P .(C) 5358 of 2014, decided on 02.02.2015], in which after relying upon the decision of this Court in th e case of Pune Municipal Corporation and Anr. Vs. Harakchand Misir imal Solanki and Ors., (2014) 3 SCC 183 , it was held that the depositing of the amount of compensation with the Reference Court cannot b e regarded as compensation having been paid to the landowners and the High Court by the impugned judgment and order has allowed the writ petition and has declared that the acquisition with respect to the land in question is deemed to have lapsed as actual physical possession of the subject land has not been taken over by the land acq uiring agency. Feeling aggrieved and dissatisfied with the impugned judgment and order, the Delhi Development Authority has preferred the present ap peal.
+
+--- case0071_CH009 ---
+SECTION: decision
+ROLE: judge
+WORDS: 95
+3. We have heard the learned counsel appearing on behalf of the respective parties at length. 4. At the outset, it is required to be noted that according t o the LAC, the amount of compensation was deposited with the Referen ce Court in the year 1967. Even the possession of the land in ques tion was taken over by drawing the panchnama, which is a permissible mode as observed and held by this Court in the Constitution Bench de cision in the case of Indore Development Authority Vs. Manoharlal and Ors., (2020) 8 SCC
+
+--- case0071_CH010 ---
+SECTION: decision
+ROLE: judge
+WORDS: 84
+129. 4.1 Even otherwise, it is required to be noted that w hile deciding the case of Smt.Harbans Kaur (supra) , the High Court has relied upon the earlier decision of this Court in the case of Pune Municipal Corporation and Anr (supra). However, the decision of this Court in the case of Pune Municipal Corporation and Anr. (supra) has been specifically overruled by the Constitution Bench of this C ourt in the case of Indore Development Authority Vs. Manoharlal and Ors., (202 0)
+
+--- case0071_CH011 ---
+SECTION: decision
+ROLE: judge
+WORDS: 160
+8 SCC 129 . In paragraphs 365 and 366, the Constitution Bench of this Court has observed and held as under:- “365. Resultantly, the decision rendered in Pune Municipal Corpn. [Pune Municipal Corpn. v. Harakchand Misirimal Solanki, (2014) 3 SCC 183] is hereby overruled andDELHI DEVELOPMENT AUTHORITY v. RAJESH DUA AND ORS. [M. R. SHAH, J.] all other decisions in which Pune Municipal Corpn. [Pune Municipal Corpn. v. Harakchand Misirimal Solanki, (2014) 3 SCC 183] has been followed, are also overruled. The decision in Sree Balaji Nagar Residential Assn. [Sree Balaji N agar Residential Assn. v. State of T.N., (2015) 3 SCC 353] cannot be said to be laying down good law, is overruled and other decisions following the same are also overruled. In Indore Development Authority v. Shailendra [(2018) 3 SCC 412], the aspect with respect to the proviso to Section 24(2) an d whether “or” has to be read as “nor” or as “and” was not placed for
+
+--- case0071_CH015 ---
+SECTION: decision
+ROLE: judge
+WORDS: 6
+is accordingly quashed and set aside.
+
+--- case0071_CH016 ---
+SECTION: decision
+ROLE: judge
+WORDS: 26
+Present appeal is accordingly allowed. No costs. Pending application, if any, also stands disposed of. Ankit Gyan Appeal allowed. (Assisted by : Abhishek Pratap Singh, LCRA)
+
+--- case0071_CH001 ---
+SECTION: title
+ROLE: judge
+WORDS: 7
+Indore Development Authority vs Manoharlal & Ors.

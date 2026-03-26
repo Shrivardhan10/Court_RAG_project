@@ -1,0 +1,60 @@
+
+--- case0054_CH002 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 14
+737 DELHI DEVELOPMENT AUTHORITY v. MANPREET SINGH & ORS. (Civil Appeal No. 277 of
+
+--- case0054_CH003 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 181
+737 DELHI DEVELOPMENT AUTHORITY v. MANPREET SINGH & ORS. (Civil Appeal No. 277 of 2023) JANUARY 16, 2023 [M. R. SHAH AND C.T. RAVIKUMAR, JJ.] Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2 013: s. 24(2) – Land acquisition, when deemed to have lapsed – Writ petition by the respondent-original writ petitioners, being subsequent purchasers seeking declaration that acquisition proceedings pe rtaining to subject land is deemed to have lapsed in view of s. 24(2) – High Court allowed the writ petition – Sustainability of – Held: Not sustainable – Subsequent purchaser has no locus to chall enge the acquisition and/or lapsing of the acquisition under the Act of 20 13 – Original writ petitioner was not the recorded owne r at the time when the award in the year 1987 – Original writ pet itioner is a subsequent purchaser who has acquired the right, tit le or interest in the land in the year 2018 – Thus, the order passed by the High Court is quashed and set aside – Land Acquisition Act, 18
+
+--- case0054_CH004 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 179
+2023) JANUARY 16, 2023 [M. R. SHAH AND C.T. RAVIKUMAR, JJ.] Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2 013: s. 24(2) – Land acquisition, when deemed to have lapsed – Writ petition by the respondent-original writ petitioners, being subsequent purchasers seeking declaration that acquisition proceedings pe rtaining to subject land is deemed to have lapsed in view of s. 24(2) – High Court allowed the writ petition – Sustainability of – Held: Not sustainable – Subsequent purchaser has no locus to chall enge the acquisition and/or lapsing of the acquisition under the Act of 20 13 – Original writ petitioner was not the recorded owne r at the time when the award in the year 1987 – Original writ pet itioner is a subsequent purchaser who has acquired the right, tit le or interest in the land in the year 2018 – Thus, the order passed by the High Court is quashed and set aside – Land Acquisition Act, 18 94. Shiv Kumar and Anr. Vs. Union of India and Ors., (2019)
+
+--- case0054_CH005 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 121
+10 SCC 229, Delhi Development Authority Vs. Godfrey Philips (I) Ltd. & Ors., - Civil Appeal No. 3073 of 2022, Delhi Administration Thr. Secretary, Land and Building Department & Ors. Vs. Pawan Kumar & Ors., - Civil Appeal No. 3646 of 2022 – relied on. Government (NCT of Delhi) vs. Manav Dharam Trust and Anr. (2017) 6 SCC 751 – referred to. Case Law Reference (2019) 10 SCC 229 relied on Para 6.1 (2017) 6 SCC 751 referred to Para 6.1 CIVIL APPELLATE JURISDICTION : Civil Appeal No.277 of 2023. [2023] 1 S.C.R. 737 From the Judgment and Order dated 30.01.2018 of the High Court of Delhi at New Delhi in WP (C) No.11230 of 2015. With Civil Appeal No.278 of
+
+--- case0054_CH006 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 142
+2015. With Civil Appeal No.278 of 2023. Gopal Sankaranarayanan, Sr. Adv., Ashwani Kumar, Nis hit Agrawal, Ms. Kanishka Mittal, Ms. Arti Singh, Aakash Deep S ingh Roda, Ms. Pooja Singh, Basant Pal Singh, Ms. Sujeeta Sriva stava, Ms. Monika, Sumeer Sodhi, Aman Nandrajog, Dhruv Wadhwa, Gopal Jha, Ms. Astha Tyagi, Dinesh Chander Trehan, Ms. Diksha Narula, D. P. Singh Yadav, Ms. Smita Maan, Sumit Bansal, Gagan Gupta, Udaibir Kochar, C. Solomon, Shaziya Ansari, S. Nagarajan, Aftab Rasheed, Aftab Ali Khan, Advs. for the appearing parties. The Judgment of the Court was delivered by M. R. SHAH, J. 1. As common question of law and facts arise in these appeals, as both these appeals arise out of the impugned judgment and order passed by the High Court, both these appeals are being decided and disposed of together by this common judgment and order.
+
+--- case0054_CH007 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 179
+1. As common question of law and facts arise in these appeals, as both these appeals arise out of the impugned judgment and order passed by the High Court, both these appeals are being decided and disposed of together by this common judgment and order. 2. Feeling aggrieved and dissatisfied with the impugne d judgment and order passed by the High Court of Delhi at New Del hi dated 30.01.2018 passed in Writ Petition (C) No. 11230 of 2015 by which on the writ petition filed by the respondent No. 1 herein – origina l writ petitioner, the High Court has allowed the said writ pet ition and has held that the acquisition with respect to the land in question is deemed to have lapsed by virtue of Section 24(2) of the Right to Fa ir Compensation and Transparency in Land Acquisition, Rehabilitation and Reset tlement Act, 2013 (hereinafter referred to as “Act, 2013”), the benefic iary - Delhi Development Authority (DDA) and the acquiring body – Government of NCT of Delhi have preferred the present appeal s. 3.
+
+--- case0054_CH009 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 65
+It is submitted that therefore, the High Court has materially erred in declaring that the acquisition with res pect to the land in question is deemed to have lapsed in a writ petition fil ed by the respondent No. 1 being a subsequent purchaser, who as such had no locus to challenge the acquisition as observed and held by this Court in the aforesaid decisions.
+
+--- case0054_CH010 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 147
+4. Shri Gopal Sankaranarayanan, learned senior counsel, however, has submitted that the decision of this Court in the case of Shiv Kumar & Anr. Vs. Union of India & Ors., (2019) 10 SCC 229 , which has been considered by this Court while allowing Civil Appeal No. 3073 of 2022 - Delhi Development Authority Vs. Godfrey Phillips (I) Ltd. & Ors. requires re-consideration as certain relevant aspects under the Act, 2013 has not been dealt with and/ or considered. However, he is not disputing that the original writ pe titioner is a subsequent purchaser, who acquired the right, title a nd interest in the property in the year 2018 and/or even subsequent to Act, 2013 coming into force. 5. We have heard the learned counsel for the respective par ties at length. 6. At the outset, it is required to be noted that it was the specific
+
+--- case0054_CH015 ---
+SECTION: decision
+ROLE: prosecution
+WORDS: 42
+Present appeals are accordingly allowed. However, in the fac ts and circumstances of the case, there shall be no order as t o costs. Pending application, if any, also stands disposed of. Nidhi Jain Appeals allowed. (Assisted by : Abhishek Agnihotri, LCRA)
+
+--- case0054_CH001 ---
+SECTION: title
+ROLE: prosecution
+WORDS: 4
+737 DELHI DEVELOPMENT AUTHORITY

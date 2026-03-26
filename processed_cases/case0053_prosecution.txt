@@ -1,0 +1,102 @@
+
+--- case0053_CH002 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 15
+731 SAURAV DAS v. UNION OF INDIA & ORS. (Writ Petition (Civil) No. 1126 of
+
+--- case0053_CH003 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 225
+731 SAURAV DAS v. UNION OF INDIA & ORS. (Writ Petition (Civil) No. 1126 of 2022) JANUARY 20, 2023 [M. R. SHAH AND C. T. RA VIKUMAR, JJ.] Code of Criminal Procedure, 1973:ss. 173, 207 – Report o f police officer on completion of investigation – Writ Petition u/Art. public domain/websites – Held: Relief sought is contrary to scheme of CrPC – It would violate the rights of the accuse d as well as victim and/or even the investigating agency – Puttin g the FIR on the website cannot be equated with putting the chargesheets along with the relevant documents on the public domain and on the websites of the State Governments – Chargesheet are not public documents u/s. 73 of the Evidence Act – Copies of chargesheet do not fall within s. 4(1)(b) of the RTI Act – Thus, the petitioner not entitled to the relief – Evidence Act, 1872 – s. 73, 74 – Right t o Information Act , 2005 – s.4(2). Dismissing the writ petition, the Court HELD : 1.1 The petitioner is not entitled to the rel ief as prayed in the present petition namely directing all the States to put on their websites the copies of all the chargesheets /challans filed under Section 173 of the Cr.P.C. [Para 7][736-E] 1.2 On conjoint reading of Section 173 Cr.P.C. and Section
+
+--- case0053_CH004 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 269
+207 Cr.P.C. the Investigating Agency is required to f urnish the copies of the report along with the relevant docume nts to be relied upon by the prosecution to the accused and to none o thers. Therefore, if the relief as prayed in the present petition is a llowed and all the chargesheets and relevant documents produced along with the chargesheets are put on the public domain o r on the websites of the State Governments it will be contra ry to the Scheme of the Criminal Procedure Code and it may as su ch violate the rights of the accused as well as the victim and/o r even the [2023] 1 S.C.R. 731 investigating agency. Putting the FIR on the website cannot be equated with putting the chargesheets along with the relevant documents on the public domain and on the websites of t he State Governments. [Para 4.5 ][735-E-G] 1.3. Documents mentioned in Section 74 of the Evidenc e Act only can be said to be public documents, the certified copies of which are to be given by the concerned police officer having the custody of such a public document. Copy of the ch argesheet along with the necessary documents cannot be said to be p ublic documents within the definition of Public Documents as per Section 74 of the Evidence Act.As per Section 75 of the Ev idence Act all other documents other than the documents me ntioned in Section 74 of the Evidence Act are all private d ocuments. Therefore, the chargesheet/documents along with the chargesheet cannot be said to be public documents unde r Section
+
+--- case0053_CH005 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 137
+74 of the Evidence Act, reliance placed upon Sections 74 & 76 of the Evidence Act is absolutely misplaced. [Para 5][73 5-H; 736- A-B] 1.4. Under Section 4(2) of the RTI Act a duty is cast upon the public authority to take steps in accordance wi th the requirements of clause (b) of sub-Section 1 of Section 4 of the RTI Act to provide as much information suo moto to the public at regular intervals through various means of communic ations. Copies of the chargesheet and the relevant document s along with the charge-sheet do not fall within Section 4(1) (b) of the RTI Act. Under the circumstances also the reliance placed upon Section 4(1)(2) of the RTI Act is also misconc eived and misplaced. [Para 6][736-C-D] Youth Bar Association of India v. Union of India (2016)
+
+--- case0053_CH006 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 139
+9 SCC 473 – referred to. Case Law Reference (2016) 9 SCC 473 referred to Para 4.1 CIVIL ORIGINAL JURISDICTION : Writ Petition (Civil) No.1126 of 2022 (Under Article 32 of The Constitution of India) Prashant Bhushan, Ms. Ria Yadav, Advs. for the Petitioner. The Judgment of the Court was delivered by M. R. SHAH, J. 1. By way of this petition under Article 32 of the Constitut ion of India the petitioner has prayed for appropriate dire ctions/orders directing the respondents - States to enable free public access to chargesheets and final reports filed as per Section 173 of the Code of Criminal Procedure, 1973 (hereinafter referred to as ‘Cr.P.C’) in furth erance of the rationale as established by this Court in Youth Bar Association of India v. Union of India, (2016) 9 SCC 473 on their websites.
+
+--- case0053_CH007 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 347
+1. By way of this petition under Article 32 of the Constitut ion of India the petitioner has prayed for appropriate dire ctions/orders directing the respondents - States to enable free public access to chargesheets and final reports filed as per Section 173 of the Code of Criminal Procedure, 1973 (hereinafter referred to as ‘Cr.P.C’) in furth erance of the rationale as established by this Court in Youth Bar Association of India v. Union of India, (2016) 9 SCC 473 on their websites. 2. Shri Prashant Bhushan, learned counsel appearing on behalf of the petitioner has heavily relied upon the decision of thi s Court in the case of Youth Bar Association of India (supra) by which this Court directed copies of FIRs to be published within 24 h ours of their registration on the police websites or on the websites of the State Gov ernments. 2.1 It is the case on behalf of the petitioner that w hile the direction of this Hon’ble Court directing the police to publish copies of FIR s on their websites has indeed induced transparency in the working of the criminal justice system, the logic of disclosure applies more strongly to chargesheets, for while FIRs are based on unsubstantiated alleg ations, chargesheets are filed after due investigation. 2.2 Shri Prashant Bhushan, learned counsel appearing on behalf of the petitioner has taken us to the Scheme of the Code of C riminal Procedure more particularly Sections 207, 173(4) an d 173(5) of the Cr.P.C and relying upon the said provisions it is vehemently submitted that as per the aforesaid provisions when a duty is cast upon the Inve stigating Agency to furnish the copy of the challans/charge-sheets al ong with all other documents to the accused, the same also should be in the public domain to have the transparency in the working of the Criminal Justice System. 2.3 Shri Prashant Bhushan, learned counsel appearing on behalf of the petitioner has also vehemently submitted that the cha rgesheet is a public document once filed in the Court. Reliance is placed on S ections
+
+--- case0053_CH008 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 9
+74 and 76 of the Indian Evidence Act, 1872.
+
+--- case0053_CH009 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 111
+It is submitted that even under Section 4(2) of the Right to Information Act, 2005 (herei nafter referred to as the ‘RTI Act’) a duty is cast upon the pub lic officer/public authority to provide as much information suo moto to the public at regular SAURA V DAS v. UNION OF INDIA & ORS. intervals through various means of communications and to provide as much information as mentioned in Section 4(1)(b) of the RTI Act. Making the above submissions, it is prayed to grant the rel ief as sought in the present petition. 3. We have heard Shri Prashant Bhushan, learned cou nsel appearing on behalf of the petitioner at length.
+
+--- case0053_CH010 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 411
+4. At the outset, it is required to be noted that by way of pre sent writ petition under Article 32 of the Constitution of India, the petitioner by way of Public Interest Litigation has prayed for an appropriate direction/order directing all the States in the country to enable free public access to chargesheets and final reports filed as per Section 1 73 of the Cr.P.C. on their websites. 4.1 For the aforesaid heavy reliance is placed on the decision of this Court in the case of Youth Bar Association of India (supra). On going through the decision of this Court in the case of Youth Bar Association of India (supra) , the reliance placed upon the same by the counsel appearing on behalf of the petitioner for the re lief sought in the present petition is thoroughly misconceived and misplaced. I n the aforesaid decision this Court directed that the copies of the FIRs should be published within 24 hours of their registrations on the pol ice websites or on the websites of the State Government. From the entire judgment it appears that this Court directed the copies of the FIRs to be p ublished within 24 hours on the police websites or on the websites of the State Government. Looking to the interest of the accused and so tha t the innocent accused are not harassed and they are able to get the relief from the competent court and they are not taken by surpris e. Therefore, the directions issued by this Court are in favour of the accus ed, which cannot be stretch to the public at large so far as the cha rgesheets are concerned. 4.2 Even the relief which is sought in the present writ peti tion directing that all the challans/chargesheets filed under Section 173 Cr.P.C. shall be put on public domain/websites of the State Gover nments shall be contrary to the Scheme of the Criminal Procedure Code. As per Section 207 Cr.P.C. a duty is cast upon the Investigati ng Officer to supply to the accused the copy of the police report and ot her documents including the First Information Report recorded under Section 154 Cr.P.C. and the statements recorded under sub-Section (3) of Section 161 Cr.P. C. 4.3 As per sub-Section 173(4) Cr.P.C. a duty is cast upon the Investigating Agency to furnish or cause to be furnished to the accused, free of cost, a copy of the report forwarded under sub-section (
+
+--- case0053_CH011 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 3
+1) under Section
+
+--- case0053_CH012 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 326
+173. Section 173(4) reads as under: “173(4). After forwarding a report under this section, the officer in charge of the police station shall, before the commencement of the inquiry or trial, furnish o r cause to be furnished to the accused, free of cost, a copy of the report forwarded under sub-section (1) and of the first information report recorded under section 154 and of all 41 other documents or relevant extracts thereof, on which the prosecution proposes to rely, including the statements and confessions, if any, recorded under section 164 and the statements recorded under sub- section (3) of section 161 of all the persons whom the prosecution proposes to examine as its witnesses.” 4.4 As per Section 173(5) Cr.P.C. when any report is filed in respect of the case to which Section 170 Cr.P.C. applies, t he police officer shall forward to the Magistrate along with the report all documents or relevant extracts thereof on which the prosecution proposes to rely other than those already sent to the Magistrate during investigat ion. 4.5 Therefore on conjoint reading of Section 173 Cr.P.C. and Section 207 Cr.P.C. the Investigating Agency is required to fur nish the copies of the report along with the relevant documents to be relied upon by the prosecution to the accused and to none others. Therefore, if the relief as prayed in the present petition is allowed and all the chargesheets and relevant documents produced along with the chargesheets a re put on the public domain or on the websites of the State Governm ents it will be contrary to the Scheme of the Criminal Procedure Code and it m ay as such violate the rights of the accused as well as the victim and/or even the investigating agency. Putting the FIR on the website c annot be equated with putting the chargesheets along with the relev ant documents on the public domain and on the websites of the State Gov ernments.
+
+--- case0053_CH013 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 114
+5. Now so far as the reliance placed upon on Sections 74 & 76 of the Evidence Act is concerned, the reliance placed upon the said provisions are also absolutely misconceived and misplaced. Documents menti oned in Section 74 of the Evidence Act only can be said to be public documents, SAURA V DAS v. UNION OF INDIA & ORS. [M. R. SHAH, J.] the certified copies of which are to be given by the conc erned police officer having the custody of such a public document. Copy of the chargesheet along with the necessary documents cannot be sai d to be public documents within the definition of Public Do cuments as per Section
+
+--- case0053_CH014 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 71
+74 of the Evidence Act. As per Section 75 of the Evidence Ac t all other documents other than the documents mentioned in Section 74 of the Evidence Act are all private documents. Therefore, the char gesheet/ documents along with the chargesheet cannot be said to be public documents under Section 74 of the Evidence Act, reliance pl aced upon Sections 74 & 76 of the Evidence Act is absolutely misplaced.
+
+--- case0053_CH015 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 119
+6. Now so far as the reliance placed upon Section 4 of the RTI Act is concerned, under Section 4(2) of the RTI Act a duty is ca st upon the public authority to take steps in accordance with the re quirements of clause (b) of sub- Section 1 of Section 4 of the RTI Act to provide as much information suo moto to the public at regular intervals through various means of communications. Copies of the chargesheet and t he relevant documents along with the charge-sheet do n ot fall within Section 4(1)(b) of the RTI Act. Under the circumstances also the rel iance placed upon Section 4(1)(2) of the RTI Act is also misconceived and mi splaced.
+
+--- case0053_CH016 ---
+SECTION: prosecution_arguments
+ROLE: prosecution
+WORDS: 62
+7. In view of the above and for the reason stated above, t he petitioner is not entitled to the relief as prayed in the present petition namely directing all the States to put on their websites the copies of all the chargesheets/challans filed under Section 173 of the Cr.P.C. Present writ petition lacks merits and the same deser ves to be
+
+--- case0053_CH017 ---
+SECTION: decision
+ROLE: prosecution
+WORDS: 16
+dismissed and is accordingly dismissed. Nidhi Jain Writ Petition dismissed. (Assisted by : Abhishek Agnihotri, LCRA)
+
+--- case0053_CH001 ---
+SECTION: title
+ROLE: prosecution
+WORDS: 5
+UNION OF INDIA & ORS.

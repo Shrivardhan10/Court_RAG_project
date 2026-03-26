@@ -6,6 +6,7 @@ Dependency install command:
 
 from __future__ import annotations
 
+import json
 import pickle
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence
@@ -23,6 +24,7 @@ EMBEDDING_BATCH_SIZE = 128
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CASES_DIR = PROJECT_ROOT / "data" / "cases"
+PROCESSED_CASES_DIR = PROJECT_ROOT / "processed_cases"
 VECTOR_DB_DIR = PROJECT_ROOT / "vector_db"
 INDEX_PATH = VECTOR_DB_DIR / INDEX_FILENAME
 METADATA_PATH = VECTOR_DB_DIR / METADATA_FILENAME
@@ -43,6 +45,49 @@ def _get_model() -> SentenceTransformer:
 
 
 def _load_case_documents(cases_dir: Path = CASES_DIR) -> List[Dict[str, str]]:
+	jsonl_files = sorted(PROCESSED_CASES_DIR.glob("case[0-9][0-9][0-9][0-9].jsonl"))
+	if jsonl_files:
+		print(
+			f"[precedent_retriever] Found {len(jsonl_files)} processed JSONL files. "
+			"Loading chunk-level precedents..."
+		)
+		records: List[Dict[str, str]] = []
+		for idx, file_path in enumerate(jsonl_files, start=1):
+			with file_path.open("r", encoding="utf-8", errors="ignore") as fp:
+				for line in fp:
+					line = line.strip()
+					if not line:
+						continue
+					try:
+						payload = json.loads(line)
+					except json.JSONDecodeError:
+						continue
+
+					text = (payload.get("text", "") or "").strip()
+					if not text:
+						continue
+
+					records.append(
+						{
+							"case_id": str(payload.get("case_id", file_path.stem)),
+							"chunk_id": str(payload.get("chunk_id", "")),
+							"section": str(payload.get("section", "other")),
+							"side_hint": str(payload.get("side_hint", "neutral")),
+							"text": text,
+						}
+					)
+
+			if idx % 200 == 0 or idx == len(jsonl_files):
+				print(
+					f"[precedent_retriever] Processed {idx}/{len(jsonl_files)} JSONL files..."
+				)
+
+		if records:
+			print(
+				f"[precedent_retriever] Completed loading {len(records)} chunk-level records."
+			)
+			return records
+
 	if not cases_dir.exists():
 		raise FileNotFoundError(f"Cases directory not found: {cases_dir}")
 
@@ -57,6 +102,9 @@ def _load_case_documents(cases_dir: Path = CASES_DIR) -> List[Dict[str, str]]:
 		records.append(
 			{
 				"case_id": file_path.name,
+				"chunk_id": "",
+				"section": "other",
+				"side_hint": "neutral",
 				"text": case_text,
 			}
 		)
@@ -173,7 +221,33 @@ def _ensure_loaded() -> tuple[faiss.Index, List[Dict[str, str]]]:
 	return _index, _cases
 
 
-def retrieve_precedents(query: str, top_k: int = 3) -> List[Dict[str, object]]:
+def _record_matches_filters(
+	record: Dict[str, str],
+	side_hint: Optional[str],
+	allowed_sections: Optional[Sequence[str]],
+) -> bool:
+	if allowed_sections is not None:
+		section = record.get("section", "other")
+		if section not in set(allowed_sections):
+			return False
+
+	if side_hint is None or side_hint == "judge":
+		return True
+
+	record_side = record.get("side_hint", "neutral")
+	if side_hint == "prosecution":
+		return record_side in {"neutral", "court", "prosecution"}
+	if side_hint == "defense":
+		return record_side in {"neutral", "court", "defense"}
+	return True
+
+
+def retrieve_precedents(
+	query: str,
+	top_k: int = 3,
+	side_hint: Optional[str] = None,
+	allowed_sections: Optional[Sequence[str]] = None,
+) -> List[Dict[str, object]]:
 	if not query or not query.strip():
 		raise ValueError("Query must be a non-empty string.")
 	if top_k <= 0:
@@ -190,19 +264,31 @@ def retrieve_precedents(query: str, top_k: int = 3) -> List[Dict[str, object]]:
 	)
 	query_embedding = np.asarray(query_embedding, dtype=np.float32)
 
-	search_k = min(top_k, index.ntotal)
+	search_k = min(max(top_k * 8, top_k), index.ntotal)
 	scores, indices = index.search(query_embedding, search_k)
 
 	results: List[Dict[str, object]] = []
 	for score, idx in zip(scores[0], indices[0]):
+		if len(results) >= top_k:
+			break
 		if idx < 0:
 			continue
 
 		record = records[idx]
+		if not _record_matches_filters(
+			record,
+			side_hint=side_hint,
+			allowed_sections=allowed_sections,
+		):
+			continue
+
 		full_text = (record.get("text", "") or "").strip()
 		results.append(
 			{
 				"case_id": record.get("case_id", ""),
+				"chunk_id": record.get("chunk_id", ""),
+				"section": record.get("section", "other"),
+				"side_hint": record.get("side_hint", "neutral"),
 				"score": float(score),
 				"text_preview": full_text[:300],
 				"text": full_text,

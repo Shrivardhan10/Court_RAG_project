@@ -1,0 +1,42 @@
+
+--- case0027_CH002 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 14
+389 DELHI DEVELOPMENT AUTHORITY V. NARVADA DEVI & ORS. (Civil Appeal No. 735 of
+
+--- case0027_CH003 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 298
+389 DELHI DEVELOPMENT AUTHORITY V. NARVADA DEVI & ORS. (Civil Appeal No. 735 of 2023) FEBRUARY 09, 2023 [M. R. SHAH AND C. T. RAVIKUMAR, JJ.] Land Acquisition – Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 – s.24(2) – Respondent no.1 filed writ petition , claiming relief for declaration that acquisition proceedings pertaining to subject lands were deemed to have lapsed in view of s.24(2) of the Act, 2013 as neither physical possession of the subj ect lands had been taken nor compensation had been tendered to respondent no.1 – High Court allowed the writ petition and declared that acqui sition with respect to the land in question was deemed to ha ve lapsed – Held: The view taken by the High Court is contrary to the Constitution Bench decision of Supreme Court in the Indore Development Authority case – High Court was conscio us of the fact that the actual physical possession was not ca pable of being taken due to illegal occupation by the encroachers – Though, Hig h Court granted declaration that acquisition proceedings with respect to the subject lands were deemed to have lapsed, the High Court observed that respondent no.1 would only be entitle d to compensation as per Act, 2013 – Once it is held that respondent no.1 is not entitled to the relief of declaration o f lapsing of the acquisition proceedings, there is no question of pa yment of any compensation to him as per the Act, 2013 – Under the circum stances also, the impugned judgment of the High Court is uns ustainable. Indore Development Authority v. Manoharlal and Ors. (2020) 8 SCC 129 : [2020] 3 SCR 1 – followed. Case Law Reference CIVIL APPELLATE JURISDICTION : Civil Appeal No.735 Of
+
+--- case0027_CH004 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 306
+2023) FEBRUARY 09, 2023 [M. R. SHAH AND C. T. RAVIKUMAR, JJ.] Land Acquisition – Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 – s.24(2) – Respondent no.1 filed writ petition , claiming relief for declaration that acquisition proceedings pertaining to subject lands were deemed to have lapsed in view of s.24(2) of the Act, 2013 as neither physical possession of the subj ect lands had been taken nor compensation had been tendered to respondent no.1 – High Court allowed the writ petition and declared that acqui sition with respect to the land in question was deemed to ha ve lapsed – Held: The view taken by the High Court is contrary to the Constitution Bench decision of Supreme Court in the Indore Development Authority case – High Court was conscio us of the fact that the actual physical possession was not ca pable of being taken due to illegal occupation by the encroachers – Though, Hig h Court granted declaration that acquisition proceedings with respect to the subject lands were deemed to have lapsed, the High Court observed that respondent no.1 would only be entitle d to compensation as per Act, 2013 – Once it is held that respondent no.1 is not entitled to the relief of declaration o f lapsing of the acquisition proceedings, there is no question of pa yment of any compensation to him as per the Act, 2013 – Under the circum stances also, the impugned judgment of the High Court is uns ustainable. Indore Development Authority v. Manoharlal and Ors. (2020) 8 SCC 129 : [2020] 3 SCR 1 – followed. Case Law Reference CIVIL APPELLATE JURISDICTION : Civil Appeal No.735 Of 2023. From the Judgment and Order dated 10.07.2018 of the High Court of Delhi at New Delhi in WP (C) No.3383 of
+
+--- case0027_CH005 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 155
+2023. From the Judgment and Order dated 10.07.2018 of the High Court of Delhi at New Delhi in WP (C) No.3383 of 2016. Ms. Manika Tripathy, Ashutosh Kaushik, Roshan Kumar, Manish Vashist, Advs. for the Appellant. The Judgment of the Court was delivered by M. R. SHAH, J. 1. Feeling aggrieved and dissatisfied with the impugne d judgment and order passed by the High Court of Delhi at New Delhi in Writ Petition (C) No. 3383 of 2016 by which the High Court has allowed the said writ petition preferred by the respondent No. 1 herein and has declared that the acquisition with respect to the l and in question is deemed to have lapsed by virtue of Section 24(2) of the Ri ght to Fair Compensation and Transparency in Land Acquisition, R ehabilitation and Resettlement Act, 2013 (hereinafter referred to as “Act, 2013”), the Delhi Development Authority (DDA) has preferred the pres ent appeal.
+
+--- case0027_CH006 ---
+SECTION: facts
+ROLE: prosecution
+WORDS: 205
+1. Feeling aggrieved and dissatisfied with the impugne d judgment and order passed by the High Court of Delhi at New Delhi in Writ Petition (C) No. 3383 of 2016 by which the High Court has allowed the said writ petition preferred by the respondent No. 1 herein and has declared that the acquisition with respect to the l and in question is deemed to have lapsed by virtue of Section 24(2) of the Ri ght to Fair Compensation and Transparency in Land Acquisition, R ehabilitation and Resettlement Act, 2013 (hereinafter referred to as “Act, 2013”), the Delhi Development Authority (DDA) has preferred the pres ent appeal. 2. Before the High Court, the respondent No. 1 – original writ petitioner claimed the relief for a declaration that the acquisition proceedings pertaining to land measuring 504 sq. yards out of Khasr a No.49/14 situated in the area of Village Pehladpur Bangar, Na tional Capital Territory of Delhi are deemed to have lapsed in vie w of Section 24(2) of the Act, 2013 as neither physical possession of the subject land has been taken nor the compensation has been tendered to t he petitioner. 2.1 Before the High Court and so stated in the counter affidavi t,
+
+--- case0027_CH014 ---
+SECTION: decision
+ROLE: prosecution
+WORDS: 44
+Present appeal is accordingly allowed. However, in the fac ts and circumstances of the case, there shall be no order as to cos ts. Pending applications, if any, also stand disposed of. Bibhuti Bhushan Bose Appeals allowed. (Assisted by : Abhishek Pratap Singh, LCRA)
+
+--- case0027_CH001 ---
+SECTION: title
+ROLE: prosecution
+WORDS: 4
+389 DELHI DEVELOPMENT AUTHORITY

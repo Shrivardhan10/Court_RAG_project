@@ -1,0 +1,108 @@
+
+--- case0010_CH002 ---
+SECTION: facts
+ROLE: judge
+WORDS: 19
+1099 [2023] 1 S.C.R. 1099 E. JEEVANANDAM v. N. KOTESWARA RAO & ORS. (Special Leave Petition (C) No.27337 of
+
+--- case0010_CH003 ---
+SECTION: facts
+ROLE: judge
+WORDS: 404
+1099 [2023] 1 S.C.R. 1099 E. JEEVANANDAM v. N. KOTESWARA RAO & ORS. (Special Leave Petition (C) No.27337 of 2017) JANUARY 23, 2023 [DR. DHANANJAYA Y. CHANDRACHUD, CJI, V. RAMASUBRAMANIAN AND J. B. PARDIWALA, JJ.] Public Amenity – Sewerage facilities to the area – C laim of petitioner over the land on which the proposed sewera ge line was sought to be laid – A resolution was passed by the local body to provide sewerage facilities to the area enclosing a list of streets – The petitioner purchased the property in 2011, inclusive o f the road over which the proposed sewerage line was sought to be laid – The sewerage main was laid down both upstream and downstream except to the extent of the 110 meters (land of petitioner) – After various rounds of the litigation, the Division Bench of the High Court directed the State Government to choose a better op tion so as to minimize the damage that could be caused to the petitioner by laying the sewer main and sewer pumping station in the lan d of the petitioner – PIL filed on behalf of the residents w ho sought a direction for the completion of the underground dra inage work so as to enable them to have the benefit of a sewerage facility – Division Bench of the High Court disposed of the pe tition by directing the Board to lay the pipelines and comple te the underground drainage – On appeal, held: In the abse nce of an order of stay, the work of laying the sewerage line wa s completed – The developmental work which was carried out by the Boar d is in the form of a public amenity to the residents of the area – The title of the petitioner is not free from doubt since it is the subje ct matter of a civil dispute – Setting aside the impugned order of t he Division Bench would give rise to further complications – Ul timately, the claim of the petitioner at the highest would be for the payment of damages – Therefore, petitioner granted liberty to pursue his rights and remedies for establishing a case of compensatio n and for the award of damages subject to his rights to the land being establ ished in a competent court – Special Leave Petitions disposed of. EXTRAORDINARY CIVIL JURISDICTION : Special Leave Petition (C) No.27337 of
+
+--- case0010_CH004 ---
+SECTION: facts
+ROLE: judge
+WORDS: 406
+2017) JANUARY 23, 2023 [DR. DHANANJAYA Y. CHANDRACHUD, CJI, V. RAMASUBRAMANIAN AND J. B. PARDIWALA, JJ.] Public Amenity – Sewerage facilities to the area – C laim of petitioner over the land on which the proposed sewera ge line was sought to be laid – A resolution was passed by the local body to provide sewerage facilities to the area enclosing a list of streets – The petitioner purchased the property in 2011, inclusive o f the road over which the proposed sewerage line was sought to be laid – The sewerage main was laid down both upstream and downstream except to the extent of the 110 meters (land of petitioner) – After various rounds of the litigation, the Division Bench of the High Court directed the State Government to choose a better op tion so as to minimize the damage that could be caused to the petitioner by laying the sewer main and sewer pumping station in the lan d of the petitioner – PIL filed on behalf of the residents w ho sought a direction for the completion of the underground dra inage work so as to enable them to have the benefit of a sewerage facility – Division Bench of the High Court disposed of the pe tition by directing the Board to lay the pipelines and comple te the underground drainage – On appeal, held: In the abse nce of an order of stay, the work of laying the sewerage line wa s completed – The developmental work which was carried out by the Boar d is in the form of a public amenity to the residents of the area – The title of the petitioner is not free from doubt since it is the subje ct matter of a civil dispute – Setting aside the impugned order of t he Division Bench would give rise to further complications – Ul timately, the claim of the petitioner at the highest would be for the payment of damages – Therefore, petitioner granted liberty to pursue his rights and remedies for establishing a case of compensatio n and for the award of damages subject to his rights to the land being establ ished in a competent court – Special Leave Petitions disposed of. EXTRAORDINARY CIVIL JURISDICTION : Special Leave Petition (C) No.27337 of 2017. From the Judgment and Order dated 03.10.2017 of the High Court of Judicature at Madras in Writ Petition No.25595 of
+
+--- case0010_CH005 ---
+SECTION: facts
+ROLE: judge
+WORDS: 164
+2017. From the Judgment and Order dated 03.10.2017 of the High Court of Judicature at Madras in Writ Petition No.25595 of 2017. With Special Leave Petition (C) No.35197 of 2017 Ms. Kiran Suri, Sr. Adv., Vivek Singh, C. P. Rajwar, Rohan Chandra, Ms. Somi Sharma, Chandra Prakash, Ms. Rakhi Ray, D. Kumanan, Ms. Sujeeta Srivastava, Vinodh Kanna B., Advs. f or the appearing parties. DR. DHANANJAYA Y CHANDRACHUD, CJI 1. The petitioner was the Chairperson of the erstwh ile Maduravoyal Town Panchayat. On 28 November 2001, during his t enure as Chairperson, a resolution was passed by the local body to pr ovide sewerage facilities to the area enclosing a list of streets in which ward No 147 of Rukmani Nagar Road, Chennai was included. A scheme was prepared in terms of the request made by the local body. 2. On 3 June 2009, the Government accorded administrat ive sanction for spending an amount of Rs 57.45 crores. The scheme commenced on 18 August
+
+--- case0010_CH006 ---
+SECTION: facts
+ROLE: judge
+WORDS: 134
+2. On 3 June 2009, the Government accorded administrat ive sanction for spending an amount of Rs 57.45 crores. The scheme commenced on 18 August 2009. Sewerage facilities were laid sin ce there was no objection except for an area covering 11 0 meters at Rukmani Nagar Road. The sewerage main was laid down both upstream and downstream of Rukmani Nagar except to the extent of the 110 meters. The petitioner purchased the property in 2011, inclusive of the road over which the proposed sewerage line was sought to be laid. 3. Certain civil disputes are pending before the civil court as regards the claim of the petitioner in regard to the ownership of the land. Notice was issued to the petitioner under Section 67(3) of the Chennai Metropolitan Water Supply & Sewerage Act,
+
+--- case0010_CH007 ---
+SECTION: facts
+ROLE: judge
+WORDS: 92
+3. Certain civil disputes are pending before the civil court as regards the claim of the petitioner in regard to the ownership of the land. Notice was issued to the petitioner under Section 67(3) of the Chennai Metropolitan Water Supply & Sewerage Act, 19781. The petitioner suggested that an alternative route should be taken f or laying the sewerage line. On 19 June 2015, an order was passed invoking the provisions of Section 67(3) of the 1978 Act. This gave rise to a w rit petition at the behest of the petitioner.
+
+--- case0010_CH008 ---
+SECTION: facts
+ROLE: judge
+WORDS: 221
+19781. The petitioner suggested that an alternative route should be taken f or laying the sewerage line. On 19 June 2015, an order was passed invoking the provisions of Section 67(3) of the 1978 Act. This gave rise to a w rit petition at the behest of the petitioner. 4. During the course of the hearing of the writ petition, the Sin gle Judge was informed that almost the entire work was completed save and except to the extent of 110 meters along the Rukmani Nag ar Road. The Single Judge held that the residents of three stre ets would be deprived of sewerage facilities if a realignment as sought by the petitioner were to be granted. The Single Judge observed as follows: “Residents of the three streets would be deprived of the fa cility if the realignment as sought for by the petitioner is undertaken. The road has been shown as a public road as stated in the counte r affidavit filed, through various documents. In fact i t has been shown as such. Even during the tenure of the chairmanship of the petitioner, the scheme was contemplated and proposed by the local body. The road has also been relaid by the local body on two occasions . It is only a link road between Ganga Nagar and Rukmani Nagar.”
+
+--- case0010_CH009 ---
+SECTION: facts
+ROLE: judge
+WORDS: 268
+4. During the course of the hearing of the writ petition, the Sin gle Judge was informed that almost the entire work was completed save and except to the extent of 110 meters along the Rukmani Nag ar Road. The Single Judge held that the residents of three stre ets would be deprived of sewerage facilities if a realignment as sought by the petitioner were to be granted. The Single Judge observed as follows: “Residents of the three streets would be deprived of the fa cility if the realignment as sought for by the petitioner is undertaken. The road has been shown as a public road as stated in the counte r affidavit filed, through various documents. In fact i t has been shown as such. Even during the tenure of the chairmanship of the petitioner, the scheme was contemplated and proposed by the local body. The road has also been relaid by the local body on two occasions . It is only a link road between Ganga Nagar and Rukmani Nagar.” 5. After noting that the petitioner was himself a part y to the resolution in 2001 in- spite of which he had purchased the propert y in 2011, the Single Judge dismissed the petition. The Singl e Judge observed that prima facie it appeared that there was a public road which was being used for the last few decades and the petitioner who had dealt with the issue in a different capacity in 2001 could not be stat ed to be unaware of the laying of the sewer line, having purchase d the property subsequently in
+
+--- case0010_CH010 ---
+SECTION: facts
+ROLE: judge
+WORDS: 151
+5. After noting that the petitioner was himself a part y to the resolution in 2001 in- spite of which he had purchased the propert y in 2011, the Single Judge dismissed the petition. The Singl e Judge observed that prima facie it appeared that there was a public road which was being used for the last few decades and the petitioner who had dealt with the issue in a different capacity in 2001 could not be stat ed to be unaware of the laying of the sewer line, having purchase d the property subsequently in 2011. 6. The petitioner instituted an appeal against the ord er of the Single Judge. On 27 April 2017, a Division Bench of the High Court disposed of the appeal by directing the State government to choose a better option so as to minimize the damage that could be caused to the petitione r by
+
+--- case0010_CH011 ---
+SECTION: facts
+ROLE: judge
+WORDS: 177
+1 “1978 Act”E. JEEVANANDAM v. N. KOTESWARA RAO & ORS. [DR. DHANANJAYA Y CHANDRACHUD, CJI] laying the sewer main and sewer pumping station in the land of the petitioner. 7. In the meantime, a Pubic Interest Litigation2 was instituted before the High Court of Judicature at Madras. The petit ioner was impleaded as sixth respondent to the writ petition. The PIL was instituted on behalf of the residents of Ward No. 147 who sought a direction for the completion of the underground drainage work so as to enable the m to have the benefit of a sewerage facility. The residents submitted t hat 15,000 families were affected because of the failure to lay pip elines along the stretch of the 110 meters connecting the underground draina ge to the pumping station. 8. The Division Bench in its judgment dated 3 October 2017, adverted to the writ petition instituted by the pet itioner which was dismissed by the Single Judge of 4 April 2017. The Division Bench also noted that there was an appellate order of 27 April
+
+--- case0010_CH012 ---
+SECTION: facts
+ROLE: judge
+WORDS: 146
+2017. The Division Bench also noted that there was an appellate order of 27 April 2017. After having noti ced the provisions of the statute, the Division Bench disposed of the writ petition by directing the Board to lay the pipelines and complete t he underground drainage within three months. The last paragraph of the order indicates that the petitioner was directed to be impleaded as the s ixth respondent, together with the final order disposing of the petition. 9. The challenge in the first Special Leave Petition is to the order of the Division Bench dated 3 October 2017 by which the authoriti es have been directed to complete the laying of the drainage l ine. The companion Special Leave Petition has been instituted by the Chennai Metropolitan Water Supply & Sewerage Board for challenging the order dated 27 April 2017 of the Division Bench.
+
+--- case0010_CH013 ---
+SECTION: facts
+ROLE: judge
+WORDS: 141
+9. The challenge in the first Special Leave Petition is to the order of the Division Bench dated 3 October 2017 by which the authoriti es have been directed to complete the laying of the drainage l ine. The companion Special Leave Petition has been instituted by the Chennai Metropolitan Water Supply & Sewerage Board for challenging the order dated 27 April 2017 of the Division Bench. 10. As regards the first of the two Special Leave Petitions under Article 136 of the Constitution, the petitioner does have a l egitimate grievance that an order was passed in the PIL directly affe cting the rights of the petitioner without furnishing an adequate opportuni ty of being heard. As noted earlier, the order for the impleadment of the petitioner was passed when the PIL was disposed of finally on 3 October 2017.
+
+--- case0010_CH014 ---
+SECTION: facts
+ROLE: judge
+WORDS: 153
+2 “PIL” 11. Ordinarily, we would have been inclined to set aside the impugned order of the High Court and to remit the proceedings back for fresh consideration. That however would not resolve the substance of the controversy. When the Special Leave Petition arising from t he order of the Division Bench dated 3 October 2017 was entertained by thi s Court on 27 October 2017, while issuing notice, the Court observed that if the petitioner succeeds, he shall be entitled to compensation in accordance with law. In the absence of an order of stay, the work of laying the sewerage line has been completed. The developme ntal work which has been carried out by the Board is in the form of a public amenity to the residents of the area. The title of the petitioner is by no means free from doubt since it is the subject matter of a civil dispute.
+
+--- case0010_CH015 ---
+SECTION: facts
+ROLE: judge
+WORDS: 236
+11. Ordinarily, we would have been inclined to set aside the impugned order of the High Court and to remit the proceedings back for fresh consideration. That however would not resolve the substance of the controversy. When the Special Leave Petition arising from t he order of the Division Bench dated 3 October 2017 was entertained by thi s Court on 27 October 2017, while issuing notice, the Court observed that if the petitioner succeeds, he shall be entitled to compensation in accordance with law. In the absence of an order of stay, the work of laying the sewerage line has been completed. The developme ntal work which has been carried out by the Board is in the form of a public amenity to the residents of the area. The title of the petitioner is by no means free from doubt since it is the subject matter of a civil dispute. 12. In this backdrop, setting aside the impugned order of the Division Bench would give rise to further complications since at this stage it would be difficult to restore the status quo ante by directing the removal of the sewerage line. Ultimately, the claim of the p etitioner at the highest would be for the payment of damages and for comp ensation for the laying of the sewerage line subject to the rights of the petitioner to the property being established in accordance with law.
+
+--- case0010_CH016 ---
+SECTION: facts
+ROLE: judge
+WORDS: 175
+12. In this backdrop, setting aside the impugned order of the Division Bench would give rise to further complications since at this stage it would be difficult to restore the status quo ante by directing the removal of the sewerage line. Ultimately, the claim of the p etitioner at the highest would be for the payment of damages and for comp ensation for the laying of the sewerage line subject to the rights of the petitioner to the property being established in accordance with law. 13. For the above reasons, having heard Ms Kiran Suri, senior counsel appearing on behalf of the petitioner and Mr Jaideep G upta, senior counsel appearing on behalf of the Board, we are of the considered view that the relief which should be granted to the petitioner would be to allow him the liberty to pursue his rights and remedies in accordance with law for establishing a case of compensation and for the award of damages subject to his rights to the land being establish ed in a competent court.
+
+--- case0010_CH017 ---
+SECTION: facts
+ROLE: judge
+WORDS: 136
+13. For the above reasons, having heard Ms Kiran Suri, senior counsel appearing on behalf of the petitioner and Mr Jaideep G upta, senior counsel appearing on behalf of the Board, we are of the considered view that the relief which should be granted to the petitioner would be to allow him the liberty to pursue his rights and remedies in accordance with law for establishing a case of compensation and for the award of damages subject to his rights to the land being establish ed in a competent court. 14. The challenge by the Board to the order of the Division Bench dated 27 April 2017 does not require to be enquired into at this stag e in view of the subsequent developments; the work of laying the sewer line having been duly completed. 15.
+
+--- case0010_CH018 ---
+SECTION: decision
+ROLE: judge
+WORDS: 84
+Both the Special Leave Petitions shall accordingly stand disposed of subject to the above observations by which the C ourt hasE. JEEVANANDAM v. N. KOTESWARA RAO & ORS. [DR. DHANANJAYA Y CHANDRACHUD, CJI] granted liberty to the petitioner in the first Special Le ave Petition to pursue his claim for compensation in accordance with law and for establishing his title to the land on which the sewerage line has been laid. 16. Pending applications, if any, stand disposed of. Ankit Gyan SLPs disposed of.
+
+--- case0010_CH001 ---
+SECTION: title
+ROLE: judge
+WORDS: 5
+1099 [2023] 1 S.C.R. 1099

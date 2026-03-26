@@ -1,0 +1,360 @@
+
+--- case0055_CH002 ---
+SECTION: facts
+ROLE: judge
+WORDS: 14
+INVESTIGATION v. T. GANGI REDDY @ YERRA GANGI REDDY (Criminal Appeal No. 37 of
+
+--- case0055_CH003 ---
+SECTION: facts
+ROLE: judge
+WORDS: 330
+INVESTIGATION v. T. GANGI REDDY @ YERRA GANGI REDDY (Criminal Appeal No. 37 of 2023) JANUARY 16, 2023 [M. R. SHAH AND C.T. RA VIKUMAR, JJ.] Code of Criminal Procedure, 1973 : s. 167(2) – Default bail – Cancellation of, on merits – On facts, accused-respondent arrested in connection with the murder of a former MLA, released on defa ult bail u/s 167(2) – CBI concluded the investigation, filed charg esheet and then filed for cancellation of bail of the respondent – H owever, the High Court rejected the said petition on the ground that d efault bail granted u/s. 167(2) cannot be cancelled on merits – On appeal , held: Order of release on bail under proviso to s. 167(2) cannot be called as an order on merits – Purpose of proviso to s.167(2) i s to press expeditious investigation within the prescribe d time limit – Accused is released on bail under proviso to s.167(2) on the failu re of the prosecuting agency –Mere filing of the charg esheet subsequent to a person is released on default bail u/s. 167(2) c annot be a ground to cancel the bail of a person, who is released on default bail – No absolute bar that once a person is released on default bail u/s.167(2), his bail cannot be cancelled on merits – O n filing of the chargesheet on conclusion of the inve stigation, if a strong case is made out and on merits, it is found that he has committed a non-bailable offence/crime, on the spec ial reasons/ grounds and considering ss. 437(5) and 439(2), over and above other grounds on which the bail to a person, who is released on bail can be cancelled on merits – Therefore, the co urts are not precluded from considering the application for cancella tion of the bail on merits –Order of the High Court set aside – s s. 174, 437(5), 439(2) – Penal Code, 1860 – ss. 120-B, 201, 302,
+
+--- case0055_CH004 ---
+SECTION: facts
+ROLE: judge
+WORDS: 1062
+2023) JANUARY 16, 2023 [M. R. SHAH AND C.T. RA VIKUMAR, JJ.] Code of Criminal Procedure, 1973 : s. 167(2) – Default bail – Cancellation of, on merits – On facts, accused-respondent arrested in connection with the murder of a former MLA, released on defa ult bail u/s 167(2) – CBI concluded the investigation, filed charg esheet and then filed for cancellation of bail of the respondent – H owever, the High Court rejected the said petition on the ground that d efault bail granted u/s. 167(2) cannot be cancelled on merits – On appeal , held: Order of release on bail under proviso to s. 167(2) cannot be called as an order on merits – Purpose of proviso to s.167(2) i s to press expeditious investigation within the prescribe d time limit – Accused is released on bail under proviso to s.167(2) on the failu re of the prosecuting agency –Mere filing of the charg esheet subsequent to a person is released on default bail u/s. 167(2) c annot be a ground to cancel the bail of a person, who is released on default bail – No absolute bar that once a person is released on default bail u/s.167(2), his bail cannot be cancelled on merits – O n filing of the chargesheet on conclusion of the inve stigation, if a strong case is made out and on merits, it is found that he has committed a non-bailable offence/crime, on the spec ial reasons/ grounds and considering ss. 437(5) and 439(2), over and above other grounds on which the bail to a person, who is released on bail can be cancelled on merits – Therefore, the co urts are not precluded from considering the application for cancella tion of the bail on merits –Order of the High Court set aside – s s. 174, 437(5), 439(2) – Penal Code, 1860 – ss. 120-B, 201, 302, 506. Allowing the appeal, the Court HELD: 1.1 When an accused is released on default ba il under proviso to sub- section (2) of Section 167 Cr .P.C., he is released on furnishing the bail bond by him on the failur e of the [2023] 1 S.C.R. 741 investigating agency to complete the investigation and file the chargesheet within the stipulated time mentioned th erein. The proviso to sub-section (2) of Section 167 fixes the outer limit within which the investigation must be completed and if th e same is not completed within the period prescribed therein, the accused has a right to be released on bail if he is prepared to an d does furnish bail. Considering proviso to Section 167(2) Cr.P.C., it cannot be disputed that a person released on bail (default bail) is deemed to be released under provisions of Chapter XXX III of the Cr.P.C., which includes Section 437 and 439 also. The object and purpose of proviso to Section 167(2) Cr.P.C. is to impress upon the need for expeditious investigation within the p rescribed time limit and to prevent laxity in that behalf. The objec t is to inculcate a sense of its urgency and on default the Ma gistrate shall release the accused if he is ready and does f urnish bail. Thus, it cannot be said that order of release on bail under proviso to Section 167(2) Cr.P.C. is an order on merits. An accu sed is released on bail under proviso to Section 167(2) Cr.P.C. on the failure of the prosecuting agency. Therefore, the deemin g fiction under Section 167(2) Cr.P.C. cannot be interpreted to the length of converting the order of bail not on merits as if passed on merits . [Para 8.1][750-H; 751-A-E] 1.2. When special reasons/grounds are being made out from the chargesheet and the chargesheet reveals the commis sion of a non- bailable crime, the bail in favour of a person, who has been released on default bail under Section 167(2) Cr .P.C. can be cancelled considering Section 437(5) and Section 439(2) Cr.P.C. The law, which emerges is that mere filing of the chargesheet subsequent to a person is released on d efault bail under Section 167(2) Cr.P.C. cannot be a ground to cancel the bail of a person, who is released on default bail. However, on filing of the chargesheet on conclusion of the investigat ion, if a strong case is made out and on merits, it is found th at he has committed a non-bailable offence/crime, on the special reasons/ grounds and considering Section 437(5) and Section 439(2) Cr.P.C, over and above other grounds on which the b ail to a person, who is released on bail can be cancelled on merits. Therefore, there is no absolute bar as held by the High Cou rt in the impugned judgment and order that once a person i s released on default bail under Section 167(2) Cr.P.C., his bail cann ot be cancelled on merits and his bail can be cancelled on oth er general grounds like tampering with the evidence/witnesses; not cooperating with the investigating agency and/or not cooperat ing with the concerned trial court etc. [Para 9.7, 10, 11][761-F; 762- G-H; 763-A-B] 1.3 The impugned judgment and order passed by the High Court dismissing the application for cancellation of the bail filed by the C.B.I. under Section 439(2) Cr.P.C. is quash ed and set aside. [Para 13][763-H; 764-A] 1.4 As the High Court has not at all considered on merits the application for cancellation of the bail, the ma tter is to be remitted to the High Court for considering the said app lication afresh in accordance with law and on merits and in light of the observations made. As pursuant to the earlier judgment and order passed by this Court dated 29.11.2022 in Writ Petition (Crimina l) No. 169 of 2022, the trial of the F.I.R. in the pres ent case has been ordered to be transferred to the C.B.I. Specia l Court, Hyderabad, the proceedings of the cancellation of t he bail application, which was earlier filed before the Hig h Court of Andhra Pradesh are ordered to be transferred to the High Court of Telangana at Hyderabad and now the High Court of Telangan a to consider, decide and dispose of the application for c ancellation of the bail on merits and in light of the observations made . [Para 14][764-D-F] Aslam Babalal Desai Vs. State of Maharashtra (1992)
+
+--- case0055_CH005 ---
+SECTION: facts
+ROLE: judge
+WORDS: 188
+4 SCC 272 : [1992] 1 Suppl. SCR 545; Abdul Basit Alias Raju and Ors. Vs. Mohd. Abdul Kadir Chaudhary and Anr (2014) 10 SCC 754 : [2014] 10 SCR 571; Raghubir Singh and Ors. Vs. State of Bihar (1986) 4 SCC 481 : [1986] 3 SCR 802 – relied on. Mohamed Iqbal Madar Sheikh and Ors. Vs. State of Maharashtra (1996) 1 SCC 722 : [1996] 1 SCR 183 , Rajnikant Jivanlal and Anr. Vs. Intelligence Office r, NCB, New Delhi, (1989) 3 SCC 532 : [1989] 3 SCR 377, Rakesh Kumar Paul v. State of Assam, (2017) 15 SCC 67 : [2017] 8 SCR 785 – referred to. THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY Case Law Reference [1992] 1 Suppl. SCR 545 relied on Para 5.4 [2014] 10 SCR 571 relied on Para 5.7 [1996] 1 SCR 183 referred to Para 6.3 [2017] 8 SCR 785 referred to Para 7 [1986] 3 SCR 802 relied on Para 9.8 [1989] 3 SCR 377 referred to Para 9.9 CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No.37 of
+
+--- case0055_CH006 ---
+SECTION: facts
+ROLE: judge
+WORDS: 210
+4 SCC 272 : [1992] 1 Suppl. SCR 545; Abdul Basit Alias Raju and Ors. Vs. Mohd. Abdul Kadir Chaudhary and Anr (2014) 10 SCC 754 : [2014] 10 SCR 571; Raghubir Singh and Ors. Vs. State of Bihar (1986) 4 SCC 481 : [1986] 3 SCR 802 – relied on. Mohamed Iqbal Madar Sheikh and Ors. Vs. State of Maharashtra (1996) 1 SCC 722 : [1996] 1 SCR 183 , Rajnikant Jivanlal and Anr. Vs. Intelligence Office r, NCB, New Delhi, (1989) 3 SCC 532 : [1989] 3 SCR 377, Rakesh Kumar Paul v. State of Assam, (2017) 15 SCC 67 : [2017] 8 SCR 785 – referred to. THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY Case Law Reference [1992] 1 Suppl. SCR 545 relied on Para 5.4 [2014] 10 SCR 571 relied on Para 5.7 [1996] 1 SCR 183 referred to Para 6.3 [2017] 8 SCR 785 referred to Para 7 [1986] 3 SCR 802 relied on Para 9.8 [1989] 3 SCR 377 referred to Para 9.9 CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No.37 of 2023. From the Judgment and Order dated 16.03.2022 of the High Court of Andhra Pradesh at Amaravati in Criminal Petition No.788 of
+
+--- case0055_CH007 ---
+SECTION: facts
+ROLE: judge
+WORDS: 83
+2023. From the Judgment and Order dated 16.03.2022 of the High Court of Andhra Pradesh at Amaravati in Criminal Petition No.788 of 2022. K.M. Nataraj, ASG , Ms. Jyoti Zongluju, Sharath Nambi ar, Vinayak Sharma, Praneet Pranav, T.S. Sabarish, Nakul Chengappa K. K., Arvind Kumar Sharma, Advs. for the Appellant. B. Adinarayana Rao, Siddhartha Dave, Sr. Advs., Sum anth Nookala, Ms. Jesal Wahi, Ms. Vidhi Thaker, Advs. for the Responde nt. The Judgment of the Court was delivered by M. R. SHAH, J.
+
+--- case0055_CH008 ---
+SECTION: facts
+ROLE: judge
+WORDS: 197
+2022. K.M. Nataraj, ASG , Ms. Jyoti Zongluju, Sharath Nambi ar, Vinayak Sharma, Praneet Pranav, T.S. Sabarish, Nakul Chengappa K. K., Arvind Kumar Sharma, Advs. for the Appellant. B. Adinarayana Rao, Siddhartha Dave, Sr. Advs., Sum anth Nookala, Ms. Jesal Wahi, Ms. Vidhi Thaker, Advs. for the Responde nt. The Judgment of the Court was delivered by M. R. SHAH, J. 1. Feeling aggrieved and dissatisfied with the impugned j udgment and order dated 16.03.2022 passed by the High Court of Andhra Pradesh at Amravati in Criminal Petition No. 788 of 2022 by which the High Court has dismissed the said petition preferred by t he appellant – Central Bureau of Investigation (C.B.I.) filed under Section 439(2) of th e Code of Criminal Procedure (Cr.P.C.), to cancel the bail that was g ranted to the respondent herein – original Accused No. 1 and wherein the High Court has held that once the respondent No. 1 – Accused No. 1 wa s released on default bail under Section 167(2) Cr.P.C., thereaft er it is not permissible to consider the case for cancellation of bail on me rits, the Investigating Agency – C.B.I. has preferred the present a ppeal.
+
+--- case0055_CH009 ---
+SECTION: facts
+ROLE: judge
+WORDS: 245
+1. Feeling aggrieved and dissatisfied with the impugned j udgment and order dated 16.03.2022 passed by the High Court of Andhra Pradesh at Amravati in Criminal Petition No. 788 of 2022 by which the High Court has dismissed the said petition preferred by t he appellant – Central Bureau of Investigation (C.B.I.) filed under Section 439(2) of th e Code of Criminal Procedure (Cr.P.C.), to cancel the bail that was g ranted to the respondent herein – original Accused No. 1 and wherein the High Court has held that once the respondent No. 1 – Accused No. 1 wa s released on default bail under Section 167(2) Cr.P.C., thereaft er it is not permissible to consider the case for cancellation of bail on me rits, the Investigating Agency – C.B.I. has preferred the present a ppeal. 2. While considering the issue involved in the present appe al, namely, whether in a case where the accused is release d on default bail thereafter, cancellation of the bail application ca n be considered on merits, the chronological dates and events are required to be referred to, which are as under:- 2.1 The deceased Shri Y.S. Vivekananda Reddy, a former M.L.A.; former Member of Lok Sabha; former Member of A.P. Legi slative Council; and holding other posts was found dead in his house on 15.03.2019. Initially a case under Section 174 Cr.P.C. was registere d by the local police, i.e., Police Station, Pulivendula in Crim e No.84 of
+
+--- case0055_CH010 ---
+SECTION: facts
+ROLE: judge
+WORDS: 531
+2. While considering the issue involved in the present appe al, namely, whether in a case where the accused is release d on default bail thereafter, cancellation of the bail application ca n be considered on merits, the chronological dates and events are required to be referred to, which are as under:- 2.1 The deceased Shri Y.S. Vivekananda Reddy, a former M.L.A.; former Member of Lok Sabha; former Member of A.P. Legi slative Council; and holding other posts was found dead in his house on 15.03.2019. Initially a case under Section 174 Cr.P.C. was registere d by the local police, i.e., Police Station, Pulivendula in Crim e No.84 of 2019. Subsequently, a case under Section 302 read with Section 120 -B of the Indian Penal Code (I.P.C.) was registered. Special Investig ation Team (S.I.T.) was constituted by the State. The S.I.T. t ook over the investigation. During the course of investigation, the co ncerned State Police Agency arrested the respondent herein – original Accused No. 1 (A-1) on 28.03.2019 and he was remanded to judicial custody. The statutory period of 90 days lapsed on 26.06.2019. On the very next day of lapsing of 90 days, respondent herein – original Accused N o. 1 filed a bail application for default bail under Section 167(2) of the Cr.P.C. The respondent herein was allowed the default bail by the learne d JMFC, Pulivendula on 27.06.2019. The respondent herein – original accused No. 1 was released on bail as per the said order. 2.2 That subsequently and pursuant to the order passed by the High Court dated 11.03.2020 passed in Writ Petition No. 3144 of 2019 and Writ Petition No. 1639 of 2020, investigation in the above crime was entrusted to the appellant – C.B.I. The C.B.I. then took up the investigation in the said case. The C.B.I. filed the F.I.R . No. RC-04(S)/ 2020/SC-II/ND on 09.07.2020. The investigation reve aled that a conspiracy was hatched up by A-1 to A-4 along with some other persons to kill the deceased and there were some influenced persons behind the said conspiracy. 2.3 The C.B.I. filed the initial / first chargesheet on 26.10.20 21 and named A1 to A4. That thereafter the CBI filed an applicat ion before the Special Court under Section 439(2) Cr.P.C. for cancelati on of the bail granted to the respondents, which came to be d ismissed by the learned Trial Court vide order dated 30.11.2021. 2.4 That thereafter the C.B.I. filed a supplementary chargesheet against the accused D. Siva Shankar Reddy (A-5) under Sectio ns 201 and 120-B read with 302 & 201 I.P.C. and also against the respondent herein – original Accused No. 1 under Sections 201, 506 and 120-B read with 201 I.P.C. That thereafter the C.B.I. conducte d the further investigation and continued the investigation and recorded th e statement of approver A-4. That thereafter the C.B.I. filed the Crim inal Petition THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] No. 788 of 2022 before the High Court under Section 439(2) Cr.P.C. for cancellation of bail granted to the respondent herein – Accuse d No.
+
+--- case0055_CH011 ---
+SECTION: facts
+ROLE: judge
+WORDS: 505
+2019. Subsequently, a case under Section 302 read with Section 120 -B of the Indian Penal Code (I.P.C.) was registered. Special Investig ation Team (S.I.T.) was constituted by the State. The S.I.T. t ook over the investigation. During the course of investigation, the co ncerned State Police Agency arrested the respondent herein – original Accused No. 1 (A-1) on 28.03.2019 and he was remanded to judicial custody. The statutory period of 90 days lapsed on 26.06.2019. On the very next day of lapsing of 90 days, respondent herein – original Accused N o. 1 filed a bail application for default bail under Section 167(2) of the Cr.P.C. The respondent herein was allowed the default bail by the learne d JMFC, Pulivendula on 27.06.2019. The respondent herein – original accused No. 1 was released on bail as per the said order. 2.2 That subsequently and pursuant to the order passed by the High Court dated 11.03.2020 passed in Writ Petition No. 3144 of 2019 and Writ Petition No. 1639 of 2020, investigation in the above crime was entrusted to the appellant – C.B.I. The C.B.I. then took up the investigation in the said case. The C.B.I. filed the F.I.R . No. RC-04(S)/ 2020/SC-II/ND on 09.07.2020. The investigation reve aled that a conspiracy was hatched up by A-1 to A-4 along with some other persons to kill the deceased and there were some influenced persons behind the said conspiracy. 2.3 The C.B.I. filed the initial / first chargesheet on 26.10.20 21 and named A1 to A4. That thereafter the CBI filed an applicat ion before the Special Court under Section 439(2) Cr.P.C. for cancelati on of the bail granted to the respondents, which came to be d ismissed by the learned Trial Court vide order dated 30.11.2021. 2.4 That thereafter the C.B.I. filed a supplementary chargesheet against the accused D. Siva Shankar Reddy (A-5) under Sectio ns 201 and 120-B read with 302 & 201 I.P.C. and also against the respondent herein – original Accused No. 1 under Sections 201, 506 and 120-B read with 201 I.P.C. That thereafter the C.B.I. conducte d the further investigation and continued the investigation and recorded th e statement of approver A-4. That thereafter the C.B.I. filed the Crim inal Petition THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] No. 788 of 2022 before the High Court under Section 439(2) Cr.P.C. for cancellation of bail granted to the respondent herein – Accuse d No. 1. 2.5 By the impugned judgment and order, the High Court has rejected the said petition mainly on the ground that once the respondent No. 1 – original Accused No. 1 was released on default bail under Section 167(2) Cr.P.C., thereafter, the bail cannot be cancelled on merits . 2.6 Feeling aggrieved and dissatisfied with the impu gned judgment and order passed by the High Court refusing to cancel the bail under Section 439(2) Cr.P.C., the C.B.I. has preferred the present a ppeal.
+
+--- case0055_CH012 ---
+SECTION: facts
+ROLE: judge
+WORDS: 212
+1. 2.5 By the impugned judgment and order, the High Court has rejected the said petition mainly on the ground that once the respondent No. 1 – original Accused No. 1 was released on default bail under Section 167(2) Cr.P.C., thereafter, the bail cannot be cancelled on merits . 2.6 Feeling aggrieved and dissatisfied with the impu gned judgment and order passed by the High Court refusing to cancel the bail under Section 439(2) Cr.P.C., the C.B.I. has preferred the present a ppeal. 3. At this stage, it is required to be noted that in the mea ntime, the daughter and wife of the deceased filed a writ petition under Article 32 of the Constitution of India before this Court seeking tran sfer of the trial arising out of the present F.I.R. from C.B.I. Special Court, Kadapa, Andhra Pradesh to C.B.I. Special Court, Hyderabad or C.B.I. Special Court, New Delhi and also to direct the C.B.I. for duly completing the investigation in the aforesaid F.I.R. in the time bound manner . By a detailed judgment and order dated 29.11.2022, this Court has allow ed the said writ petition on the allegations of tampering wit h the evidence and the witnesses and even pressurizing the C.B.I. Officers by filing false complaints against them.
+
+--- case0055_CH013 ---
+SECTION: facts
+ROLE: judge
+WORDS: 188
+3. At this stage, it is required to be noted that in the mea ntime, the daughter and wife of the deceased filed a writ petition under Article 32 of the Constitution of India before this Court seeking tran sfer of the trial arising out of the present F.I.R. from C.B.I. Special Court, Kadapa, Andhra Pradesh to C.B.I. Special Court, Hyderabad or C.B.I. Special Court, New Delhi and also to direct the C.B.I. for duly completing the investigation in the aforesaid F.I.R. in the time bound manner . By a detailed judgment and order dated 29.11.2022, this Court has allow ed the said writ petition on the allegations of tampering wit h the evidence and the witnesses and even pressurizing the C.B.I. Officers by filing false complaints against them. 4. Therefore, the short question which is posed for the consideration of this Court is:- Whether after an accused is released on default bail unde r Section 167(2) Cr.P.C., under which circumstances, his bail can be cancelled and whether bail can be cancelled on merits having found committed non-bailable crime on conclusion of the investigation and filing the chargesheet?
+
+--- case0055_CH014 ---
+SECTION: facts
+ROLE: judge
+WORDS: 99
+4. Therefore, the short question which is posed for the consideration of this Court is:- Whether after an accused is released on default bail unde r Section 167(2) Cr.P.C., under which circumstances, his bail can be cancelled and whether bail can be cancelled on merits having found committed non-bailable crime on conclusion of the investigation and filing the chargesheet? 5. Shri K.M. Nataraj, learned ASG appearing on behalf of the C.B.I. has vehemently submitted that as such release of an accu sed on default bail under Section 167(2) Cr.P.C., cannot be said to be releasing the accused on merits.
+
+--- case0055_CH015 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 35
+It is submitted that an accused is r eleased on default bail under Section 167(2) Cr.P.C. on failure of the investi gating agency to conclude the investigation within the time stipu lated under the Cr.P.C.
+
+--- case0055_CH016 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 129
+It is submitted that therefore, on filing of the c hargesheet and curing the defects, it is always open for the Court t o consider the application for cancellation of bail on merits on tha t basis and to consider the seriousness of the offence. 5.1 It is vehemently submitted that Section 167(2) Cr.P.C. fixes the outer limit within which the investigation has to be com pleted and if the same is not completed within the period prescribed, th e accused has a right to be released on bail, if he is prepared to and does furnish bail. It is submitted that as per clause (a)(ii) of sub-section ( 2) of Section 167, he is deemed to be released under the provisions of Chapter XX XIII of the Cr.P.C.
+
+--- case0055_CH017 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 37
+It is submitted that Chapter XXXIII of the Cr.P.C. incl udes Sections 437 and 439 whereunder the Court is empowered to cancel t he bail granted to an accused in terms of Section 437(5) and Section 439(2).
+
+--- case0055_CH018 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 42
+It is submitted that therefore, though the bail is granted unde r proviso to sub-section (2) of Section 167 Cr.P.C., by virtue of deeming fiction, the same can be cancelled by the Court in terms of Section 437(5) and Section 439(2) Cr.P.C.
+
+--- case0055_CH019 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 100
+5.2 It is submitted that the purpose of the proviso to Section 167(2) is to impress upon the need for expeditious investigation wit hin the prescribed time limit and to prevent laxity in that behalf . The object is to inculcate a sense of its urgency and on default the M agistrate shall release the accused if he is ready and does furnish bail. It is submit ted that therefore, an order for release on bail under proviso to Section 167( 2) Cr.P .C. is not an order on merits but an order on defau lt of the prosecuting agency.
+
+--- case0055_CH020 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 316
+It is submitted that the deeming fiction under the p roviso to Section 167(2) cannot be interpreted to go to the length of convert ing an order of bail not on merit as if passed on merit. It is s ubmitted that therefore, such an order could be nullified for special reas ons after the defect/default has been cured, i.e., after filing of the chargeshe et. It is submitted that therefore, since the bail was granted due to default of the investigating agency and without the Court adverting to the me rits of the case, the merits brought about in the chargesheet a nd attending circumstance would be relevant. 5.3 It is further submitted that in the present case the bail was granted to the respondent herein under proviso to Section 167(2) on the default of the State Police in completing the investigati on within the prescribed limit and the lackadaisical approach of the St ate Police was also the reason for transfer of the investigation to the appellan t – C.B.I. 5.4 Shri K.M. Nataraj, learned ASG appearing on behalf of the appellant – C.B.I. has vehemently relied upon the Three Judge B ench decision of this Court in the case of Aslam Babalal Desai Vs. State of Maharashtra, (1992) 4 SCC 272 in support of his submission that as THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] observed and held by this Court on the special grounds being made out that the accused has committed very serious offences; committed non- bailable crimes and he deserves to be in custody, even in a case whe re the accused is released on default bail under Section 167(2) Cr.P.C., his bail can be cancelled. Heavy reliance is placed on the o bservations made by Justice A.M. Ahmadi (as he then was) in paragraph
+
+--- case0055_CH021 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 78
+14. He has als o taken us to the observations made by Justice M.M. Punchhi ( as he then was) in paragraphs 23 and 28 (though dissenting view but concur ring with the observations with respect to Section 167(2) Cr.P.C.). He has also taken us to the observations made by the then Justice K. Ramaswamy (concurring view made in paragraphs 39 and 40). Relying upon the above observations made in the aforesaid paragraphs by the re spective Hon’ble
+
+--- case0055_CH022 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 85
+Judges, it is submitted that as observed and held by this C ourt, grant of default bail under the proviso to sub-section (2) of Section 1 67 Cr.P.C. is deemed to be released in terms of Chapter XXXIII of the C r.P.C. and, therefore, the default bail, once granted, can be cancelle d by the Court for the reasons germane to the cancellation of bail under Sec tion 437(5) or Section 439(2) of the Cr.P.C. 5.5 Relying upon the above decision and the observations made
+
+--- case0055_CH023 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 122
+therein, it is submitted that since the bail was granted due to default of the investigating agency and without the Court adverting to the merits of the case, the merits brought about in the chargesheet and a ttending circumstance would be relevant. 5.6 Shri K.M. Nataraj, learned ASG has further submitted that in the present case, even the case is made out under Section 439(2) Cr.P.C. to cancel the bail in view of the changed circumsta nces and the observations made by this Court in the subsequent order passed i n the Writ Petition (Criminal) No. 169 of 2022) by which th is Court transferred the trial from the C.B.I. Special Court, Kadapa, Andhra Prades h to the C.B.I. Special Court, Hyderabad.
+
+--- case0055_CH024 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 120
+It is submitted that this H on’ble Court has transferred the trial on the ground that the witnesses are being threatened and/or influenced and there is no possibility of ha ving fair trial if the same is conducted in the State of Andhra Prad esh. However, as the High Court has not at all considered anything on meri ts, we do not propose to go into the said aspect at this stage and opine any thing on the aforesaid. 5.7 Shri Nataraj, learned ASG has also heavily relied upon the subsequent decision of this Court in the case of Abdul Basit Alias Raju and Ors. Vs. Mohd. Abdul Kadir Chaudhary and Anr., ( 2014) 10 SCC 754 (paragraphs 13 and
+
+--- case0055_CH025 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 148
+14) in support of his submission that the bail granted under Section 167(2) Cr.P.C. can be cancelled on an application by the prosecuting agency. 5.8 Making above submissions, it is prayed to allow the present appeal and cancel the bail granted in favour of the respondent he rein – original Accused No. 1 on merits considering the charge sheet and considering the seriousness of the offences alleged to have been committed by the accused and considering the gravity of the offe nces. 5.9 Learned ASG appearing on behalf of the C.B.I. has also tri ed to submit on merits as well as on the post-bail conduct of the respondent herein – Accused No. 1. However, as the High Court has not at all considered the aforesaid aspects, we do not propose to enter into the merits and/or post-bail conduct of the respondent /accuse d at this stage. 6.
+
+--- case0055_CH027 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 69
+It is submitted that therefore in the present case, the High Court has rightly refused to cancel the default bail/ bail on subsequent filing of the chargesheet by the C.B.I. It is f urther submitted that as such in the present case the respondent – original A ccused No. 1 was chargesheeted by the State Police Agency / S.I.T. much prior to the C.B.I. was entrusted with the investigation.
+
+--- case0055_CH028 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 106
+6.2 It is submitted that even thereafter and after the C. B.I. took over the investigation and filed the chargesheet, the C.B.I. then f iled the application before the learned Trial Court for cancellat ion of the bail under Section 439(2), which came to be dismissed by the Tria l Court. It is submitted that therefore, mere subsequent filing of t he chargesheet cannot be a ground to cancel the bail granted in favour of the re spondent – original Accused No. 1, once he was released on default bail on non- conclusion of the investigation and non-filing of the chargeshee t within the stipulated time.
+
+--- case0055_CH029 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 72
+6.3 It is submitted that as per the catena of decisions of t his Court as such to release the accused on bail on non-filing of the chargeshe et THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] within the stipulated time as mentioned under Section 167(2) Cr .P.C. is an indefeasible right accrued in favour of the accused.
+
+--- case0055_CH030 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 113
+It is submitted that once in exercise of such right available when the a ccused is released on bail under Section 167(2) Cr.P.C., the same cannot be taken away and/or cancelled on subsequent filing of the chargesheet. Learn ed senior counsel appearing on behalf of the respondent – original Accused No. 1 has heavily relied upon the decision of this Court in the case of Mohamed Iqbal Madar Sheikh and Ors. Vs. State of Maharashtra, (1 996) 1 SCC 722 (paragraph 10) . 6.4 Making above submissions and relying upon the decisions i n the case of Mohamed Iqbal Madar Sheikh and Ors. (supra) , it is prayed to dismiss the present appeal.
+
+--- case0055_CH031 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 84
+7. Shri Siddhartha Dave, learned Senior Advocate appearing on behalf of the proposed impleader –daughter of the d eceased has supported Shri Nataraj, learned ASG and has submitted that looking to the seriousness of the charges alleged against the respondent he rein – original Accused No. 1 and that looking to the gravity of the offe nce and in view of the post-bail conduct of the accused after he wa s released on bail, considered by this Court while deciding Writ Petition (Criminal) No.
+
+--- case0055_CH032 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 124
+169 of 2022, it is prayed to cancel the bail granted in favour of the respondent herein – original Accused No. 1. He has also relie d upon the decision of this Court in the case of Rakesh Kumar Paul Vs. State of Assam, (2017) 15 SCC 67 (paragraphs 15 and 49) by submitting that as observed by this Court in the said decision, in case the accused is released on default bail, it does not prohibit or otherwise p revent the arrest or re-arrest of the accused on cogent grounds in respect of the subject charge and upon arrest or re-arrest, the accused i s entitled to petition for grant of regular bail which application should be cons idered on its own merit.
+
+--- case0055_CH033 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 241
+8. Having heard the learned counsel appearing for the respect ive parties, the short question, which is posed for the consideration of this Court is whether the bail granted under the proviso to sub-sect ion (2) of Section 167 Cr.P.C. for failure to complete the investigation wit hin the period prescribed therein can be cancelled after the p resentation of a chargesheet and if the said question is answered in affirmat ive, then, on what grounds and circumstances, the bail can be cancelled? 8.1 At the outset, it is required to be noted and it can not be disputed that when an accused is released on default bail under p roviso to sub- section (2) of Section 167 Cr.P.C., he is released on furnishing t he bail bond by him on the failure of the investigating agency to complet e the investigation and file the chargesheet within the s tipulated time mentioned therein. The proviso to sub-section (2) of Section 167 fixes the outer limit within which the investigation must be completed and if the same is not completed within the period prescribed therein, the a ccused has a right to be released on bail if he is prepared to and does furnish bail. Considering proviso to Section 167(2) Cr.P.C., it cannot be disp uted that a person released on bail (default bail) is deemed to be rele ased under provisions of Chapter XXXIII of the Cr.P.C., which includes Se ction
+
+--- case0055_CH034 ---
+SECTION: prosecution_arguments
+ROLE: judge
+WORDS: 148
+437 and 439 also. The object and purpose of proviso to Section 167(2) Cr.P.C. is to impress upon the need for expeditious invest igation within the prescribed time limit and to prevent laxity in tha t behalf. The object is to inculcate a sense of its urgency and on default the Magis trate shall release the accused if he is ready and does furnish bail. Thus , it cannot be said that order of release on bail under proviso to Sect ion 167(2) Cr.P.C. is an order on merits. An accused is released on bail under proviso to Section 167(2) Cr.P.C. on the failure of the prosecuting agency. Therefore, the deeming fiction under Section 167(2) Cr.P.C. cannot be interpreted to the length of converting the order of bail not o n merits as if passed on merits. Keeping in view the above, the issue inv olved in the
+
+--- case0055_CH026 ---
+SECTION: decision
+ROLE: judge
+WORDS: 76
+Present appeal is vehemently opposed by Shri B. Adinaray ana Rao, learned Senior Advocate appearing on behalf of the res pondent. 6.1 It is vehemently submitted by the learned senior couns el appearing on behalf of the respondent – original Accused No. 1 tha t as per the settled position of law, mere subsequent filing of th e chargesheet cannot be a ground to cancel the bail granted to the respondent und er Section 167(2) Cr.P.C.
+
+--- case0055_CH035 ---
+SECTION: decision
+ROLE: judge
+WORDS: 7
+present appeal is required to be considered.
+
+--- case0055_CH036 ---
+SECTION: decision
+ROLE: judge
+WORDS: 486
+9. While considering the issue involved, some observations made by this Court in the case of Aslam Babalal Desai (supra) and Abdul Basit Alias Raju and Ors. (supra) are required to be referred to. Speaking for the Bench, Justice A.M. Ahmadi (as he then was) h as observed in paragraphs 14 and 15 as under:- “14. We sum up as under: The provisions of the Code, in particular Sections 57 and 167, manifest the legislative anxiety that once a persons’s li berty has been interfered with by the police arresting him without a court’s order or a warrant, the investigation must be carr ied out with utmost urgency and completed within the maximum period allowed by the proviso ( a) to Section 167(2) of the Code. It must be realised that the said proviso was introduced in the Code by way of enlargement of time for which the arrested accused could be kept in custody. Therefore, the prosecuting agency must realise that if it fails to show a sense of urgency in the inv estigation of the THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] case and omits or defaults to file a charge-sheet within th e time prescribed, the accused would be entitled to be released on ba il and the order passed to that effect under Section 167(2) would b e an order under Section 437(1) or (2) or Section 439(1) of the Code. Since Section 167 does not empower cancellation of the bail, the power to cancel the bail can only be traced to Sec tion 437(5) or Section 439(2) of the Code. The bail can the n be cancelled on considerations which are valid for cancellation of bail granted under Section 437(1) or (2) or Section 439(1) of the Code. The fact that the bail was earlier rejected or t hat it was secured by the thrust of proviso ( a) to Section 167(2) of the Code then recedes in the background. Once the accused has b een released on bail his liberty cannot be interfered with light ly i.e. on the ground that the prosecution has subsequently submitted a charge-sheet. Such a view would introduce a sense o f complacency in the investigating agency and would destroy the very purpose of instilling a sense of urgency expected by Sections 57 and 167(2) of the Code. We are, therefore, of the view that once an accused is released on bail under Section 167(2) he cannot be taken b ack in custody merely on the filing of a charge- sheet but there mu st exist special reasons for so doing besides the fact that t he charge- sheet reveals the commission of a non-bailable crime. The ratio of Rajnikant case [(1989) 3 SCC 532] to the extent it is inconsistent herewith does not, with respect, state the law correctly.
+
+--- case0055_CH037 ---
+SECTION: decision
+ROLE: judge
+WORDS: 572
+15. Even where two views are possible, this being a matter belonging to the field of criminal justice involving t he liberty of an individual, the provision must be construed strictly in favour of individual liberty since even the law expects early complet ion of the investigation. The delay in completion of the investi gation can be on pain of the accused being released on bail. The prosecution cannot be allowed to trifle with individual liberty if it does not take its task seriously and does not complete it within the tim e allowed by law. It would also result in avoidable difficulty to the accused if the latter is asked to secure a surety and a few days lat er be placed behind the bars at the sweet will of the prosecuti on on production of a charge-sheet. We are, therefore, of the view that unless there are strong grounds for cancellation of the ba il, the bail once granted cannot be cancelled on mere production of t he charge- sheet. The view we are taking is consistent with this Court’s view in the case of Bashir [(1977) 4 SCC 410] and Raghubir [(1986) 4 SCC 481] but if any ambiguity has arisen on account of certain observations in Rajnikant case [(1989) 3 SCC 532] our endeavour is to clear the same and set the controvers y at rest.” 9.1 Justice K. Ramaswamy (as he then was) in his concurring judgment has observed in paragraphs 39 and 40 as under:- “39. Undoubtedly, by operation of the proviso to Section 167(2) of the Code, the accused is entitled to bail due to defau lt by the investigating officer in completing the investigation a nd laying the charge-sheet within the prescribed period of 9 0/60 days and not on merits. The fiction of law under the proviso applying the provisions in Chapter XXXIII is to serve the purpose of law, namely not only the release of the accused on taking the requi site bond and conditions to be incorporated therein as envisa ged in the said Chapter, but also the power of the court to cancel the bail and to take the accused into detention for the grounds mentioned under the relevant provisions in Sections 437(5) and 439(2) of the Code. The Legislature is aware of the pre-existing pract ice of not filing the charge-sheet within 15 days as envisaged under sub - section (2) of Section 167 of the old Code and the consequences as well. The doubtful procedure of seeking further detention on securing order of remand under Section 344 of the old Code and Section 309 of the present Code was to be put to an end to, while preserving the power to the court to cancel the bai l, if circumstances warrant to take the accused into custody. At the earliest this Court in Matabar Parida case [(1975) 2 SCC 220] also took note of the fact that even under Section 167(2) proviso, it might not be possible to complete the investigation into grave crimes within the outer limit of the time set out in the proviso. In the light of the statutory animation to have the accused released from detention on expiry of 90/60 days if the accused shall be prepared to and does furnish bail, the consequences are inevitable and the r elease is a statutory paradise to the criminals not by judicial fiat but legislative mandate.
+
+--- case0055_CH038 ---
+SECTION: decision
+ROLE: judge
+WORDS: 1012
+40. The purpose of interpretation is to sustain the law. The court must interpret the words or the language in the statut e to promote public good and misuse of power is interdicted. Crim inal THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] law primarily concerns social protection and prescribes ru les of behaviour to be observed by all. Law punishes for deviance , transgression, violation or omission. Liberty of the individual a nd security and order in the society or public order are delic ate and yet paramount considerations. Undue emphasis on either would impede harmony and hamper public good as well as disturb socia l weal and peace. To keep the weal balanced, must be the prime duty of the Judiciary. The purpose of the proviso to Sec tion 167(2) read with Chapter XXXIII of the Code is to impress upon the need for expeditious completion of the investigation by the poli ce officer within the prescribed limitation and to prev ent laxity in that behalf. On its default the Magistrate shall release the a ccused on bail if the accused is ready and does furnish the bail. At the same time during investigation or trial the power of the court to have the bail cancelled and have the accused taken into custody ar e preserved. But as interpreted by this Court on the happeni ng of the catalyst act i.e. expiry of 90/60 days the hammer of rel ease on default would fall. Later filing of the charge-sheet (chal lan) is not by itself relevant to have the bail cancelled on commi tting the accused for trial or taking cognizance of the offen ce. As emphasised by this Court in Bashir [(1977) 4 SCC 410] and Raghubir [(1986) 4 SCC 481] cases, on curing the defect by filing the charge-sheet (challan) if the prosecution seeks to have the bail cancelled on the ground that there are reasonable gr ounds to believe that the accused has committed a non-bailable of fence and that it is necessary to arrest and commit him into custody, prima facie at that stage, strong grounds indeed are necessary . For cancellation of the bail after filing of the charge-sheet the factum of dismissal of the bail on the earlier occasion is not relevant. But during investigation some strong prim a facie evidence and gravity and magnitude of the crime or the manner in which the crime was committed and other attending circumstances may be relevant as prima facie grounds to have a fresh look to c ancel the bail. The grounds for cancellation of the bail in Chapter XXXIII are, dehors the merits in the matter, namely, necessity due to the conduct of the accused and abuse of liberty i.e. obstruction of the smooth investigation or suborning witnesses or atte mpting to tamper the evidence, threatening the witnesses with dire consequences or making or attempting to remove himself beyond the reach of the court to hamper the smooth trial, etc. are independent of the merits in the matter. Cancellation of the bail would b e necessitated by the conduct of the accused himself after the release. I agr ee with brother Punchhi, J. that it might be possible to abuse the proviso by deliberate delay in completing the investigation to facilitate the release of the accused on bail. I also ag ree that merits brought out in the charge-sheet and attending circumstances are relevant, as the bail was granted due to defaul t of the investigating officer without court’s adverting to the merits but strong grounds are necessary to cancel the bail. To that extent brother Ahmadi, J. also laid emphasis, namely, strong grounds are to be made out in the charge-sheet. With respect I agree with brother Ahmadi’s emphasis that filing the charge-sheet (c hallan) itself is not sufficient. However, I lay emphasis that the High Court or the Court of Sessions should consider the merits of the ca se. With respect, K.J. Shetty, J., laid emphasis on the subsequent filing of the charge-sheet and the power for cancellation under Sections 437 and 439 of the Code. Unfortunately, the ratio in Parida [(1975) 2 SCC 220] and Bashir [(1977) 4 SCC 410] cases was not brought to the notice of the learned Judge, which was directly on the point and for the reasons stated I find it diffi cult to agree with the learned Judge in that respect. I am in full agreement with the view expressed by brother Ahmadi, J. and the order proposed by him.” 9.2 In a concurring judgment, Justice K. Ramaswamy (as he the n was) has concurred with some of the observations made by Ju stice M.M. Punchhi (as he then was) made in a dissenting judgment tha t it might be possible to abuse the proviso to Section 167(2) Cr.P.C. by deliberate delay in completing the investigation to facil itate the release of the accused on bail. However, thereafter has agreed wit h the view that the merits brought out in the chargesheet and attending circumstances are relevant, as the bail was granted due to default of the inve stigating officer without Court’s adverting to the merits but strong grounds are necessary to cancel the bail and mere filing of the chargeshe et itself is not sufficient. 9.3 Justice M.M. Punchhi (as he then was) in his dissen ting judgment has observed in paragraphs 23, 25, 26, 27 and 28 as under:-THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] “23. The mere circumstance that Section 167(2) ordains that every person released on bail under this sub- sectio n shall be deemed to be so released under the provisions of Chapter XX XIII for the purposes of that Chapter does not ipso facto mean t hat the bail order assumes the content and character of bail orders on merit, of the kind conceived of in sub-sections (1) and (2) of Section
+
+--- case0055_CH039 ---
+SECTION: decision
+ROLE: judge
+WORDS: 161
+437 or sub-section (1) of Section 439 of the Code. The deeming requirement of Section 167(2) puts the release on bail of suc h person as if under the provisions of Chapter XXXIII but o nly for the purposes of that Chapter. In other words, it means tha t by this fiction the provision is to be read as a part of Chapter XXXIII so that it invites the purposes of that chapter such as filling of bonds, provision of sureties etc., as also permitting cancell ation of bail. It is on the thrust of such inclusion that cancellation under Section 437(5) can be attempted as if fictionally the bail order had been passed under sub-sections (1) and (2) of Section 437 but not on considerations as if the bail order was on merit. Fiction of this kind cannot be permitted to go to the length of converting an order of bail not on merit as if passed on merit. XXXXXXXX
+
+--- case0055_CH040 ---
+SECTION: decision
+ROLE: judge
+WORDS: 140
+25. The emphasised words are reflective of the view that the Court could at that stage after the challan is filed be of the opinion that there appear sufficient grounds for entertaining the view that the accused had committed a non-bailable offence an d that it was necessary that he should be arrested and c ommitted to custody. Besides the afore-mentioned ground for cancellation, a ground singularly sufficient and special to an order-on-defaul t, the Court may also arrest and commit to custody such person on other grounds judicially noted and others relevant; such as tampering of evidence etc. The later hinted grounds are those grounds which normally weigh with a Court while cancelling a merited bail under Section 437(5) when the bail in strictu sensu has been granted on merit under sub- sections (1) a nd (2) of Section
+
+--- case0055_CH041 ---
+SECTION: decision
+ROLE: judge
+WORDS: 123
+437. But a deemed bail under Chapter XXXIII, under the thrust of Section 167(2), as is discernible, appears to me on a differ ent footing, permitting cancellation of bail not only on th e well-known grounds for cancellation of bail but also on the special sing ular ground on the Court’s entertaining the view that the re are sufficient grounds that the accused had committed a non-bailable offence and that it was necessary that he should be arrested an d committed to custody. The seeming diversity in Bashir case [(1977) 4 SCC 410] crops up only if it is understood that it takes a bai l order under Section 167(2), as if an order on merit under sub-sections (1) and (2) of Section
+
+--- case0055_CH042 ---
+SECTION: decision
+ROLE: judge
+WORDS: 158
+437. But if the fiction, as it appears to me, extends to the extent of the bail order being treated as if passed under Chapter XXXIII and that too under sub- sections (1) and (2) of Section 437 read with the provisions of Section 167(2) as part and parcel of that chapter so that the bail order r emains an order passed on default and not on merit, the tangency disappe ars. And even if this aspect is ignored, Bashir case [(1977) 4 SCC 410] goes on to add a singular and special ground for cancellation of bail granted under Section 167(2) over and above the other well-known grounds for cancellation of bail granted under sub- sections (1) and (2) of Section 437 of the Code. The provision employable in that event again is Section 437(5) of the Code , notwithstanding the text of the provision, for besides that ther e is no other provision with the Court.
+
+--- case0055_CH043 ---
+SECTION: decision
+ROLE: judge
+WORDS: 57
+26. The existence of such special ground for cancellation of bail, over and above the well-known grounds for cancellation of bail, granted under Section 167(2) of the Code was re-affirm ed and repeated in a decision of this Court by a two-member Ben ch in Raghubir Singh v. State of Bihar [(1986) 4 SCC 481] at page
+
+--- case0055_CH044 ---
+SECTION: decision
+ROLE: judge
+WORDS: 9
+826 by stating as follows: (SCC p. 502, para
+
+--- case0055_CH045 ---
+SECTION: decision
+ROLE: judge
+WORDS: 149
+22) “Where bail has been granted under the proviso to Section 167(2) for the default of the prosecution in not completing the investigation in 60 days, after the defect is cured by the filing of a charge-sheet, the prosecution may seek to have the bail cancelled on the ground that there are reasonable grounds to believe that the accused has committed a non- bailable offence and that it is necessary to arrest him and commit him to custody. In the last mentioned case, one would expect very strong grounds indeed.” The strong grounds referred in the context obviously are grounds on merits of the case, which are reflective fr om the formal accusation put in the challan which the accused has to fa ce at the trial. THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.]
+
+--- case0055_CH046 ---
+SECTION: decision
+ROLE: judge
+WORDS: 31
+27. Raghubir Singh case [(1986) 4 SCC 481] was followed by a decision of a vacation Judge of this Court in Rajnikant Jivanlal Patel v. Intelligence Officer, NCB, New Delhi [(1989)
+
+--- case0055_CH047 ---
+SECTION: decision
+ROLE: judge
+WORDS: 17
+3 SCC 532]. It was observed at page 536 as follows: (SCC p. 536, paras 13 and
+
+--- case0055_CH048 ---
+SECTION: decision
+ROLE: judge
+WORDS: 195
+14) “An order for release on bail under proviso ( a) to Section 167(2) may appropriately be termed as an order-on- default . Indeed, it is a release on bail on the default of the prosecution in filing charge-sheet within the prescribed period. The right to bail under Section 167(2) proviso ( a) thereto is absolute. It is a legislative command an d not court’s discretion. If the investigating agency fails to file charge- sheet before the expiry of 90/60 days, as the case may be, the accused in custody should be released on bail. But at that stage, merits of the case are not to be examine d . Not at all. In fact, the Magistrate has no power to remand a person beyond the stipulated period of 90/60 days. He must pass an order of bail and communicate the same to the accused to furnish the requisite bail bonds. The accused cannot, therefore, claim any special right to remain on bail. If the investigation reveals that the accused has committed a serious offence and charge- sheet is filed, the bail granted under proviso (a) to Section 167(2) could be cancelled .” (emphasis supplied)
+
+--- case0055_CH049 ---
+SECTION: decision
+ROLE: judge
+WORDS: 730
+28. On analysis of the case law above discussed I have rather come to the conclusion that a compulsive bail order ma de by a court under Section 167(2) of the Code being one not on merit, when required to be cancelled after the filing of the challan, would not involve any review of a decision made on merit. Such bail is cancellable if the court has reason to entertain the belief that the accused has committed a non-bailable offence and that it is necessary to arrest him and commit him to custod y. The occasion to grant or refuse bail on merit becomes available to the court after the filing of the challan because earlier the reto merit of bail could not figure at the time of the grant of compulsive bail. The goal of the court in any event is to strike a judicial ba lance depending on the exigencies of the situation keeping in v iew amongst others the claims of personal liberty and t he larger interests of the State. It cannot be overlooked that a bail or der under Section 167(2) of the Code could even be managed through a convenient investigating officer, however heinous be the crime. The court would have to grant bail under the mandate of law, debarred a s it is to see to the merits of the case at that stage. To say that thenceforth the court is for ever shut to see to the merits of the case, though it otherwise has power to cancel bail, is to de prive it of its elementary function to administer justice an d weigh the claims on merit inter se. I would rather loathe for such an interpr etation as that would frustrate justice, and would on the other hand let the court have the power to cancel bail, for once examining th e merits of the case in such a situation.” Therefore, as such, even Justice Punchhi, had concurred with the other Hon’ble Judges taking the view that every person rele ased on bail under sub-section (2) of Section 167 Cr.P.C. shall be deemed to be so released under the provisions of Chapter XXXIII for the purposes of that Chapter and does not ipso facto mean that the bail order assumes the content and character of bail orders on merit, of the kind conceived of in sub-sections (1) and (2) of Section 437 or sub-sect ion (1) of Section 9.4 Thus, as per the law laid down by this Court in the case of Aslam Babalal Desai (supra) , (i) release of accused on default bail under Section 167(2) Cr.P.C. is not on merits, but on the failure of the investigating agency in completing the investigation and filing the chargesheet within the stipulated time prescribed therein; (ii) That every person released on bail under Section 167 (2) Cr.P.C. shall be deemed to be so released under the provisions of Chapter XXXIII Cr.P.C., which includes Sections 437(5) and 439(2); (iii) That the bail in favour of a person, who is rel eased on default bail under Section 167(2) Cr.P.C. cannot be cancelled on mere filing of the chargesheet, but can be cancelled on making out a special and strong ground that commission of non-bailable crime is disclosed from the chargesheet. THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] 9.5 In the case of Abdul Basit Alias Raju and Ors. (supra) after considering the decision of this Court in the case of Aslam Babalal Desai (supra) , it is observed and held in paragraphs 13 and 14 as under:- “13. It is trite that Section 167(2) creates a deeming fiction whereby the release of a person is equated to his releas e under Chapter XXXIII of the Code. However, an order for release on bail under proviso ( a) to Section 167(2) is not an order on merits but an order-on-default of the prosecuting agency. Such an order could be nullified for special reasons after the defect/de fault has been cured. The accused cannot, therefore, claim any special right to remain on bail. If the investigation reveals that the accused has committed a serious offence and charge-sheet is filed, the bail granted under proviso ( a) to Section 167(2) could be cancelled on an application by the prosecuting agency.
+
+--- case0055_CH050 ---
+SECTION: decision
+ROLE: judge
+WORDS: 868
+14. Under Chapter XXXIII, Section 439(1) empowers the High Court as well as the Court of Session to direct any ac cused person to be released on bail. Section 439(2) empowers the High Court to direct any person who has been released on bail under Chapter XXXIII of the Code be arrested and committed to custody i.e. the power to cancel the bail granted to an accused perso n. Generally the grounds for cancellation of bail, broadly, are , ( i) the accused misuses his liberty by indulging in similar criminal activity, (ii ) interferes with the course of investigation, ( iii ) attempts to tamper with evidence or witnesses, ( iv ) threatens witnesses or indulges in similar activities which would hamper sm ooth investigation, ( v) there is likelihood of his fleeing to another cou ntry, (vi ) attempts to make himself scarce by going underground or becoming unavailable to the investigating agency, ( vii ) attempts to place himself beyond the reach of his surety, etc. These grounds are illustrative and not exhaustive. Where bail has been grante d under the proviso to Section 167(2) for the default of the prosecution in not completing the investigation in sixty days after the defect is cured by the filing of a charge-sheet, the prosecution ma y seek to have the bail cancelled on the ground that there are reasonabl e grounds to believe that the accused has committed a non- baila ble offence and that it is necessary to arrest him and commit him to custody. However, in the last mentioned case, one would expect very strong grounds indeed. ( Raghubir Singh v. State of Bihar [(1986) 4 SCC 481.)” 9.6 Now, so far as the reliance placed upon the decision of t his Court in the case of Mohamed Iqbal Madar Sheikh and Ors. (supra) relied upon by the learned senior counsel appearing on beha lf of the respondent – original Accused No. 1 is concerned, at the outset, it is required to be noted that in the said decision, this Court has not taken a contrary view than the view taken in the case of Aslam Babalal Desai (supra). In the case of Mohamed Iqbal Madar Sheikh and Ors. (supra) , it was a case of refusing to release the accused on defaul t bail. While releasing the accused on default bail, therea fter, this Court observed that if the accused is released on bail because of the default in completion of the investigation, then, no sooner the chargesheet is filed, the ord er granting bail to such accused cannot be cancelled. However, th ereafter, it is observed in paragraph 10 that the bail of such accus ed who has been released, because of the default on the part of the investigating officer to complete the investigation, can be cancelled, but not, only on the ground that after the release, the chargesheet has be en submitted against such accused for an offence. Thereafter, it is further observed that for cancelling the bail, the well-settled principles in respect of cancellation of bail have to be made out as observed by this Court in the case of Aslam Babalal Desai (supra) . Therefore, as such the observations made by this Court in the case of Mohamed Iqbal Madar Sheikh and Ors. (supra) even supports the case on behalf of the C.B.I. that the order granting bail shall be deemed to be under Sec tion 437(1) or (2) or Section 439(1) of the Cr.P.C. and that order can be cancelled when a case for cancellation is made out under Section 437(5) or 439(2) Cr.P.C. 9.7 Thus, when special reasons/grounds are being made out from the chargesheet and the chargesheet reveals the commission of a non- bailable crime, the bail in favour of a person, who has been released on default bail under Section 167(2) Cr.P.C. can be cancelled consideri ng Section 437(5) and Section 439(2) Cr.P.C. 9.8 What can be said to be special grounds for cancellation of the bail, over and above the well-known grounds for cancellation of the bail granted under Section 167(2) Cr.P.C. has been considered by this Cou rt in the case of Raghubir Singh and Ors. Vs. State of Bihar, (1986) 4 SCC 481 . In paragraph 22, it is observed and held as under:- “22. …………………….. Where bail has been granted under the proviso to Section 167(2) for the default of the prosecution THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] in not completing the investigation in 60 days, after the defect is cured by the filing of a charge-sheet, the prosecution ma y seek to have the bail cancelled on the ground that there are reasonabl e grounds to believe that the accused has committed a non-bailab le offence and that it is necessary to arrest him and commit him to custody. In the last mentioned case, one would expect very strong grounds indeed.” 9.9 The decision of Raghubir Singh and Ors. (supra) has been followed by this Court in Rajnikant Jivanlal and Anr. Vs. Intelligence Officer, NCB, New Delhi, (1989) 3 SCC 532, wherein in paragraphs
+
+--- case0055_CH051 ---
+SECTION: decision
+ROLE: judge
+WORDS: 163
+13 and 14, it is observed and held as under:- “13. An order for release on bail under proviso ( a) to Section 167(2) may appropriately be termed as an order- on-default . Indeed, it is a release on bail on the default of the prosecut ion in filing charge-sheet within the prescribed period. The right to bail under Section 167(2) proviso ( a) thereto is absolute. It is a legislative command and not court’s discretion. If t he investigating agency fails to file charge-sheet before the expiry of 90/60 days, as the case may be, the accused in custody should be release d on bail. But at that stage, merits of the case are not to be examin ed . Not at all. In fact, the Magistrate has no power to remand a p erson beyond the stipulated period of 90/60 days. He must pass an order of bail and communicate the same to the accused to furnish the requisite bail bonds.
+
+--- case0055_CH052 ---
+SECTION: decision
+ROLE: judge
+WORDS: 46
+14. The accused cannot, therefore, claim any special right to remain on bail. If the investigation reveals that the accused has committed a serious offence and charge- sheet i s filed, the bail granted under proviso (a) to Section 167(2) could be cancelled .” (emphasis supplied)
+
+--- case0055_CH053 ---
+SECTION: decision
+ROLE: judge
+WORDS: 115
+10. From the above, the law, which emerges is that mere filing of the chargesheet subsequent to a person is released on defau lt bail under Section 167(2) Cr.P.C. cannot be a ground to cancel the bail of a person, who is released on default bail. However, on filing of the charge sheet on conclusion of the investigation, if a strong case is mad e out and on merits, it is found that he has committed a non-bailable offence/crime, o n the special reasons/grounds and considering Section 437(5) and Sect ion 439(2) Cr.P.C, over and above other grounds on which the bail to a person, who is released on bail can be cancelled on merits.
+
+--- case0055_CH054 ---
+SECTION: decision
+ROLE: judge
+WORDS: 75
+11. Therefore, there is no absolute bar as observed and held by the High Court in the impugned judgment and order that once a pe rson is released on default bail under Section 167(2) Cr.P.C., his b ail cannot be cancelled on merits and his bail can be cancelled o n other general grounds like tampering with the evidence/witnesses; not cooperati ng with the investigating agency and/or not cooperating with the concerned Trial Court etc.
+
+--- case0055_CH055 ---
+SECTION: decision
+ROLE: judge
+WORDS: 213
+12. As such, we are in complete agreement with the view taken by this Court in the aforesaid decisions. The submission on behalf of the respondent – original Accused No. 1 and the view taken by the High Court in the impugned judgment and order that once an accused is released on default bail under Section 167(2) Cr.P.C., his bail ca nnot be cancelled on merits is accepted, in that case, it will be givin g a premium to the lethargic and/or negligence, may be in a given case of delibe rate attempt on the part of the investigating agency not to file the char gesheet within the prescribed time period. In a given case, even if the a ccused has committed a very serious offence, may be under the NDPS or even committed murder(s), still however, he manages through a convenient investigating officer and he manages not to file the ch argesheet within the prescribed time limit mentioned under Section 167(2) Cr.P .C. and got released on default bail, it may lead to giving a premium t o illegality and/or dishonesty. As observed hereinabove, such release of the accused on default bail is not on merits at all, and is on the even tuality occurring in proviso to sub-section (2) of Section
+
+--- case0055_CH056 ---
+SECTION: decision
+ROLE: judge
+WORDS: 123
+167. However, subs equently on curing the defects and filing the chargesheet, though a strong case is made out that an accused has committed the very serious of fence and non-bailable crime, the Court cannot cancel the bail and comm it the person into custody and not to consider the gravity of the offence committed by the accused, the Courts will be loathe for such an interpretation, as that would frustrate the justice. The Cour ts have the power to cancel the bail and to examine the merits of t he case in a case where the accused is released on default bail and release d not on merits earlier. Such an interpretation would be in further ance to the administration of justice.
+
+--- case0055_CH057 ---
+SECTION: decision
+ROLE: judge
+WORDS: 77
+13. In view of the above and for the reasons stated above, t he impugned judgment and order passed by the High Court dismissing the THE STA TE THROUGH CENTRAL BUREAU OF INVESTIGA TION V . T. GANGI REDDY @ YERRA GANGI REDDY [M. R. SHAH, J.] application for cancellation of the bail filed by the C.B.I . under Section 439(2) Cr.P.C. deserves to be quashed and set aside and is accordi ngly quashed and set aside.
+
+--- case0055_CH058 ---
+SECTION: decision
+ROLE: judge
+WORDS: 152
+The issue involved in the present appeal is answere d in the affirmative and it is observed and held that in a case whe re an accused is released on default bail under Section 167(2) Cr.P.C., and t hereafter on filing of the chargesheet, a strong case is made out and on special reasons being made out from the chargesheet that the a ccused has committed a non-bailable crime and considering the grounds set out in Sections 437(5) and Section 439(2), his bail can be cancelled on merits and the Courts are not precluded from considering the applicat ion for cancelation of the bail on merits. However, mere filing of the chargesheet is not enough, but as observed and held hereinabove, on the bas is of the chargesheet, a strong case is to be made out that the a ccused has committed non-bailable crime and he deserves to be in cust ody.
+
+--- case0055_CH059 ---
+SECTION: decision
+ROLE: judge
+WORDS: 166
+14. As the High Court has not at all considered on merits the application for cancellation of the bail, the matter is to be remitted to the High Court for considering the said application afresh in acc ordance with law and on merits and in light of the observation s made hereinabove. As pursuant to the earlier judgment and order passed by this Cour t dated 29.11.2022 in Writ Petition (Criminal) No. 169 of 2022, the tria l of the F.I.R. in the present case has been ordered to be transfer red to the C.B.I. Special Court, Hyderabad, the proceedings of the cancel lation of the bail application, which was earlier filed before the High Court of Andhra Pradesh at Amravati are ordered to be transferred to the High Court of Telangana at Hyderabad and now the High Court of Telang ana to consider, decide and dispose of the application for cancella tion of the bail on merits and in light of the observations made hereinabove.
+
+--- case0055_CH060 ---
+SECTION: decision
+ROLE: judge
+WORDS: 20
+Present appeal is allowed accordingly to the aforesaid extent. Nidhi Jain Appeal allowed. (Assisted by : Abhishek Pratap Singh, LCRA)
+
+--- case0055_CH001 ---
+SECTION: title
+ROLE: judge
+WORDS: 7
+T. GANGI REDDY @ YERRA GANGI REDDY

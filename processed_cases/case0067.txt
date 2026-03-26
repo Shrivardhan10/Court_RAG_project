@@ -1,0 +1,240 @@
+
+--- case0067_CH001 ---
+SECTION: title
+ROLE_TAGS: prosecution, defense, judge
+GIRNAR CORRUGATORS PVT. LTD. & ORS.
+
+--- case0067_CH002 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+v. GIRNAR CORRUGATORS PVT. LTD. & ORS. (Civil Appeal No.6662 of
+
+--- case0067_CH003 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+v. GIRNAR CORRUGATORS PVT. LTD. & ORS. (Civil Appeal No.6662 of 2022) JANUARY 05, 2023 [M. R. SHAH AND KRISHNA MURARI, JJ.] Securitisation and Reconstruction of Financial Asse ts and Enforcement of Security Interest Act, 2002 (SARFAES I Act) – ss. 13(2), 13(4), 14, 17, 26E – Micro, Small and Medium En terprises Development Act, 2006 (MSMED Act) – ss. 15-23, 24 – Whether the MSMED Act would prevail over the SARFAESI Act and whet her recovery proceedings/recoveries under MSMED Act wou ld prevail over the recoveries made/recovery proceedings under provisions of the SARFAESI Act – Held : Sec 15 to 23 of the MS MED Act provides a special mechanism for adjudication of disput e between buyer and seller – But does not provides for priority over de bt dues of the secured creditor akin to s.26E of the SARFAE SI Act – A ‘priority’ conferred / provided under Section 26E of the SARF AESI Act would prevail over the recovery mechanism of the MSMED Act – There is no repugnancy between the two Acts – In the a bsence of any specific provision for priority in the MSMED Act , if MSMED Act is allowed to prevail it would defeat the very object and purpose of SARF AESI Act – Under section 14 of the SARF AESI Act, District Magistrate or the Chief Metropolitan Magistrate is requi red to assist the secured creditor in getting the possession of the se cured assets – Neither, District Magistrate or Metropolitan Magi strate would have jurisdiction to adjudicate the matter between secured cr editor and debtor – Person aggrieved by the steps u/s. 13(4) and s.14 of the SARFAESI Act has to approach Debts Recovery Tri bunal by way of appeal/application u/s. 17 of the SARF AESI Act – Re coveries under the SARFAESI Act with respect to the secured a ssets would prevail over the recoveries under the MSMED Act. Allowing the appeal, the Court HELD:
+
+--- case0067_CH004 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2022) JANUARY 05, 2023 [M. R. SHAH AND KRISHNA MURARI, JJ.] Securitisation and Reconstruction of Financial Asse ts and Enforcement of Security Interest Act, 2002 (SARFAES I Act) – ss. 13(2), 13(4), 14, 17, 26E – Micro, Small and Medium En terprises Development Act, 2006 (MSMED Act) – ss. 15-23, 24 – Whether the MSMED Act would prevail over the SARFAESI Act and whet her recovery proceedings/recoveries under MSMED Act wou ld prevail over the recoveries made/recovery proceedings under provisions of the SARFAESI Act – Held : Sec 15 to 23 of the MS MED Act provides a special mechanism for adjudication of disput e between buyer and seller – But does not provides for priority over de bt dues of the secured creditor akin to s.26E of the SARFAE SI Act – A ‘priority’ conferred / provided under Section 26E of the SARF AESI Act would prevail over the recovery mechanism of the MSMED Act – There is no repugnancy between the two Acts – In the a bsence of any specific provision for priority in the MSMED Act , if MSMED Act is allowed to prevail it would defeat the very object and purpose of SARF AESI Act – Under section 14 of the SARF AESI Act, District Magistrate or the Chief Metropolitan Magistrate is requi red to assist the secured creditor in getting the possession of the se cured assets – Neither, District Magistrate or Metropolitan Magi strate would have jurisdiction to adjudicate the matter between secured cr editor and debtor – Person aggrieved by the steps u/s. 13(4) and s.14 of the SARFAESI Act has to approach Debts Recovery Tri bunal by way of appeal/application u/s. 17 of the SARF AESI Act – Re coveries under the SARFAESI Act with respect to the secured a ssets would prevail over the recoveries under the MSMED Act. Allowing the appeal, the Court HELD: 1. In the entire Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act), there is no [2023] 1 S.C.R. 873 specific express provision giving ‘priority’ for paym ents under the MSMED Act over the dues of the secured creditors or over any taxes or cesses payable to Central Government o r State Government or Local Authority as the case may be. I n sharp contrast to this, Section 26E of the Securitisation and Reconstruction of Financial Assets and Enforcement of Secu rity Interest Act, 2002 (SARFAESI Act) which has been insert ed vide Amendment in 2016, it provides that notwithstanding anyth ing inconsistent therewith contained in any other law f or the time being in force, after the registration of security interest, th e debts due to any secured creditor shall be paid in ‘prior ity’ over all other debts and all revenue taxes and cesses and ot her rates payable to the Central Government or State Government or Local Authority. However, the priority to secured creditors in payment of debt as per Section 26E of the SARFAESI Act shall b e subject to the provisions of the IBC. At this stage, it is re quired to be noted Section 26E of the SARFAESI Act which is inse rted in
+
+--- case0067_CH005 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2016 is also having a non-obstante clause. As per t he settle position of law, if the legislature confers the later enac tment with a non-obstante clause, it means the legislature wan ted the subsequent / later enactment to prevail. Thus, a ‘p riority’ conferred / provided under Section 26E of the SARFA ESI Act would prevail over the recovery mechanism of the MSMED Act . Sections 15 to 23 of the MSMED Act are providing a special mechanism for adjudication of the disputes and to adjudicate a nd resolve the disputes between the supplier and buyer – micro or small enterprise. At the cost of repetition, it is observed that MSMED Act does not provide any priority over the debt dues of the secured creditor akin to Section 26E of the SARFAESI Act. [Para 7][883-B-G]
+
+--- case0067_CH006 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2. SARFAESI Act has been enacted providing specific mechanism / provision for the financial assets and security interest. It is a special legislation for enforceme nt of security interest which is created in favour of the secured creditor – financial institution. Therefore, in absence of any specific provision for priority of the dues under MSMED Act, if the submission on behalf of respondent No.1 for the due s under MSMED Act would prevail over the SARFAESI Act, then in that case, not only the object and purpose of special en actment / SARFAESI Act would be frustrated, even the later enactm ent by way of insertion of Section 26E of the SARFAESI Act would b e frustrated. If the submission on behalf of responde nt No.1 is accepted, then in that case, Section 26E of the SARF AESI Act would become nugatory and would become otiose and/o r redundant. Any other contrary view would be defeati ng the provision of Section 26E of the SARFAESI Act and also the object and purpose of the SARFAESI Act. [Para 9][884-D-G]
+
+--- case0067_CH007 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2. SARFAESI Act has been enacted providing specific mechanism / provision for the financial assets and security interest. It is a special legislation for enforceme nt of security interest which is created in favour of the secured creditor – financial institution. Therefore, in absence of any specific provision for priority of the dues under MSMED Act, if the submission on behalf of respondent No.1 for the due s under MSMED Act would prevail over the SARFAESI Act, then in that case, not only the object and purpose of special en actment / SARFAESI Act would be frustrated, even the later enactm ent by way of insertion of Section 26E of the SARFAESI Act would b e frustrated. If the submission on behalf of responde nt No.1 is accepted, then in that case, Section 26E of the SARF AESI Act would become nugatory and would become otiose and/o r redundant. Any other contrary view would be defeati ng the provision of Section 26E of the SARFAESI Act and also the object and purpose of the SARFAESI Act. [Para 9][884-D-G] 3. While exercising power under Section 14 of the SARFAESI Act, even the District Magistrate has no juris diction and/or District Magistrate and/or even the Chief Metro politan Magistrate has no jurisdiction to adjudicate the dispute between secured creditor and debtor. Under Section 14 of the SARF AESI Act, the District Magistrate or the Chief Metropolitan Magistrate as the case may be is required to assist the secured c reditor in getting the possession of the secured assets. Under Section 14 of the SARFAESI Act, neither District Magistrate no r Metropolitan Magistrate would have any jurisdiction to adju dicate and/or decide the dispute even between the secured creditor and the debtor. If any person is aggrieved by the s teps under Section 13(4) / order passed under Section 14, then the aggrieved person has to approach the Debts Recovery Tribunal by way of appeal / application under Section 17 of the SARFAESI Ac t. It is observed and held that so far as recoveries under the SA RFAESI Act with respect to the secured assets would prevai l over the recoveries under the MSMED Act to recover the amount unde r the award / decree passed by the Facilitation Council. [Pa ras 10 and 11][885-B-D, F-G] CIVIL APPELLATE JURISDICTION : Civil Appeal No. 6662 of
+
+--- case0067_CH008 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+3. While exercising power under Section 14 of the SARFAESI Act, even the District Magistrate has no juris diction and/or District Magistrate and/or even the Chief Metro politan Magistrate has no jurisdiction to adjudicate the dispute between secured creditor and debtor. Under Section 14 of the SARF AESI Act, the District Magistrate or the Chief Metropolitan Magistrate as the case may be is required to assist the secured c reditor in getting the possession of the secured assets. Under Section 14 of the SARFAESI Act, neither District Magistrate no r Metropolitan Magistrate would have any jurisdiction to adju dicate and/or decide the dispute even between the secured creditor and the debtor. If any person is aggrieved by the s teps under Section 13(4) / order passed under Section 14, then the aggrieved person has to approach the Debts Recovery Tribunal by way of appeal / application under Section 17 of the SARFAESI Ac t. It is observed and held that so far as recoveries under the SA RFAESI Act with respect to the secured assets would prevai l over the recoveries under the MSMED Act to recover the amount unde r the award / decree passed by the Facilitation Council. [Pa ras 10 and 11][885-B-D, F-G] CIVIL APPELLATE JURISDICTION : Civil Appeal No. 6662 of 2022. From the Judgment and Order dated 11.08.2017 of the High Court of Madhya Pradesh Bench at Indore in Writ Appeal No.248 of
+
+--- case0067_CH009 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2022. From the Judgment and Order dated 11.08.2017 of the High Court of Madhya Pradesh Bench at Indore in Writ Appeal No.248 of 2017. Amar Dave, Himanshu Bhushan, Krishnayan Sen, Advs. for the Appellant. KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. Saurabh Mishra, AAG, Niranjan Reddy, Sr. Adv., Pulkit Tare, Aditya Shekhar, Abhishek Sharma, Sunny Choudhary, S hiv Sagar Tiwari, Arjun Garg, Advs. for the Respondents. The Judgment of the Court was delivered by M. R. SHAH, J.
+
+--- case0067_CH010 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2017. Amar Dave, Himanshu Bhushan, Krishnayan Sen, Advs. for the Appellant. KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. Saurabh Mishra, AAG, Niranjan Reddy, Sr. Adv., Pulkit Tare, Aditya Shekhar, Abhishek Sharma, Sunny Choudhary, S hiv Sagar Tiwari, Arjun Garg, Advs. for the Respondents. The Judgment of the Court was delivered by M. R. SHAH, J. 1. Feeling aggrieved by and dissatisfied with the imp ugned judgment and order passed by the Division Bench of the High Court of Madhya Pradesh at Indore dated 11.08.2017 in Writ Appeal No. 248 of 2017, by which the Division Bench of the High Court has allowed the said appeal preferred by respondent No.1 herein and has quashed and set aside the judgment and order passed by the learned Single Judge and has observed and held that Micro, Small and Medium Ente rprises Development Act, 2006 (hereinafter referred to as ‘MSMED Act’) will prevail over Securitisation and Reconstruction of Financial As sets and Enforcement of Security Interest Act, 2002 (hereinafter re ferred to as ‘SARFAESI Act’), the secured creditor – Kotak Mahindra Bank Limited has preferred the present appeal. The facts leading to the present appeal, in nut shell, are a s under: 1.1 One Mission Vivacare (hereinafter referred to as ‘deb tor’) advanced various credit facilities by the appellant bank – secured creditor. In order to secure the various credit facilities, P lot Nos. 16 and 14, situated in SEZ Area of Dhar were mortgaged along with certain m ovable fixed assets. 1.2 On account of default in payment of loan / debt, the bank- initiated recovery proceedings in respect of the se cured assets contemplated under Section 13(2) of the SARFAESI Act. The bank – secured creditor filed an application before the District Magistrate on 17.06.2014 under Section 14 of the SARFAESI Act seeking assistance from taking possession of the secured assets. By order date d 24.09.2014, the District Magistrate allowed the said applicatio n by directing the SDM, District: Dhar to take vacant possession of the secured assets. However, no action was taken and therefore, the bank submitted appli cations to the District Magistrate and the SDM complaining non-compl iance of the order to take possession of the secured assets. Finally, SDM issued direction to the Naib Tehsildar vide communication dated 07.11.2015 to comply the order of the District Magistrate and obtain the p ossession by taking police assistance. Thereafter vide order dated 21.03.2016, Naib Tehsildar refused to take possession and to comply the ord er dated 24.09.2014 on the ground that one recovery proceeding is pending for recovery of certain amounts from the secured assets and on th e ground that the recovery certificate issued in favour of res pondent No.1 (original respondent No.4 before the High Court) was already pending for recovery of certain amounts from the aforesaid two secured a ssets. At this stage, it is required to be noted that the recovery cer tificates were issued in favour of respondent No.1 pursuant to the award passed by the Facilitation Council on 11.09.2014 which was in favour of respondent No.1 herein, which was under provisions of MSMED Act. The order passed by the Naib Tehsildar refusing to take possession of the secured assets pursuant to the order passed by the District Magi strate dated 24.09.2014 was the subject matter of writ petition before th e learned Single Judge of the High Court by way of Writ Petition No.2569 of
+
+--- case0067_CH011 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+1. Feeling aggrieved by and dissatisfied with the imp ugned judgment and order passed by the Division Bench of the High Court of Madhya Pradesh at Indore dated 11.08.2017 in Writ Appeal No. 248 of 2017, by which the Division Bench of the High Court has allowed the said appeal preferred by respondent No.1 herein and has quashed and set aside the judgment and order passed by the learned Single Judge and has observed and held that Micro, Small and Medium Ente rprises Development Act, 2006 (hereinafter referred to as ‘MSMED Act’) will prevail over Securitisation and Reconstruction of Financial As sets and Enforcement of Security Interest Act, 2002 (hereinafter re ferred to as ‘SARFAESI Act’), the secured creditor – Kotak Mahindra Bank Limited has preferred the present appeal. The facts leading to the present appeal, in nut shell, are a s under: 1.1 One Mission Vivacare (hereinafter referred to as ‘deb tor’) advanced various credit facilities by the appellant bank – secured creditor. In order to secure the various credit facilities, P lot Nos. 16 and 14, situated in SEZ Area of Dhar were mortgaged along with certain m ovable fixed assets. 1.2 On account of default in payment of loan / debt, the bank- initiated recovery proceedings in respect of the se cured assets contemplated under Section 13(2) of the SARFAESI Act. The bank – secured creditor filed an application before the District Magistrate on 17.06.2014 under Section 14 of the SARFAESI Act seeking assistance from taking possession of the secured assets. By order date d 24.09.2014, the District Magistrate allowed the said applicatio n by directing the SDM, District: Dhar to take vacant possession of the secured assets. However, no action was taken and therefore, the bank submitted appli cations to the District Magistrate and the SDM complaining non-compl iance of the order to take possession of the secured assets. Finally, SDM issued direction to the Naib Tehsildar vide communication dated 07.11.2015 to comply the order of the District Magistrate and obtain the p ossession by taking police assistance. Thereafter vide order dated 21.03.2016, Naib Tehsildar refused to take possession and to comply the ord er dated 24.09.2014 on the ground that one recovery proceeding is pending for recovery of certain amounts from the secured assets and on th e ground that the recovery certificate issued in favour of res pondent No.1 (original respondent No.4 before the High Court) was already pending for recovery of certain amounts from the aforesaid two secured a ssets. At this stage, it is required to be noted that the recovery cer tificates were issued in favour of respondent No.1 pursuant to the award passed by the Facilitation Council on 11.09.2014 which was in favour of respondent No.1 herein, which was under provisions of MSMED Act. The order passed by the Naib Tehsildar refusing to take possession of the secured assets pursuant to the order passed by the District Magi strate dated 24.09.2014 was the subject matter of writ petition before th e learned Single Judge of the High Court by way of Writ Petition No.2569 of 2016. While refusing to take possession of the secured assets pursua nt to the order passed by the District Magistrate under Sect ion 14 of the SARFAESI Act, Naib Tehsildar observed that MSMED Act be ing a special enactment enacted subsequent to SARFAESI Act would have overriding effect and therefore, MSMED Act would prevail over the SARFAESI Act. 1.3 The learned Single Judge allowed the writ petition preferred by the bank – secured creditor and set aside the order passe d by the Naib Tehsildar by observing that the provisions of SA RFAESI Act would prevail and if respondent No.1 is aggrieved by the order passed by t he District Magistrate under Section 14 of the SARFAESI Act or the measures taken under Section 13(4) of the SARFAESI Act, he may prefer an appeal/application under Section 17 of the SARFAE SI Act before the Debts Recovery Tribunal. 1.4 Feeling aggrieved by and dissatisfied with the judgment and order passed by the learned Single Judge holding that the SAR FAESI Act would prevail, respondent No.1 herein in whose favour there was an award under provisions of the MSMED Act and in whose favour the recovery certificates were issued, filed the present writ appeal before the Division Bench of the High Court. By the impugned judgment and KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. [M. R. SHAH, J.] order, the Division Bench of the High Court has allowed the said appeal and has set aside the judgment and order passed by the learned Singl e Judge and has observed and held that MSMED Act being the l ater enactment, the same shall prevail over the SARFAESI Act . 1.5 The impugned judgment and order passed by the Division Bench of the High Court holding that MSMED Act bein g later enactment, the same would prevail over the SARFAESI Act the bank – se cured creditor has preferred the present appeal.
+
+--- case0067_CH012 ---
+SECTION: facts
+ROLE_TAGS: prosecution, defense, judge
+2016. While refusing to take possession of the secured assets pursua nt to the order passed by the District Magistrate under Sect ion 14 of the SARFAESI Act, Naib Tehsildar observed that MSMED Act be ing a special enactment enacted subsequent to SARFAESI Act would have overriding effect and therefore, MSMED Act would prevail over the SARFAESI Act. 1.3 The learned Single Judge allowed the writ petition preferred by the bank – secured creditor and set aside the order passe d by the Naib Tehsildar by observing that the provisions of SA RFAESI Act would prevail and if respondent No.1 is aggrieved by the order passed by t he District Magistrate under Section 14 of the SARFAESI Act or the measures taken under Section 13(4) of the SARFAESI Act, he may prefer an appeal/application under Section 17 of the SARFAE SI Act before the Debts Recovery Tribunal. 1.4 Feeling aggrieved by and dissatisfied with the judgment and order passed by the learned Single Judge holding that the SAR FAESI Act would prevail, respondent No.1 herein in whose favour there was an award under provisions of the MSMED Act and in whose favour the recovery certificates were issued, filed the present writ appeal before the Division Bench of the High Court. By the impugned judgment and KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. [M. R. SHAH, J.] order, the Division Bench of the High Court has allowed the said appeal and has set aside the judgment and order passed by the learned Singl e Judge and has observed and held that MSMED Act being the l ater enactment, the same shall prevail over the SARFAESI Act . 1.5 The impugned judgment and order passed by the Division Bench of the High Court holding that MSMED Act bein g later enactment, the same would prevail over the SARFAESI Act the bank – se cured creditor has preferred the present appeal. 2. Shri Amar Dave, learned counsel appearing for the appell ant bank – secured creditor has vehemently submitted that as suc h, there is no repugnancy between the provisions of SARFAESI Act and M SMED Act.
+
+--- case0067_CH013 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that non- obstante clause in the MS MED Act, i.e. Section 24 provides that provisions under Sections 15 to 23 shall h ave effect notwithstanding anything inconsistent therewith contained i n any other law for the time being in force.
+
+--- case0067_CH014 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that Sections 15 to 23 of the MSMED Act only provide for special mechan ism for adjudication of the dispute along with enforcing certai n other contractual and business terms on the parties such as time limit for payments and interest in case of delayed payments.
+
+--- case0067_CH015 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that the perusal of the said scheme, from Sections 15 to 23 of the MSMED Act, clear ly shows that there is no express ‘priority’ envisaged for payments under the MSMED Act over the dues of secured creditors or over any taxes or cesses payable to Central Government or State Governmen t or Local Authority as the case may be.
+
+--- case0067_CH016 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that no provisi on to this effect is consciously provided.
+
+--- case0067_CH017 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that in shar p contrast to this, the perusal of the scheme of SARFAESI Act, including in S ection 26E, thereof leaves no room for doubt that the legislature ha s expressly and unambiguously provided for a legal framework exclusively on t he issue of ‘priority’ of payment of dues.
+
+--- case0067_CH018 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted t hat in case of certain other legislations, there is express provision f or the manner in which the dues thereunder may either have a charge over the p roperty or have ‘priority’ over other dues. Reference is made to the provisi ons of the Maharashtra Value Added Tax Act, 2002; Employees’ Pro vident Fund and Miscellaneous Provisions Act, 1952; Kerala General S ales Tax Act, 1963; Workmen’s Compensation Act, 1923; Central Excise Act, 1944; Enforcement of Security Interest and Recovery De bts Laws and Miscellaneous Provisions (Amendment) Act, 2016, etc.
+
+--- case0067_CH019 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that in the absence of such express provisions, there can be no basis to ignore the specific scheme of the SARFAESI Act in compari son to such specific scheme under the MSMED Act with regard to ‘prior ity’ of payments.
+
+--- case0067_CH020 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that any such ‘priority’ over a nd above the dues of secured creditors or government dues has to be expres sly and unambiguously provided for and cannot be read by implication. It is submitted that viewed from this angle, in fact, the re is no conflict between the two schemes, i.e. MSMED Act and SARFAESI Act as far a s the specific subject of ‘priority’ is concerned. 2.1 It is further submitted that Section 26E of the SARFAESI Act being subsequently inserted vide amendment in 2016, the non-obstante clause in Section 26E of the SARFAESI Act shall prevail over the provisions of MSMED Act. Reliance is placed on the decision of this Court in case of Bank of India vs. Ketan Praekh & Ors. [(2008) 8 SCC
+
+--- case0067_CH021 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+148 (para 28)] . 2.2 Making above submissions, it is prayed to allow the pr esent appeal and quash and set aside the impugned judgment and order passed by the Division Bench and restore the judgment and order passed by the learned Single Judge by holding that the recoveries under SARFAESI Act shall be accorded priority over recoveries under MSMED Act. 3.
+
+--- case0067_CH022 ---
+SECTION: decision
+ROLE_TAGS: judge, prosecution, defense
+The present appeal is vehemently opposed by Shri Nir anjan Reddy, learned Senior Counsel appearing for respondent No.1. 3.1 Learned counsel appearing for respondent No.1 has vehemently submitted that MSMED Act has been enacted to promote and protect the interests of the small a nd medium scale enterprises which is a source of livelihood for sev eral citizens and contributes towards 27% to the GDP. It is submitted that therefore, aggressive provisions were brought in for the recovery of dues and compound interests are given in MSMED Act which is not present in any other legislations and is in the nature of a beneficial legisla tion. It is submitted that therefore, in view of Section 24 of the MSMED Act which provides for an overriding effect over other prevailing laws, the provisions with respect to KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. [M. R. SHAH, J.] recoveries under MSMED Act shall prevail over the recoveries under SARFAESI Act.
+
+--- case0067_CH023 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+3.2 It is submitted that the financial institutions have vari ous other means of recovery including SARFAESI Act, IBC etc. as being a secured creditor to an extent of also taking personal guarantee from the Directors of the company in certain cases. However, such liberty of taking personal guarantees etc. are not available to MSME and they completely rely on MSMED Act for recovery of dues and as such have only one method of recovery by virtue of the award which is in the nature of a decree from the F acilitation Council.
+
+--- case0067_CH024 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that in the above said context, an overriding provision is provided under Section 24 of the MSMED Act.
+
+--- case0067_CH025 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+3.3 It is submitted that Section 24 of the MSMED Act provide s for an overriding effect over other prevailing laws. It is submitted that the provisions of Sections 15 to 23 of the MSMED Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.
+
+--- case0067_CH026 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that the entire schem e of provisions under Chapter V – Sections 15 to 23 which includes delayed payments, recovery of amounts due, and establishment of Facilitation Council and its award has an overriding effect on all other legislations includi ng SARFAESI Act.
+
+--- case0067_CH027 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that therefore, an award from the Facilitation Council will also have an overrid ing effect by virtue of Section 24.
+
+--- case0067_CH028 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that t he intention of the legislature is clear as the overri ding provision is for a particular set of delayed payments recover y mechanism provided under MSMED Act which is also in consonance with object and purpose of the MSMED Act. 3.4 It is further submitted that MSMED Act is a subsequent legislation and by providing Section 24 of the MSMED Ac t, the legislature has purposefully and knowingly superseded all the recovery procedures prevailing at that relevant poi nt of time, by its non-obstante clause.
+
+--- case0067_CH029 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that if any contrary interpretation is to be given to the sai d position of law, then the same would make Section 24 redundant, which by all means is not the intention of the legislature. It is submitted that if SARFAESI Act is given overridi ng effect over the MSMED Act, then it would render awards of the Facilitation Council as non-executable in all cases where there is a secured creditor.
+
+--- case0067_CH030 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that the same would severely affect the existence and growth of the MSME and is also against object of the MSMED Act.
+
+--- case0067_CH031 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+3.5 It is submitted that as per the law laid down by this Cour t in catena of decisions, if two enactments have competing no n- obstante provision and nothing repugnant, then the non- obstante clause of the subsequent statute would prevail over the earlier enactments.
+
+--- case0067_CH032 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that the principl e therefore would be that the court must look into th e objectives of the two Special Acts.
+
+--- case0067_CH033 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that if the le gislature still confers the later enactment with a non-obstante clau se, it means the legislature wanted the enactment to prevail. It is submitted that therefore, non-obstante clause in MS MED Act, i.e. Section 24 would prevail over the recovery mechanism of SARFAESI Act, being enacted later in point of time, overriding all other laws being in force at tha t point of time.
+
+--- case0067_CH034 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+3.6 It is submitted that the State Madhya Pradesh in exercise of powers conferred under Section 30 read with sub-secti on (3) of Section 21 of the MSMED Act made the Rules known as ‘M.P. Micro and Small Enterprises Facilitation Council Rules, 2006’ for procedure to be followed for recovery of amounts due.
+
+--- case0067_CH035 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that under the said Rules, the decree, award or order passed under provisions of MSMED Act shall be executed by the Collector of the Distric t concerned and the amount due shall be recovered as arrears of land revenue.
+
+--- case0067_CH036 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that as per Section 137 of Madhya Pradesh Land Revenue Code, 1959, land revenue would have first charge on the proceeds of the recovery of dues from the subject property.
+
+--- case0067_CH037 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted tha t KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. [M. R. SHAH, J.] SARFAESI Act does not provide that it will have precedence over a decree / award of the decree holder.
+
+--- case0067_CH038 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+3.7 It is submitted that Section 240A of the IBC, 2016 provides exception of certain provisions of Section 29A of the IBC to MSME.
+
+--- case0067_CH039 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that it is a settled law that IBC, 2016 would override SARFAESI Act and therefore, in the said context also, MSMED Act may have precedence over SARFAESI Act. 3.8 It is further submitted that MSMED Act is an extension of the welfare policy of the State and may need to be considered in order to balance the larger public interest of the small and medium scale enterprises and their means of existence.
+
+--- case0067_CH040 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+It is submitted that therefore, to strike the balance of interest for survival of small and medium scale enterprises, it is prayed to interpret the provisions in f avour of the small and medium scale enterprises and to hold that the recoveries under MSMED Act would prevail over the recoveries under SARFAESI Act. 3.9 Making above submissions, it is prayed to dismiss the present appeal. 4. Heard learned counsel appearing for the respective parties at length. 5. The short question which is posed for the consideration of th is Court is whether the MSMED Act would prevail over the SAR FAESI Act? The question is whether recovery proceedings / recoveries unde r the MSMED Act would prevail over the recoveries made / recovery proceedings under provisions of the SARFAESI Act?
+
+--- case0067_CH041 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+6. It is the case on behalf of respondent No.1 that in view of Section 24 of the MSMED Act which provides that the provisions of Sections 15 to 23 of the MSMED Act would have overriding ef fect and shall have effect notwithstanding anything inconsiste nt therewith contained in any other law for the time being in force and in v iew of the fact that the MSMED Act being a later enactment, then th e SARFAESI Act, the MSMED Act would prevail over the SARFAESI Act. H883 KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. [M. R. SHAH, J.]
+
+--- case0067_CH042 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+7. While appreciating the above submissions, it is required to be appreciated that Sections 15 to 23 of the MSMED Act only provi de for special mechanism for adjudication of the dispute along with enforcing certain other contractual and business terms on the parties s uch as time limit for payments and interest in case of delayed pay ments. In the entire MSMED Act, there is no specific express provision giving ‘pri ority’ for payments under the MSMED Act over the dues of the secure d creditors or over any taxes or cesses payable to Central Governmen t or State Government or Local Authority as the case may be. In sharp contrast to this, Section 26E of the SARFAESI Act which has been inserted vide Amendment in 2016, it provides that notwithstanding anything inconsistent therewith contained in any other law for the time being i n force, after the registration of security interest, the debts due to any secured creditor shall be paid in ‘priority’ over all other debts and all revenue taxes and cesses and other rates payable to the Central Governme nt or State Government or Local Authority. However, the priorit y to secured creditors in payment of debt as per Section 26E of the SARFAESI Act sha ll be subject to the provisions of the IBC. Therefore, such dues vis-a -vis dues under the MSMED Act, as per the decree or order pas sed by the Facilitation Council debts due to the secured creditor shall have a priority in view of Section 26E of the SARFAESI Act which is later enactment in point of time than the MSMED Act. At this stage, it is required to be noted Section 26E of the SARFAESI Act which is inserted in 2016 is also having a non-obstante clause. Even as per the submission on behalf of respondent No.1, two enactments have competing non-ob stante provision and nothing repugnant, then the non-obstante clause of the subsequent statute would prevail over the earlier enactm ents. As per the settle position of law, if the legislature confers the later enactment with a non-obstante clause, it means the legislatur e wanted the subsequent / later enactment to prevail. Thus, a ‘priority’ confer red / provided under Section 26E of the SARFAESI Act would prevail over the recovery mechanism of the MSMED Act. The aforesaid is to be considered along with the fact that under provisions of the MSMED Act, more p articularly Sections 15 to 23, no ‘priority’ is provided with respect to the dues under the MSMED Act, like Section 26E of the SARFAESI Act.
+
+--- case0067_CH043 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+8. As observed hereinabove, Sections 15 to 23 of the MSMED Act are providing a special mechanism for adjudication of the disputes and to adjudicate and resolve the disputes between the sup plier and buyer – micro or small enterprise. At the cost of repetit ion, it is observed that MSMED Act does not provide any priority over the debt dues of the secured creditor akin to Section 26E of the SARFAESI Act. A t the most, the decree / order / award passed by the Facilitat ion Council shall be executed as such and the micro or small enterprise in whose fa vour the award or decree has been passed by the Facilitation Cou ncil shall be entitled to execute the same like other debts / creditors . Therefore, considering the provisions of Sections 15 to 23 read with Se ction 24 of the MSMED Act and the provisions of the SARFAESI Act, a s such, there is no repugnancy between two enactments viz. SARFAESI A ct and MSMED Act. As such, there is no conflict between two sc hemes, i.e. MSMED Act and SARFAESI Act as far as the specifi c subject of ‘priority’ is concerned.
+
+--- case0067_CH044 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+9. At this stage, the object and purpose of the enact ment of SARFAESI Act is required to be considered. SARFAESI Act has be en enacted to regulate securitization and reconstruction of fina ncial assets and enforcement of security interest and to provide for a cen tral debts of security interest created on property rights, and for ma tters connected therewith or incidental thereto. Therefore, SARFAESI Act h as been enacted providing specific mechanism / provision for t he financial assets and security interest. It is a special legislation for enforcement of security interest which is created in favour of the secured creditor – financial institution. Therefore, in absence of any specific pro vision for priority of the dues under MSMED Act, if the submission on behalf of r espondent No.1 for the dues under MSMED Act would prevail over the S ARFAESI Act, then in that case, not only the object and purpo se of special enactment / SARFAESI Act would be frustrated, even th e later enactment by way of insertion of Section 26E of the SARFAESI Act would be frustrated. If the submission on behalf of respondent No.1 is a ccepted, then in that case, Section 26E of the SARFAESI Act would become nugatory and would become otiose and/or redundant. Any other contrary view would be defeating the provision of Section 26E of the S ARFAESI Act and also the object and purpose of the SARFAESI Act.
+
+--- case0067_CH045 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+10. Even otherwise the Naib Tehsildar was not at all justified in not taking possession of the secured assets / propertie s as per order dated 24.09.2014 passed by the District Magistrate under Section 14 of the SARFAESI Act. The order passed by the Naib Tehsilda r refusing to take possession of the secured assets / properties des pite the order passed under Section 14 of the SARFAESI Act on the ground that recov ery certificates issued by respondent No.1 for recovery of the or ders passed by the Facilitation Council are pending, is wholly without juri sdiction. While exercising power under Section 14 of the SARFAESI Act, eve n the District Magistrate has no jurisdiction and/or Dis trict Magistrate and/ or even the Chief Metropolitan Magistrate has no ju risdiction to adjudicate the dispute between secured creditor and debtor. Under Section 14 of the SARFAESI Act, the District Magistrate or the Chief Metropolitan Magistrate as the case may be is required to assist the s ecured creditor in getting the possession of the secured assets. Under Se ction 14 of the SARFAESI Act, neither District Magistrate nor Metropol itan Magistrate would have any jurisdiction to adjudicate and/or decide the dis pute even between the secured creditor and the debtor. If any person is aggrieved by the steps under Section 13(4) / order passed under Section 14, then the aggrieved person has to approach the Debts Recovery Tribunal by way of appeal / application under Section 17 of the SARFAESI Act. Therefore, the order passed by the Naib Tehsildar refusing to take the possession pursuant to the order passed by the District Magi strate under Section 14 of the SARFAESI Act was wholly without jurisdiction a nd therefore also the same was liable to be set aside.
+
+--- case0067_CH046 ---
+SECTION: prosecution_arguments
+ROLE_TAGS: prosecution, judge
+11. In view of the above and further reasons stated above, t he impugned judgment and order passed by the Division Bench of the Hi gh Court is unsustainable and the same deserves to be quashed and set aside.
+
+--- case0067_CH047 ---
+SECTION: decision
+ROLE_TAGS: judge, prosecution, defense
+Consequently, the present appeal is allowed. The impugned judgment and order dated 11.08.2017 passed by the Division Bench of the High Court of Madhya Pradesh at Indore in Writ Appeal No. 268 of Single Judge is hereby restored. It is observed and held that so far as recoveries under the SARFAESI Act with respect to the secure d assets would prevail over the recoveries under the MSMED Act to re cover the amount under the award / decree passed by the Facilitation Counci l. It is rightly observed by the learned Single Judge that if respondent No.1 is aggrieved by the order passed by the District Magistrate under Section 14 of the SARFAESI Act, it will be open for him to init iate proceedings under Section 17 of the SARFAESI Act which be consi dered in KOTAK MAHINDRA BANK LTD. v. GIRNAR CORRUGATORS PVT. LTD. & ORS. [M. R. SHAH, J.] accordance with law and on its merits and subject to the provisi ons of Section 17 and the provisions of the SARFAESI Act. 12.
+
+--- case0067_CH048 ---
+SECTION: decision
+ROLE_TAGS: judge, prosecution, defense
+The present appeal is accordingly allowed. No order as to costs. Ankit Gyan Appeal allowed. (Assisted by : Abhishek Pratap Singh and Rahul Rath i, LCRAs)

@@ -1,0 +1,90 @@
+
+--- case0020_CH002 ---
+SECTION: facts
+ROLE: defense
+WORDS: 155
+289 TALAT SANVI v. STATE OF JHARKHAND & ANR. (Criminal Appeal No. 205 of 2023) JANUARY 24, 2023 [SANJAY KISHAN KAUL AND ABHAY S. OKA, JJ.] Victim compensation: Interim victim compensation in proceedings for anticipatory bail cannot be imposed as a conditi on for the same – Question of interim victim compensation cannot form part of the bail jurisprudence – Bail – Code of Criminal Procedure, 1973 – s. 357. Allowing the appeal, the Court HELD: 1. Section 357 of the Code of Criminal Procedure provides for order to pay compensation when a court imposes a sentence of fine or a sentence (includinga sentence of death) of which fine forms a part in the circumstances enumerated t herein. Sub-section (2) imposes a limitation that when fine is im posed in a case which is subject to appeal no such payment shal l be made before the period allowed for presenting the appeal has el apsed,or
+
+--- case0020_CH003 ---
+SECTION: decision
+ROLE: defense
+WORDS: 77
+if an appeal is presented, before the decision of the app eal. Under sub-section (3), it is by way of compensation for the person who has suffered any loss or injury by reason of the act for whic h the accused person has been so sentenced. Sub-section ( 4) also provides for the appellate court or the High Court or Cou rt of Sessions to direct payment of compensation when exercising its power of revisions. [Para 9][291-E-G]
+
+--- case0020_CH004 ---
+SECTION: decision
+ROLE: defense
+WORDS: 88
+2. Victim compensation is simultaneous with the final vi ew taken in respect of the alleged offence, i.e.,wheth er it was so committed or not and, thus, there is no question of any imposition pre-finality of the matter pre-trial. [Para 10][291-G-H] Sahab alam @ Guddu v. The State of Jharkhand & Anr . Criminal Appeal No. 1318 of 2022, dated 24.08.2022; Udho Thakur and Anr. ETC. v. The State of Jharkhand & Anr. Criminal Appeal Nos.1703-1704 of 2022 dated 29.09.2022; Dharmesh v. State of Gujarat (2021) 7 SCC
+
+--- case0020_CH005 ---
+SECTION: decision
+ROLE: defense
+WORDS: 104
+198 – relied on. [2023] 1 S.C.R. 289 CASE LAW REFERENCE (2021) 7SCC 198 relied on Para 11 CRIMINAL APPELLATE JURISDICTION : Criminal appeal no. 205 of 2023. From the Judgment and Order dated 25.11.2021 of the High Co urt of Jharkhand at Ranchi in ABA No.6003 of 2020. Ganesh Khanna, Gaurav Kumar, Armoghan Mumtaz, Himanshu Bhushan, Advs. for the Appellant. Vishnu Sharma, Ms. Madhusmita Bora, Dipankar Singh, Mrs. Anupama Sharma, Riju Raj Singh Jamwal, Bir Inder Si ngh Gurm, Manish Kumar, Ms. Anum Hussain, Advs. for the Respondents. The Judgment of the Court was delivered by SANJAY KISHAN KAUL, J. Leave granted. 1.
+
+--- case0020_CH006 ---
+SECTION: decision
+ROLE: defense
+WORDS: 110
+The issue raised in this appeal is that whether interi m victim compensation in proceedings for anticipatory bail can be i mposed as a condition for the same. 2. We do believe that the impugned order suffers fro m an infraction of law as the question of interim victim compensation cannot form part of the bail jurisprudence. 3. This issue already stands clarified by the pronouncements of this Court inter alia in Sahab alam @ Guddu v. The State of Jharkhand & Anr. - Criminal Appeal No.1318/2022, dated 24.08.2022 and Udho Thakur and Anr. ETC. v. The State of Jharkhand & Anr. - Criminal Appeal Nos.1703-1704 of 2022 dated 29.09.2022.
+
+--- case0020_CH007 ---
+SECTION: decision
+ROLE: defense
+WORDS: 115
+4. In Sahab Alam case (supra) we had dealt with the orders passed by the learned Judge in various matters grantin g bail on condition of depositing substantive sums of money without consideration of the requirements of bail dependent on the nature of offences and thus, it was observed that bail cannot per se be granted if a person can afford to deposit the money or has the capacity to pay. 5. All the impugned orders were set aside and the matter w as remitted back. 6. In Udho Thakur (supra) the aspect of use of expression “ victim compensation ” was found to be inappropriate as pre-arrest bail proceedings are not money recovery proceedings.
+
+--- case0020_CH008 ---
+SECTION: decision
+ROLE: defense
+WORDS: 44
+7. The matter in this case is one step further as it is not a payment of money/deposit of money as a condition of grant of anticipatory bail but the direction is to pay interim victim compensat ion in the proceedings for anticipatory bail.
+
+--- case0020_CH009 ---
+SECTION: decision
+ROLE: defense
+WORDS: 137
+8. Looking back on the aspect of victim compensation we may note that in 1960s the ‘victimology’ movement made way for moneta ry compensations offered an incentive to governments by linking such compensation to victims’ cooperation in the pursuit of criminal prosecutions. Canada and several states within the United States began providing victim compensation and thereby encouraged participat ion in criminal prosecutions. The early 80s witnessed the pioneers of victimology and victim justice taking predominant initiatives o f reforming the criminal justice system on behalf of the victims of crime. The UN D eclaration on Basic Principles of Justice for Victims and Abuse o f Power was unanimously adopted by the General Assembly in 1985 (Groenhuijs en, 2014). The Declaration made way for specific rights and entitle ments of victims of crime, including the right to compensation.
+
+--- case0020_CH010 ---
+SECTION: decision
+ROLE: defense
+WORDS: 75
+9. Section 357 of the Code of Criminal Procedure provides f or order to pay compensation when a court imposes a sentence of fine or a sentence (including a sentence of death) of which fine forms a part in the circumstances enumerated therein. Sub-section ( 2) imposes a limitation that when fine is imposed in a case which is s ubject to appeal no such payment shall be made before the period allowed for presenting
+
+--- case0020_CH011 ---
+SECTION: decision
+ROLE: defense
+WORDS: 81
+the appeal has elapsed, or if an appeal is presented, be fore the decision of the appeal. Under sub-section (3) it is by way of compens ation for the person who has suffered any loss or injury by reason of the act f or which the accused person has been so sentenced. Sub-sect ion (4) also provides for the appellate court or the High Court or Court of Sessions to direct payment of compensation when exercising i ts power of revisions.
+
+--- case0020_CH012 ---
+SECTION: decision
+ROLE: defense
+WORDS: 61
+10. We have set forth this to appreciate that victim compe nsation is simultaneous with the final view taken in respec t of the alleged offence, i.e., whether it was so committed or not and, thus, there is no que stion of any imposition pre-finality of the matter pre-trial. TALAT SANVI v. STATE OF JHARKHAND & ANR. [SANJAY KISHAN KAUL, J.]
+
+--- case0020_CH013 ---
+SECTION: decision
+ROLE: defense
+WORDS: 71
+11. In a recent judgment of this Court in Dharmesh v. State of Gujarat 1it was opined that it was clear from the plain reading of Section albeit, of course, the same being a matter of discretio n. The High Court’s direction to the accused for deposit of compensation for the legal heirs of the deceased (victim), as a condition for the bail cannot be sustained and, thus, logically set aside.
+
+--- case0020_CH014 ---
+SECTION: decision
+ROLE: defense
+WORDS: 99
+12. The Court opined that the objective is clear that in c ases of offences against body, compensation to the victim s hould be methodology for redemption. Similarly, to prevent unnecessary h arassment, compensation has been provided where meaningless cr iminal proceedings had been started. Such a compensation can hardly be determine d at the stage of grant of bail. 13. Not being appreciative of such judicial misadventure, w e have no hesitation in quashing the condition imposed in the impugne d order in this behalf while maintaining the other aspects of t he grant of anticipatory bail. 14.
+
+--- case0020_CH015 ---
+SECTION: decision
+ROLE: defense
+WORDS: 22
+The appeal is accordingly allowed leaving parties t o bear their own costs. Devika Gujral Appeal allowed. 1 (2021) 7 SCC 198
+
+--- case0020_CH001 ---
+SECTION: title
+ROLE: defense
+WORDS: 5
+STATE OF JHARKHAND & ANR.
