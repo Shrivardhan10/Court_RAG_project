@@ -1,0 +1,142 @@
+{
+  "case_id": "Harjeet_Singh_Popy_And_Sudhadhar_Sofi_vs_State_on_20_December_2002",
+  "case_name": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... Malhotra\nJUDGMENT\nDalveer Bhandari, J. 1. Both these appeals are directed against the judgment dated 9.1.2001 and order dated 10.1.2001\ndelivered by the learned Additional Sessions Judge in Sessions Case No. 39/98 arising out of FIR\nNo. 2. 5,000/-\nfailing which he has been directed to further undergo R.I for six months. 3. He has also been directed to pay a fine of Rs. 3,000/- failing which he shall under go R.I for six months. 4. 11, Chaman Singh, went\nto the house of his friend Yogender Kumar, bearing No. 17-B, Vijay Block, Laxmi Nagar, Delhi. Deceased Anil Mathur alias Patti was also present there. Yogender Kumar returned to his house\nafter 15/20 minutes of arrival of Chaman Singh. At about 4.30 p.m. Sushil Sharma came there and\nwatched the cricket on television with them up to 5.30 p.m. Thereafter they decided to visit the\nTrade Fair. In the meantime, Rajkumar @ Raju also came there. He asked them to play cards with\nthe stakes. On his suggestion, they cancelled the programme of visiting the Trade Fair. Chaman\nSingh, Sunil Sharma and Anil Mathur came outside as they were not interested in playing cards with\nstakes (gambling). they went to Vikas Marg and purchased a bottle of liquor. They decided to take\ndrinks in the room of Yogender. While they were returning from the government liquor shop,\naccused Harjeet Singh @ Poppy and Sudhakar @ Soft, who were the friends of Rajkumar,\naccompanied by a Sikh gentleman (who was introduced as Mama by Harjeet Singh) also arrived\nthere on two scooters. They joined them in drinking at room of Yogender. They also started playingHarjeet Singh @ Popy And Sudhadhar @ Sofi ... Chaman Singh stopped playing cards after some time and Anil Mathur started\nplaying on his behalf. Thereafter, he wanted to call off the game, whereas Anil Mathur, main loser in the card game,\nwanted him (Harjeet Singh) to continue the game in the hope that he could recover his lost amount.",
+      "embedding_text": "FACT_CHUNK | Case: Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20 | Facts: Harjeet Singh @ Popy And Sudhadhar @ Sofi ... Malhotra\nJUDGMENT\nDalveer Bhandari, J. 1. Both these appeals are directed against the judgment dated 9.1.2001 and order dated 10.1.2001\ndelivered by the learned Additional Sessions Judge in Sessions Case No. 39/98 arising out of FIR\nNo. 2. 5,000/-\nfailing which he has been directed to further undergo R.I for six months. 3. He has also been directed to pay a fine of Rs. 3,000/- failing which he shall under go R.I for six months. 4. 11, Chaman Singh, went\nto the house of his friend Yogender Kumar, bearing No. 17-B, Vijay Block, Laxmi Nagar, Delhi. Deceased Anil Mathur alias Patti was also present there. Yogender Kumar returned to his house\nafter 15/20 minutes of arrival of Chaman Singh. At about 4.30 p.m. Sushil Sharma came there and\nwatched the cricket on television with them up to 5.30 p.m. Thereafter they decided to visit the\nTrade Fair. In the meantime, Rajkumar @ Raju also came there. He asked them to play cards with\nthe stakes. On his s | Actions: stabbed | Weapon: knife | Outcome: death | IPC: 302, 34, 326, 313, 304, 37, 135",
+      "metadata": {
+        "case_name": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "313",
+          "304",
+          "37",
+          "135"
+        ],
+        "actions": [
+          "stabbed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Now the question arises whether the learned Additional Sessions Judge was justified in\nconvicting Harjeet Singh @ Popy under Section 302/34 IPC and Sudhakar @ Soft under Section 326\nIPC. Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20\nDecember, 2002\nEquivalent citations: 2003CRILJ2151, 103(2003)DLT217, 2003(67)DRJ46\nAuthor: Dalveer Bhandari\nBench: Dalveer Bhandari, H.R. Malhotra\nJUDGMENT\nDalveer Bhandari, J. 1. Both these appeals are directed against the judgment dated 9.1.2001 and order dated 10.1.2001\ndelivered by the learned Additional Sessions Judge in Sessions Case No. 39/98 arising out of FIR\nNo. 599/97 of Police Station Shakarpur under Section 302/34 IPC, therefore, these appeals are\nbeing disposed of by this judgment. 2. The learned Additional Sessions Judge convicted the appellant Harjeet Singh @ Popy under\nSection 302 IPC and sentenced him to undergo life imprisonment and imposed a fine of Rs.",
+      "embedding_text": "ISSUE_CHUNK | Case: Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20 | Legal issues: Now the question arises whether the learned Additional Sessions Judge was justified in\nconvicting Harjeet Singh @ Popy under Section 302/34 IPC and Sudhakar @ Soft under Section 326\nIPC. Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20\nDecember, 2002\nEquivalent citations: 2003CRILJ2151, 103(2003)DLT217, 2003(67)DRJ46\nAuthor: Dalveer Bhandari\nBench: Dalveer Bhandari, H.R. Malhotra\nJUDGMENT\nDalveer Bhandari, J. 1. Both these appeals are directed against the judgment dated 9.1.2001 and order dated 10.1.2001\ndelivered by the learned Additional Sessions Judge in Sessions Case No. 39/98 arising out of FIR\nNo. 599/97 of Police Station Shakarpur under Section 302/34 IPC, therefore, these appeals are\nbeing disposed of by this judgment. 2. The learned Additional Sessions Judge convicted the appellant Harjeet Singh @ Popy under\nSection 302 IPC and sentenced him to undergo life imprisonment and imposed a fine of Rs. | IPC: 302, 34, 326, 313, 304, 37, 135",
+      "metadata": {
+        "case_name": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "313",
+          "304",
+          "37",
+          "135"
+        ],
+        "actions": [
+          "stabbed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State on 20\nDecember, 2002\nEquivalent citations: 2003CRILJ2151, 103(2003)DLT217, 2003(67)DRJ46\nAuthor: Dalveer Bhandari\nBench: Dalveer Bhandari, H.R. Briefly stated, the prosecution story is that on 22nd November, 1997 P.W. vs State on 20 December, 2002\nIndian Kanoon - http://indiankanoon.org/doc/1442626/ 1\ncards with stakes. The appellant, Harjeet Singh, had won a good amount of money in gambling. After about 45 minutes, when they were about to leave that place, appellants Harjeet Singh,\nSudhakar accompanied by one more boy came from the opposite direction of Vikas Marg. The\nfrom his back pocket; similarly the appellant, Sudhakar, also took out a knife. However, in the meantime, the appellant, Harjeet Singh, plunged the knife into\nthe left thigh of Anil Mathur. The third person accompanying them tried to intervene but could not stop the appellant\nHarjeet from causing knife injury. He recorded the\nstatement of Chaman Singh. He made a disclosure statement which led the police party to the ticket counter at Old Delhi\nRailway Station where the appellant Sudhakar was apprehended. Both the appellants\nwere booked for an offence punishable under Section 302 I.P.C. The appellant, Harjeet Singh, in his statement under Section 313 Cr.P.C. The appellant, Sudhakar, in his statement under Section 313 Cr.P.C. vs State on 20 December, 2002\nIndian Kanoon - http://indiankanoon.org/doc/1442626/ 2\n10. The learned counsel for the appellants also submitted thatHarjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20 December, 2002\nIndian Kanoon - http://indiankanoon.org/doc/1442626/ 3\nthere are many lacunas even in the testimony of P.W. 11 and the learned Additional\nSessions Judge has erred in convicting the appellants. The learned counsel for the appellants submitted that two witnesses P.W. The\nlearned counsel for the appellants also submitted that the prosecution had failed to prove the motive\nof the crime. In this case also it has\ntaken more than 18 months before the statements of the prosecution witnesses were recorded. The learned Additional Sessions Judge after analizing the evidence in the case correctly\ncame to the conclusion that the appellants were guilty of committing this crime.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20 | Arguments: vs State on 20\nDecember, 2002\nEquivalent citations: 2003CRILJ2151, 103(2003)DLT217, 2003(67)DRJ46\nAuthor: Dalveer Bhandari\nBench: Dalveer Bhandari, H.R. Briefly stated, the prosecution story is that on 22nd November, 1997 P.W. vs State on 20 December, 2002\nIndian Kanoon - http://indiankanoon.org/doc/1442626/ 1\ncards with stakes. The appellant, Harjeet Singh, had won a good amount of money in gambling. After about 45 minutes, when they were about to leave that place, appellants Harjeet Singh,\nSudhakar accompanied by one more boy came from the opposite direction of Vikas Marg. The\nfrom his back pocket; similarly the appellant, Sudhakar, also took out a knife. However, in the meantime, the appellant, Harjeet Singh, plunged the knife into\nthe left thigh of Anil Mathur. The third person accompanying them tried to intervene but could not stop the appellant\nHarjeet from causing knife injury. He recorded the\nstatement of Chaman Singh. He made a disclosure statement which led the police party t | Intent: intentional | IPC: 302, 34, 326, 313, 304, 37, 135 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "313",
+          "304",
+          "37",
+          "135"
+        ],
+        "actions": [
+          "stabbed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "599/97 of Police Station Shakarpur under Section 302/34 IPC, therefore, these appeals are\nbeing disposed of by this judgment. He stated that since the deceased Anil Mathur was playing cards on\nbehalf of Chaman Singh and had lost substantial amount of money, therefore, an altercation took\nplace between Chaman Singh and Anil Mathur. The conviction of the accused under Section 302 IPC was altered to one\nunder Section 304 Part II IPC by the Division Bench of this Court in the case of Prithvey Singh v. State IV 1995(2) Crimes 96 another Division Bench of this Court in a\nmurder case observed as under:-\n\"Only one blow inflicted which punctured popliteal resulting in death of deceased. A Division Bench judgment of this Court in yet another case titled Dewan Chand and Anr. The accused\nwas little more than 16 years of age at the time of occurrence, therefore, the court extended the\nbenefit of Protection of Offenders Act, 1958. We have carefully considered the decided cases of the Supreme Court and the High Courts,\nincluding the judgments of this court.",
+      "embedding_text": "REASONING_CHUNK | Case: Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20 | Judicial reasoning: 599/97 of Police Station Shakarpur under Section 302/34 IPC, therefore, these appeals are\nbeing disposed of by this judgment. He stated that since the deceased Anil Mathur was playing cards on\nbehalf of Chaman Singh and had lost substantial amount of money, therefore, an altercation took\nplace between Chaman Singh and Anil Mathur. The conviction of the accused under Section 302 IPC was altered to one\nunder Section 304 Part II IPC by the Division Bench of this Court in the case of Prithvey Singh v. State IV 1995(2) Crimes 96 another Division Bench of this Court in a\nmurder case observed as under:-\n\"Only one blow inflicted which punctured popliteal resulting in death of deceased. A Division Bench judgment of this Court in yet another case titled Dewan Chand and Anr. The accused\nwas little more than 16 years of age at the time of occurrence, therefore, the court extended the\nbenefit of Protection of Offenders Act, 1958. We have carefully considered the decided cases of the Supreme Court a | Intent: intentional | Outcome: death | IPC: 302, 34, 326, 313, 304, 37, 135",
+      "metadata": {
+        "case_name": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "313",
+          "304",
+          "37",
+          "135"
+        ],
+        "actions": [
+          "stabbed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The learned Additional Sessions Judge convicted the appellant Harjeet Singh @ Popy under\nSection 302 IPC and sentenced him to undergo life imprisonment and imposed a fine of Rs. The appellant Sudhadhar @ Soft @ Sudhakar has been convicted under Section 326 IPC and has\nbeen sentenced to 7 year rigorous imprisonment. He has also carefully examined the minor contradictions which were\nhighlighted by the learned counsel for the appellant and came to the definite conclusion that the\nThe learned Additional Sessions Judge also held that the appellant Sudhakar alias Soft was guilty of\nthe offence under Section 326 IPC and sentenced him to undergo 7 years of imprisonment. The Apex Court while convicting the appellant for an offence\nunder Section 304 Part II IPC and Section 37(1) red with Section 135 of the Bombay Police Act, 1951\nsentenced him to 5 years R.I. Their Lordships of the Supreme Court while setting aside the conviction\nof the appellant under Section 302 IPC, convicted him under Section 304 Part II IPC and sentenced\nhim to imprisonment for 5 years. Their Lordships of the Supreme Court set aside the\nconviction of the appellant under Section 302 IPC and instead convicted him under Section 304 Part\nII IPC and sentenced him to 5 years imprisonment.Harjeet Singh @ Popy And Sudhadhar @ Sofi ... Their\nLordships of the Supreme Court set aside the conviction under Section 302 IPC and convicted the\naccused under Section 304 Part II IPC and sentenced him to 5 years imprisonment. His conviction under\nSection 302 IPC was set aside by the Supreme Court and converted to Section 304 Part II IPC and\nhe was released after he had undergone the sentenced of 4 years of imprisonment. State of Tamil Nadu 1984 SCC (Cri) 164 the sentence of the appellant under Section\n302 IPC was set aside and he was convicted for an offence under Section 304 Part II IPC and was\nsentenced to suffer R.I of 5 years by the Apex Court. State of Maharashtra 1981 SCC (Cri) 731 their Lordship of the\nSupreme Court in a case of similar facts set aside the conviction under Section 302 IPC and\nconvicted the appellant under Part II of Section 304 IPC and sentenced the accused to 5 years R.I.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20 | Final judgment: The learned Additional Sessions Judge convicted the appellant Harjeet Singh @ Popy under\nSection 302 IPC and sentenced him to undergo life imprisonment and imposed a fine of Rs. The appellant Sudhadhar @ Soft @ Sudhakar has been convicted under Section 326 IPC and has\nbeen sentenced to 7 year rigorous imprisonment. He has also carefully examined the minor contradictions which were\nhighlighted by the learned counsel for the appellant and came to the definite conclusion that the\nThe learned Additional Sessions Judge also held that the appellant Sudhakar alias Soft was guilty of\nthe offence under Section 326 IPC and sentenced him to undergo 7 years of imprisonment. The Apex Court while convicting the appellant for an offence\nunder Section 304 Part II IPC and Section 37(1) red with Section 135 of the Bombay Police Act, 1951\nsentenced him to 5 years R.I. Their Lordships of the Supreme Court while setting aside the conviction\nof the appellant under Section 302 IPC, convicted him under Sectio | Judgment: convicted | IPC: 302, 34, 326, 313, 304, 37, 135",
+      "metadata": {
+        "case_name": "Harjeet Singh @ Popy And Sudhadhar @ Sofi ... vs State on 20",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "313",
+          "304",
+          "37",
+          "135"
+        ],
+        "actions": [
+          "stabbed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2002"
+      }
+    }
+  ]
+}

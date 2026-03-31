@@ -1,0 +1,187 @@
+{
+  "case_id": "Arif_Khan_vs_The_State_Of_Madhya_Pradesh_on_20_September_2019",
+  "case_name": "Arif Khan vs The State Of Madhya Pradesh on 20 September,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Gwalior, dtd. vs. reported in . The applicant, who is nephew of her sister, used to visit the house. Thereafter, she\ncame back to her parents' home. The applicant continued to visit her parent's home and started\nconvincing her that he would marry her. About six months back, physical relations were developed\non the promise of marriage. Thereafter, the applicant continued to have physical relations with her\non the promise of marriage. Thereafter, she informed this\nincident to her sister Chandni and grand-mother Mustari Devi. Accordingly, the FIR was lodged on\n05/10/2017. Nikahanama has also been annexed with the petition. vs. v. Laxmi Narayan, reported in . However, this power is\nto be exercised sparingly and with caution. 29.2. 29.3. Such a power is not be exercised in those prosecutions which involve heinous and serious\noffences of mental depravity or offences like murder, rape, dacoity, etc. Such offences are not private\nin nature and have a serious impact on society. Similarly, for offences alleged to have been\ncommitted under special statute like the Prevention of Corruption Act or the offences committed by\nPublic Servants while working in that capacity are not to be quashed merely on the basis of\ncompromise between the victim and the offender. 29.4. On the other, those criminal cases having overwhelmingly and pre-dominantly civil character,\nparticularly those arising out of commercial transactions or arising out of matrimonial relationship\nor family disputes should be quashed when the parties have resolved their entire disputes among\nthemselves. 29.5. 29.6. Medical report in respect of injuries suffered by the victim can generally be the\nguiding factor. 29.7. It is because of the reason that at this stage the investigation is still on\nand even the charge sheet has not been filed. as such offences are not private in nature and have a serious impact on the society. However, for the offence alleged to have been committed under ''Special Statute'' like the Prevention\nof Corruption Act, the prosecution cannot be quashed merely on the basis of compromise between\nthe victim and the offender.",
+      "embedding_text": "FACT_CHUNK | Case: Arif Khan vs The State Of Madhya Pradesh on 20 September, | Facts: Gwalior, dtd. vs. reported in . The applicant, who is nephew of her sister, used to visit the house. Thereafter, she\ncame back to her parents' home. The applicant continued to visit her parent's home and started\nconvincing her that he would marry her. About six months back, physical relations were developed\non the promise of marriage. Thereafter, the applicant continued to have physical relations with her\non the promise of marriage. Thereafter, she informed this\nincident to her sister Chandni and grand-mother Mustari Devi. Accordingly, the FIR was lodged on\n05/10/2017. Nikahanama has also been annexed with the petition. vs. v. Laxmi Narayan, reported in . However, this power is\nto be exercised sparingly and with caution. 29.2. 29.3. Such a power is not be exercised in those prosecutions which involve heinous and serious\noffences of mental depravity or offences like murder, rape, dacoity, etc. Such offences are not private\nin nature and have a serious impact on society. Similarly, for o | Actions: shot | Weapon: unknown | Outcome: death | IPC: 365, 366, 376, 482, 3, 4, 363, 120, 5, 6, 320, 307, 375, 34, 45, 313",
+      "metadata": {
+        "case_name": "Arif Khan vs The State Of Madhya Pradesh on 20 September,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "365",
+          "366",
+          "376",
+          "482",
+          "3",
+          "4",
+          "363",
+          "120",
+          "5",
+          "6",
+          "320",
+          "307",
+          "375",
+          "34",
+          "45",
+          "313"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "While exercising its powers, the High Court is to examine as to whether the\npossibility of conviction is remote and bleak and continuation of criminal cases would put the\naccused to great oppression and prejudice and extreme injustice would be caused to him by not\nquashing the criminal cases. It would be open to the High Court\nto examine as to whether incorporation of Section 307 IPC is there for the sake of it or the\nprosecution has collected sufficient evidence, which if proved, would lead to proving the charge\nunder Section 307 IPC. For this purpose, it would be open to the High Court to go by the nature of\ninjury sustained, whether such injury is inflicted on the vital/delegate parts of the body, nature of\nweapons used etc. On the basis of this prima facie analysis, the High Court can examine as to whether\nthere is a strong possibility of conviction or the chances of conviction are remote and bleak. While deciding whether to exercise its power under Section\n482 of the Code or not, timings of settlement play a crucial role. On the other hand, where the prosecution evidence is\nalmost complete or after the conclusion of the evidence the matter is at the stage of argument,\nnormally the High Court should refrain from exercising its power under Section 482 of the Code, as\nin such cases the trial court would be in a position to decide the case finally on merits and to come a\nconclusion as to whether the offence under Section 307 IPC is committed or not. When an offence is made out against the accused\nirrespective of the fact that whether the prosecutrix was a consenting party or not,\nthen certainly, the prosecution cannot be quashed merely on the ground that at a\nlater stage the prosecutrix has entered into a compromise. (18) The moot question for consideration is that when the accused has married the respondent\nNo.2/prosecutrix, then whether the prosecution of the accused for offence under Section 376 of IPC\ncan be quashed or not ?",
+      "embedding_text": "ISSUE_CHUNK | Case: Arif Khan vs The State Of Madhya Pradesh on 20 September, | Legal issues: While exercising its powers, the High Court is to examine as to whether the\npossibility of conviction is remote and bleak and continuation of criminal cases would put the\naccused to great oppression and prejudice and extreme injustice would be caused to him by not\nquashing the criminal cases. It would be open to the High Court\nto examine as to whether incorporation of Section 307 IPC is there for the sake of it or the\nprosecution has collected sufficient evidence, which if proved, would lead to proving the charge\nunder Section 307 IPC. For this purpose, it would be open to the High Court to go by the nature of\ninjury sustained, whether such injury is inflicted on the vital/delegate parts of the body, nature of\nweapons used etc. On the basis of this prima facie analysis, the High Court can examine as to whether\nthere is a strong possibility of conviction or the chances of conviction are remote and bleak. While deciding whether to exercise its power under Section\n482 of the Code or not,  | IPC: 365, 366, 376, 482, 3, 4, 363, 120, 5, 6, 320, 307, 375, 34, 45, 313",
+      "metadata": {
+        "case_name": "Arif Khan vs The State Of Madhya Pradesh on 20 September,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "365",
+          "366",
+          "376",
+          "482",
+          "3",
+          "4",
+          "363",
+          "120",
+          "5",
+          "6",
+          "320",
+          "307",
+          "375",
+          "34",
+          "45",
+          "313"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Arif Khan vs The State Of Madhya Pradesh on 20 September,\n2019\nAuthor: Gurpal Singh Ahluwalia\nBench: Gurpal Singh Ahluwalia\n1\nThe High Court of Madhya Pradesh\nMCRC 39588/2019\nArif Khan Vs. State of MP & Anr. 20/09/2019\nShri Purushottam Rai, Panel Lawyer for the respondent No.1/State. (2) It is submitted by the Counsel for the applicant that during pendency of Sessions Trial, the\nparties have resolved their dispute with the intervention of elderly members of the society and the\napplicant has married the respondent No.2 and thus, now there is no dispute between them and\nthey want to live their life peacefully. State of Gujarat, reported in , Gian Singh vs. State of Punjab reported in\n and Narinder Singh & Ors. State of Punjab & Anr. (3) It is submitted by the Counsel for the applicant that the respondent No.2 had lodged a report\n05/10/2017 on the allegations that she is aged about 17 years and about a year back, she had gone to\nher sister's house. For the last time, he had done wrong work with her on 03/10/2017 andArif Khan vs The State Of Madhya Pradesh on 20 September, 2019\nIndian Kanoon - http://indiankanoon.org/doc/53247596/ 1\non the said day when she insisted to marry, then he refused to do so. (4) It is submitted by the Counsel for the applicant that the police, after completion of investigation,\nfiled the charge sheet and the applicant is facing trial for offence under Section 376 of IPC and under\nSection 3/4 of POSCO Act, 2012. It is further submitted that during pendency of trial, due to intervention of elderly members of\nsociety, both the parties have entered into compromise and accordingly, the applicant has married\nthe respondent No.2 on 13/04/2019. It is submitted that since both the parties are\nresiding together peacefully, therefore, the prosecution of the applicant may be quashed on the\nground of compromise. State of MP in MCRC No. (6) Per contra, it is submitted by the Counsel for the State that the order passed by the Coordinate\nBench of this Court passed in the case of Pankaj Parmar (supra) is per incuriam and it has not taken\nnote of the judgments passed by the Supreme Court in the case of State of M.P.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Arif Khan vs The State Of Madhya Pradesh on 20 September, | Arguments: Arif Khan vs The State Of Madhya Pradesh on 20 September,\n2019\nAuthor: Gurpal Singh Ahluwalia\nBench: Gurpal Singh Ahluwalia\n1\nThe High Court of Madhya Pradesh\nMCRC 39588/2019\nArif Khan Vs. State of MP & Anr. 20/09/2019\nShri Purushottam Rai, Panel Lawyer for the respondent No.1/State. (2) It is submitted by the Counsel for the applicant that during pendency of Sessions Trial, the\nparties have resolved their dispute with the intervention of elderly members of the society and the\napplicant has married the respondent No.2 and thus, now there is no dispute between them and\nthey want to live their life peacefully. State of Gujarat, reported in , Gian Singh vs. State of Punjab reported in\n and Narinder Singh & Ors. State of Punjab & Anr. (3) It is submitted by the Counsel for the applicant that the respondent No.2 had lodged a report\n05/10/2017 on the allegations that she is aged about 17 years and about a year back, she had gone to\nher sister's house. For the last time, he had done wrong wor | Intent: unknown | IPC: 365, 366, 376, 482, 3, 4, 363, 120, 5, 6, 320, 307, 375, 34, 45, 313 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Arif Khan vs The State Of Madhya Pradesh on 20 September,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "365",
+          "366",
+          "376",
+          "482",
+          "3",
+          "4",
+          "363",
+          "120",
+          "5",
+          "6",
+          "320",
+          "307",
+          "375",
+          "34",
+          "45",
+          "313"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "This petition under Section 482 of CrPC has been filed for quashment of Crime No.656/2017\nregistered at Police Station Bahodapur, District Gwalior for offence under Section 376 of IPC and\nSection 3/4 of Protection of Children from Sexual Offences Act 2012 [in short '' the POCSO Act''] as\nwell as Sessions Trial No.221/2017 pending before the Court of Tenth Additional Sessions Judge,\nGwalior. As the applicant has married the respondent No.2, therefore,\nthe respondent No.2 does not want to proceed further with the case and accordingly, both the\nparties have amicably compromised the matter. It is further submitted that this Court has\nthe applicant has relied upon the judgments passed by the Supreme Court in the case of Parbatbhai\nAahir v. (5) Apart from the above judgments, the counsel for the applicant has also relied upon the order\ndated 10/04/2019 passed by a Coordinate Bench of this Court in the case of Pankaj Parmar and\nOthers vs. 6904/2019 (Gwalior Bench) and submitted that in the said case\nthe offence under Section 363, 376, 120-B of IPC and under Section 5/6 of the POSCO Act was\nregistered, and the Coordinate Bench of this Court after considering the compromise has quashed\nthe proceedings. (8) The Supreme Court in the case of Narinder Singh (supra) has held as\nunder:-\n''29. In view of the aforesaid discussion, we sum up and lay down the following principles by which\nthe High Court would be guided in giving adequate treatment to the settlement between the parties\nand exercising its power under Section 482 of the Code while accepting the settlement and quashing\nthe proceedings or refusing to accept the settlement with direction to continue with the criminal\nproceedings:\n29.1. Power conferred under Section 482 of the Code is to be distinguished from the\npower which lies in the Court to compound the offences under Section 320 of the\nCode. When the parties have reached the settlement and on that basis petition for\nquashing the criminal proceedings is filed, the guiding factor in such cases would be\nto secure:\n(i) ends of justice, or\n(ii) to prevent abuse of the process of any Court.",
+      "embedding_text": "REASONING_CHUNK | Case: Arif Khan vs The State Of Madhya Pradesh on 20 September, | Judicial reasoning: This petition under Section 482 of CrPC has been filed for quashment of Crime No.656/2017\nregistered at Police Station Bahodapur, District Gwalior for offence under Section 376 of IPC and\nSection 3/4 of Protection of Children from Sexual Offences Act 2012 [in short '' the POCSO Act''] as\nwell as Sessions Trial No.221/2017 pending before the Court of Tenth Additional Sessions Judge,\nGwalior. As the applicant has married the respondent No.2, therefore,\nthe respondent No.2 does not want to proceed further with the case and accordingly, both the\nparties have amicably compromised the matter. It is further submitted that this Court has\nthe applicant has relied upon the judgments passed by the Supreme Court in the case of Parbatbhai\nAahir v. (5) Apart from the above judgments, the counsel for the applicant has also relied upon the order\ndated 10/04/2019 passed by a Coordinate Bench of this Court in the case of Pankaj Parmar and\nOthers vs. 6904/2019 (Gwalior Bench) and submitted that in the sa | Intent: unknown | Outcome: death | IPC: 365, 366, 376, 482, 3, 4, 363, 120, 5, 6, 320, 307, 375, 34, 45, 313",
+      "metadata": {
+        "case_name": "Arif Khan vs The State Of Madhya Pradesh on 20 September,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "365",
+          "366",
+          "376",
+          "482",
+          "3",
+          "4",
+          "363",
+          "120",
+          "5",
+          "6",
+          "320",
+          "307",
+          "375",
+          "34",
+          "45",
+          "313"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Similarly, in those\ncases where the conviction is already recorded by the trial court and the matter is at the appellate\nstage before the High Court, mere compromise between the parties would not be a ground to accept\nthe same resulting in acquittal of the offender who has already been convicted by the trial court. State of Punjab\nthough the courts below awarded a sentence of ten years, taking note of the facts that the occurrence\nwas 14 years old, the appellants therein had undergone about 3½ years of imprisonment, the\nprosecutrix and the appellants married (not to each other) and entered into a compromise, this\nCourt, while considering peculiar circumstances, reduced the sentence to the period already\nundergone, but enhanced the fine from Rs 1000 to Rs 50,000. State of Haryana (Supra) as it was an appeal against conviction for committing the\noffence punishable under Section 365/366/376IPC wherein by giving benefit of\ndoubt, the appellant/accused was acquitted. It would indeed be a travesty of justice in the peculiar facts of the present case if\nthe appellant were to be acquitted merely because the prosecutrix turned hostile and\nfailed to identify the appellant in the dock, in view of the other overwhelming\nevidence available. 12. P.C. The prosecution cannot be said to be guilty of not adducing\nor suppressing any evidence. Criminal justice is not one-sided. It has many facets and we\nhave to draw a balance between conflicting rights and duties. While the right of the accused to speedy trial is a valuable one, the\nCourt has to subserve the interest of justice keeping in view the right of the victim's family and\nsociety at large.'' (30) Thus, it is clear that even if the prosecutrix turns hostile but still the accused\ncan be convicted on the basis of scientific and other circumstantial evidence. (31) The stage of trial is also crucial. It is because of the reason that at this stage the\ninvestigation is still on and even the charge sheet has not been filed. Similarly, in those\ncases where the conviction is already recorded by the trial court and the matter is at the appellate\nstage before the High Court, mere compromise between the parties would not be a ground to accept\nthe same resulting in acquittal of the offender who has already been convicted by the trial court.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Arif Khan vs The State Of Madhya Pradesh on 20 September, | Final judgment: Similarly, in those\ncases where the conviction is already recorded by the trial court and the matter is at the appellate\nstage before the High Court, mere compromise between the parties would not be a ground to accept\nthe same resulting in acquittal of the offender who has already been convicted by the trial court. State of Punjab\nthough the courts below awarded a sentence of ten years, taking note of the facts that the occurrence\nwas 14 years old, the appellants therein had undergone about 3½ years of imprisonment, the\nprosecutrix and the appellants married (not to each other) and entered into a compromise, this\nCourt, while considering peculiar circumstances, reduced the sentence to the period already\nundergone, but enhanced the fine from Rs 1000 to Rs 50,000. State of Haryana (Supra) as it was an appeal against conviction for committing the\noffence punishable under Section 365/366/376IPC wherein by giving benefit of\ndoubt, the appellant/accused was acquitted. It would indeed be a tr | Judgment: convicted | IPC: 365, 366, 376, 482, 3, 4, 363, 120, 5, 6, 320, 307, 375, 34, 45, 313",
+      "metadata": {
+        "case_name": "Arif Khan vs The State Of Madhya Pradesh on 20 September,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "365",
+          "366",
+          "376",
+          "482",
+          "3",
+          "4",
+          "363",
+          "120",
+          "5",
+          "6",
+          "320",
+          "307",
+          "375",
+          "34",
+          "45",
+          "313"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2019"
+      }
+    }
+  ]
+}

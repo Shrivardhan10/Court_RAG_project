@@ -1,0 +1,177 @@
+{
+  "case_id": "Prodyamn_Kumar_Sarangi_vs_State_Of_Odisha_on_17_March_2026",
+  "case_name": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Mishra, J. The present Criminal Appeal is directed against the\njudgment and order dated 31.01.1994 passed by the learned Addl. under Section 451 IPC, 7 years R.I. under Section 325 IPC, and 7 years\nR.I. under Section 27 of the Arms Act. No separate sentence was given\nfor Section 354 IPC. Additionally, he received 5 years R.I. and a fine of\nRs. 2,000/- (with 6 months S.I. for default) under Section 3(1)(xii) of the\nSC & ST (POA) Act. The present appeal has been pending since 1994. Rakhi Mishra,\nCuriae. Mishra. 3. Heard Ms. 4. At that time, P.W.2 (Sebati), another tribal\nwoman, was present with her. Their husbands were reportedly away\nfrom home. 5. Upon learning that\nthey were not present, he allegedly dragged P.W.1. Out of fear,\nshe took shelter in a neighboring house. The matter was reported on the\nfollowing day. 6. On the basis of such allegations, charge-sheet\nwas submitted for the alleged commission of offences under Sections\n450/376/354/307 IPC, Section 27 of the Arms Act and Section 3(1)(xi)\nof the SC/ST (Prevention of Atrocities) Act. 7. Pellets were\nallegedly recovered from inside the house of the informant. A Test\nIdentification Parade (T.I. Parade) was conducted during the\ninvestigation. 8. He denied entering\nthe house with any criminal intent and denied the allegation of rape. 9. 10. The relevant portion of the aforesaid judgment is extracted\nherein below for ready reference:-\n\"12. Coming to the last point of determination it is\nseen from the evidence of the doctor that the range\nwas within four feet and the injury was near the left\nhand elbow of the P.W.1. Besides, it is seen from the\nabove evidence on record that the pallats were\nfound sticking to the ground. 12. The act of the accused\nthat has been brought to the picture is enough to say\nthat the said act would have taken the life of any. However, the said act of the person of P.W.1 as has\nbeen opined by the doctor P.W.17. This injury has\nPage 6 of 22\nbeen caused voluntarily.",
+      "embedding_text": "FACT_CHUNK | Case: Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026 | Facts: Mishra, J. The present Criminal Appeal is directed against the\njudgment and order dated 31.01.1994 passed by the learned Addl. under Section 451 IPC, 7 years R.I. under Section 325 IPC, and 7 years\nR.I. under Section 27 of the Arms Act. No separate sentence was given\nfor Section 354 IPC. Additionally, he received 5 years R.I. and a fine of\nRs. 2,000/- (with 6 months S.I. for default) under Section 3(1)(xii) of the\nSC & ST (POA) Act. The present appeal has been pending since 1994. Rakhi Mishra,\nCuriae. Mishra. 3. Heard Ms. 4. At that time, P.W.2 (Sebati), another tribal\nwoman, was present with her. Their husbands were reportedly away\nfrom home. 5. Upon learning that\nthey were not present, he allegedly dragged P.W.1. Out of fear,\nshe took shelter in a neighboring house. The matter was reported on the\nfollowing day. 6. On the basis of such allegations, charge-sheet\nwas submitted for the alleged commission of offences under Sections\n450/376/354/307 IPC, Section 27 of the Arms Act and Secti | Actions: shot, fired | Weapon: gun | Outcome: death | IPC: 450, 376, 354, 307, 374, 451, 325, 27, 3, 5, 7, 320, 4",
+      "metadata": {
+        "case_name": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "450",
+          "376",
+          "354",
+          "307",
+          "374",
+          "451",
+          "325",
+          "27",
+          "3",
+          "5",
+          "7",
+          "320",
+          "4"
+        ],
+        "actions": [
+          "shot",
+          "fired"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Licence for manufacture, sale, etc., of arms\nand ammunition.--(1) No person shall--\n(a) use, manufacture, sell, transfer, convert,\nrepair, test or prove, or\n(b) expose or offer for sale or transfer or have in\nhis possession for sale, transfer, conversion,\nrepair, test or proof,\nany firearm or any other arms of such class or\ndescription as may be prescribed or any\nammunition, unless he holds in this behalf a\nlicence issued in accordance with the provisions\nof this Act and the rules made thereunder. At best, it could be a \"misconduct\" under the service rules, the determination of which\nwas not the subject of the trial.\"\nIn the present case, the appellant was admittedly a member of the armed force on duty and the rifle\nwas issued to him under lawful authority.",
+      "embedding_text": "ISSUE_CHUNK | Case: Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026 | Legal issues: Licence for manufacture, sale, etc., of arms\nand ammunition.--(1) No person shall--\n(a) use, manufacture, sell, transfer, convert,\nrepair, test or prove, or\n(b) expose or offer for sale or transfer or have in\nhis possession for sale, transfer, conversion,\nrepair, test or proof,\nany firearm or any other arms of such class or\ndescription as may be prescribed or any\nammunition, unless he holds in this behalf a\nlicence issued in accordance with the provisions\nof this Act and the rules made thereunder. At best, it could be a \"misconduct\" under the service rules, the determination of which\nwas not the subject of the trial.\"\nIn the present case, the appellant was admittedly a member of the armed force on duty and the rifle\nwas issued to him under lawful authority. | IPC: 450, 376, 354, 307, 374, 451, 325, 27, 3, 5, 7, 320, 4",
+      "metadata": {
+        "case_name": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "450",
+          "376",
+          "354",
+          "307",
+          "374",
+          "451",
+          "325",
+          "27",
+          "3",
+          "5",
+          "7",
+          "320",
+          "4"
+        ],
+        "actions": [
+          "shot",
+          "fired"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nTHE HIGH COURT OF ORISSA AT CUTTACK\nCRA No.72 of 1994\n(In the matter of an application under Section 374(2) of the Criminal\nProcedure Code, 1973)\nProdyamn Kumar Sarangi ....... Appellant\n-Versus-\nState of Odisha ....... Respondent\nAmicus Curiae\nCORAM:\nTHE HONOURABLE SHRI JUSTICE SIBO SANKAR MISHRA\nDate of Hearing: 19.02.2026 :: Date of Judgment: 17.03.2026\nS.S. When the matter\nwas called for hearing consistently, none appeared for the appellant. Rakhi Mishra, learned Amicus Curiae for the appellant\nState. The prosecution case in brief is that on 18.11.1992 at about 6.00\nP.M., a platoon of 3rd Battalion OSAP, including the present appellant,\nwas proceeding towards Gangabada Anti-Naxalite Camp. On the way,\nnear Benga Sahi village, the appellant allegedly entered the dwelling\nhouse of the informant (P.W.1), an Adivasi woman belonging to the\nScheduled Tribe community. According to the FIR version, the appellant enquired about the\nwhereabouts of the husbands of P.W.1 and P.W.2. When she raised\nalarm, the appellant fired from his service rifle, as a result of which she\nPage 3 of 22Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nIndian Kanoon - http://indiankanoon.org/doc/64328222/ 2\nsustained a gunshot injury on her left arm near the elbow. During investigation, an additional allegation emerged that after\nP.W.1 escaped, the appellant caught hold of P.W.2 and committed\nforcible rape upon her. The Investigating Officer seized the service rifle, bayonet, 19 live\ncartridges and one empty cartridge case from the appellant. The defence plea was that while proceeding to camp, the platoon\nsuspected Naxalite presence and brought their rifles to firing position. Page 4 of 22\nThe appellant claimed that he momentarily went aside to attend the call\nof nature and, while moving hurriedly thereafter, his hand accidentally\ncame into contact with the trigger, causing misfiring. In order to prove its case, the prosecution examined 26 witnesses\nincluding the informant (P.W.1), the alleged rape victim (P.W.2), their\nhusbands, independent villagers, police personnel, medical officers andProdyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nIndian Kanoon - http://indiankanoon.org/doc/64328222/ 3\nthe Investigating Officer.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026 | Arguments: Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nTHE HIGH COURT OF ORISSA AT CUTTACK\nCRA No.72 of 1994\n(In the matter of an application under Section 374(2) of the Criminal\nProcedure Code, 1973)\nProdyamn Kumar Sarangi ....... Appellant\n-Versus-\nState of Odisha ....... Respondent\nAmicus Curiae\nCORAM:\nTHE HONOURABLE SHRI JUSTICE SIBO SANKAR MISHRA\nDate of Hearing: 19.02.2026 :: Date of Judgment: 17.03.2026\nS.S. When the matter\nwas called for hearing consistently, none appeared for the appellant. Rakhi Mishra, learned Amicus Curiae for the appellant\nState. The prosecution case in brief is that on 18.11.1992 at about 6.00\nP.M., a platoon of 3rd Battalion OSAP, including the present appellant,\nwas proceeding towards Gangabada Anti-Naxalite Camp. On the way,\nnear Benga Sahi village, the appellant allegedly entered the dwelling\nhouse of the informant (P.W.1), an Adivasi woman belonging to the\nScheduled Tribe community. According to the FIR version, the appellant enquired about the\n | Intent: intentional | IPC: 450, 376, 354, 307, 374, 451, 325, 27, 3, 5, 7, 320, 4 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "450",
+          "376",
+          "354",
+          "307",
+          "374",
+          "451",
+          "325",
+          "27",
+          "3",
+          "5",
+          "7",
+          "320",
+          "4"
+        ],
+        "actions": [
+          "shot",
+          "fired"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Therefore, on 10.02.2026, this Court requested Ms. She has readily accepted the same and after obtaining entire\nPage 2 of 22\nrecord, assisted the Court very effectively. This Court records\nappreciation for the meaningful assistance rendered by Ms. The learned trial Court, upon appreciation of evidence, held that\nthe informant (P.W.1) had sustained a grievous gunshot injury caused by\nthe accused, rejecting the plea of accidental misfiring on the ground that\nthe rifle had to be consciously brought to firing position and discharged. While disbelieving the charge of rape under Section 376 IPC due to lack\nof medical corroboration and omissions in the FIR, the Court inferred\nfrom the circumstances namely, the accused entering the house of tribal\nwomen in the absence of their husbands and firing at close range that he\nPage 5 of 22\nhad outraged their modesty and dishonoured them, thereby attracting\nSections 451, 354 IPC and Section 3(1)(xi) of the SC/ST (Prevention of\nAtrocities) Act. Under such\ncircumstances it is clear that due to firing from the\nshort range, the pallets had been scattered and one\nof the pallets had pierced into the hand of P.W.1. Thus, it is quite evident that the accused has got no\nintention to cause, murder of P.W.1 or P.W.2 but he\nhad tried to threaten them so as to satisfy his desire. Thus, it can be said that\nthe accused is liable to be punished u/s.325 I.P.C. iv) So far the Section 27 of the Arms Act is\nconcerned, it is seen that without any authority the\naccused has used the gun for unlawful purpose\ncausing injury on the person of P.W.1 and thus he is\nliable u/s.27 of the Indian Arms Act. Thus, the accused is liable u/s.3(1)(xii) of\nS.C./S.T. the judgment of conviction recorded by the learned trial Court is well-\nreasoned and based on cogent oral, medical and circumstantial evidence. State (Union Territory of Chandigarh), reported in , wherein the Hon'ble Supreme Court held that absence ofProdyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nIndian Kanoon - http://indiankanoon.org/doc/64328222/ 8\nmotive is not fatal when credible eyewitness account exists.",
+      "embedding_text": "REASONING_CHUNK | Case: Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026 | Judicial reasoning: Therefore, on 10.02.2026, this Court requested Ms. She has readily accepted the same and after obtaining entire\nPage 2 of 22\nrecord, assisted the Court very effectively. This Court records\nappreciation for the meaningful assistance rendered by Ms. The learned trial Court, upon appreciation of evidence, held that\nthe informant (P.W.1) had sustained a grievous gunshot injury caused by\nthe accused, rejecting the plea of accidental misfiring on the ground that\nthe rifle had to be consciously brought to firing position and discharged. While disbelieving the charge of rape under Section 376 IPC due to lack\nof medical corroboration and omissions in the FIR, the Court inferred\nfrom the circumstances namely, the accused entering the house of tribal\nwomen in the absence of their husbands and firing at close range that he\nPage 5 of 22\nhad outraged their modesty and dishonoured them, thereby attracting\nSections 451, 354 IPC and Section 3(1)(xi) of the SC/ST (Prevention of\nAtrocities) Act. Under su | Intent: intentional | Outcome: death | IPC: 450, 376, 354, 307, 374, 451, 325, 27, 3, 5, 7, 320, 4",
+      "metadata": {
+        "case_name": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "450",
+          "376",
+          "354",
+          "307",
+          "374",
+          "451",
+          "325",
+          "27",
+          "3",
+          "5",
+          "7",
+          "320",
+          "4"
+        ],
+        "actions": [
+          "shot",
+          "fired"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Sessions Judge, Paralakhemundi in Sessions Case No.23 of 1993,\nwhereby the appellant was convicted under Sections 451, 354 and 325\nIPC (the charge under Section 307 IPC having been altered to Section\n325 IPC), Section 27 of the Arms Act and Section 3(1)(xi) of the SC &\nST (Prevention of Atrocities) Act. He was sentenced to 2 years R.I. He was acquitted of the charge under Section 376\nIPC.Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nIndian Kanoon - http://indiankanoon.org/doc/64328222/ 1\n2. It further altered the charge under Section 307 IPC to\nSection 325 IPC, holding that though there was no intention to commit\nmurder, grievous hurt was voluntarily caused, and also convicted the\naccused under Section 27 of the Arms Act for unlawful use of his service\nfirearm. as none of the offence\npunishable with imprisonment for life has yet been\nproved. Prevention of Atrocities Act is concerned the law\nreads as follows :-\n\"Whoever, not being a member of Scheduled\ncaste or scheduled Tribe assaults or uses\nforce to any woman belonging to a\nScheduled caste or a scheduled Tribe with\nintent to dishonour or outrage her modesty\nshall be punishable with imprisonment for a\nterm which shall not be less than six months\nbut which may extend to five years and with\nfine. Under Sec.3(2)(vii) reveals that whoever not\nbeing a member of scheduled caste or\nscheduled tribe being a public servant\nPage 7 of 22\ncommits any offence under this section shall\nbe punishable with imprisonment for a term\nwhich shall not be less than one year which\nmay extend to the punishment provided for\nthat offence.\"\nIn the present case, it has been duly proved that the\naccused had entered into the house of an Adibasi\nlady. Prevention of Atrocities Act and convict him\nthereunder and he is acquitted for the offence\nu/s.376 I.P.C.\"\n11. Panigrahi contended that though the appellant was acquitted\nunder Section 376 IPC, the absence of motive does not weaken the\nprosecution case when direct ocular testimony and surrounding\ncircumstances point towards guilt.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026 | Final judgment: Sessions Judge, Paralakhemundi in Sessions Case No.23 of 1993,\nwhereby the appellant was convicted under Sections 451, 354 and 325\nIPC (the charge under Section 307 IPC having been altered to Section\n325 IPC), Section 27 of the Arms Act and Section 3(1)(xi) of the SC &\nST (Prevention of Atrocities) Act. He was sentenced to 2 years R.I. He was acquitted of the charge under Section 376\nIPC.Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026\nIndian Kanoon - http://indiankanoon.org/doc/64328222/ 1\n2. It further altered the charge under Section 307 IPC to\nSection 325 IPC, holding that though there was no intention to commit\nmurder, grievous hurt was voluntarily caused, and also convicted the\naccused under Section 27 of the Arms Act for unlawful use of his service\nfirearm. as none of the offence\npunishable with imprisonment for life has yet been\nproved. Prevention of Atrocities Act is concerned the law\nreads as follows :-\n\"Whoever, not being a member of Scheduled\ncaste or scheduled T | Judgment: convicted | IPC: 450, 376, 354, 307, 374, 451, 325, 27, 3, 5, 7, 320, 4",
+      "metadata": {
+        "case_name": "Prodyamn Kumar Sarangi vs State Of Odisha on 17 March, 2026",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "450",
+          "376",
+          "354",
+          "307",
+          "374",
+          "451",
+          "325",
+          "27",
+          "3",
+          "5",
+          "7",
+          "320",
+          "4"
+        ],
+        "actions": [
+          "shot",
+          "fired"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    }
+  ]
+}

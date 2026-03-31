@@ -1,0 +1,192 @@
+{
+  "case_id": "Subedar_And_Ors_vs_The_State_on_2_April_1956",
+  "case_name": "Subedar And Ors. vs The State on 2 April, 1956",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Subedar And Ors. 1. P. C, for\ncausing the death of Bhajan Lal and under Section 323 for causing simple hurt to Mitthu. P. C.,\nand referred the case to a third Judge for his opinion. We agreed on the question of the conviction\nunder Section 323, I. P. C., and expressly recorded the finding that their convictions and sentences\nunder Section 323 read with Section 34, I. P. C., were to be maintained. P. C., but also we expressly excluded it from the jurisdiction of the third Judge. P. C., and the other\npertaining to the charge under Section 323, I. P. C. The whole record had to be laid before the\nHon'ble the Chief Justice. The third Judge, though he had the whole record before him, had to give\nhis opinion only on the question referred to him and not on other questions which were not referred\nto him or which had been decided by us or on which we had not disagreed. It is provided in Section\n429 of the Code of Criminal Procedure, under which we acted, that \"when the Judges ...... What is meant by the word 'case' has not been explained. If it means the record of the proceedings, there is no difficulty at all because, as explained above, the\nwhole record must of necessity be laid before the third Judge and from the laying of the whole\nrecord before him it cannot be inferred that he has jurisdiction to decide all the questions arising\nupon it. 2. The normal rule is that for every distinct offence there must be a separate charge and every such\ncharge must be tried separately, vide Section 233. In certain circumstances mentioned in Sections\n234 etc. trial of two or more persons or of a person for two or more offences or of two or moreSubedar And Ors. When a trial is against one person in respect of one\noffence, no difficulty arises at all, because the word 'case' means the trial. But when a trial is of two or more persons for one offence, or when a trial is of one person for two or\nmore offences, or when a trial is of two or more persons for two or more offences, the question arises\nwhat is meant by the word 'case'; does it mean a trial of one person regardless of the number of\noffences with which he is charged, or a trial of one person for each offence, or a trial for one offence\nof any number of persons, or the whole trial of two or more persons for two or more offences.",
+      "embedding_text": "FACT_CHUNK | Case: Subedar And Ors. vs The State on 2 April, 1956 | Facts: Subedar And Ors. 1. P. C, for\ncausing the death of Bhajan Lal and under Section 323 for causing simple hurt to Mitthu. P. C.,\nand referred the case to a third Judge for his opinion. We agreed on the question of the conviction\nunder Section 323, I. P. C., and expressly recorded the finding that their convictions and sentences\nunder Section 323 read with Section 34, I. P. C., were to be maintained. P. C., but also we expressly excluded it from the jurisdiction of the third Judge. P. C., and the other\npertaining to the charge under Section 323, I. P. C. The whole record had to be laid before the\nHon'ble the Chief Justice. The third Judge, though he had the whole record before him, had to give\nhis opinion only on the question referred to him and not on other questions which were not referred\nto him or which had been decided by us or on which we had not disagreed. It is provided in Section\n429 of the Code of Criminal Procedure, under which we acted, that \"when the Judges ...... What is mean | Actions: attacked | Weapon: pistol | Outcome: death | IPC: 304, 323, 34, 429, 233, 234, 325, 302, 148, 149, 147, 307, 369, 526, 377, 378, 49",
+      "metadata": {
+        "case_name": "Subedar And Ors. vs The State on 2 April, 1956",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "304",
+          "323",
+          "34",
+          "429",
+          "233",
+          "234",
+          "325",
+          "302",
+          "148",
+          "149",
+          "147",
+          "307",
+          "369",
+          "526",
+          "377",
+          "378",
+          "49"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1956"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "When we\nheard their appeal, we disagreed on the question whether they are guilty under Section 304, I. It is not mentioned in Section 429 on what matter the third Judge has to give his opinion,\nwhether only on the matter on which the Judges are equally divided in opinion or on all matters\narising upon the record. The question whether in a case of one person charged with two offences referred to a third Judge by\nthe two fudges of the Court of appeal, who were agreed that he was guilty of one offence but differed\nas to his being guilty of the other offence, the third Judge has power to decide the question of both\nthe offences or of only the offence in respect of which there was a division of opinion did not arise\nfor answer by the learned Judge, and was not answered by him. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 7\nIt was further held:\n\"The question that arises is whether, without such direct charges the convictions and\nsentences for those offences can be maintained. The second question is whether the\nthird Judge was bound to agree with the opinion of either of the two Judges, or he could give a thirdSubedar And Ors. Since we are equally divided in opinion on the question whether the appellants' conviction and\nsentence under Section 323 I.P.C,, should be maintained or quashed, we direct the case to be laid\nbefore the Hon'ble Chief Justice for obtaining another Judge's opinion on the matter. On 2-11-1955, the Division Bench passed the\nfollowing order;\n\"Since we differ on the question whether the appellants are guilty under Section 304,\nPart I, I.P.C. The Division Bench passed the following Order:\n\"Since we are equally divided in opinion on the question whether the appellants'\nconviction and sentence under Section 323, I.P.C. The main\nquestion involved in the appeal was whether appellants acted in the exercise of the right of private\ndefence. The question arose whether the whole case or the case of that particular appellant should be referred\nto a third Judge under Section 429, Cr.",
+      "embedding_text": "ISSUE_CHUNK | Case: Subedar And Ors. vs The State on 2 April, 1956 | Legal issues: When we\nheard their appeal, we disagreed on the question whether they are guilty under Section 304, I. It is not mentioned in Section 429 on what matter the third Judge has to give his opinion,\nwhether only on the matter on which the Judges are equally divided in opinion or on all matters\narising upon the record. The question whether in a case of one person charged with two offences referred to a third Judge by\nthe two fudges of the Court of appeal, who were agreed that he was guilty of one offence but differed\nas to his being guilty of the other offence, the third Judge has power to decide the question of both\nthe offences or of only the offence in respect of which there was a division of opinion did not arise\nfor answer by the learned Judge, and was not answered by him. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 7\nIt was further held:\n\"The question that arises is whether, without such direct charges the convictions and\nsentences for those offenc | IPC: 304, 323, 34, 429, 233, 234, 325, 302, 148, 149, 147, 307, 369, 526, 377, 378, 49",
+      "metadata": {
+        "case_name": "Subedar And Ors. vs The State on 2 April, 1956",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "304",
+          "323",
+          "34",
+          "429",
+          "233",
+          "234",
+          "325",
+          "302",
+          "148",
+          "149",
+          "147",
+          "307",
+          "369",
+          "526",
+          "377",
+          "378",
+          "49"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1956"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs The State on 2 April, 1956\nEquivalent citations: AIR1956ALL529\nJUDGMENT\nDesai, J. There was only one record of the trial of the appellants for the two charges and it could not be split\nup into two records, one pertaining to the charge under Section 304, I. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 1\npersons for two or more offences is permitted. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 2\ntwo Judges on the questions on which they have agreed, particularly if the final order that should be\npassed according to his opinion would be inconsistent with the agreed opinion. In this very case one of us was of the opinion that the appellants were guilty under\nSection 304 for causing the death of Bhajan Lal and the other was of opinion that he was guilty\nunder Section 325. Having held that the appellants had a right of private defenee and that it\ncould not be decided which of them caused the death of Bhajan Lal by' exceeding it, he could not\nhold them guilty under Section 325, I. when he laid down in\n-the --'State of Orissay Minaketan', 1953 Orissa 160 (AIR V 40) (SB) (C) that the difference between\nthe two Judges must be about the final order or about the operative part of the order to be passed\nand not about the reasons. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 3\none set of rules cannot govern all kinds of differences of opinion. It was stated by Mookerjee J. The appellants could\nhave been tried in one trial for the offence of Section 304, I. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 4\nof Section 323, I. The joinder of trials for the two offences cannot be permitted to prejudice the\nrights of the State and such a prejudice can be avoided only by holding that our learned brother had\nno jurisdiction to decide the question of the appellants' guilt under Section 323, I.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Subedar And Ors. vs The State on 2 April, 1956 | Arguments: vs The State on 2 April, 1956\nEquivalent citations: AIR1956ALL529\nJUDGMENT\nDesai, J. There was only one record of the trial of the appellants for the two charges and it could not be split\nup into two records, one pertaining to the charge under Section 304, I. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 1\npersons for two or more offences is permitted. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 2\ntwo Judges on the questions on which they have agreed, particularly if the final order that should be\npassed according to his opinion would be inconsistent with the agreed opinion. In this very case one of us was of the opinion that the appellants were guilty under\nSection 304 for causing the death of Bhajan Lal and the other was of opinion that he was guilty\nunder Section 325. Having held that the appellants had a right of private defenee and that it\ncould not be decided which of them caused the death of Bhajan Lal by' | Intent: intentional | IPC: 304, 323, 34, 429, 233, 234, 325, 302, 148, 149, 147, 307, 369, 526, 377, 378, 49 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Subedar And Ors. vs The State on 2 April, 1956",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "304",
+          "323",
+          "34",
+          "429",
+          "233",
+          "234",
+          "325",
+          "302",
+          "148",
+          "149",
+          "147",
+          "307",
+          "369",
+          "526",
+          "377",
+          "378",
+          "49"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1956"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Thus not only was there no difference of opinion between us on the question whether they are guilty\nunder Section 323, I. are\nequally divided in opinion, the case, with their opinion thereon, shall be laid before another Judge of\nthe same Court, and such Judge ....... shall deliver his opinion, and the judgment or order shall\nfollow such opinion.\"\nUnder this provision what is required to be done in the first instance is laying the case before a third\nJudge; the third Judge has then to deliver his opinion and the judgment of the Court of appeal has\nto follow such opinion. It is only when the Judges\nof the court of appeal are equally divided that the case is required to be laid before a third Judge;\nobviously if in respect of any accused they are in agreement, there should arise no occasion for his\ncase being referred to the third Judge. The third Judge has not been given any power of appeal over the two Judges; he has been\nempowered to give his opinion so that his opinion, should go with the opinion of one Judge\ncomposing the Court of appeal to make two opinions as against one Opinion of the other Judge. I should make it clear at this stage that the division of the two Judges composing the Court of\nappeal must be in their opinion about the final order to be passed and not about the reasons for the\nfinal order. Emperor', 38 Cal 202 (A) the two Judges of a Court of appeal agreed that a\ncertain document was a newspaper but one, held that the order of forfeiture was legal and the other\nthat it was illegal; when the case went before a third fudge, he decided that he had jurisdiction to\nhold that it was not a newspaper at all. Corporation of Calcutta', 1919 Cal 862 (AIR V 6) 03) it was\nobserved by Woodroffe J., at p. at page 272 that it was never intended that the opinion of a single Judge should\nprevail over that of two Judges composing the Court of appeal.",
+      "embedding_text": "REASONING_CHUNK | Case: Subedar And Ors. vs The State on 2 April, 1956 | Judicial reasoning: Thus not only was there no difference of opinion between us on the question whether they are guilty\nunder Section 323, I. are\nequally divided in opinion, the case, with their opinion thereon, shall be laid before another Judge of\nthe same Court, and such Judge ....... shall deliver his opinion, and the judgment or order shall\nfollow such opinion.\"\nUnder this provision what is required to be done in the first instance is laying the case before a third\nJudge; the third Judge has then to deliver his opinion and the judgment of the Court of appeal has\nto follow such opinion. It is only when the Judges\nof the court of appeal are equally divided that the case is required to be laid before a third Judge;\nobviously if in respect of any accused they are in agreement, there should arise no occasion for his\ncase being referred to the third Judge. The third Judge has not been given any power of appeal over the two Judges; he has been\nempowered to give his opinion so that his opinion, should go wit | Intent: intentional | Outcome: death | IPC: 304, 323, 34, 429, 233, 234, 325, 302, 148, 149, 147, 307, 369, 526, 377, 378, 49",
+      "metadata": {
+        "case_name": "Subedar And Ors. vs The State on 2 April, 1956",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "304",
+          "323",
+          "34",
+          "429",
+          "233",
+          "234",
+          "325",
+          "302",
+          "148",
+          "149",
+          "147",
+          "307",
+          "369",
+          "526",
+          "377",
+          "378",
+          "49"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1956"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The appellants were convicted by the Additional Sessions Judge under Section 304, I. His opinion about the final order was that the forfeiture must\nbe set aside; if he agreed with the reason given by one Judge for maintaining the order of forfeiture\nand disagreed with the reason given by the other for quashing it and was bound by their agreed\nopinion that the document was a newspaper, he would have been obliged to give his opinion that the\nforfeiture must be maintained. When he gave his opinion that \"the\nconviction of these appellants is to be set aside altogether\" he did not mean that their conviction\nunder all the sections is to be set aside.Subedar And Ors. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 5\nNot only did he use the word 'conviction' in singular but also the word 'altogether' was used because\nour opinion was that the appellants must be convicted under one section or another for causing the\ndeath of Bhajan Lal, whereas his opinion was that they could not be convicted under any section. Therefore, the conviction of the appellants under Section 323 must be maintained and they\nshould be acquitted only of the offence of Section 304, I. The appellants Subedar, Ram Lal and Naththa, who are brothers, were convicted under Section\n304 (Pt. Both the partita\nhad lodged reports and the learned Sessions Judge convicted the appellants as already mentioned,\nunder Sections 304 (Pt. Subedar was sentenced to\ntransportation for life under Section 304 (Pt. I) and also to six months' rigorous imprisonment\nunder Section 323 read with Section 34, I. The other two were only sentenced to six years'\nrigorous imprisonment under Section 304 (Pt. I) and to six months' rigorous imprisonment under\nSection 323 read with Section 34, I. He has given his opinion that the conviction of\nthese appellants should be set aside altogether. But as they were charged only for the offence of murder of Bhajan Lal and inflicting injuries on\nMithu in prosecution of the common object of an unlawful assembly consisting of themselves and\ntwo other persons they could not be convicted of any offence.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Subedar And Ors. vs The State on 2 April, 1956 | Final judgment: The appellants were convicted by the Additional Sessions Judge under Section 304, I. His opinion about the final order was that the forfeiture must\nbe set aside; if he agreed with the reason given by one Judge for maintaining the order of forfeiture\nand disagreed with the reason given by the other for quashing it and was bound by their agreed\nopinion that the document was a newspaper, he would have been obliged to give his opinion that the\nforfeiture must be maintained. When he gave his opinion that \"the\nconviction of these appellants is to be set aside altogether\" he did not mean that their conviction\nunder all the sections is to be set aside.Subedar And Ors. vs The State on 2 April, 1956\nIndian Kanoon - http://indiankanoon.org/doc/227612/ 5\nNot only did he use the word 'conviction' in singular but also the word 'altogether' was used because\nour opinion was that the appellants must be convicted under one section or another for causing the\ndeath of Bhajan Lal, whereas his opinion was t | Judgment: convicted | IPC: 304, 323, 34, 429, 233, 234, 325, 302, 148, 149, 147, 307, 369, 526, 377, 378, 49",
+      "metadata": {
+        "case_name": "Subedar And Ors. vs The State on 2 April, 1956",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "304",
+          "323",
+          "34",
+          "429",
+          "233",
+          "234",
+          "325",
+          "302",
+          "148",
+          "149",
+          "147",
+          "307",
+          "369",
+          "526",
+          "377",
+          "378",
+          "49"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1956"
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "case_id": "Padamati_Venkata_Sundara_Rao_vs_State_Of_A_P_on_13_February_2006",
+  "case_name": "Padamati Venkata Sundara Rao vs State Of A.P. on 13 February,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "on 13 February,\n2006\nEquivalent citations: 2006(1)ALD(CRI)585, 2006CRILJ2168\nJUDGMENT\nM.E.N. Patrudu, J. 1. 1.01 Pulukuri Kotayya v. Emperor AIR 1947 PC 67 : 1947 (48) Cri LJ 533 The above landmark\npronouncement is the answer. 1.02 It is rightly argued by the learned senior counsel Sri. C. 1.03 Incidentally several other factual details and the niceties of the procedural and substantive law\nof crime are also high-lighted by Sri, C. Padmanabha Reddy and indeed they are feast to the ears of\nthe Bench and Bar. Sri. 2. C. No. 199 of 1998 on the file of the Additional Assistant\nSessions Judge, Tenali. 3. on 13 February, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1264415/ 1\nfor three months under both the counts and further directed that the sentences shall\nrun concurrently and remand period, if any, shall be set off. 4. FACTS:\n5. 5.2 P.W. 1 is the brother of A-2. All are residents of Yeminenivaripalem. 5.3 There are long pending civil disputes between the two families over Joint house\nsites and lands. 5.4 A-1 and A-2 the son and the father are accused in the trial, 5.5 The accused\ndeveloped enmity against P.W. 1 and threatened him with dire consequences. 5.6 The motive for the crime, is the property disputes. INCIDENT:\n5.7 The incident occurred on 10-8-1997 at about 5.00 p.m. near the village. 1 intend to sell away the house site to one Addanki\nSatyanarayana for Rs. 14,000/- and engaged P.W. 5 for surveying the land in order to\nhand over the same to the proposed purchaser. Accordingly, on 10-8-1997 at about\n4.00 p.m., P. Ws. 1. and 5 and the proposed purchaser and others are measuring the\nsite. Noticing the same, both accused and their family members objected to survey\nand in pursuance of the same there was a quarrel. 5.9 Thereafter, all of them returned to the main road. At about 5.00 p.m., the 2nd\naccused again picked up a quarrel with P.W. 1 and the first accused picked up a\ncrowbar and dealt a blow on the head of P.W.",
+      "embedding_text": "FACT_CHUNK | Case: Padamati Venkata Sundara Rao vs State Of A.P. on 13 February, | Facts: on 13 February,\n2006\nEquivalent citations: 2006(1)ALD(CRI)585, 2006CRILJ2168\nJUDGMENT\nM.E.N. Patrudu, J. 1. 1.01 Pulukuri Kotayya v. Emperor AIR 1947 PC 67 : 1947 (48) Cri LJ 533 The above landmark\npronouncement is the answer. 1.02 It is rightly argued by the learned senior counsel Sri. C. 1.03 Incidentally several other factual details and the niceties of the procedural and substantive law\nof crime are also high-lighted by Sri, C. Padmanabha Reddy and indeed they are feast to the ears of\nthe Bench and Bar. Sri. 2. C. No. 199 of 1998 on the file of the Additional Assistant\nSessions Judge, Tenali. 3. on 13 February, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1264415/ 1\nfor three months under both the counts and further directed that the sentences shall\nrun concurrently and remand period, if any, shall be set off. 4. FACTS:\n5. 5.2 P.W. 1 is the brother of A-2. All are residents of Yeminenivaripalem. 5.3 There are long pending civil disputes between the two families over Joint house | Actions: threatened | Weapon: unknown | Outcome: death | IPC: 307, 328, 324, 34, 326, 300, 161, 156, 160, 162, 145, 537, 535, 173, 207, 181, 465, 29, 357",
+      "metadata": {
+        "case_name": "Padamati Venkata Sundara Rao vs State Of A.P. on 13 February,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "307",
+          "328",
+          "324",
+          "34",
+          "326",
+          "300",
+          "161",
+          "156",
+          "160",
+          "162",
+          "145",
+          "537",
+          "535",
+          "173",
+          "207",
+          "181",
+          "465",
+          "29",
+          "357"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The points for my decision are :\n(1) Whether the appellant attempted to kill P.W. (2) Whether the non-supply of the statement of P.W. 9.2 Close perusal of the Section clarifies that to attract an offence under Section 307,\nIPC, the Court is expected to carefully examine whether the act irrespective of its\nresult was done with an intention or knowledge and under the circumstances\nmentioned in the Section. It should be further verified whether the intention or the\nknowledge of the accused must be such as is necessary to constitute murder. 9.5 To determine whether an act falls within the ambit of Section 307, IPC three\nconditions are essential are to be examined:\n(i) nature of the act done\n(ii) the intention or knowledge of the act\n(iii) the circumstance under which the act is done. The notes of the examination by the Circle Inspector were made available to the\naccused at the earliest opportunity, and when the note book of the police\naccused was in a position to ascertain whether there was any inconsistency between\nthe statements made to the police Sub-Inspector and those made later in the day to\nthe Circle Inspector. The Supreme Court in several cases held that whether it is illegal or irregular or infraction of any\nother provision of the Code, it must be established that there is a failure of justice and in fact it has\nbeen occasioned because of the Illegality or irregularity.",
+      "embedding_text": "ISSUE_CHUNK | Case: Padamati Venkata Sundara Rao vs State Of A.P. on 13 February, | Legal issues: The points for my decision are :\n(1) Whether the appellant attempted to kill P.W. (2) Whether the non-supply of the statement of P.W. 9.2 Close perusal of the Section clarifies that to attract an offence under Section 307,\nIPC, the Court is expected to carefully examine whether the act irrespective of its\nresult was done with an intention or knowledge and under the circumstances\nmentioned in the Section. It should be further verified whether the intention or the\nknowledge of the accused must be such as is necessary to constitute murder. 9.5 To determine whether an act falls within the ambit of Section 307, IPC three\nconditions are essential are to be examined:\n(i) nature of the act done\n(ii) the intention or knowledge of the act\n(iii) the circumstance under which the act is done. The notes of the examination by the Circle Inspector were made available to the\naccused at the earliest opportunity, and when the note book of the police\naccused was in a position to ascertain whether there wa | IPC: 307, 328, 324, 34, 326, 300, 161, 156, 160, 162, 145, 537, 535, 173, 207, 181, 465, 29, 357",
+      "metadata": {
+        "case_name": "Padamati Venkata Sundara Rao vs State Of A.P. on 13 February,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "307",
+          "328",
+          "324",
+          "34",
+          "326",
+          "300",
+          "161",
+          "156",
+          "160",
+          "162",
+          "145",
+          "537",
+          "535",
+          "173",
+          "207",
+          "181",
+          "465",
+          "29",
+          "357"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Padamati Venkata Sundara Rao vs State Of A.P. Prejudice of the accused in criminal trial for non supply of the witness statement is the core\nquestion in this appeal. 1.04 As usual and as is being happening regularly before this Court, the State represented by the\nlearned Public Prosecutor remained absent. Ramalingeswara Reddy a learned young colleague\nof the learned prosecutor represented the respondent State by perusing the Court record during the\ncourse of arguments of the case by saying that the State is not assisting the prosecutor either with\nthe case record or with any case law. 1.05 A sorry state of affairs and unnecessary to comment further and advisable to decide the appeal\non merits. The appellant is the first accused in S. The appellant is now challenging the legality and correctness of the above judgment. Factual details of the case are:\n5.1 The appellant is the son of A-2. 5.8 It is stated that P.W. 10 the police officer proceeded to the hospitalPadamati Venkata Sundara Rao vs State Of A.P. 1 was still unconscious and was unable to\ngive any statement. The two contradictions are marked for the defence. There are no defence witnesses. It is further argued that there is no injury to P.W. 7.4 It is also stoutly contended that the investigator admitted in the\ncross-examination, that he has recorded the statement of P.W. 1 was in-patient in the hospital but the said statement is not filed in the Court as\nsuch the copy of it is not supplied to the accused and thereby accused are prejudicedPadamati Venkata Sundara Rao vs State Of A.P. on 13 February, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1264415/ 3\nand they have no knowledge about the contents of the said statement recorded on\n18-8-1997. 7.6 It is also stated that only interested witnesses are examined and their evidence\nneeds close scrutiny. If these\ningredients are not established the offence of attempt to murder is not made out.Padamati Venkata Sundara Rao vs State Of A.P. 2 is the first informant.Padamati Venkata Sundara Rao vs State Of A.P.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Padamati Venkata Sundara Rao vs State Of A.P. on 13 February, | Arguments: Padamati Venkata Sundara Rao vs State Of A.P. Prejudice of the accused in criminal trial for non supply of the witness statement is the core\nquestion in this appeal. 1.04 As usual and as is being happening regularly before this Court, the State represented by the\nlearned Public Prosecutor remained absent. Ramalingeswara Reddy a learned young colleague\nof the learned prosecutor represented the respondent State by perusing the Court record during the\ncourse of arguments of the case by saying that the State is not assisting the prosecutor either with\nthe case record or with any case law. 1.05 A sorry state of affairs and unnecessary to comment further and advisable to decide the appeal\non merits. The appellant is the first accused in S. The appellant is now challenging the legality and correctness of the above judgment. Factual details of the case are:\n5.1 The appellant is the son of A-2. 5.8 It is stated that P.W. 10 the police officer proceeded to the hospitalPadamati Venkata Sundara Ra | Intent: intentional | IPC: 307, 328, 324, 34, 326, 300, 161, 156, 160, 162, 145, 537, 535, 173, 207, 181, 465, 29, 357 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Padamati Venkata Sundara Rao vs State Of A.P. on 13 February,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "307",
+          "328",
+          "324",
+          "34",
+          "326",
+          "300",
+          "161",
+          "156",
+          "160",
+          "162",
+          "145",
+          "537",
+          "535",
+          "173",
+          "207",
+          "181",
+          "465",
+          "29",
+          "357"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Padmanabha Reddy appearing for the\nnow being relied by Apex Court in the recent Judgments. Further his evidence discloses that he did not\nwitness the incident hence F.I. 1, the victim, cannot be brushed aside\nand his evidence is fully corroborated with the medical evidence and therefore the\njudgment of the trial Court is justified. 9.7 While dealing with the offence under Section 307, IPC, the Court has to keep two more points in\nits mind. 9.13 Thus the evidence of P.W. 9.15 Therefore, his evidence is not at all useful and with this backdrop the evidentiary\nvalue of Ex. Therefore,\nthe police must read over the contents of the report to the informant and obtain the\nsignatures of the informant on the report. Therefore, F. Therefore, the evidence of P.W. Therefore, the uncorroborated testimony of P.W. 9.26 EARLIER THREATS :\nThe Court below also observed that as A-1 used to threaten P.W. 1 that he would see\nhis end hence he has intention to kill P.W. When the victim himself is silent on\nthe so called threat or proclamation, it is nothing but absurd for the trial Court to\nbelieve the evidence of P.W. on 13 February, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1264415/ 7\n9.29 Thus, I have no hesitation to hold that it is an improvement by P.W. 3 for the\nfirst time in the Court and the said fact is marked as Ex. 1 by picking up a crowbar, therefore it is not a case attracting the provisions of\nSection 307, IPC. 9.33 Therefore, I hold that on the facts and circumstances of the case the act of the\n9.34 Thus the appellant is entitled for acquittal Under Section 307, IPC. Court in India have always regarded any breach of the\nproviso to Section 162 as matter of gravity, AIR 1945 Nag. The High Court rejected this contention, rightly as their Lordships\nthink. 1 recorded on\n18-8-1997 in the Court. on 13 February, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1264415/ 11\n10.17 Thus the main concern of the Court of law is to focus its attention on two concepts :\n(a) Interest of Justice\n(b) failure of justice 10.18 In this case, the second statement of P.W.",
+      "embedding_text": "REASONING_CHUNK | Case: Padamati Venkata Sundara Rao vs State Of A.P. on 13 February, | Judicial reasoning: Padmanabha Reddy appearing for the\nnow being relied by Apex Court in the recent Judgments. Further his evidence discloses that he did not\nwitness the incident hence F.I. 1, the victim, cannot be brushed aside\nand his evidence is fully corroborated with the medical evidence and therefore the\njudgment of the trial Court is justified. 9.7 While dealing with the offence under Section 307, IPC, the Court has to keep two more points in\nits mind. 9.13 Thus the evidence of P.W. 9.15 Therefore, his evidence is not at all useful and with this backdrop the evidentiary\nvalue of Ex. Therefore,\nthe police must read over the contents of the report to the informant and obtain the\nsignatures of the informant on the report. Therefore, F. Therefore, the evidence of P.W. Therefore, the uncorroborated testimony of P.W. 9.26 EARLIER THREATS :\nThe Court below also observed that as A-1 used to threaten P.W. 1 that he would see\nhis end hence he has intention to kill P.W. When the victim himself is silent on\nth | Intent: intentional | Outcome: death | IPC: 307, 328, 324, 34, 326, 300, 161, 156, 160, 162, 145, 537, 535, 173, 207, 181, 465, 29, 357",
+      "metadata": {
+        "case_name": "Padamati Venkata Sundara Rao vs State Of A.P. on 13 February,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "307",
+          "328",
+          "324",
+          "34",
+          "326",
+          "300",
+          "161",
+          "156",
+          "160",
+          "162",
+          "145",
+          "537",
+          "535",
+          "173",
+          "207",
+          "181",
+          "465",
+          "29",
+          "357"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "IMPUGNED ORDER:\nThe learned Additional Assistant Sessions Judge by reason of the impugned\njudgment dated 31-8-1999 convicted the appellant for the offence under Sections 307\nand 328, IPC and sentenced him to undergo rigorous imprisonment for ten years and\nto pay a fine of Rs. 500/- under each count, in default to suffer simple imprisonmentPadamati Venkata Sundara Rao vs State Of A.P. ARGUMENTS :\ndrawing my attention on various portions of the impugned judgment and stated that\nthe conviction is to be set aside for more than one reason, 7.2 The main grievance\naccused under Sections 307 and 326, IPC for the single overt act attributed to him\nviz., hitting on the head of P.W. 1 :\n9.1 Section 307, IPC reads as follows :\nAttempt to murder :- Whoever does any act with such intention or knowledge, and\nunder such circumstances that, if he by that act caused death, he would be guilty of\nmurder, shall be punished with imprisonment of either description for a term which\nmay extend to ten years, and shall also be liable to fine, and if hurt is caused to any\nperson by such act, the offender shall be liable either to imprisonment for life, or to\nsuch punishment as is hereinbefore mentioned. 1. Tilkeswar Singh v. on 13 February, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1264415/ 12\n10.24 Considering the same, I am of the view that the evidence of P.W. 10.25 In the light of the above observation, I am of the opinion that there is no prejudice to the\nsame is curable under Section 465, Cr.P.C. 10.28 For the foregoing reasons. IPC :\n11.01 Even if the evidence of P.W.I is to be kept aside, even then we have the evidence\nof P.Ws. No doubt P.Ws. 3 and 4 are blood\nrelatives of P.W. 1. It is not a ground to reject their evidence in totality. It requires\nscrutiny. 1 sustained injury on his\nhead. It is P.W.2 who has shifted P.W.1 to the hospital. It is P.W.9 the doctor who has\nexamined P.W.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Padamati Venkata Sundara Rao vs State Of A.P. on 13 February, | Final judgment: IMPUGNED ORDER:\nThe learned Additional Assistant Sessions Judge by reason of the impugned\njudgment dated 31-8-1999 convicted the appellant for the offence under Sections 307\nand 328, IPC and sentenced him to undergo rigorous imprisonment for ten years and\nto pay a fine of Rs. 500/- under each count, in default to suffer simple imprisonmentPadamati Venkata Sundara Rao vs State Of A.P. ARGUMENTS :\ndrawing my attention on various portions of the impugned judgment and stated that\nthe conviction is to be set aside for more than one reason, 7.2 The main grievance\naccused under Sections 307 and 326, IPC for the single overt act attributed to him\nviz., hitting on the head of P.W. 1 :\n9.1 Section 307, IPC reads as follows :\nAttempt to murder :- Whoever does any act with such intention or knowledge, and\nunder such circumstances that, if he by that act caused death, he would be guilty of\nmurder, shall be punished with imprisonment of either description for a term which\nmay extend to ten years, an | Judgment: convicted | IPC: 307, 328, 324, 34, 326, 300, 161, 156, 160, 162, 145, 537, 535, 173, 207, 181, 465, 29, 357",
+      "metadata": {
+        "case_name": "Padamati Venkata Sundara Rao vs State Of A.P. on 13 February,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "307",
+          "328",
+          "324",
+          "34",
+          "326",
+          "300",
+          "161",
+          "156",
+          "160",
+          "162",
+          "145",
+          "537",
+          "535",
+          "173",
+          "207",
+          "181",
+          "465",
+          "29",
+          "357"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

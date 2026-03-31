@@ -1,0 +1,182 @@
+{
+  "case_id": "Bhura_Singh_vs_State_Of_Delhi_on_23_November_2011",
+  "case_name": "Bhura Singh vs State Of Delhi on 23 November, 2011",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Appeal No.910/2006\n% Date of Decision: 23.11.2011\nBhura Singh .... complainant/prosecutrix\nCORAM:\nHON'BLE MR. JUSTICE ANIL KUMAR\nHON'BLE MR. JUSTICE V.K.SHALI\n1. 2. To be referred to the reporter or not? YES\n3. ANIL KUMAR, J. 1. 2. At the time of incident she was engaged to look after Sh. S.K. Kaushik, an aged patient, in\nroom No. 208, which is situated on the second floor of the hospital. He was a paralytic patient and\nhe was unable to speak or move. Ms.Rinchu used to attend to him from 8 p.m. to 8 a.m. everyday. On the night intervening 6/7th September, 2003, Ms.Rinchu was lying on the side seat of the\nattendant and she was feeling drowsy, because of which she drifted off to sleep. Suddenly, she felt\nthat somebody was fondling her breasts. She opened her eyes and found that accused Bhura, who\nwas a sweeper in the hospital and was known to Ms.Rinchu for the last ten days, was present there. Ms. Rinchu stood up on her feet and asked him to get out of the room. She then started\nmoving her hands towards the bell, but Bhura caught hold of her hands. The prosecutrix then\nscreamed but the accused had put his hand on her mouth and gagged her. Consequently, Rinchu,\nthe prosecutrix was unable to raise her voice. In the meantime, Bhura dragged her towards the\nsecond patients bed in the room which was lying unoccupied. The prosecutrix then threw up some\nblood and fell down on the floor as she became unconscious. During the wee hours, at about 4:30\na.m., she regained her consciousness. She then tried to open her eyes but she could not see from her\nright eye. Thereafter, she opened her left eye and touched her body and found that her panty, salwar\nand chunni had been removed. With great difficulty, she picked her clothes and put them on. She\ntouched her surroundings and she realized that she was lying in the bathroom with her blood which\nhad spread from her mouth and her eye ball.",
+      "embedding_text": "FACT_CHUNK | Case: Bhura Singh vs State Of Delhi on 23 November, 2011 | Facts: Appeal No.910/2006\n% Date of Decision: 23.11.2011\nBhura Singh .... complainant/prosecutrix\nCORAM:\nHON'BLE MR. JUSTICE ANIL KUMAR\nHON'BLE MR. JUSTICE V.K.SHALI\n1. 2. To be referred to the reporter or not? YES\n3. ANIL KUMAR, J. 1. 2. At the time of incident she was engaged to look after Sh. S.K. Kaushik, an aged patient, in\nroom No. 208, which is situated on the second floor of the hospital. He was a paralytic patient and\nhe was unable to speak or move. Ms.Rinchu used to attend to him from 8 p.m. to 8 a.m. everyday. On the night intervening 6/7th September, 2003, Ms.Rinchu was lying on the side seat of the\nattendant and she was feeling drowsy, because of which she drifted off to sleep. Suddenly, she felt\nthat somebody was fondling her breasts. She opened her eyes and found that accused Bhura, who\nwas a sweeper in the hospital and was known to Ms.Rinchu for the last ten days, was present there. Ms. Rinchu stood up on her feet and asked him to get out of the room. She then started\nmoving h | Actions: assaulted, raped, threatened | Weapon: unknown | Outcome: injury | IPC: 323, 325, 342, 354, 387, 376, 326, 506, 313, 161, 336, 8, 464",
+      "metadata": {
+        "case_name": "Bhura Singh vs State Of Delhi on 23 November, 2011",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "325",
+          "342",
+          "354",
+          "387",
+          "376",
+          "326",
+          "506",
+          "313",
+          "161",
+          "336",
+          "8",
+          "464"
+        ],
+        "actions": [
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether reporters of Local papers may be YES\nallowed to see the judgment? Whether the judgment should be reported in YES\nthe Digest? Secondly, it is very difficult for the doctor to come to the conclusion whether the hymen is\nrecently torn or was torn before the lapse of one month. Whether the rape has\noccurred or not is a legal conclusion, not a medical one. In the circumstances whether the charge can be amended at the\nappellate stage or the conviction and sentence of the appellant under section 326 of IPC has to be set\naside is to be determined.Bhura Singh vs State Of Delhi on 23 November, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1961199/ 23\n60. In the circumstances this Court has to take into consideration whether the amendment of the\ncharge by this court is likely to cause any failure of justice as against the appellant. Whether the alteration of the charge is likely to cause any prejudice to the appellant is not\napparent on the face of the record as under Section 313 during the examination of the appellant, it\nwas specifically put to him in Question no.",
+      "embedding_text": "ISSUE_CHUNK | Case: Bhura Singh vs State Of Delhi on 23 November, 2011 | Legal issues: Whether reporters of Local papers may be YES\nallowed to see the judgment? Whether the judgment should be reported in YES\nthe Digest? Secondly, it is very difficult for the doctor to come to the conclusion whether the hymen is\nrecently torn or was torn before the lapse of one month. Whether the rape has\noccurred or not is a legal conclusion, not a medical one. In the circumstances whether the charge can be amended at the\nappellate stage or the conviction and sentence of the appellant under section 326 of IPC has to be set\naside is to be determined.Bhura Singh vs State Of Delhi on 23 November, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1961199/ 23\n60. In the circumstances this Court has to take into consideration whether the amendment of the\ncharge by this court is likely to cause any failure of justice as against the appellant. Whether the alteration of the charge is likely to cause any prejudice to the appellant is not\napparent on the face of the record as under Section 313 durin | IPC: 323, 325, 342, 354, 387, 376, 326, 506, 313, 161, 336, 8, 464",
+      "metadata": {
+        "case_name": "Bhura Singh vs State Of Delhi on 23 November, 2011",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "325",
+          "342",
+          "354",
+          "387",
+          "376",
+          "326",
+          "506",
+          "313",
+          "161",
+          "336",
+          "8",
+          "464"
+        ],
+        "actions": [
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Bhura Singh vs State Of Delhi on 23 November, 2011\nAuthor: Anil Kumar\nBench: Anil Kumar, V.K.Shali\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n+ Crl. Appellant\nVersus\nState of Delhi .... Respondent\nThrough: Mr.M.N.Dudeja, APP for the State. The appellant has challenged his conviction in Sessions Case No.115 of 2003, titled as „State v. The case of the prosecution in brief is that Ms.Rinchu, the prosecutrix was working as a Private\nNurse/Attendant, in Shanti Mukund Hospital, situated within the bounds of Police Station AnandBhura Singh vs State Of Delhi on 23 November, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1961199/ 1\nVihar. When Bhura, the appellant,\ndid not respond, she threatened to call the sister-in-charge by ringing the bell. At that time the doctors had declared her\nunfit for making a statement. Her statement was thereafter, recorded on 8th September, 2003. Thereafter, the entire evidence as\nwell as the circumstances against the appellant were put to him under Section 313 of the Crl. In\nhis statement under Section 313 the accused simply denied all the circumstances and the evidence\nagainst him. The appellant did not lead any\nevidence in defense. The appellant has filed the present appeal\nagainst his order of conviction and sentence. Appellant's Pleas:\n9. The learned counsel for the appellant had questioned the veracity of the allegations made by the\nprosecutrix contending that the statement of the prosecutrix made to the police under Section 161 of\nthe Cr.P.C, Ex.PW 19/DA was delayed and hence no reliance can be placed on the same. As per the\nlearned counsel, the delay in recording the statement was without any reason since as per the\ndeposition of PW-2 Dr. According to learned counsel for the appellant, the\ndelay in recording the statement of the prosecutrix casts a shadow of doubt on her version and\ntherefore the same should not form the basis of concluding the guilt of the appellant. deposition of the prosecutrix as PW-19, with the statement recorded by the police under section 161\nof the Cr.P.C, Ex. According to the learned counsel, the alleged inconsistencies are the\nimprovements made by her with the sole intention of falsely implicating the appellant in the present\nmatter.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Bhura Singh vs State Of Delhi on 23 November, 2011 | Arguments: Bhura Singh vs State Of Delhi on 23 November, 2011\nAuthor: Anil Kumar\nBench: Anil Kumar, V.K.Shali\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n+ Crl. Appellant\nVersus\nState of Delhi .... Respondent\nThrough: Mr.M.N.Dudeja, APP for the State. The appellant has challenged his conviction in Sessions Case No.115 of 2003, titled as „State v. The case of the prosecution in brief is that Ms.Rinchu, the prosecutrix was working as a Private\nNurse/Attendant, in Shanti Mukund Hospital, situated within the bounds of Police Station AnandBhura Singh vs State Of Delhi on 23 November, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1961199/ 1\nVihar. When Bhura, the appellant,\ndid not respond, she threatened to call the sister-in-charge by ringing the bell. At that time the doctors had declared her\nunfit for making a statement. Her statement was thereafter, recorded on 8th September, 2003. Thereafter, the entire evidence as\nwell as the circumstances against the appellant were put to him under Section 313 | Intent: intentional | IPC: 323, 325, 342, 354, 387, 376, 326, 506, 313, 161, 336, 8, 464 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Bhura Singh vs State Of Delhi on 23 November, 2011",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "325",
+          "342",
+          "354",
+          "387",
+          "376",
+          "326",
+          "506",
+          "313",
+          "161",
+          "336",
+          "8",
+          "464"
+        ],
+        "actions": [
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "SI Kishore Pandey, therefore, recorded the statement of PW-8 Vyas\nSharma, the Ward Boy and got the present case registered. Thus\naccording to the counsel the name of the appellant has been included at a subsequent stage with the\nclear intention of falsely implicating him in the matter. It is further emphasized that the tear on\nthe hymen recorded in the MLC as stated by PW-3 herself was not a fresh tear and thus could not\nhave been on account of alleged rape by the appellant. The\nthere ought to have been some vaginal injury and that the trial court gravely erred in not taking the\ndeposition of PW-3 more seriously. Thus the factum of penetration\nwhich is imperative to substantiate the charge of rape had not been proved as against the appellant. However, this pain could have even been attributed to the menstruation which the\nthere is absolutely no evidence of any penetration by the appellant and therefore, the very base of\nthe prosecutions case is not proved against the appellant and is therefore not sufficient to inculpate\nhim.Bhura Singh vs State Of Delhi on 23 November, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1961199/ 4\n14. The learned\ncounsel also submitted that just because the patient was unable to move or speak does not imply\nthat he was in a coma and therefore, should have been examined by the Police. Thus the appellant can only be charged under\nSection 325 of IPC and not under Section 326 of IPC. 447 of 2003\nwas also registered under Section 336 of the IPC with the PS Anand Vihar, and therefore, the\nhardly any evidence against the appellant and that the prosecution has miserably failed in proving\nits case against the appellant which has not been properly considered by the Trial court in its\ndecision, which is merely based on conjectures and surmises put forward by the prosecution. The learned prosecutor thus contended that the name of the appellant has\ncertainly not been subsequently added in the investigation, and that he was the prime suspect since\nthe very start of the case.",
+      "embedding_text": "REASONING_CHUNK | Case: Bhura Singh vs State Of Delhi on 23 November, 2011 | Judicial reasoning: SI Kishore Pandey, therefore, recorded the statement of PW-8 Vyas\nSharma, the Ward Boy and got the present case registered. Thus\naccording to the counsel the name of the appellant has been included at a subsequent stage with the\nclear intention of falsely implicating him in the matter. It is further emphasized that the tear on\nthe hymen recorded in the MLC as stated by PW-3 herself was not a fresh tear and thus could not\nhave been on account of alleged rape by the appellant. The\nthere ought to have been some vaginal injury and that the trial court gravely erred in not taking the\ndeposition of PW-3 more seriously. Thus the factum of penetration\nwhich is imperative to substantiate the charge of rape had not been proved as against the appellant. However, this pain could have even been attributed to the menstruation which the\nthere is absolutely no evidence of any penetration by the appellant and therefore, the very base of\nthe prosecutions case is not proved against the appellant and is  | Intent: intentional | Outcome: injury | IPC: 323, 325, 342, 354, 387, 376, 326, 506, 313, 161, 336, 8, 464",
+      "metadata": {
+        "case_name": "Bhura Singh vs State Of Delhi on 23 November, 2011",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "325",
+          "342",
+          "354",
+          "387",
+          "376",
+          "326",
+          "506",
+          "313",
+          "161",
+          "336",
+          "8",
+          "464"
+        ],
+        "actions": [
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Bhura, arising from the FIR No.350 of 2003, under Sections 323/325/ 342/ 354/ 387/ 376 Indian\nPenal Code, PS Anand Vihar convicting the appellant under Sections 376, 326, 342 of the Indian\nPenal Code and sentencing the appellant to undergo rigorous life imprisonment under Section 376\nand 326 of the Indian Penal Code and a fine of Rs.5,000/- and in default to undergo simple\nimprisonment for three years. The appellant was further sentenced to undergo rigorous\nimprisonment for one year for the offence punishable under Section 342 of the Indian Penal Code. On considering the evidence on record and the case of the prosecution as well as the defense of\nthe accused, the Trial Court held that the prosecution had successfully proved beyond reasonable\ndoubt the charges under sections 376, 326 and 342 of the IPC and convicted him for the same and\nsentenced him to undergo rigorous life imprisonment under Sections 376 and 326 of the Indian\nPenal Code and a fine of Rs.5,000/- and in default to undergo simple imprisonment for three years. The appellant was further sentenced to undergo rigorous imprisonment for one year for the offence\npunishable under Section 342 of the Indian Penal Code. State of Maharastra\n contending that conviction on the sole basis of the testimony of prosecutrix is not\nsustainable when the circumstances reflect shadow of doubt over the correctness of prosecutrix\nthe matter and therefore the appellant is entitled to the benefit of doubt and his conviction and\nsentence by the Trial Court ought to be set aside.Bhura Singh vs State Of Delhi on 23 November, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1961199/ 3\n11. To interpret words, phrases and provisions\nof a statute, it may become necessary for judges to embark into lengthy discussions\nbut the discussion is meant to explain and not to define. Judges interpret statutes,\nthey do not interpret judgments. They interpret words of statutes; their words are not\nto be interpreted as statutes.\"\n54. Circumstantial flexibility, one additional or\ndifferent fact may make a world of difference between conclusion in two cases.\"\n55.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Bhura Singh vs State Of Delhi on 23 November, 2011 | Final judgment: Bhura, arising from the FIR No.350 of 2003, under Sections 323/325/ 342/ 354/ 387/ 376 Indian\nPenal Code, PS Anand Vihar convicting the appellant under Sections 376, 326, 342 of the Indian\nPenal Code and sentencing the appellant to undergo rigorous life imprisonment under Section 376\nand 326 of the Indian Penal Code and a fine of Rs.5,000/- and in default to undergo simple\nimprisonment for three years. The appellant was further sentenced to undergo rigorous\nimprisonment for one year for the offence punishable under Section 342 of the Indian Penal Code. On considering the evidence on record and the case of the prosecution as well as the defense of\nthe accused, the Trial Court held that the prosecution had successfully proved beyond reasonable\ndoubt the charges under sections 376, 326 and 342 of the IPC and convicted him for the same and\nsentenced him to undergo rigorous life imprisonment under Sections 376 and 326 of the Indian\nPenal Code and a fine of Rs.5,000/- and in default to unde | Judgment: convicted | IPC: 323, 325, 342, 354, 387, 376, 326, 506, 313, 161, 336, 8, 464",
+      "metadata": {
+        "case_name": "Bhura Singh vs State Of Delhi on 23 November, 2011",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "325",
+          "342",
+          "354",
+          "387",
+          "376",
+          "326",
+          "506",
+          "313",
+          "161",
+          "336",
+          "8",
+          "464"
+        ],
+        "actions": [
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    }
+  ]
+}

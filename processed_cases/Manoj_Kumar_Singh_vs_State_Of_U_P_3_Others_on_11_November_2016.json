@@ -1,0 +1,222 @@
+{
+  "case_id": "Manoj_Kumar_Singh_vs_State_Of_U_P_3_Others_on_11_November_2016",
+  "case_name": "Manoj Kumar Singh vs State Of U.P. & 3 Others on 11",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "& 3 Others on 11\nNovember, 2016\nBench: V.K. - 21\nCriminal Misc. Application Defective\nU/S 372 CR.P.C (Leave to Appeal) No. & 3 Others\nSri Satish Chandra Sinha\nHon'ble V.K. Shukla, J. Hon'ble Manoj Misra, J. & 3 Others on 11 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/19103563/ 1\n\"Law should not sit limply, while those who defy it go free and those who seek its\nprotection lose hope.\"\n[Jennison V. It is the most important of all the various kinds of society in which men unite, being\nindeed the necessary basis and condition of peace, order, and civilisation. What then is the essential\ndifference between this and other forms of association? .....The difference is clearly one of function. .... It is possible, however, to distinguish among the multitudinous operations of\ngovernment, two which it is suggested may be set apart as primary and essential. The objectives of criminal justice are\nprevention and control of crime; maintenance of public order and peace; protection of the rights of\nvictims; trial and punishment of those who are in conflict with law; and reformation of those\nadjudged guilty of committing crimes. To define the word\nvictim, clause (wa) was inserted in section 2 of the Code. The case in hand engages our attention to answer the pivotal question as to who will fall within the\ndefinition of victim as contemplated by Section 2 (wa) of the Code, inserted by the Act No. 5 of\n2009. Before we proceed to address the question referred to us, it would be useful to give a brief\nbackground of the case. This is a case where on death of a married lady Mamta Singh; her\nmother-in-law Smt. Shakuntala, her jeth Ajay Kumar Singh and her husband Pawan Kumar Singh\nwere put to trial for offences punishable under Section 304-B/34 IPC with alternative charge of\nSection 302/34 IPC; and Section 498-A IPC read with Section 3/4 of Dowry Prohibition Act. It appears that the father\n(PW-1) and mother (PW-2) of the deceased turned hostile and did not support the prosecution\nversion.",
+      "embedding_text": "FACT_CHUNK | Case: Manoj Kumar Singh vs State Of U.P. & 3 Others on 11 | Facts: & 3 Others on 11\nNovember, 2016\nBench: V.K. - 21\nCriminal Misc. Application Defective\nU/S 372 CR.P.C (Leave to Appeal) No. & 3 Others\nSri Satish Chandra Sinha\nHon'ble V.K. Shukla, J. Hon'ble Manoj Misra, J. & 3 Others on 11 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/19103563/ 1\n\"Law should not sit limply, while those who defy it go free and those who seek its\nprotection lose hope.\"\n[Jennison V. It is the most important of all the various kinds of society in which men unite, being\nindeed the necessary basis and condition of peace, order, and civilisation. What then is the essential\ndifference between this and other forms of association? .....The difference is clearly one of function. .... It is possible, however, to distinguish among the multitudinous operations of\ngovernment, two which it is suggested may be set apart as primary and essential. The objectives of criminal justice are\nprevention and control of crime; maintenance of public order and peace; protection of the | Actions: threatened, cruelty | Weapon: unknown | Outcome: death | IPC: 302, 34, 372, 2, 304, 498, 3, 4, 44, 417, 378, 377, 24, 26, 376, 157, 173, 357, 374, 190, 195, 23",
+      "metadata": {
+        "case_name": "Manoj Kumar Singh vs State Of U.P. & 3 Others on 11",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "372",
+          "2",
+          "304",
+          "498",
+          "3",
+          "4",
+          "44",
+          "417",
+          "378",
+          "377",
+          "24",
+          "26",
+          "376",
+          "157",
+          "173",
+          "357",
+          "374",
+          "190",
+          "195",
+          "23"
+        ],
+        "actions": [
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "\"Whether the definition of the word \"victim\" as used in Section 2 (wa) would mean\nany person other than a \"guardian\" or \"legal heir\" also for the purpose of maintaining\nan appeal under Section 372 Cr.P.C.? Whether the ratio of the decision of the Division Bench of this Court in the case of\nEdal Singh Vs. While the reference remained pending, a Full Bench of Delhi High Court had the occasion to\nconsider the issue and pronounce its judgment on 28.5.2015 in Criminal Appeal No. iv) The victim's right to participate in criminal trials shall, inter alia, include:\na) To produce evidence, oral or documentary, with leave of the Court and/or to seek\ndirections for production of such evidence\nb) To ask questions to the witnesses or to suggest to the court questions which may\nbe put to witnesses\nc) To know the status of investigation and to move the court to issue directions for\nfurther investigation on certain matters or to a supervisory officer to ensure effective\nand proper investigation to assist in the search for truth. &\nothers reported in 2014 (1) PLR 1, has extensively considered the issue to find out as to what is the\ntrue meaning of victim and has drawn its conclusions, as follows:\n\"138. Question - (E) (vii) In view of proviso to Section 372 an appeal preferred by a 'victim' against the\norder of acquittal passed by a Magistrate in respect of a cognizable offence whether bailable or\nnon-bailable shall lie to the Court of Session, the State's appeal under Section 378(1)(a) of the Code\nagainst that very order shall also be entertained and/or transferred to the same Sessions Court. In this background as to\nwhether the term 'victim' has rightly been understood is an issue to be answered by us. Section 377 specifically provides that it is the State Government or the Central\nGovernment which can issue a direction to the Public Prosecutor to present an appeal\nbefore the Court of Session or the High Court on the ground of inadequacy of the\nsentence.",
+      "embedding_text": "ISSUE_CHUNK | Case: Manoj Kumar Singh vs State Of U.P. & 3 Others on 11 | Legal issues: \"Whether the definition of the word \"victim\" as used in Section 2 (wa) would mean\nany person other than a \"guardian\" or \"legal heir\" also for the purpose of maintaining\nan appeal under Section 372 Cr.P.C.? Whether the ratio of the decision of the Division Bench of this Court in the case of\nEdal Singh Vs. While the reference remained pending, a Full Bench of Delhi High Court had the occasion to\nconsider the issue and pronounce its judgment on 28.5.2015 in Criminal Appeal No. iv) The victim's right to participate in criminal trials shall, inter alia, include:\na) To produce evidence, oral or documentary, with leave of the Court and/or to seek\ndirections for production of such evidence\nb) To ask questions to the witnesses or to suggest to the court questions which may\nbe put to witnesses\nc) To know the status of investigation and to move the court to issue directions for\nfurther investigation on certain matters or to a supervisory officer to ensure effective\nand proper investigation to ass | IPC: 302, 34, 372, 2, 304, 498, 3, 4, 44, 417, 378, 377, 24, 26, 376, 157, 173, 357, 374, 190, 195, 23",
+      "metadata": {
+        "case_name": "Manoj Kumar Singh vs State Of U.P. & 3 Others on 11",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "372",
+          "2",
+          "304",
+          "498",
+          "3",
+          "4",
+          "44",
+          "417",
+          "378",
+          "377",
+          "24",
+          "26",
+          "376",
+          "157",
+          "173",
+          "357",
+          "374",
+          "190",
+          "195",
+          "23"
+        ],
+        "actions": [
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Manoj Kumar Singh vs State Of U.P. - 67 of 2013\nApplicant :-\nManoj Kumar Singh\nOpposite Party :-\nState Of U.P. Hon'ble Ramesh Sinha, J.Manoj Kumar Singh vs State Of U.P. Salmond in his treatise \"Jurisprudence\" (Eight Edition Chapter V) while discussing the\nnature and essential functions of the State wrote: \"A State, then, or political society, may be\nconceived of as an association of human beings established for the attainment of certain ends by\ncertain means. The State must be defined by reference to such of its activities and purposes as are essential and\ncharacteristic. These two are war\nand the administration of justice.....Every society which perform these two functions is a political\nsociety or State, and none is such which does not perform them. It is the fundamental duty of a State\nto ensure administration of justice within its territory. The Division Bench seized of the matter, while dealing with the locus of the appellant to maintain\nthe appeal, came across a judgment dated 10.4.2014 of a coordinate Bench of this Court in the case\nof Edal Singh vs. State of U.P. State (Supra) states the law correctly keeping in view the conflicting\nratios of the Full Bench decision of the Punjab & Haryana High Court in the case of\nM/s. State). State of M.P. He had submitted that appeal is a\ncreation of statute and what is not otherwise provided for cannot be indirectly introduced by liberal\n/ wider interpretation of the word victim and, as such, the reference in question should be answered\nin negative by clarifying the legal position that the word 'victim' as defined in Section 2 (wa) of the\nCode of Criminal Procedure would remain confined to a person who falls within the categories\nspecified therein and, in his or her absence or disability, as the case may be, it would include his or\nher legal heir or guardian and nothing beyond the same.Manoj Kumar Singh vs State Of U.P. Tata\nSteel (supra) proceeded to consider the legislative development qua the evolution of right to appeal\nagainst judgment of acquittal as follows:Manoj Kumar Singh vs State Of U.P.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Manoj Kumar Singh vs State Of U.P. & 3 Others on 11 | Arguments: Manoj Kumar Singh vs State Of U.P. - 67 of 2013\nApplicant :-\nManoj Kumar Singh\nOpposite Party :-\nState Of U.P. Hon'ble Ramesh Sinha, J.Manoj Kumar Singh vs State Of U.P. Salmond in his treatise \"Jurisprudence\" (Eight Edition Chapter V) while discussing the\nnature and essential functions of the State wrote: \"A State, then, or political society, may be\nconceived of as an association of human beings established for the attainment of certain ends by\ncertain means. The State must be defined by reference to such of its activities and purposes as are essential and\ncharacteristic. These two are war\nand the administration of justice.....Every society which perform these two functions is a political\nsociety or State, and none is such which does not perform them. It is the fundamental duty of a State\nto ensure administration of justice within its territory. The Division Bench seized of the matter, while dealing with the locus of the appellant to maintain\nthe appeal, came across a judgment dated 1 | Intent: unknown | IPC: 302, 34, 372, 2, 304, 498, 3, 4, 44, 417, 378, 377, 24, 26, 376, 157, 173, 357, 374, 190, 195, 23 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Manoj Kumar Singh vs State Of U.P. & 3 Others on 11",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "372",
+          "2",
+          "304",
+          "498",
+          "3",
+          "4",
+          "44",
+          "417",
+          "378",
+          "377",
+          "24",
+          "26",
+          "376",
+          "157",
+          "173",
+          "357",
+          "374",
+          "190",
+          "195",
+          "23"
+        ],
+        "actions": [
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Shukla, Manoj Misra, Ramesh Sinha\nHIGH COURT OF JUDICATURE AT ALLAHABAD\nAFR\nReserved\nCourt No. Baker (1972) 1 All ER 997] Crime affects not only the individual victim and his family\nbut the society at large therefore the fundamental purpose and end of political society is defence\nagainst external enemies, and the maintenance of peaceable and orderly relations within the\ncommunity. All these had been recognized as State's obligations and,\ntherefore, till the amendment brought in the Code of Criminal Procedure, 1973 (hereinafter referred\nto as the Code) by Act No.5 of 2009, the right to file an appeal against an order of acquittal, except in\na case instituted upon a complaint, was the sole prerogative of the State. By Act No.5 of 2009 a\nProviso to section 372 of the Code was added which provided that the victim shall have a right to\nprefer an appeal against any order passed by the Court acquitting the accused or convicting for a\nlesser offence or imposing inadequate compensation, and such appeal would lie to the Court to\nwhich an appeal ordinarily lies against the order of conviction of such Court. 172 of 2014; and judgments of other High Courts i.e. Full Bench Decision of Punjab &\nHaryana High Court in ''M/s. And others'\nreported in (2014) 1 PLR 1.; and Division Bench Decision of Patna High Court in Criminal Appeal\n(DB) No. State of Bihar & others, on the issue as to who could\nbe considered a victim therefore, in its wisdom, thought it appropriate to formulate and refer two\nquestions for authoritative pronouncement by a Larger Bench, vide its order dated 13.1.2015, which\nare as follows:\n1. (Supra) and that of the Patna High Court in the case of\nParmeshwar Mandal (Supra)?. The Apex Court, in the meantime had occasion to examine and consider the\njudgment of the Full Bench of Delhi High Court in Satya Pal Singh vs. of this Court, to assist the Court, upon which, he has rendered full assistance to the Court. He\nsubmitted before us that there was no occasion for making a reference as the proviso of Section 372\nread with section 2(wa) of the Code, which has been introduced by Act No.5 of 2009, carries no\nambiguity and, therefore, the scope of the said proviso cannot be enlarged by judicial dicta though,\naccording to him, the question as to who is a victim has to be determined on the facts of each case\nfor ascertaining whether he/she has a right to prefer appeal.",
+      "embedding_text": "REASONING_CHUNK | Case: Manoj Kumar Singh vs State Of U.P. & 3 Others on 11 | Judicial reasoning: Shukla, Manoj Misra, Ramesh Sinha\nHIGH COURT OF JUDICATURE AT ALLAHABAD\nAFR\nReserved\nCourt No. Baker (1972) 1 All ER 997] Crime affects not only the individual victim and his family\nbut the society at large therefore the fundamental purpose and end of political society is defence\nagainst external enemies, and the maintenance of peaceable and orderly relations within the\ncommunity. All these had been recognized as State's obligations and,\ntherefore, till the amendment brought in the Code of Criminal Procedure, 1973 (hereinafter referred\nto as the Code) by Act No.5 of 2009, the right to file an appeal against an order of acquittal, except in\na case instituted upon a complaint, was the sole prerogative of the State. By Act No.5 of 2009 a\nProviso to section 372 of the Code was added which provided that the victim shall have a right to\nprefer an appeal against any order passed by the Court acquitting the accused or convicting for a\nlesser offence or imposing inadequate compensation, and suc | Intent: unknown | Outcome: death | IPC: 302, 34, 372, 2, 304, 498, 3, 4, 44, 417, 378, 377, 24, 26, 376, 157, 173, 357, 374, 190, 195, 23",
+      "metadata": {
+        "case_name": "Manoj Kumar Singh vs State Of U.P. & 3 Others on 11",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "372",
+          "2",
+          "304",
+          "498",
+          "3",
+          "4",
+          "44",
+          "417",
+          "378",
+          "377",
+          "24",
+          "26",
+          "376",
+          "157",
+          "173",
+          "357",
+          "374",
+          "190",
+          "195",
+          "23"
+        ],
+        "actions": [
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The\ntrial court acquitted them vide judgment and order dated 26.10.2012. & 3 Others on 11 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/19103563/ 5\nmade its recommendation as follows:\n\"i) The victim, and if he is dead, his legal representative shall have the right to be\nimpleaded as a party in every criminal proceeding where the offence is punishable\nwith 7 years imprisonment or more. & 3 Others on 11 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/19103563/ 6\nvii) Victim compensation is a State obligation in all serious crimes, whether the\noffender is apprehended or not, convicted or acquitted. (3) When a Court imposes a sentence, of which fine does not form a part, the Court\nmay, when passing judgment order the accused person to pay, by way of\ncompensation such amount as may be specified in the order to the person who has\nsuffered any loss or injury by reason of the act for which the accused person has been\nso ''sentenced'.\"\nIt may be seen that all the judgments which we have noticed discuss the definition of \"victim\" as\n\"Means X and includes Y\" and while interpreting the phrase \"Means X\", the term \"any loss or\ninjury\" has been discussed elaborately and for this purpose, the provisions of section 2 (y) of the\nCode along with sections 23 (wrongful loss) and 44 (injury) of the Indian Penal Code have been\ntaken into consideration. Both the judgments observe that the expression \"legal heir\" is required to be read in a\nsense different from what it is for the purpose of civil rights, wherein the degree of\nlegal heirs have been categorized as class-I, Class-II and so on. Both the decisions\naccord liberal interpretation to the term \"Victim\" by observing that the victim would\nhave an unqualified right of appeal. Accordingly, a fresh look at the expression \"legal heir\", as it occurs in section 2 (wa),\nin the context of the proviso to section 372, is necessary. At this stage, it would be\nuseful to examine various definitions of the expression \"legal heir\", which are as\nfollows:\nMerriam-Webster's Dictionary One who inherits or is entitled to inherit property.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Manoj Kumar Singh vs State Of U.P. & 3 Others on 11 | Final judgment: The\ntrial court acquitted them vide judgment and order dated 26.10.2012. & 3 Others on 11 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/19103563/ 5\nmade its recommendation as follows:\n\"i) The victim, and if he is dead, his legal representative shall have the right to be\nimpleaded as a party in every criminal proceeding where the offence is punishable\nwith 7 years imprisonment or more. & 3 Others on 11 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/19103563/ 6\nvii) Victim compensation is a State obligation in all serious crimes, whether the\noffender is apprehended or not, convicted or acquitted. (3) When a Court imposes a sentence, of which fine does not form a part, the Court\nmay, when passing judgment order the accused person to pay, by way of\ncompensation such amount as may be specified in the order to the person who has\nsuffered any loss or injury by reason of the act for which the accused person has been\nso ''sentenced'.\"\nIt may be seen that all the judgmen | Judgment: convicted | IPC: 302, 34, 372, 2, 304, 498, 3, 4, 44, 417, 378, 377, 24, 26, 376, 157, 173, 357, 374, 190, 195, 23",
+      "metadata": {
+        "case_name": "Manoj Kumar Singh vs State Of U.P. & 3 Others on 11",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "372",
+          "2",
+          "304",
+          "498",
+          "3",
+          "4",
+          "44",
+          "417",
+          "378",
+          "377",
+          "24",
+          "26",
+          "376",
+          "157",
+          "173",
+          "357",
+          "374",
+          "190",
+          "195",
+          "23"
+        ],
+        "actions": [
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    }
+  ]
+}

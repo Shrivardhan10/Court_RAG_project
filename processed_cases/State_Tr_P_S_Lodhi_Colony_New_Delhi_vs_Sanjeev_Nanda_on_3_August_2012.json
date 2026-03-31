@@ -1,0 +1,202 @@
+{
+  "case_id": "State_Tr_P_S_Lodhi_Colony_New_Delhi_vs_Sanjeev_Nanda_on_3_August_2012",
+  "case_name": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "1168 OF 2012\n[Arising out of S.L.P. 1. Delay condoned. 2. 4. Facts shorn of unnecessary details as unfolded by prosecution are mentioned\nhereinbelow:\n5. On the intervening night of 9/10.01.1999, an unfortunate motor accident took place involving\nBMW Car No.M-312LYP. As per prosecution story, the said vehicle was coming\nfrom Nizamuddin side and was proceeding towards Lodhi Road. Just at the corner from where\nLodhi Road starts, seven persons were standing on the road at about 4.00 a.m. In the said car,\nManik Kapur and Sidharth Gupta (since discharged) were also sitting. 6. As per prosecution story, Manoj Malik (P.W.2) had started from his house to leave friends Nasir,\nMehendi Hasan and his friend Gulab at Nizamudin Railway Station on foot. When they reached the\npetrol pump of Lodhi Road, three police officials of checking squad, Constables Rajan, Ram Raj and\nPeru Lal, stopped them and started checking. In the meantime, BMW car driven rashly and\nnegligently came from Nizamuddin side at a high speed and dashed violently against them. The\nimpact was so great and severe, that they flew in the air and fell on the bonnet and wind screen of\nthe car. Some of them rolled down and came beneath the car. On account of this, accused lost\ncontrol of the vehicle which swerved to right side of the road and ultimately hit the central verge. The persons who had come under the car were dragged up to that point. Manoj (P.W.2) who had\nfallen on the bonnet fell down at some distance but did not come under the wheels. It is said that co-passenger Manik Kapur asked the accused to rush from the\nscene of occurrence. Injured persons were shouting and crying for help. But ignoring them, he drove\naway the car at high speed towards Dayal Singh College, even though there were still some persons\nbeneath the car. In the said accident ultimately six of them were killed and Manoj (P.W.2) was\ninjured. Accused then took the car to his friend Sidharth Gupta’s house at 50, Golf Links, New Delhi.",
+      "embedding_text": "FACT_CHUNK | Case: State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 | Facts: 1168 OF 2012\n[Arising out of S.L.P. 1. Delay condoned. 2. 4. Facts shorn of unnecessary details as unfolded by prosecution are mentioned\nhereinbelow:\n5. On the intervening night of 9/10.01.1999, an unfortunate motor accident took place involving\nBMW Car No.M-312LYP. As per prosecution story, the said vehicle was coming\nfrom Nizamuddin side and was proceeding towards Lodhi Road. Just at the corner from where\nLodhi Road starts, seven persons were standing on the road at about 4.00 a.m. In the said car,\nManik Kapur and Sidharth Gupta (since discharged) were also sitting. 6. As per prosecution story, Manoj Malik (P.W.2) had started from his house to leave friends Nasir,\nMehendi Hasan and his friend Gulab at Nizamudin Railway Station on foot. When they reached the\npetrol pump of Lodhi Road, three police officials of checking squad, Constables Rajan, Ram Raj and\nPeru Lal, stopped them and started checking. In the meantime, BMW car driven rashly and\nnegligently came from Nizamuddin side at a  | Actions: attacked, killed | Weapon: unknown | Outcome: death | IPC: 338, 304, 201, 299, 300, 304A, 34, 313, 185, 203, 85, 205, 134, 187, 132, 133, 193, 302",
+      "metadata": {
+        "case_name": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "338",
+          "304",
+          "201",
+          "299",
+          "300",
+          "304A",
+          "34",
+          "313",
+          "185",
+          "203",
+          "85",
+          "205",
+          "134",
+          "187",
+          "132",
+          "133",
+          "193",
+          "302"
+        ],
+        "actions": [
+          "attacked",
+          "killed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The solitary question that arises for our consideration in this appeal is whether respondent\naccused deserves to be held guilty of commission of offence under Section 304 Part II of the Indian\nPenal Code (for short IPC) or the conviction and sentence awarded to him by the High Court of\nDelhi, under Section 304 A of the IPC should be held to be good and legally tenable. On 12.04.2010, limited notice was issued to the respondent by this Court, which reads as under:\n“Issue notice confining to the nature of offence”. State of Haryana, has been cited to show that as far back as in\nthe year 2000, drunken driving was heavily criticized and a warning was issued to all those who may\nbe in the habit, to be more careful and cautious. One may fail to understand if one\ncould drive safely for a distance of 16 kms, then whether the effect of intoxication would rise all of a\nsudden so as to find the respondent totally out of control. Shri Raval submitted that the car was coming in a high speed and\nconsidering the fact that there was clear visibility, the only conclusion possible was that the accused\nwas in a drunken state and nobody knew whether he had driven the car 16 kms prior to the accident. The facts and\ncircumstances of the case according to the trial court, as already indicated, would attract conviction\nunder Section 304(II) of the IPC but the High Court converted the same to Section 304A of the IPC,\nthe correctness of which is the main issue that falls for consideration. We have to first examine\nwhether any prejudice had been caused to the first accused due to the alleged unfair and delayed\ntrial as contended and who was primarily instrumental for the delay in completion of the trial and\nalso whether any injustice had been caused to the accused due to the alleged judicial unfairness. The operative portion of which reads as\nfollows:\n“Before laying down the records of the case we must also advert to another issue of\ngreat importance that causes grave concern to this Court.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 | Legal issues: The solitary question that arises for our consideration in this appeal is whether respondent\naccused deserves to be held guilty of commission of offence under Section 304 Part II of the Indian\nPenal Code (for short IPC) or the conviction and sentence awarded to him by the High Court of\nDelhi, under Section 304 A of the IPC should be held to be good and legally tenable. On 12.04.2010, limited notice was issued to the respondent by this Court, which reads as under:\n“Issue notice confining to the nature of offence”. State of Haryana, has been cited to show that as far back as in\nthe year 2000, drunken driving was heavily criticized and a warning was issued to all those who may\nbe in the habit, to be more careful and cautious. One may fail to understand if one\ncould drive safely for a distance of 16 kms, then whether the effect of intoxication would rise all of a\nsudden so as to find the respondent totally out of control. Shri Raval submitted that the car was coming in a high speed and\ncon | IPC: 338, 304, 201, 299, 300, 304A, 34, 313, 185, 203, 85, 205, 134, 187, 132, 133, 193, 302",
+      "metadata": {
+        "case_name": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "338",
+          "304",
+          "201",
+          "299",
+          "300",
+          "304A",
+          "34",
+          "313",
+          "185",
+          "203",
+          "85",
+          "205",
+          "134",
+          "187",
+          "132",
+          "133",
+          "193",
+          "302"
+        ],
+        "actions": [
+          "attacked",
+          "killed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3\nAugust, 2012\n2012 AIR SCW 4506, AIR 2012 SC (CRIMINAL) 1498, (2013) 1 ALLCRIR 229,\n(2013) 115 CUT LT 253, (2013) 1 RAJ LW 629, 2012 CRILR(SC MAH GUJ) 768,\n(2012) 2 ORISSA LR 1003, 2012 CRILR(SC&MP) 768, 2012 ALL MR(CRI) 3005,\n2012 (7) SCALE 120, 2012 (3) KER LT 132 SN, (2012) 3 TAC 705, (2012) 3\nCRIMES 336, (2012) 3 CURCRIR 272, (2012) 3 ACC 379, (2012) 3 RECCRIR\n897, (2012) 3 DLT(CRL) 349, (2012) 4 ALLCRILR 53, (2012) 53 OCR 217, (2012)\n7 SCALE 120\nAuthor: Deepak Verma\nBench: K.S. (Crl.) No.3292 of 2010]\nState Tr.P.S.Lodhi Colony ....Appellant\nNew Delhi\nVersus\nSanjeev Nanda ....Respondent\nJ U D G M E N T\nDEEPAK VERMA, J. Leave granted.State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 August, 2012\nIndian Kanoon - http://indiankanoon.org/doc/190237958/ 1\n3. At the relevant point of time, it is no more in dispute that offending\nvehicle BMW was being driven by respondent. After hitting the\ncentral verge, car finally stopped at some distance, respondent came out from the car and inspected\nthe gruesome site. 27-A.State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 August, 2012\nIndian Kanoon - http://indiankanoon.org/doc/190237958/ 2\n9. On enquiries being made, accused Rajeev\ninformed that car belonged to respondent Sanjeev Nanda, a friend of his son Sidharth Gupta. Ulhas Giri went to the house of the accused Sanjeev Nanda at Defence Colony. Respondent accused had sustained an injury on the lip as\nnoticed by Dr. Prosecution has not\nassigned any cogent or valid reasons for this default.State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 August, 2012\nIndian Kanoon - http://indiankanoon.org/doc/190237958/ 3\n15. Respondent was charged under Sections 201, 304 (I), 308\nread with 34 of the IPC. Feeling aggrieved by the said judgment and order of conviction, respondent filed Criminal\nAppeal No. Raval, to show the manner in which the investigation was conducted, suggesting many\nlacunae were left in the same, at the instance and behest of respondent accused, who not only\nhappens to be a rich person but influential as well.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 | Arguments: State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3\nAugust, 2012\n2012 AIR SCW 4506, AIR 2012 SC (CRIMINAL) 1498, (2013) 1 ALLCRIR 229,\n(2013) 115 CUT LT 253, (2013) 1 RAJ LW 629, 2012 CRILR(SC MAH GUJ) 768,\n(2012) 2 ORISSA LR 1003, 2012 CRILR(SC&MP) 768, 2012 ALL MR(CRI) 3005,\n2012 (7) SCALE 120, 2012 (3) KER LT 132 SN, (2012) 3 TAC 705, (2012) 3\nCRIMES 336, (2012) 3 CURCRIR 272, (2012) 3 ACC 379, (2012) 3 RECCRIR\n897, (2012) 3 DLT(CRL) 349, (2012) 4 ALLCRILR 53, (2012) 53 OCR 217, (2012)\n7 SCALE 120\nAuthor: Deepak Verma\nBench: K.S. (Crl.) No.3292 of 2010]\nState Tr.P.S.Lodhi Colony ....Appellant\nNew Delhi\nVersus\nSanjeev Nanda ....Respondent\nJ U D G M E N T\nDEEPAK VERMA, J. Leave granted.State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 August, 2012\nIndian Kanoon - http://indiankanoon.org/doc/190237958/ 1\n3. At the relevant point of time, it is no more in dispute that offending\nvehicle BMW was being driven by respondent. After hitting the\ncentral verge, car finally stopped | Intent: intentional | IPC: 338, 304, 201, 299, 300, 304A, 34, 313, 185, 203, 85, 205, 134, 187, 132, 133, 193, 302 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "338",
+          "304",
+          "201",
+          "299",
+          "300",
+          "304A",
+          "34",
+          "313",
+          "185",
+          "203",
+          "85",
+          "205",
+          "134",
+          "187",
+          "132",
+          "133",
+          "193",
+          "302"
+        ],
+        "actions": [
+          "attacked",
+          "killed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Radhakrishnan, Deepak Verma\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Thus, it was clear to SI Kailash Chand that offending vehicle was a black colour BMW car having\nthe aforesaid number plate. He, thus followed the trail and was able to reach 50 Golf Links. After completion of the investigation, charge sheet was filed against the accused in the Court of\nAdditional Sessions Judge, New Delhi. The infamous Sunil Kulkarni was examined as court witness,\nwho alone supported the prosecution story and has been believed by the Trial Court as trustworthy. Trial Court recorded that testimony of this witness alone as to how the accident took place is worthy\nof credence and the same is well corroborated by the scene of crime. On conclusion of trial, after appreciating the evidence available on record, the trial court found\njail sentence of five years. 807 of 2008 in the High Court of Delhi at New Delhi. While converting the conviction of said accused from Section 304 Part II to\n304 A, the High Court has disbelieved the testimony of Sunil Kulkarni which was the basis for the\ntrial court to come to a conclusion that the case fell under section 304 Part II. The High Court has\nalso held that though the act of accused amounted to rashness and negligence endangering the lives\nof others, since there was no intention or knowledge of causing death, no case for conviction of\naccused under section 304 Part II was made out. Thus, Respondent tried his best to see to it that Sessions Trial is not concluded early. g) Even if intention may not be attributed to him but at least he had knowledge of\nwhat he had done, thus ingredients mandated under Section 304 Part II IPC were\nfully met. h) Thus, High Court committed grave error in interfering with a well reasoned order\nof the Trial Court. This judgment has been followed by this Court in 2008 (1) SCC 791 Naresh Giri Vs. e) Fact cannot be given a go-by that it was a cold wintry night of 9/10th January,\n1999, thus possibility cannot be ruled out that visibility must have been poor due to\nfog.",
+      "embedding_text": "REASONING_CHUNK | Case: State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 | Judicial reasoning: Radhakrishnan, Deepak Verma\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Thus, it was clear to SI Kailash Chand that offending vehicle was a black colour BMW car having\nthe aforesaid number plate. He, thus followed the trail and was able to reach 50 Golf Links. After completion of the investigation, charge sheet was filed against the accused in the Court of\nAdditional Sessions Judge, New Delhi. The infamous Sunil Kulkarni was examined as court witness,\nwho alone supported the prosecution story and has been believed by the Trial Court as trustworthy. Trial Court recorded that testimony of this witness alone as to how the accident took place is worthy\nof credence and the same is well corroborated by the scene of crime. On conclusion of trial, after appreciating the evidence available on record, the trial court found\njail sentence of five years. 807 of 2008 in the High Court of Delhi at New Delhi. While converting the conviction of said accu | Intent: intentional | Outcome: death | IPC: 338, 304, 201, 299, 300, 304A, 34, 313, 185, 203, 85, 205, 134, 187, 132, 133, 193, 302",
+      "metadata": {
+        "case_name": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "338",
+          "304",
+          "201",
+          "299",
+          "300",
+          "304A",
+          "34",
+          "313",
+          "185",
+          "203",
+          "85",
+          "205",
+          "134",
+          "187",
+          "132",
+          "133",
+          "193",
+          "302"
+        ],
+        "actions": [
+          "attacked",
+          "killed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "He was acquitted of other charges. However, accused Rajeev Gupta,\nShyam Singh and Bhola Nath were convicted under Section 201 IPC. Rajeev Gupta was sentenced to\nundergo a sentence of one year and Bhola Nath and Shyam Singh to undergo a sentence of six\nmonths each. Their appeals have been allowed and they have been\nacquitted of the charge under Section 201 of the IPC. Punishment for culpable homicide not amounting to murder – Whoever\ncommits culpable homicide not amounting to murder shall be punished with\nimprisonment for life, or imprisonment of either description for a term which may\nextend to ten years, and shall also be liable to fine, if the act by which the death is\ncaused is done with the intention of causing death, or of causing such bodily injury as\nis likely to cause death, or with imprisonment of either description for a term which\nmay extend to ten years, or with fine, or with both, if the act is done with the\nknowledge that it is likely to cause death, but without any intention to cause death, or\nto cause such bodily injury as is likely to cause death.”\n37. The judgment and order of\nconviction passed by Delhi High Court is partly set aside and the order of conviction of Trial Court is\nrestored and upheld. Admission was made after a prolonged trial, spanning over a\nperiod of nine years, that too after the trial court, appreciating the oral and documentary evidence\nadduced by the prosecution and defence, came to the conclusion that he was guilty and convicted\nhim for the offence under Section 304(II) of the IPC and sentenced him to undergo rigorous\nimprisonment for five years. The trial\ncourt vide judgment dated 02.09.2008, as already stated, found the first accused guilty under\nSection 304(II) of the IPC and awarded the sentence of five years rigorous imprisonment. Further, he had already undergone the\nsentence of two years awarded by the High Court and subsequently he got married and has alsoState Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 August, 2012\nIndian Kanoon - http://indiankanoon.org/doc/190237958/ 14\nbeen blessed with a daughter and it will be too harsh to punish him with imprisonment for a further\nterm.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3 | Final judgment: He was acquitted of other charges. However, accused Rajeev Gupta,\nShyam Singh and Bhola Nath were convicted under Section 201 IPC. Rajeev Gupta was sentenced to\nundergo a sentence of one year and Bhola Nath and Shyam Singh to undergo a sentence of six\nmonths each. Their appeals have been allowed and they have been\nacquitted of the charge under Section 201 of the IPC. Punishment for culpable homicide not amounting to murder – Whoever\ncommits culpable homicide not amounting to murder shall be punished with\nimprisonment for life, or imprisonment of either description for a term which may\nextend to ten years, and shall also be liable to fine, if the act by which the death is\ncaused is done with the intention of causing death, or of causing such bodily injury as\nis likely to cause death, or with imprisonment of either description for a term which\nmay extend to ten years, or with fine, or with both, if the act is done with the\nknowledge that it is likely to cause death, but without any inten | Judgment: convicted | IPC: 338, 304, 201, 299, 300, 304A, 34, 313, 185, 203, 85, 205, 134, 187, 132, 133, 193, 302",
+      "metadata": {
+        "case_name": "State Tr.P.S.Lodhi Colony,New Delhi vs Sanjeev Nanda on 3",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "338",
+          "304",
+          "201",
+          "299",
+          "300",
+          "304A",
+          "34",
+          "313",
+          "185",
+          "203",
+          "85",
+          "205",
+          "134",
+          "187",
+          "132",
+          "133",
+          "193",
+          "302"
+        ],
+        "actions": [
+          "attacked",
+          "killed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    }
+  ]
+}

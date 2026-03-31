@@ -1,0 +1,152 @@
+{
+  "case_id": "State_Of_Haryana_vs_Krishan_on_9_June_2017",
+  "case_name": "State Of Haryana vs Krishan on 9 June, 2017",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Sikri\nBench: A.K. SIKRI, J. In December, 1980, a very brazen, bizarre and outlandish incident took place, commonly known as\n‘hooch tragedy’. The deleterious consequence was that 36 persons who had purchased liquor from a\nlicensed vend in Village Kalanwali, District Sirsa, Haryana lost their lives after consuming the same. Another 44 persons who too had purchased the liquor from the same shop and consumed that\nliquor lost their eye-sight permanently. Numbers of FIRs were registered in which the investigation\nwas carried out by the police. All these cases were clubbed together for the purpose of trial. Orders\nof consolidation of trials of these FIRs were passed by the Session Judge resulting into a joint trial in\nwhich 48 persons were arrayed as accused. This joint trial culminated into passing of judgment by\nthe Session Judge dated August 18, 2000. All the sentences were to run concurrently. It appears that case against two persons had\nabated because of their demise during trial. It passed the order dated May 9, 2001 making prima facie\nobservation to the effect that acquittal of other persons was not called for and the matter required\nan application for leave to appeal against the acquittal of those persons. 348-DBA of 2001. Taking note thereof, the Division Bench vide its order dated February 23, 2005 framed the\nfollowing questions for decision by a Larger Bench. However, while dealing with the aforesaid reference,\nthe Full Bench felt that for giving effective answer to the aforesaid questions, main appeal needed to\nbe heard in the first instance and this necessity was reflected in the order passed by it. 6) When the present appeal came up for hearing before us, we were informed that the said amount\nalready stands disbursed. On December 02, 1980, Om Prakash son of Puran Chand resident of Mandi Kalanwali had while,\nreporting about the death of his father Puran Chand, informed the police that in deference to the\nwishes of his father, he had purchased a pint of country liquor from the local liquor vend on\nDecember 1, 1980.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Haryana vs Krishan on 9 June, 2017 | Facts: Sikri\nBench: A.K. SIKRI, J. In December, 1980, a very brazen, bizarre and outlandish incident took place, commonly known as\n‘hooch tragedy’. The deleterious consequence was that 36 persons who had purchased liquor from a\nlicensed vend in Village Kalanwali, District Sirsa, Haryana lost their lives after consuming the same. Another 44 persons who too had purchased the liquor from the same shop and consumed that\nliquor lost their eye-sight permanently. Numbers of FIRs were registered in which the investigation\nwas carried out by the police. All these cases were clubbed together for the purpose of trial. Orders\nof consolidation of trials of these FIRs were passed by the Session Judge resulting into a joint trial in\nwhich 48 persons were arrayed as accused. This joint trial culminated into passing of judgment by\nthe Session Judge dated August 18, 2000. All the sentences were to run concurrently. It appears that case against two persons had\nabated because of their demise during trial. It pas | Actions: forged, forged | Weapon: poison | Outcome: death | IPC: 302, 120B, 328, 61, 218, 226, 300, 7",
+      "metadata": {
+        "case_name": "State Of Haryana vs Krishan on 9 June, 2017",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "120B",
+          "328",
+          "61",
+          "218",
+          "226",
+          "300",
+          "7"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "That order was challenged\nby filing special leave petition in this Court in which initially the notice was issued and stay was\ngranted in respect of the aforesaid order of the High Court. That is how the Full Bench of the High Court\nwhile deciding the appeal of the respondents herein also dealt with the aforesaid two issues and\nawarded the compensation to the families of the victims. the eye-sight.State Of Haryana vs Krishan on 9 June, 2017\nIndian Kanoon - http://indiankanoon.org/doc/33404066/ 8\n15) With this, we come to the core issue, which is the bone of contention, as to whether the\n16) As pointed out above, in the opinion of the High Court, no evidence is led to connect the\nconclusion of the High Court on that basis.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Haryana vs Krishan on 9 June, 2017 | Legal issues: That order was challenged\nby filing special leave petition in this Court in which initially the notice was issued and stay was\ngranted in respect of the aforesaid order of the High Court. That is how the Full Bench of the High Court\nwhile deciding the appeal of the respondents herein also dealt with the aforesaid two issues and\nawarded the compensation to the families of the victims. the eye-sight.State Of Haryana vs Krishan on 9 June, 2017\nIndian Kanoon - http://indiankanoon.org/doc/33404066/ 8\n15) With this, we come to the core issue, which is the bone of contention, as to whether the\n16) As pointed out above, in the opinion of the High Court, no evidence is led to connect the\nconclusion of the High Court on that basis. | IPC: 302, 120B, 328, 61, 218, 226, 300, 7",
+      "metadata": {
+        "case_name": "State Of Haryana vs Krishan on 9 June, 2017",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "120B",
+          "328",
+          "61",
+          "218",
+          "226",
+          "300",
+          "7"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Haryana vs Krishan on 9 June, 2017\n2017 SC (CRIMINAL) 1137, (2017) 3 MAD LJ(CRI) 245, (2017) 2 ALD(CRL) 578,\n(2017) 3 DLT(CRL) 312, (2017) 176 ALLINDCAS 105 (SC), (2018) 1 JLJR 193,\n(2017) 3 CURCRIR 154, (2017) 7 SCALE 141, (2018) 102 ALLCRIC 141, (2018) 1\nALLCRILR 125, (2017) 3 CRIMES 120, (2018) 1 PAT LJR 350, (2017) 3\nRECCRIR 480\nAuthor: A.K. 847 OF 2006\nSTATE OF HARYANA .....APPELLANT(S)\nVERSUS\nKRISHAN & ANR. .....RESPONDENT(S)\nJUDGMENT\nA.K. 2) The two convicts (respondents herein) challenged the order of their conviction by filing appeal in\nthe High Court. The High Court has also indicted the appellant/State of Haryana for its negligence which led to the\nsaid tragedy and has directed the State to pay compensation of Rs.2,00,000/- each to the heirs of 36\npersons who died after consuming the liquor and pay a compensation of Rs.1,50,000/- to those\npersons who are rendered blind by consuming a spurious liquor. State of Haryana is in appeal\nquestioning the aforesaid outcome of the appeals which were filed by the respondents herein. Before\ncoming to the reasons which weighed with the High Court acquitting the respondents, certain\ndevelopments which took place during the pendency of the appeal filed by the respondents in the\nHigh Court need a mention at this stage. Neither State nor\nany of the aggrieved persons challenged the acquittal of those accused. In the meantime, the State\nGovernment had filed application for leave to defend in the High Court in which leave had been\ngranted and the case was assigned Criminal Appeal No. 5) Insofar as order of the High Court directing payment of compensation is concerned, when this\nmatter came up on July 13, 2012, a statement was made by the learned counsel appearing for the\non October 23, 2011 as per the directions of the High Court. After recording the aforesaid statement,\nthis Court directed that the aforesaid amount be released in favour of the victims or legal heirs of the\nvictims after due verification. In this conspectus,\nboth the parties argued the case limited to the acquittal of respondents by the High Court.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Haryana vs Krishan on 9 June, 2017 | Arguments: State Of Haryana vs Krishan on 9 June, 2017\n2017 SC (CRIMINAL) 1137, (2017) 3 MAD LJ(CRI) 245, (2017) 2 ALD(CRL) 578,\n(2017) 3 DLT(CRL) 312, (2017) 176 ALLINDCAS 105 (SC), (2018) 1 JLJR 193,\n(2017) 3 CURCRIR 154, (2017) 7 SCALE 141, (2018) 102 ALLCRIC 141, (2018) 1\nALLCRILR 125, (2017) 3 CRIMES 120, (2018) 1 PAT LJR 350, (2017) 3\nRECCRIR 480\nAuthor: A.K. 847 OF 2006\nSTATE OF HARYANA .....APPELLANT(S)\nVERSUS\nKRISHAN & ANR. .....RESPONDENT(S)\nJUDGMENT\nA.K. 2) The two convicts (respondents herein) challenged the order of their conviction by filing appeal in\nthe High Court. The High Court has also indicted the appellant/State of Haryana for its negligence which led to the\nsaid tragedy and has directed the State to pay compensation of Rs.2,00,000/- each to the heirs of 36\npersons who died after consuming the liquor and pay a compensation of Rs.1,50,000/- to those\npersons who are rendered blind by consuming a spurious liquor. State of Haryana is in appeal\nquestioning the aforesaid outcome of | Intent: intentional | IPC: 302, 120B, 328, 61, 218, 226, 300, 7 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of Haryana vs Krishan on 9 June, 2017",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "120B",
+          "328",
+          "61",
+          "218",
+          "226",
+          "300",
+          "7"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sikri, Ashok Bhushan\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. This appeal has been allowed by the High Court vide judgment dated May 09, 2006. Appeal was only filed by the\nDivision Bench of the High Court. Following the aforesaid\norder dated November 13, 2002 of this Court, said appeal was dismissed by the High Court on\nFebruary 17, 2003. In these circumstances, the High Court was left with the Criminal Appeal filed by\nFebruary 23, 2005, when it came up before the Division Bench of the High Court, it took note of\nobservations made by the trial court in its judgment wherein trial court had castigated the State\ninstrumentality as well and observed that its negligence had also contributed to the unfortunate\nincident. Having\nregard to that order of the Full Bench, the Chief Justice of the High Court directed that criminal\nappeal be also listed before the Full Bench so that the appeal itself along with the aforesaid two\nquestions referred to the Full Bench is decided by it. Because of this development, when the amount is already paid to the\nvictims or their families, this Court expressed that there was no question of recovering the said\namount now, more particularly, when the victims or their family members who have been paid\ncould not dispute the aforesaid position. As a result, this Court is not interfering with the directions\npertaining to payment of compensation contained in the impugned judgment. 7) The case of the prosecution, as noted by the High Court, can be recapitulated at this stage, as\nthere was no dispute that there is no error in recording the prosecution case. It was\nalso submitted that in the case of none of the victims had, the investigating agency, collected\nevidence to prove that that the respondents had directed their Karindas to adulterate the liquor and\nin the absence of this no tacit or implied consent for the sale of liquor can be attributed to them and,\ntherefore, the charge under Section 302 IPC cannot be sustained.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Haryana vs Krishan on 9 June, 2017 | Judicial reasoning: Sikri, Ashok Bhushan\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. This appeal has been allowed by the High Court vide judgment dated May 09, 2006. Appeal was only filed by the\nDivision Bench of the High Court. Following the aforesaid\norder dated November 13, 2002 of this Court, said appeal was dismissed by the High Court on\nFebruary 17, 2003. In these circumstances, the High Court was left with the Criminal Appeal filed by\nFebruary 23, 2005, when it came up before the Division Bench of the High Court, it took note of\nobservations made by the trial court in its judgment wherein trial court had castigated the State\ninstrumentality as well and observed that its negligence had also contributed to the unfortunate\nincident. Having\nregard to that order of the Full Bench, the Chief Justice of the High Court directed that criminal\nappeal be also listed before the Full Bench so that the appeal itself along with the aforesaid two\nquestions referred  | Intent: intentional | Outcome: death | IPC: 302, 120B, 328, 61, 218, 226, 300, 7",
+      "metadata": {
+        "case_name": "State Of Haryana vs Krishan on 9 June, 2017",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "120B",
+          "328",
+          "61",
+          "218",
+          "226",
+          "300",
+          "7"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "It resulted into conviction of only two accused persons,\nnamely, Krishan and Som Nath, for the offences under Section 302 IPC read with Section 120B IPCState Of Haryana vs Krishan on 9 June, 2017\nIndian Kanoon - http://indiankanoon.org/doc/33404066/ 1\nwho were directed to undergo imprisonment for life and also to pay fine of Rs.10,000/- each. They\nwere also convicted for offence under Section 328 IPC read with Section 120B IPC for which they\nwere to suffer imprisonment for a term of 5 years with fine of Rs.5,000/- each. Conviction against\nthese two persons were also recorded under Section 61(1)(a) of the Punjab Excise Act, 1914 for which\nsentence of six months rigorous imprisonment and fine of Rs.1,000/- was imposed on the two\nconvicts. Apart from these accused persons, all other accused\npersons were acquitted. 3) As pointed out above, only two persons were convicted and others acquitted. Ultimately, the order dated May 9, 2001\npassed by the High Court directing the State to file application for leave to appeal against the\nacquittal of persons was set aside by this Court on November 13, 2002. “(1) How the investigation is to be conducted in such like cases where number of persons die and\nbecome disabled?State Of Haryana vs Krishan on 9 June, 2017\nIndian Kanoon - http://indiankanoon.org/doc/33404066/ 2\n(2) Whether the State is liable to pay compensation to the families of the victims, if the accused are\nacquitted on account of faulty investigation and intricacies of law?”\n4) The matter was referred to the Full Bench. The trial court after hearing arguments had come to the conclusion that the prosecution has been\nable to prove its case only against Krishan and Som Nath and convicted and sentenced them as\nindicated hereinbefore whereas the remaining accused were acquitted of the charge framed against\nthem. 8) As is already observed, both the respondents were convicted by the trial court for offences under\nSections 302 IPC as well as 328 IPC with the aid of Section 120B IPC as well. Questioning this basis\nof conviction, counsel for the respondents had argued before the High Court that there was no\nevidence of conspiracy on the basis whereof the respondents could be convicted under Section 120B\nIPC.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Haryana vs Krishan on 9 June, 2017 | Final judgment: It resulted into conviction of only two accused persons,\nnamely, Krishan and Som Nath, for the offences under Section 302 IPC read with Section 120B IPCState Of Haryana vs Krishan on 9 June, 2017\nIndian Kanoon - http://indiankanoon.org/doc/33404066/ 1\nwho were directed to undergo imprisonment for life and also to pay fine of Rs.10,000/- each. They\nwere also convicted for offence under Section 328 IPC read with Section 120B IPC for which they\nwere to suffer imprisonment for a term of 5 years with fine of Rs.5,000/- each. Conviction against\nthese two persons were also recorded under Section 61(1)(a) of the Punjab Excise Act, 1914 for which\nsentence of six months rigorous imprisonment and fine of Rs.1,000/- was imposed on the two\nconvicts. Apart from these accused persons, all other accused\npersons were acquitted. 3) As pointed out above, only two persons were convicted and others acquitted. Ultimately, the order dated May 9, 2001\npassed by the High Court directing the State to file appli | Judgment: convicted | IPC: 302, 120B, 328, 61, 218, 226, 300, 7",
+      "metadata": {
+        "case_name": "State Of Haryana vs Krishan on 9 June, 2017",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "120B",
+          "328",
+          "61",
+          "218",
+          "226",
+          "300",
+          "7"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    }
+  ]
+}

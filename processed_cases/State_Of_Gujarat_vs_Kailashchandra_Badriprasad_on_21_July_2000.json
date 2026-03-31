@@ -1,0 +1,157 @@
+{
+  "case_id": "State_Of_Gujarat_vs_Kailashchandra_Badriprasad_on_21_July_2000",
+  "case_name": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Patel, J. 1. 2. 4 of 1993. Criminal Application No. 4735 of 1995 for condonation of delay under Section\n5 of the Limitation Act, 1963. 3. Ramesh L. 4. The Division Bench (Coram : K. J. Vaidya & N. N. R.L. 5. 6. So far as the appeals are concerned, Chapter XXIX of the Criminal Procedure Code, 1973\n(hereinafter referred as 'Code') is required to be perused. 7. The relevant part of Section 378 is\nreproduced hereunder:\n378. (4) If such an order of acquittal is passed in any case instituted upon complaint and\nthe High Court, on an application made to it by the complainant in this behalf, grants\nspecial leave to appeal from the order of acquittal, the complainant may present such\nan appeal to the High Court. (6) If in any case, the application under Sub-section (4) for the grant of special leave\nto appeal from an order of acquittal is refused, no appeal from that order of acquittal\nshall lie under Sub-section (1) or under Sub-section (2). 8. That is with reference to a case where cognizance has been taken on the basis of a\ncomplaint and not on the basis of a charge-sheet. The Limitation Act, 1963 (hereinafter referred as\n'Limitation Act') is also required to be perused. Section 5 of the Limitation Act reads as under:\n5. 9. The question \"period of limitation\" is defined in Sub-clause (j) of Section 2 of the Limitation Act,\nas under:\n2(j) 'period of limitation' means the period of limitation prescribed for any suit,\nappeal or application by the Schedule, and 'prescribed period' means the period of\nlimitation computed in accordance with the provisions of this Act. 10. We will have to refer to the first Schedule of the Limitation Act for the purpose of finding out as\nto what is the period of limitation prescribed for preferring an appeal or application. Articles 114 &\n115 being relevant articles, are required to be considered. The said Articles read as under:\n------------------------------------------------------------------------------\nDescription Period of Time from which\nof suit limitation period begins to run\n------------------------------------------------------------------------------\n114 Appeal from an\norder of acquittal\n(a) Under Sub-section (1) Ninety days The date of the order\nor Sub-section (2) of appealed from.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Gujarat vs Kailashchandra Badriprasad on 21 July, | Facts: Patel, J. 1. 2. 4 of 1993. Criminal Application No. 4735 of 1995 for condonation of delay under Section\n5 of the Limitation Act, 1963. 3. Ramesh L. 4. The Division Bench (Coram : K. J. Vaidya & N. N. R.L. 5. 6. So far as the appeals are concerned, Chapter XXIX of the Criminal Procedure Code, 1973\n(hereinafter referred as 'Code') is required to be perused. 7. The relevant part of Section 378 is\nreproduced hereunder:\n378. (4) If such an order of acquittal is passed in any case instituted upon complaint and\nthe High Court, on an application made to it by the complainant in this behalf, grants\nspecial leave to appeal from the order of acquittal, the complainant may present such\nan appeal to the High Court. (6) If in any case, the application under Sub-section (4) for the grant of special leave\nto appeal from an order of acquittal is refused, no appeal from that order of acquittal\nshall lie under Sub-section (1) or under Sub-section (2). 8. That is with reference to a case where cognizance  | Actions: none | Weapon: unknown | Outcome: death | IPC: 3, 5, 377, 378, 2, 417, 473, 468, 30, 13, 6, 8",
+      "metadata": {
+        "case_name": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "3",
+          "5",
+          "377",
+          "378",
+          "2",
+          "417",
+          "473",
+          "468",
+          "30",
+          "13",
+          "6",
+          "8"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Chauhan, expressed an opinion that, \"it is not necessary to issue notice to other side because while\nappreciating the case at the time of admission, the Court even otherwise carefully scrutinizes the\nfacts and circumstances of that particular case and purely thereupon, bearing in mind legal position\nwhen it feels that no case is made out, then even in absence of other side, the Court can and does\ndismiss such appeal or revision application summarily and in case it is of the opinion that prima\nfacie case is made out, then such appeal or revisions are admitted. On very same principle, delay\ncondonation applications can also certainly be decided and there indeed cannot be any such\nimperative rule that before deciding the same, to be exact condoning delay, notice should always be\nissued to the other side in each and every case, irrespective of the facts and circumstances of the\nparticular case\". It is\ntrue that the accused has no right to be heard in a matter where the Court is intending to take the\ncognizance and before the process is issued, the accused has no say in the matter. The accused in case of delay\nwill be heard not on merits of the case i.e., whether to take the cognizance or not, but he will be\nheard only on the question whether delay should be condoned or not. Only after hearing both the parties, the Court\nwill be able to decide whether to condone the delay or not. Chauhan (supra) held that it is not always imperative\nto issue a notice to the respondent before condoning delay. When an administrative\nbody is required to issue a show-cause notice before making a quasi judicial order, it is difficult to\nunderstand how the Court can exercise the discretion without hearing the party likely to be\nadversely affected thereby.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Gujarat vs Kailashchandra Badriprasad on 21 July, | Legal issues: Chauhan, expressed an opinion that, \"it is not necessary to issue notice to other side because while\nappreciating the case at the time of admission, the Court even otherwise carefully scrutinizes the\nfacts and circumstances of that particular case and purely thereupon, bearing in mind legal position\nwhen it feels that no case is made out, then even in absence of other side, the Court can and does\ndismiss such appeal or revision application summarily and in case it is of the opinion that prima\nfacie case is made out, then such appeal or revisions are admitted. On very same principle, delay\ncondonation applications can also certainly be decided and there indeed cannot be any such\nimperative rule that before deciding the same, to be exact condoning delay, notice should always be\nissued to the other side in each and every case, irrespective of the facts and circumstances of the\nparticular case\". It is\ntrue that the accused has no right to be heard in a matter where the Court is intending t | IPC: 3, 5, 377, 378, 2, 417, 473, 468, 30, 13, 6, 8",
+      "metadata": {
+        "case_name": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "3",
+          "5",
+          "377",
+          "378",
+          "2",
+          "417",
+          "473",
+          "468",
+          "30",
+          "13",
+          "6",
+          "8"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,\n2000\nEquivalent citations: (2000)3GLR2487\nJUDGMENT\nB.C. The matter referred to this Full Bench raises an important question having bearing on the right of\nan accused viz., Can delay in filing of an appeal by the State be condoned without giving an\nopportunity of hearing to the accused? As there was delay of 81 days in filing the appeal, the\nState preferred Misc. The attention of the Division Bench hearing the application filed by the State against\nKailashchandra Badrinath and Ors., was drawn to the decision of a Division Bench in case of Stale of\nGujarat v. Mathur, JJ.) in case of State of Gujarat v. The Division Bench, at the stage of admission, in view of the decision of the Apex Court in case of\nState of Maharashtra v. Sharadchandra Vinayak Dongre reported in 1995 SCC (Cri.) 16, was of the\nview that the opinion expressed by the Division Bench in the case of Ramesh Chauhan (supra)State Of Gujarat vs Kailashchandra Badriprasad on 21 July, 2000\nIndian Kanoon - http://indiankanoon.org/doc/304751/ 1\nrequires re-consideration by a Larger Bench, and that is how the matter has been placed before the\nFull Bench. In the case of inadequate sentence, the\nappeal may be preferred by the State under Section 377 of the Code. Relevant portion of Section 377\nis reproduced as under:\n377(1) : Save as otherwise provided in Sub-section (2), the State Government may, in\nany case of conviction on a trial held by any Court other than a High Court, direct the\nPublic Prosecutor to present an appeal to the High Court against the sentence on the\nground of its inadequacy. So far as the appeal in case of acquittal is concerned, which is required to be preferred by the State\nGovernment, one will have to look at Section 378 of the Code. Appeal in case of acquittal .:\n(1) Save as otherwise provided in Sub-section (2) and subject to the provision of\nSub-sections (3) and (5), the State Government may, in any case, direct the Public\nProsecutor to present an appeal to the High Court from an original or appellate order\nof acquittal passed by any Court other than a High Court or an order of acquittal\npassed by the Court of Sessions in revision.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Gujarat vs Kailashchandra Badriprasad on 21 July, | Arguments: State Of Gujarat vs Kailashchandra Badriprasad on 21 July,\n2000\nEquivalent citations: (2000)3GLR2487\nJUDGMENT\nB.C. The matter referred to this Full Bench raises an important question having bearing on the right of\nan accused viz., Can delay in filing of an appeal by the State be condoned without giving an\nopportunity of hearing to the accused? As there was delay of 81 days in filing the appeal, the\nState preferred Misc. The attention of the Division Bench hearing the application filed by the State against\nKailashchandra Badrinath and Ors., was drawn to the decision of a Division Bench in case of Stale of\nGujarat v. Mathur, JJ.) in case of State of Gujarat v. The Division Bench, at the stage of admission, in view of the decision of the Apex Court in case of\nState of Maharashtra v. Sharadchandra Vinayak Dongre reported in 1995 SCC (Cri.) 16, was of the\nview that the opinion expressed by the Division Bench in the case of Ramesh Chauhan (supra)State Of Gujarat vs Kailashchandra Badriprasad | Intent: intentional | IPC: 3, 5, 377, 378, 2, 417, 473, 468, 30, 13, 6, 8 | Judgment context: acquitted",
+      "metadata": {
+        "case_name": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "3",
+          "5",
+          "377",
+          "378",
+          "2",
+          "417",
+          "473",
+          "468",
+          "30",
+          "13",
+          "6",
+          "8"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The Slate of Gujarat preferred an appeal being aggrieved by an order of acquittal recorded by the\nlearned Special Judge, City Sessions Court, Ahmedabad wherein the accused Kailashchandra\nBadriprasad and Ors., were tried for an offence punishable under Section 3 of the Essential\nCommodities Act in Special Case No. Chauhan reported in 1994 (2) GLR 1577, inter alia, requesting that the Court\nin exercise of its discretionary powers, can condone the delay in instituting an appeal or revision\nwithout hearing the other side. (2) xxx xxx xxx (3) No appeal under Sub-section (1) or Sub-section (2) shall be\nentertained except with the leave of the High Court. (5) No application under Sub-section (4) for the grant of special leave to appeal from\nan order of acquittal shall be entertained by the High Court after the expiry of six\nmonths, where the complainant is a public servant, and sixty days in every other case,\ncomputed from the date of that order of acquittal. Thus, the Code itself provides the period of limitation under Sub-section (5) in case of an\norder of acquittal. (ii) to any other Court. Thus, if the appeal is not preferred within the prescribed period of 90 days under Article 114 of\nthe First Schedule of the Limitation Act, then the same would be barred by limitation and the State\nwill have to submit an application as contemplated under Section 5 of the Limitation Act for\ncondonation of delay. The Division Bench while making an order for placing the matter before the Hon'ble the Chief\nJustice has referred the decision of the Apex Court in the case of Sharadchandra (supra). The Apex\nCourt examined the provisions contained in Sections 473 and 468 of the Code. The said section reads as under:\nSection 468 : Bar to taking cognizance after lapse of the period of limitation:\n(1) Except as otherwise provided elsewhere in this Code, no Court shall take\ncognizance of an offence of the category specified in Sub-section (2), after the expiry\nof the period of limitation. One has to remember that, for a good cause, one may not be in a position to file the complaint in\ntime, and therefore, the Legislature has provided Section 473 in the Code for extension of period of\nlimitation, which reads as under:\n473.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Gujarat vs Kailashchandra Badriprasad on 21 July, | Judicial reasoning: The Slate of Gujarat preferred an appeal being aggrieved by an order of acquittal recorded by the\nlearned Special Judge, City Sessions Court, Ahmedabad wherein the accused Kailashchandra\nBadriprasad and Ors., were tried for an offence punishable under Section 3 of the Essential\nCommodities Act in Special Case No. Chauhan reported in 1994 (2) GLR 1577, inter alia, requesting that the Court\nin exercise of its discretionary powers, can condone the delay in instituting an appeal or revision\nwithout hearing the other side. (2) xxx xxx xxx (3) No appeal under Sub-section (1) or Sub-section (2) shall be\nentertained except with the leave of the High Court. (5) No application under Sub-section (4) for the grant of special leave to appeal from\nan order of acquittal shall be entertained by the High Court after the expiry of six\nmonths, where the complainant is a public servant, and sixty days in every other case,\ncomputed from the date of that order of acquittal. Thus, the Code itself provides th | Intent: intentional | Outcome: death | IPC: 3, 5, 377, 378, 2, 417, 473, 468, 30, 13, 6, 8",
+      "metadata": {
+        "case_name": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "3",
+          "5",
+          "377",
+          "378",
+          "2",
+          "417",
+          "473",
+          "468",
+          "30",
+          "13",
+          "6",
+          "8"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "(2) The period of limitation shall be -\n(a) six months, if the offence is punishable with fine only;\n(b) one year, if the offence is punishable with imprisonment for a term not exceeding\none year;\n(c) three years, if the offence is punishable with imprisonment for a term exceeding\none year but not exceeding three years. The case of an accused acquitted by a competent Court would stand on a better footing than the\ncase of an accused against whom the allegation is made of having committed an offence. Applying the\nsame principle when an accused is acquitted of an offence, there is no reason why he should not be\nheard before condoning the delay in the filing of an acquittal appeal? Without hearing the person acquitted, on the question\nof delay in preferring an appeal, neither the delay can be condoned nor the appeal could be admitted\nby considering the delay without notice to the other side. v. But when it allows limitation to expire and pleads sufficient cause for not\nfiling the appeal earlier, the sufficient cause must establish that because of some\nevent or circumstance arising before limitation expired, it was not possible to file the\nappeal within time. No event or circumstance arising after the expiry of limitation\ncan constitute such sufficient cause. There may be events or circumstances\nsubsequent to the expiry of limitation which may further delay the filing of the\nappeal. But that the limitation has been allowed to expire without the appeal being\nfiled must be traced to a cause arising within the period of limitation. 41. It goes without saying that the Limitation Act, 1963 applies in filing criminal appeals or\napplications and in case of delay, the application is required to be preferred for condonation of\ndelay. B. Pathan's\ncase (supra). As pointed out earlier, there is no need to prefer an application for leave to appeal\nunder Section 378(1) or (2) as it is required in case under Sub-section (4) of Section 378 of the Code. 42. Even in case of an\nappeal preferred against an order of acquittal passed in a case instituted otherwise than on a police\nreport, when application under Sub-section (4) of Section 378 is granted, the appeals are admitted\nwithout further hearing.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Gujarat vs Kailashchandra Badriprasad on 21 July, | Final judgment: (2) The period of limitation shall be -\n(a) six months, if the offence is punishable with fine only;\n(b) one year, if the offence is punishable with imprisonment for a term not exceeding\none year;\n(c) three years, if the offence is punishable with imprisonment for a term exceeding\none year but not exceeding three years. The case of an accused acquitted by a competent Court would stand on a better footing than the\ncase of an accused against whom the allegation is made of having committed an offence. Applying the\nsame principle when an accused is acquitted of an offence, there is no reason why he should not be\nheard before condoning the delay in the filing of an acquittal appeal? Without hearing the person acquitted, on the question\nof delay in preferring an appeal, neither the delay can be condoned nor the appeal could be admitted\nby considering the delay without notice to the other side. v. But when it allows limitation to expire and pleads sufficient cause for not\nfiling the appeal ea | Judgment: acquitted | IPC: 3, 5, 377, 378, 2, 417, 473, 468, 30, 13, 6, 8",
+      "metadata": {
+        "case_name": "State Of Gujarat vs Kailashchandra Badriprasad on 21 July,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "3",
+          "5",
+          "377",
+          "378",
+          "2",
+          "417",
+          "473",
+          "468",
+          "30",
+          "13",
+          "6",
+          "8"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2000"
+      }
+    }
+  ]
+}

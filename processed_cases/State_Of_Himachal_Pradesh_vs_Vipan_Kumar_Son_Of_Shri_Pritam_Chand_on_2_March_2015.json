@@ -1,0 +1,157 @@
+{
+  "case_id": "State_Of_Himachal_Pradesh_vs_Vipan_Kumar_Son_Of_Shri_Pritam_Chand_on_2_March_2015",
+  "case_name": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Appeal No. 493 of 2009\nJudgment reserved on: 28th October 2014\n. Date of Decision: 8th January, 2015. Vs. Coram:\nHon'ble Mr. Justice Sanjay Karol, Judge. Hon'ble Mr.Justice P.S.Rana, Judge. Yes. Advocate General with Mr. Puneet Rajta Deputy\nP.S.Rana, J. Yes. Judge Hamirpur in Sessions trial No. vs. Vipan Kumar. . BRIEF FACTS OF THE PROSECUTION CASE:\n2. Brief facts of the case as alleged by prosecution are that on dated 25.2.2009 at\nabout 2.30 PM at village Lohakhar accused had committed sexual intercourse with\nprosecutrix without her consent. It is alleged by prosecution that on the aforesaid\ndate time and place accused criminally to commit r to trespassed into the house of\nprosecutrix after having made preparation to wrongfully restrain the prosecutrix with\na view rape on prosecutrix. It is also alleged by prosecution that on the same date\ntime and place accused criminally intimidated the prosecutrix to kill her. It is alleged\nby prosecution that on the same date time and place accused was not the member of\nScheduled Caste or Scheduled Tribe and was member of Rajput caste and was in\nposition to dominate the prosecutrix who belonged to Scheduled Caste and exploited\nher sexually without her consent. It is alleged by prosecution that at the time of\nincident the prosecutrix aged 20 years was student of BBA in Vallabh Government\nCollege Mandi and prosecutrix was all alone in her house. It is alleged by prosecution\nthat accused came in the house of prosecutrix and when prosecutrix inquired from\naccused about his presence then accused told that he came in the search of his . dog. It is alleged by prosecution that at about 2.30 PM when prosecutrix was all alone in the house\nand was watching the television accused again came and knocked the door and asked the\nprosecutrix to open the door. It is alleged by prosecution that when prosecutrix declined to open the\ndoor thereafter accused 2/3 times pulled the door from outside and thereafter entered into the room\nof prosecutrix. It is alleged by prosecution that when prosecutrix tried to cry the accused gagged the mouth of\nprosecutrix and took the prosecutrix to cowshed which was situated nearby residential room.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam | Facts: Appeal No. 493 of 2009\nJudgment reserved on: 28th October 2014\n. Date of Decision: 8th January, 2015. Vs. Coram:\nHon'ble Mr. Justice Sanjay Karol, Judge. Hon'ble Mr.Justice P.S.Rana, Judge. Yes. Advocate General with Mr. Puneet Rajta Deputy\nP.S.Rana, J. Yes. Judge Hamirpur in Sessions trial No. vs. Vipan Kumar. . BRIEF FACTS OF THE PROSECUTION CASE:\n2. Brief facts of the case as alleged by prosecution are that on dated 25.2.2009 at\nabout 2.30 PM at village Lohakhar accused had committed sexual intercourse with\nprosecutrix without her consent. It is alleged by prosecution that on the aforesaid\ndate time and place accused criminally to commit r to trespassed into the house of\nprosecutrix after having made preparation to wrongfully restrain the prosecutrix with\na view rape on prosecutrix. It is also alleged by prosecution that on the same date\ntime and place accused criminally intimidated the prosecutrix to kill her. It is alleged\nby prosecution that on the same date time and place accuse | Actions: assaulted, threatened | Weapon: stick | Outcome: death | IPC: 154, 376, 313, 3, 452, 511, 506, 59, 315",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "154",
+          "376",
+          "313",
+          "3",
+          "452",
+          "511",
+          "506",
+          "59",
+          "315"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "stick",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether approved for reporting1?. JUDGMENT: Present appeal is filed against the judgment of acquittal passed by learned Sessions\nJudge-cum-Special Whether reporters of the Local papers are allowed to see the judgment?. Rakesh Kumar Sharma who issued MLC Ext.PW5/B and accused was . Question that arises in present appeal is whether learned trial Court did not properly appreciate\noral as well as documentary evidence placed on record and whether learned trial Court had\ncommitted miscarriage of justice as mentioned in memorandum of grounds of appeal. She has stated that she\ndoes not know whether Vinay Kumar brother of accused appeared as a prosecution witness against\nher sister. He issued MLC Ext.PW4/C which bears his\nsignatures and bears the signatures of prosecutrix. Rajesh Kumar has stated that he is posted as Medical Officer in CHC Sunjanpur since\nJune 2007 and further stated that application Ext.PW5/A was moved by police for medical\nexamination and he issued MLC Ext.PW5/B. He has stated that at the time of examination of accused he was not found under the\ninfluence of alcohol.State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 11\n9.6 PW6 Shiv Dev Singh has stated that on the receipt of application Ext.PW6/A he issued caste\ncertificate of . As per certificate\nissued by competent authority Ext.PW6/C prosecutrix belonged to Lohar caste which falls underState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 17\nscheduled caste category and accused belonged to Rajput caste which falls under non-scheduled\ncaste category. Certificate Ext.PW6/C issued by competent authority remained unrebutted on\nrecord. Bailable warrants be issued against convict Vipan Kumar in the sum of `50,000/- with two sureties\nin the like amount and he be produced before us on 2.3.2015 for hearing on quantum of sentence.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam | Legal issues: Whether approved for reporting1?. JUDGMENT: Present appeal is filed against the judgment of acquittal passed by learned Sessions\nJudge-cum-Special Whether reporters of the Local papers are allowed to see the judgment?. Rakesh Kumar Sharma who issued MLC Ext.PW5/B and accused was . Question that arises in present appeal is whether learned trial Court did not properly appreciate\noral as well as documentary evidence placed on record and whether learned trial Court had\ncommitted miscarriage of justice as mentioned in memorandum of grounds of appeal. She has stated that she\ndoes not know whether Vinay Kumar brother of accused appeared as a prosecution witness against\nher sister. He issued MLC Ext.PW4/C which bears his\nsignatures and bears the signatures of prosecutrix. Rajesh Kumar has stated that he is posted as Medical Officer in CHC Sunjanpur since\nJune 2007 and further stated that application Ext.PW5/A was moved by police for medical\nexamination and he issued MLC Ext.PW5/B. He has state | IPC: 154, 376, 313, 3, 452, 511, 506, 59, 315",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "154",
+          "376",
+          "313",
+          "3",
+          "452",
+          "511",
+          "506",
+          "59",
+          "315"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "stick",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam\nChand on 2 March, 2015\nAuthor: P.S.Rana\nBench: Sanjay Karol, P.S. _______________________________________________________________\nState of Himachal Pradesh .....Appellant. Vipan Kumar son of Shri Pritam Chand ...Respondent. VikramState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 1\nThakur, and Mr. 12 of 2009 titled State of H.P. It is alleged by prosecution that thereafter accused threw the prosecutrix on bed andState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 2\ngagged her mouth with his hands and thereafter removed the salwar and underwear of prosecutrix. Sujanpur proceeded to the spot along with other some police officials and recorded\nthe statement of prosecutrix under Section 154 Cr.P.C. It is alleged by prosecution that photographs were\nalso obtained and site plan of house of prosecutrix and cowshed was also prepared by InvestigatingState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 3\nOfficer. Malkiat SinghState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 4\nPW10. Statement of prosecutrix\nEx.PW1/B. PW1/E Recovery memo\nExt.PW1/F Recovery memoState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 5\nExt.PW4/A Application to SMO\nEx.PW4/B FSL report\nEx.PW4/C MLC\n. Ext.PW5/A Application to Medical Officer\nExt.PW5/B MLC\nExt.PW6/A Letter to Tehsildar\nEx.PW6/B Caste certificates\nand\nExt.PW6/C\nExt.PW6/D Copies of pedigree table\nand\nExt.PW6/E\nExt.PW8/A Abstract of malkhana register\nExt.PW8/B Copy of RC\nExt.PW8/C FSL report\nExt.PW12/A DDRs\n&\nExt.PW12/B\nExt.PW13/A Copy of FIR\nExt.PW15/A- Photographs/negatives\n1 to\nExt.PW15/A-\nExt.PW15/B Letter to FSLState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 6\nExt.PW16/A Site plan\nExt.PW16/B Samples seal impressions on\nand cloth\nExt.PW16/C\nExt.DA Statement of Roshani Devi\nExt.DB Statement of Ishro Devi\n5. Statement of the accused recorded under Section 313 Cr.P.C.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam | Arguments: State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam\nChand on 2 March, 2015\nAuthor: P.S.Rana\nBench: Sanjay Karol, P.S. _______________________________________________________________\nState of Himachal Pradesh .....Appellant. Vipan Kumar son of Shri Pritam Chand ...Respondent. VikramState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 1\nThakur, and Mr. 12 of 2009 titled State of H.P. It is alleged by prosecution that thereafter accused threw the prosecutrix on bed andState Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam Chand on 2 March, 2015\nIndian Kanoon - http://indiankanoon.org/doc/186790847/ 2\ngagged her mouth with his hands and thereafter removed the salwar and underwear of prosecutrix. Sujanpur proceeded to the spot along with other some police officials and recorded\nthe statement of prosecutrix under Section 154 Cr.P.C. It is alleged by prosecution that photographs were\nalso obtaine | Intent: intentional | IPC: 154, 376, 313, 3, 452, 511, 506, 59, 315 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "154",
+          "376",
+          "313",
+          "3",
+          "452",
+          "511",
+          "506",
+          "59",
+          "315"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "stick",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Rana\nIN THE HIGH COURT OF HIMACHAL PRADESH, AT SHIMLA\nCr. He has stated that\nhe has observed the following injuries on the person of prosecutrix. He has stated that after local examination he observed linear superficial abrasion 0.5 cm in length\nstarting from vaginal mucosal margin to skin outside at 7 O'clock position over vaginal orifice. those days and therefore SDPO was having additional charge of police station. It is well settled law that trial Court should be\nsensitive while dealing with cases involving sexual molestation. Testimony of prosecutrix inspires confidence of Court qua\nattempt to commit rape. Hence we are of the opinion that offence punishable\nunder Section 511 read with Section 376 IPC is proved on record against the accused beyond\nreasonable doubt. We are of the opinion that forcible entry\nof accused in room of prosecutrix is proved as per testimony of prosecutrix and testimony of\nprosecutrix that accused forcibly entered into her residential house is also trustworthy reliable and\ninspire confidence of Court. Hence integrity of prosecutrix could not be doubted by\nCourt. Testimony of PW2 Roshani Devi is trustworthy reliable and inspire confidence of Court. No reason has\nbeen assigned by accused as to why he did not plead the case of consent theory before learned trial\nCourt. We are of the opinion that findings of learned trial Court qua . We are of the opinion that learned trial Court has given wrong\nfindings that present case is a case of consensual sexual intercourse between prosecutrix and\naccused. Finding\nof learned trial Court that present case is based upon consent on part of prosecutrix in para No. We modify the judgment passed by learned\ntrial Court to this extent only. further legal proceedings before the competent Court of law.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam | Judicial reasoning: Rana\nIN THE HIGH COURT OF HIMACHAL PRADESH, AT SHIMLA\nCr. He has stated that\nhe has observed the following injuries on the person of prosecutrix. He has stated that after local examination he observed linear superficial abrasion 0.5 cm in length\nstarting from vaginal mucosal margin to skin outside at 7 O'clock position over vaginal orifice. those days and therefore SDPO was having additional charge of police station. It is well settled law that trial Court should be\nsensitive while dealing with cases involving sexual molestation. Testimony of prosecutrix inspires confidence of Court qua\nattempt to commit rape. Hence we are of the opinion that offence punishable\nunder Section 511 read with Section 376 IPC is proved on record against the accused beyond\nreasonable doubt. We are of the opinion that forcible entry\nof accused in room of prosecutrix is proved as per testimony of prosecutrix and testimony of\nprosecutrix that accused forcibly entered into her residential house is also trustwort | Intent: intentional | Outcome: death | IPC: 154, 376, 313, 3, 452, 511, 506, 59, 315",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "154",
+          "376",
+          "313",
+          "3",
+          "452",
+          "511",
+          "506",
+          "59",
+          "315"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "stick",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Learned trial\nCourt acquitted the accused of the charges framed against him. We are of the opinion that learned trial\nCourt has rightly acquitted the accused for offence under Section 506 IPC. 29. We are of\nthe opinion that minor contradictions are bound to come in criminal case when testimony of witness\nis recorded after a gap of time. Proved recovery of sweater, salwar and proved recovery of underwear of prosecutrix and\nunderwear and V shape slippers of accused proved on record beyond reasonable doubt that accused\nattempted to commit rape upon prosecutrix. Recovery of buttons of sweater and strings of shirt of\nprosecutrix also proved beyond reasonable doubt . that accused attempted to rape upon prosecutrix. Even as per Forensic Science Laboratory\nHimachal Pradesh Junga human semen was found upon shirt of prosecutrix and human blood and\nsemen was also found upon vaginal swab of prosecutrix and blood was also deducted in the vaginal\nslides of prosecutrix. Even as per Forensic Science Laboratory report Ext.PW8/C placed on record\nbroken buttons and laces matches with buttons and laces of sweater of prosecutrix. It was held in case reported in AIR 1973 SCC 944 (Full Bench) titled Jose\nvs. Attempt is direct\nmovement towards commission of offence after preparations are made. It is an intentional\npreparatory action which fails in its object which fails through circumstances . independent of the person who seeks its accomplishment. Concept 'Acta exteriora indicant interiora secreta' applies in criminal cases. 31. We affirmed the\nacquittal of accused under Section 376 and 506 IPC and set aside the acquittal of accused under\nSections 452 IPC and Section 3 (1)\n(xii) of Scheduled Caste and Scheduled Tribe (Prevention of Atrocities) Act 1989. In addition we\nconvict the accused qua offence punishable under Section 511 read with Section 376 IPC and we also\nconvict the accused under Section 452 IPC and under Section 3 (1) (xii) of Scheduled Caste and . Scheduled Tribe (Prevention of Atrocities) Act 1989. Now convict be heard on quantum of sentence qua offences\npunishable under Sections 511 read with Section 376 IPC and 452 IPC and under Section 3 (1) (xii)\nof Scheduled Caste and Scheduled Tribe (Prevention of Atrocities) Act 1989.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam | Final judgment: Learned trial\nCourt acquitted the accused of the charges framed against him. We are of the opinion that learned trial\nCourt has rightly acquitted the accused for offence under Section 506 IPC. 29. We are of\nthe opinion that minor contradictions are bound to come in criminal case when testimony of witness\nis recorded after a gap of time. Proved recovery of sweater, salwar and proved recovery of underwear of prosecutrix and\nunderwear and V shape slippers of accused proved on record beyond reasonable doubt that accused\nattempted to commit rape upon prosecutrix. Recovery of buttons of sweater and strings of shirt of\nprosecutrix also proved beyond reasonable doubt . that accused attempted to rape upon prosecutrix. Even as per Forensic Science Laboratory\nHimachal Pradesh Junga human semen was found upon shirt of prosecutrix and human blood and\nsemen was also found upon vaginal swab of prosecutrix and blood was also deducted in the vaginal\nslides of prosecutrix. Even as per Forensic Science L | Judgment: convicted | IPC: 154, 376, 313, 3, 452, 511, 506, 59, 315",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Vipan Kumar Son Of Shri Pritam",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "154",
+          "376",
+          "313",
+          "3",
+          "452",
+          "511",
+          "506",
+          "59",
+          "315"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "stick",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    }
+  ]
+}

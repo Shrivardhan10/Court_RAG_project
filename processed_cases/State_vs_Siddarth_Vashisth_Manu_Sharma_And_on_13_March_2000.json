@@ -1,0 +1,202 @@
+{
+  "case_id": "State_vs_Siddarth_Vashisth_Manu_Sharma_And_on_13_March_2000",
+  "case_name": "State vs Siddarth Vashisth & Manu Sharma And ... on 13 March,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "on 13 March,\n2000\nEquivalent citations: 2001IIIAD(DELHI)829, 2001CRILJ2404, 90(2001)DLT548\nORDER\nR.C.Chopra, J. 1. This order shall dispose of Crl.Revision Petitions Nos.596/2000, 619/2000, 46/2001 and\n47/2001, which are directed against order dated 23.11.2000 passed by learned Additional Sessions\nJudge in case FIR No.287/99 registered with P.S. Mehrauli, commonly known as \"Jessica Lal\nMurder Case\". 2. Crl.R.47/2001 has been filed by accused No.2 Vikas Yadav with a prayer to discharge\nhim of the offences under Sections 201, 120-B and 34 IPC. Revision petition No.46/2001 has been\nfiled by (SIC) & Tony Gill with a prayer to discharge him of the offences under Sections 201 and\n120-B IPC. Revision petition No.619/2000 has been filed by accused No.12 Raja Chopra with a\nprayer to discharge him for the offence under Section 212 IPC. 4. The facts, leading to filing of the above revision petitions, briefly stated, are that on the\nintervening night of 29th and 30th April, 1999, a party was going on at Tamarind Court Cafe, Qutub\nColonnade, Mehrauli, New Delhi in which drinks were being served on payment basis. According to\nthe prosecution, accused Manu Sharma, Vikas Yadav, Amardeep Singh Gill @ Tony Gill, Alok\nKhanna and Amit Jhingan (hereinafter referred to as A-1 to A-5 respectively) also reached this Cafe\nat about 11.30 p.m. At about 2.00 a.m., A-1 asked a waiter to give him two drinks and on his refusal,\nhe asked Malini Ramani, daughter of the owner of the Cafe to get him a drink, but she also declined. On his insistence, she remarked that he could not have a sip of drink even if he paid Rs.1,000/- on\nwhich A-1 remarked that he could pay Rs.1,000/- for a sip of her. It is alleged that thereafter A-1\nasked Jessica Lal, deceased, to give him two drinks, but she also refused upon which A-1 took out a\npistol from his pocket and fired one shot towards the roof and the second shot towards the deceased,\nwhich hit near her left eye. She fell down and later succumbed to her injury.",
+      "embedding_text": "FACT_CHUNK | Case: State vs Siddarth Vashisth & Manu Sharma And ... on 13 March, | Facts: on 13 March,\n2000\nEquivalent citations: 2001IIIAD(DELHI)829, 2001CRILJ2404, 90(2001)DLT548\nORDER\nR.C.Chopra, J. 1. This order shall dispose of Crl.Revision Petitions Nos.596/2000, 619/2000, 46/2001 and\n47/2001, which are directed against order dated 23.11.2000 passed by learned Additional Sessions\nJudge in case FIR No.287/99 registered with P.S. Mehrauli, commonly known as \"Jessica Lal\nMurder Case\". 2. Crl.R.47/2001 has been filed by accused No.2 Vikas Yadav with a prayer to discharge\nhim of the offences under Sections 201, 120-B and 34 IPC. Revision petition No.46/2001 has been\nfiled by (SIC) & Tony Gill with a prayer to discharge him of the offences under Sections 201 and\n120-B IPC. Revision petition No.619/2000 has been filed by accused No.12 Raja Chopra with a\nprayer to discharge him for the offence under Section 212 IPC. 4. The facts, leading to filing of the above revision petitions, briefly stated, are that on the\nintervening night of 29th and 30th April, 1999, a party was going | Actions: shot, fired, killed | Weapon: pistol | Outcome: death | IPC: 302, 34, 201, 212, 120B, 120, 173, 27, 37, 161, 10, 31, 24, 227, 228, 397, 52",
+      "metadata": {
+        "case_name": "State vs Siddarth Vashisth & Manu Sharma And ... on 13 March,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "201",
+          "212",
+          "120B",
+          "120",
+          "173",
+          "27",
+          "37",
+          "161",
+          "10",
+          "31",
+          "24",
+          "227",
+          "228",
+          "397",
+          "52"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "It is\nsubmitted that A-12 has been charged under Section 212 IPC on the ground that he had sent his car\nfrom Chandigarh to help A-1 to escape from Delhi, but a certificate issued by the Transport\nDepartment shows that this car had already been sold by A-12 to M/s. The Apex Court has categorically laid down the law that the Courts at the stage of framing of\ncharge even have to apply their judicial mind to the material placed on record with a view to find out\nas to whether there are grounds or not for presuming that the accused has committed the offence\nbut at this stage neither the guilt of the accused has to be determined nor any elaborate enquiry is to\nbe undertaken by delving deep into various aspects of the case. However, in the case in hand the trial is still to be held and at the stage of framing a charge the Court\nhas to see as to whether there exist grounds or not for raising a strong suspicion against A-12 in\nregard to the commission of an offence under Section 212 of the IPC. It would be for\nthe Trial Judge only to consider and adjudicate as to whether in the absence of test identification\nproceedings the statements of the prosecution witnesses can be relied upon or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: State vs Siddarth Vashisth & Manu Sharma And ... on 13 March, | Legal issues: It is\nsubmitted that A-12 has been charged under Section 212 IPC on the ground that he had sent his car\nfrom Chandigarh to help A-1 to escape from Delhi, but a certificate issued by the Transport\nDepartment shows that this car had already been sold by A-12 to M/s. The Apex Court has categorically laid down the law that the Courts at the stage of framing of\ncharge even have to apply their judicial mind to the material placed on record with a view to find out\nas to whether there are grounds or not for presuming that the accused has committed the offence\nbut at this stage neither the guilt of the accused has to be determined nor any elaborate enquiry is to\nbe undertaken by delving deep into various aspects of the case. However, in the case in hand the trial is still to be held and at the stage of framing a charge the Court\nhas to see as to whether there exist grounds or not for raising a strong suspicion against A-12 in\nregard to the commission of an offence under Section 212 of the IPC.  | IPC: 302, 34, 201, 212, 120B, 120, 173, 27, 37, 161, 10, 31, 24, 227, 228, 397, 52",
+      "metadata": {
+        "case_name": "State vs Siddarth Vashisth & Manu Sharma And ... on 13 March,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "201",
+          "212",
+          "120B",
+          "120",
+          "173",
+          "27",
+          "37",
+          "161",
+          "10",
+          "31",
+          "24",
+          "227",
+          "228",
+          "397",
+          "52"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State vs Siddarth Vashisth & Manu Sharma And ... On account of thisState vs Siddarth Vashisth & Manu Sharma And ... Accused No.12 Raja Chopra is stated to\nhave provided his car to A-1 for escaping from Delhi and reaching Chandigarh. A-6 Shyam Sunder Sharma was also discharged of all the offences\nalleged against him.State vs Siddarth Vashisth & Manu Sharma And ... Mr.S.K.Saxena, learned Special Public Prosecutor, arguing for the State in Crl.R.596/2000 has\nstrenuously urged this Court to order framing of charge under Section 120-B IPC for commission of\nan offence under Section 302 IPC against A-1 to A-5. According to learned counsel for the State, this approach of\nlearned trial Court was manifestly erroneous for the reason that at the stage of framing of the\ncharge, the Court is not required to (SIC) and appreciate the prosecution evidence on record to find\nout as to whether the evidence was sufficient or not for convicting an accused, if the evidence was to\ngo (SIC). In support of his submissions, he relies upon judgments of\nthe Apex Court in State of Maharashtra etc. State of Bihar & Others, 2000\nCrl.L.J.2978; Ajay Agarwal Vs. The State (Delhi Administration), . Learned counsel, in support of his submissions for framing of charge of conspiracy against A-1 to\nA-5, points out that the prosecution has placed on record enough material to show that the accused\npersons had not at the residence of A-3 before going to the restaurant, there was exchange of phone\ncalls between them, A-1 was carrying a loaded pistol with him and recovery of empty shells and a\nlive cartridge from Tata Safari of A-1 shows that the pistol was loaded on way to the restaurant in the\npresence of other accused. It is submitted that in the absence of a conspiracy and a firm resolve to kill\nJessica Lal, A-1 had no reason to fire a second shot aiming towards her. Absence of any effort by A-2\nto A-5 to prevent A-1 from firing a second shot at Jessica Lal and thereafter omission to provide herState vs Siddarth Vashisth & Manu Sharma And ...",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State vs Siddarth Vashisth & Manu Sharma And ... on 13 March, | Arguments: State vs Siddarth Vashisth & Manu Sharma And ... On account of thisState vs Siddarth Vashisth & Manu Sharma And ... Accused No.12 Raja Chopra is stated to\nhave provided his car to A-1 for escaping from Delhi and reaching Chandigarh. A-6 Shyam Sunder Sharma was also discharged of all the offences\nalleged against him.State vs Siddarth Vashisth & Manu Sharma And ... Mr.S.K.Saxena, learned Special Public Prosecutor, arguing for the State in Crl.R.596/2000 has\nstrenuously urged this Court to order framing of charge under Section 120-B IPC for commission of\nan offence under Section 302 IPC against A-1 to A-5. According to learned counsel for the State, this approach of\nlearned trial Court was manifestly erroneous for the reason that at the stage of framing of the\ncharge, the Court is not required to (SIC) and appreciate the prosecution evidence on record to find\nout as to whether the evidence was sufficient or not for convicting an accused, if the evidence was to\ngo (SIC). In support of his  | Intent: intentional | IPC: 302, 34, 201, 212, 120B, 120, 173, 27, 37, 161, 10, 31, 24, 227, 228, 397, 52 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State vs Siddarth Vashisth & Manu Sharma And ... on 13 March,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "201",
+          "212",
+          "120B",
+          "120",
+          "173",
+          "27",
+          "37",
+          "161",
+          "10",
+          "31",
+          "24",
+          "227",
+          "228",
+          "397",
+          "52"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "It is thus prayed that the accused Vikas\nYadav be discharged of all the offences. He argues that ends of justice are higher than the\nends of law and the Courts must evaluate the material on record before framing charge. Therefore, in the absence of some other evidence, it cannot be inferred that A-12\nhad sent this car to Delhi for taking A-1 to some other place. Before adverting to the question raised in the revision petitions for and against framing of\ncharges under different provisions, it has to be clearly kept in view that a revisional Court must not\ninterfere with the findings of a Trial Court on the ground of sufficiency or otherwise of the material\non record so as to substitute its own opinion unless some patent perversity or glaring illegality is\nbrought to the notice of the Court. The views expressed by their lordships of the Supreme Court of\nIndia in Stree Atyachar Virodhi Parishad Vs. Dilip Nathumal Chordia Another, are the words of\ncaution for the revisional Courts. The law as to under what circumstances the Courts should pass an order under\nSection 228 of the Code for framing a charge and on what ground a discharge should be ordered\nunder Section 227 of the code has been the subject matter of deep deliberations by the High Courts\nas well as Apex Court in a number of cases. Delhi Administration and others reported in Scale 1996 (5) 523, their\nlordships guided the subordinate Courts in the following words:\n\"But when the Judge is fairly certain that there is no prospect of the case ending in\nconviction the valuable time of the Court should not be wasted for holding a trial only\nfor the purpose of formally completing the procedure to pronounce the conclusion on\na future date. We are mindful that most of the Sessions Courts in India are under\nheavy pressure of work-laod. on 13 March, 2000\nIndian Kanoon - http://indiankanoon.org/doc/1001731/ 10\n\"The aforesaid shows that if on the basis of materials on record, a Court could come\nto the conclusion that commission of the offence is a probable consequence, a case for\nframing of charge exists.",
+      "embedding_text": "REASONING_CHUNK | Case: State vs Siddarth Vashisth & Manu Sharma And ... on 13 March, | Judicial reasoning: It is thus prayed that the accused Vikas\nYadav be discharged of all the offences. He argues that ends of justice are higher than the\nends of law and the Courts must evaluate the material on record before framing charge. Therefore, in the absence of some other evidence, it cannot be inferred that A-12\nhad sent this car to Delhi for taking A-1 to some other place. Before adverting to the question raised in the revision petitions for and against framing of\ncharges under different provisions, it has to be clearly kept in view that a revisional Court must not\ninterfere with the findings of a Trial Court on the ground of sufficiency or otherwise of the material\non record so as to substitute its own opinion unless some patent perversity or glaring illegality is\nbrought to the notice of the Court. The views expressed by their lordships of the Supreme Court of\nIndia in Stree Atyachar Virodhi Parishad Vs. Dilip Nathumal Chordia Another, are the words of\ncaution for the revisional Courts. The law | Intent: intentional | Outcome: death | IPC: 302, 34, 201, 212, 120B, 120, 173, 27, 37, 161, 10, 31, 24, 227, 228, 397, 52",
+      "metadata": {
+        "case_name": "State vs Siddarth Vashisth & Manu Sharma And ... on 13 March,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "201",
+          "212",
+          "120B",
+          "120",
+          "173",
+          "27",
+          "37",
+          "161",
+          "10",
+          "31",
+          "24",
+          "227",
+          "228",
+          "397",
+          "52"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "In Crl.R.596/2000, the State prays to set aside the discharge of accused No.1 Manu Sharma,\naccused No.2 Vikas Yadav, accused No.3 Amardeep Singh Gill, accused No.4 Alok Khanna and\naccused No.5 Amit Jhingan under Section 120-B read with Section 302 IPC as well as the discharge\nof A-2 to A-5 for offence under Section 302/34 IPC. A further prayer is to set aside the discharge of\naccused A-4, A-5 and A-6 Shyam Sunder Sharma, who have not been charged for commission of any\nof the offences. He has assailed the view taken by learned trial\nCourt that there were no grounds for framing of charge under Section 120-B IPC in as much as even\nif the evidence was to go (SIC), these accused could not be convicted under Section 120-B IPC in\nrelation to the murder of Jessica Lal. K.N.Raigopal, Advocate on behalf of A-2 Vikas Yadav has forcefully contested the prayer of\nlearned counsel for the State for framing a charge under Section 302 read with Section 120-B IPC or\nSection 302 read with Section 34 IPC or Section 212 IPC against A-2 and has prayed that the charge,\nas framed against A-2 under Section 201 IPC, Section 120-B IPC and Section 31 IPC, be set asideState vs Siddarth Vashisth & Manu Sharma And ... This document has already been ordered to be placed in\na sealed cover. However, no benefit can be given to any of the accused on the basis of this document\nat this stage. He points out that other pages of the judicial file\nwere numbered in red ink at initial stage but there is no numbering with red ink on this document\nwhich shows that it has been placed on record after the earlier p(SIC)ing of the file in red ink. 59. In view of the reasons given in this order there are no grounds for framing a charge under Section\n120B read with Section 302 IPC against accused A-1. There are also no grounds for framing a charge\nunder Section 201/34 IPC against him in respect of the replacement of the glass pane.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State vs Siddarth Vashisth & Manu Sharma And ... on 13 March, | Final judgment: In Crl.R.596/2000, the State prays to set aside the discharge of accused No.1 Manu Sharma,\naccused No.2 Vikas Yadav, accused No.3 Amardeep Singh Gill, accused No.4 Alok Khanna and\naccused No.5 Amit Jhingan under Section 120-B read with Section 302 IPC as well as the discharge\nof A-2 to A-5 for offence under Section 302/34 IPC. A further prayer is to set aside the discharge of\naccused A-4, A-5 and A-6 Shyam Sunder Sharma, who have not been charged for commission of any\nof the offences. He has assailed the view taken by learned trial\nCourt that there were no grounds for framing of charge under Section 120-B IPC in as much as even\nif the evidence was to go (SIC), these accused could not be convicted under Section 120-B IPC in\nrelation to the murder of Jessica Lal. K.N.Raigopal, Advocate on behalf of A-2 Vikas Yadav has forcefully contested the prayer of\nlearned counsel for the State for framing a charge under Section 302 read with Section 120-B IPC or\nSection 302 read with Section 34 IPC  | Judgment: convicted | IPC: 302, 34, 201, 212, 120B, 120, 173, 27, 37, 161, 10, 31, 24, 227, 228, 397, 52",
+      "metadata": {
+        "case_name": "State vs Siddarth Vashisth & Manu Sharma And ... on 13 March,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "201",
+          "212",
+          "120B",
+          "120",
+          "173",
+          "27",
+          "37",
+          "161",
+          "10",
+          "31",
+          "24",
+          "227",
+          "228",
+          "397",
+          "52"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed"
+        ],
+        "weapon": "pistol",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "case_id": "Sat_Narain_vs_State_Of_Haryana_Tr_Ministry_Of_Home_on_8_January_2008",
+  "case_name": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Thakker\nBench: C.K. MINISTRY OF HOME\nDATE OF JUDGMENT: 08/01/2008\nBENCH:\nC.K. THAKKER & DALVEER BHANDARI\nJUDGMENT:\nJUDGMENT C.K. THAKKER, J. 1. Leave granted. 2. The present appeal is filed against the judgment and order passed by the Addl. Sessions Judge,\nSirsa on May 5, 2004 in Sessions Case No. 3. The case of the prosecution was that the occurrence took place on June 17, 1999 at about 3.30\na.m. In the said incident, one Chhotu Ram @ Lal Bahadur was killed and PW14- Ravinder\nKumar-real brother of deceased Chhotu Ram, as also PW15-Sakeela-wife of deceased Chhotu Ram\nsustained injuries. According to the prosecution, on that day, a telephonic message was received from Civil Hospital,\nSangaria Police Station by ASI Hari Ram relating to the incident. ASI Hari Ram also sent wireless message to the Police Station, Sadar\nDabwali. After some time, he received an information that Chhotu Ram, injured had succumbed to\nthe injuries. His sister, Sunita Devi, got married to one Darshan\nSingh, resident of Dhani Choutala. On the previous day, i.e. Darshan Singh then went to call Chhotu Ram (deceased)-brother of the complainant, from Village\nChamar Khera in a jeep. In the night at about 1.30 a.m., Darshan Singh returned with deceased\nChhotu Ram and his wife Sakeela. At about 3.30 a.m. They started abusing Darshan Singh, his wife and complainant Ravinder Kumar. Chhotu Ram (deceased) asked Sat Narain to go back, saying that they would talk in the morning. The complainant Ravinder Kumar with his brother Chhotu Ram (deceased) and Sakeela-PW15 then\nboarded a jeep and all of them started for Village Sangaria. The deceased Chhotu Ram was on the\nsteering wheel of the jeep, complainant Ravinder Kumar was sitting by his side and Sakeela was\nsitting on the back seat. The appellant Sat\nNarain fired a shot at Chhotu Ram from his licensed gun with intention to kill him and the pellets\nhit the right shoulder of the deceased. Sat Narain fired another shot towards the complainant\nRavinder Kumar but he saved himself by taking shelter behind the jeep.",
+      "embedding_text": "FACT_CHUNK | Case: Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8 | Facts: Thakker\nBench: C.K. MINISTRY OF HOME\nDATE OF JUDGMENT: 08/01/2008\nBENCH:\nC.K. THAKKER & DALVEER BHANDARI\nJUDGMENT:\nJUDGMENT C.K. THAKKER, J. 1. Leave granted. 2. The present appeal is filed against the judgment and order passed by the Addl. Sessions Judge,\nSirsa on May 5, 2004 in Sessions Case No. 3. The case of the prosecution was that the occurrence took place on June 17, 1999 at about 3.30\na.m. In the said incident, one Chhotu Ram @ Lal Bahadur was killed and PW14- Ravinder\nKumar-real brother of deceased Chhotu Ram, as also PW15-Sakeela-wife of deceased Chhotu Ram\nsustained injuries. According to the prosecution, on that day, a telephonic message was received from Civil Hospital,\nSangaria Police Station by ASI Hari Ram relating to the incident. ASI Hari Ram also sent wireless message to the Police Station, Sadar\nDabwali. After some time, he received an information that Chhotu Ram, injured had succumbed to\nthe injuries. His sister, Sunita Devi, got married to one Darshan\nSingh, resid | Actions: shot, fired, attacked, killed, threatened | Weapon: gun | Outcome: death | IPC: 313, 302, 307, 323, 324, 34, 304",
+      "metadata": {
+        "case_name": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "313",
+          "302",
+          "307",
+          "323",
+          "324",
+          "34",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In the present matter by accused No.2-Sat Narain,\nnotice was issued on March 7, 2007. Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8\nJanuary, 2008\nAuthor: C.K. Thakker\nBench: C.K. Thakker, Dalveer Bhandari\nCASE NO.:\nAppeal (crl.) 38 of 2008\nSAT NARAIN\nSTATE OF HARYANA TH. MINISTRY OF HOME\nDATE OF JUDGMENT: 08/01/2008\nBENCH:\nC.K. THAKKER & DALVEER BHANDARI\nJUDGMENT:\nJUDGMENT C.K. THAKKER, J. 1. Leave granted. 2. The present appeal is filed against the judgment and order passed by the Addl. Sessions Judge,\nSirsa on May 5, 2004 in Sessions Case No. 140 of 1999/2003 and partly confirmed by the High\nCourt of Punjab & Haryana on August 17, 2006 in Criminal Appeal No.533-DB of 2004.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8 | Legal issues: In the present matter by accused No.2-Sat Narain,\nnotice was issued on March 7, 2007. Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8\nJanuary, 2008\nAuthor: C.K. Thakker\nBench: C.K. Thakker, Dalveer Bhandari\nCASE NO.:\nAppeal (crl.) 38 of 2008\nSAT NARAIN\nSTATE OF HARYANA TH. MINISTRY OF HOME\nDATE OF JUDGMENT: 08/01/2008\nBENCH:\nC.K. THAKKER & DALVEER BHANDARI\nJUDGMENT:\nJUDGMENT C.K. THAKKER, J. 1. Leave granted. 2. The present appeal is filed against the judgment and order passed by the Addl. Sessions Judge,\nSirsa on May 5, 2004 in Sessions Case No. 140 of 1999/2003 and partly confirmed by the High\nCourt of Punjab & Haryana on August 17, 2006 in Criminal Appeal No.533-DB of 2004. | IPC: 313, 302, 307, 323, 324, 34, 304",
+      "metadata": {
+        "case_name": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "313",
+          "302",
+          "307",
+          "323",
+          "324",
+          "34",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8\nJanuary, 2008\nAuthor: C.K. Thakker, Dalveer Bhandari\nCASE NO.:\nAppeal (crl.) 38 of 2008\nSAT NARAIN\nSTATE OF HARYANA TH. Meanwhile, PW18-ASI Umed Singh of Sadar Dabwali Police Station reached the\nhospital at Sangaria and recorded the statement of injured Ravinder Kumar, resident of VillageSat Narain vs State Of Haryana Tr.Ministry Of Home on 8 January, 2008\nIndian Kanoon - http://indiankanoon.org/doc/422293/ 1\nChamar Khera, Police Station Sadul Shahar, District Ganga Nagar, Rajasthan wherein he stated that\nhe was the resident of Village Chamar Khera. on June 16, 1999, at about 8 p.m., the\ncomplainant had gone to see his sister Sunita Devi at Dhani Choutala where there was a quarrel\nbetween his brother-in- law-Darshan Singh and Bablu, son of Sat Narain (appellant herein). on June 17, 1999, Sat Narain (appellant\nherein) armed with a gun, his son Bablu armed with a gandasi, his wife Savitri armed with a kasoli\nand Avtar Singh armed with lathi came in a Maruti car at Dhani of Darshan Singh and stopped the\ncar on the way. When their jeep reached near the car of the appellant, all accused raised a\nlalkara to teach a lesson to the complainant party for siding with Darshan Singh. The appellant fired third\nshot towards Sakeela and the pellets hit on her right hand. After the usual investigation, charges were framed against three accused persons-Bablu (A1), son\nof Sat Narain (appellant), Sat Narain (appellant) (A2) and Avtar Singh (A3). In the statement under Section 313 of the Code of Criminal Procedure, 1973, accused Nos. So far as appellant Sat Narain-accused No.2 is concerned, he admitted his presence atSat Narain vs State Of Haryana Tr.Ministry Of Home on 8 January, 2008\nIndian Kanoon - http://indiankanoon.org/doc/422293/ 2\nthe scene of offence. His defence, however, was that after taking the turn of water in his field he was\nreturning with his licensed gun in the car. The appellant got frightened and ran to save himself but the complainant\nparty chased him and stopped him by striking the jeep against his car.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8 | Arguments: Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8\nJanuary, 2008\nAuthor: C.K. Thakker, Dalveer Bhandari\nCASE NO.:\nAppeal (crl.) 38 of 2008\nSAT NARAIN\nSTATE OF HARYANA TH. Meanwhile, PW18-ASI Umed Singh of Sadar Dabwali Police Station reached the\nhospital at Sangaria and recorded the statement of injured Ravinder Kumar, resident of VillageSat Narain vs State Of Haryana Tr.Ministry Of Home on 8 January, 2008\nIndian Kanoon - http://indiankanoon.org/doc/422293/ 1\nChamar Khera, Police Station Sadul Shahar, District Ganga Nagar, Rajasthan wherein he stated that\nhe was the resident of Village Chamar Khera. on June 16, 1999, at about 8 p.m., the\ncomplainant had gone to see his sister Sunita Devi at Dhani Choutala where there was a quarrel\nbetween his brother-in- law-Darshan Singh and Bablu, son of Sat Narain (appellant herein). on June 17, 1999, Sat Narain (appellant\nherein) armed with a gun, his son Bablu armed with a gandasi, his wife Savitri armed with a kasoli\nand Avtar Singh armed wi | Intent: intentional | IPC: 313, 302, 307, 323, 324, 34, 304 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "313",
+          "302",
+          "307",
+          "323",
+          "324",
+          "34",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "140 of 1999/2003 and partly confirmed by the High\nCourt of Punjab & Haryana on August 17, 2006 in Criminal Appeal No.533-DB of 2004. He, therefore, reached Civil\nHospital, Sangaria to find out whether injured Ravinder Kumar, Chhotu Ram and Sakeela were in a\nposition to give statements. No right of self defence was, therefore, available to appellant Sat Narain. Being aggrieved by the order of conviction and sentence, all the three accused preferred Criminal\nAppeals before the High Court. All the matters were taken up by the High Court together. Against the order passed by the High Court acquitting Bablu and Avtar Singh, complainant\nRavinder Kumar had approached this Court by filing Special Leave to Appeal (Criminal) No. Both the Courts were, therefore, wrong in not\ngiving benefit of right of self defence. It was,\ntherefore, submitted that in any case, the conviction of the appellant should be converted for an\noffence punishable under Section 304, Part II or under Section 304, Part I and to that extent, the\nappeal deserves to be allowed. The appellant also tried\nto hit the complainant Ravinder Kumar but he could escape himself by taking shelter of his vehicle\n(jeep) and thus could avoid injury by a fire arm. In the circumstances, in our opinion, it cannot be said that either\nthe trial Court or the High Court had committed any error of fact or of law in convicting the\n16. Dealing with\nthe evidence on record and negating the defence theory, it observed;\n\"There is no reason to disbelieve the oral assertions of the prosecution witnesses\nwhich has been well corroborated from the medial evidence. Hence, it is proved that the accused on 17.6.1999 in the area of village Choutala\naccused Sat Narain in furtherance of common intention of his co-accused Bablu,\nAvtar Singh and Savitri (proclaimed offender) caused the death of Chhotu Ram alias\nLal Bahadur by firing shot at him and he also fired at Sakeela in furtherance of\ncommon intention of his remaining accused with the intention to cause her death and\naccused Avtar Singh and Bablu in furtherance of common intention of his co-accused\nSat Narain, and Savitri (since declared proclaimed offender) caused simple hurt with\nsharp and blunt weapon to Ravinder Kumar.",
+      "embedding_text": "REASONING_CHUNK | Case: Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8 | Judicial reasoning: 140 of 1999/2003 and partly confirmed by the High\nCourt of Punjab & Haryana on August 17, 2006 in Criminal Appeal No.533-DB of 2004. He, therefore, reached Civil\nHospital, Sangaria to find out whether injured Ravinder Kumar, Chhotu Ram and Sakeela were in a\nposition to give statements. No right of self defence was, therefore, available to appellant Sat Narain. Being aggrieved by the order of conviction and sentence, all the three accused preferred Criminal\nAppeals before the High Court. All the matters were taken up by the High Court together. Against the order passed by the High Court acquitting Bablu and Avtar Singh, complainant\nRavinder Kumar had approached this Court by filing Special Leave to Appeal (Criminal) No. Both the Courts were, therefore, wrong in not\ngiving benefit of right of self defence. It was,\ntherefore, submitted that in any case, the conviction of the appellant should be converted for an\noffence punishable under Section 304, Part II or under Section 304, Part I and | Intent: intentional | Outcome: death | IPC: 313, 302, 307, 323, 324, 34, 304",
+      "metadata": {
+        "case_name": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "313",
+          "302",
+          "307",
+          "323",
+          "324",
+          "34",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "It was, therefore, his case that he had committed no\noffence and should be acquitted. Accordingly,\nthe trial Court convicted the appellant herein for an offence punishable under Section 302 of Indian\nPenal Code (`IPC' for short) for causing death of deceased Chhotu Ram and sentenced him to\nundergo rigorous imprisonment for life and to pay a fine of Rs.10,000/-, in default of payment of\nfine, to further undergo imprisonment for two years. It also convicted the appellant for an offence\npunishable under Section 307, IPC for attempt to commit murder of Sakeela, wife of deceased\nChhotu Ram, and ordered him to undergo imprisonment for life and to pay a fine of Rs.5,000/-, in\ndefault of payment of fine to further undergo imprisonment for one year. The Court also convicted\nthe appellant for an offence punishable under Sections 323 and 324 read with Section 34, IPC for\ncausing injuries to Ravinder Kumar and Sakeela. Accused Avtar Singh was thus convicted for an\noffence punishable under Sections 302 and 307, IPC substantively. He was also convicted and\nsentenced for committing offences punishable under Sections 323 and 324 read with Section 34,\nIPC. Accused Nos.1 Bablu and 3 Avtar Singh were also convicted by the trial Court. Hence, by giving benefit of doubt, the High Court acquitted them. 1 and 3, acquitted him for the offences punishable under Sections 323 and 324 read\nwith Section 34, IPC.Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8 January, 2008\nIndian Kanoon - http://indiankanoon.org/doc/422293/ 3\nBut the High Court held that the appellant was rightly convicted by the trial Court for offences\npunishable under Section 302, IPC substantively as also under Section 307, IPC substantively. It was submitted that when the other two accused were acquitted by the High Court,\nthe appellant could not have been convicted on the basis of the same evidence. The Courts ought to have\nconsidered the facts of the case and ought not to have convicted the appellant for an offence\npunishable under Section 302, IPC for causing death of deceased Chhotu Ram and ought not to have\nawarded imprisonment for life.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8 | Final judgment: It was, therefore, his case that he had committed no\noffence and should be acquitted. Accordingly,\nthe trial Court convicted the appellant herein for an offence punishable under Section 302 of Indian\nPenal Code (`IPC' for short) for causing death of deceased Chhotu Ram and sentenced him to\nundergo rigorous imprisonment for life and to pay a fine of Rs.10,000/-, in default of payment of\nfine, to further undergo imprisonment for two years. It also convicted the appellant for an offence\npunishable under Section 307, IPC for attempt to commit murder of Sakeela, wife of deceased\nChhotu Ram, and ordered him to undergo imprisonment for life and to pay a fine of Rs.5,000/-, in\ndefault of payment of fine to further undergo imprisonment for one year. The Court also convicted\nthe appellant for an offence punishable under Sections 323 and 324 read with Section 34, IPC for\ncausing injuries to Ravinder Kumar and Sakeela. Accused Avtar Singh was thus convicted for an\noffence punishable under Sections | Judgment: convicted | IPC: 313, 302, 307, 323, 324, 34, 304",
+      "metadata": {
+        "case_name": "Sat Narain vs State Of Haryana Tr.Ministry Of Home on 8",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "313",
+          "302",
+          "307",
+          "323",
+          "324",
+          "34",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "case_id": "Chandu_Chandra_Bhan_vs_State_Of_M_P_on_25_November_2016",
+  "case_name": "Chandu @ Chandra Bhan vs State Of M.P. on 25 November,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "on 25 November,\n2016\nAuthor: N.K. Gupta\nBench: N.K. Gupta, G.S. GUPTA\n&\nHON'BLE SHRI JUSTICE G.S. Sahni, Panel\nLawyer\nFor complainant : Shri Prabal Pratap Singh\nJUDGMENT\n(25/11/2016) Per N.K. Gupta, J. Since all these three appeals are connected arising out of the common judgment dated 08.02.2007\npassed by the III Additional Sessions Judge (Fast Track), Guna (M.P.) in ST No.19/2006, they are\nhereby disposed off with the present common judgment. Accused/ Section Sentence In default\nNo. on 25 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/185928164/ 2\nDalup @ Dilip Singh\nSetu @ Satyendra Singh\nPancham Singh\nHariom\nVishnu Raghuvanshi\nBhure Singh\nOnkar Singh\nHukum Singh\nLallu @ Surendra Singh\nAnant Singh\nSuresh\nRajesh\nBanti @ Hindu Singh]\n3 Anant Singh + Onkar 147 IPC 3 Months' RI 1 Month's RI\nSingh + fine of (each)\nRs.100/-\n(each)\nRest of the appellants 148 IPC 6 Months' RI 1 Month's RI\n+ fine of (each)\nRs.100/-\n(each)\n4 All of the appellants 324/149 6 Months' RI 1 Month's RI\nIPC + fine of (each)\nOne Rs.100/-\ncount (each)\n5 All of the appellants 323/149 Fine of 1 Month's RI\nIPC Rs.1,000/- each for\ntwo each for each count\ncounts each count\n6 All of the appellants 506 IPC 6 Months' RI 1 Month's RI\n+ fine of (each)\nRs.100/-\n(each)\n(2) The prosecution's case, in short, is that on 31.10.2005 at about 08:00 am, complainant\nBhupendra Singh Raghuvanshi (PW-1) along with Uttam Singh (PW-8), deceased Govind Singh,\nShivram Singh (PW-4) Raghuveer Singh Raghuvanshi (PW-2), Vijay Singh @ Mannu (PW-11), 4\nCriminal Appeal No.172/2007 Manna (PW-3), Ratan Singh, Babulal, Parmal Singh (PW-\n13) and others had surrounded around camp fire in front of his house at village Sirsikalan, Police\nStation Bajrang-garh, District Guna (M.P.). Accused Ram Singh came there and requested\ncomplainant Bhupendra Singh (PW-1) to come with him to Guna for the purchase of a DP\n(transformer). Complainant Bhupendra Singh (PW-1) told him that since complainant's brother\nBalveer was abused by his brother and he (Ram Singh) did not permit him to run an electric motor\nfrom that transformer, he would not accompany him to bring DP (transformer) from Guna.",
+      "embedding_text": "FACT_CHUNK | Case: Chandu @ Chandra Bhan vs State Of M.P. on 25 November, | Facts: on 25 November,\n2016\nAuthor: N.K. Gupta\nBench: N.K. Gupta, G.S. GUPTA\n&\nHON'BLE SHRI JUSTICE G.S. Sahni, Panel\nLawyer\nFor complainant : Shri Prabal Pratap Singh\nJUDGMENT\n(25/11/2016) Per N.K. Gupta, J. Since all these three appeals are connected arising out of the common judgment dated 08.02.2007\npassed by the III Additional Sessions Judge (Fast Track), Guna (M.P.) in ST No.19/2006, they are\nhereby disposed off with the present common judgment. Accused/ Section Sentence In default\nNo. on 25 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/185928164/ 2\nDalup @ Dilip Singh\nSetu @ Satyendra Singh\nPancham Singh\nHariom\nVishnu Raghuvanshi\nBhure Singh\nOnkar Singh\nHukum Singh\nLallu @ Surendra Singh\nAnant Singh\nSuresh\nRajesh\nBanti @ Hindu Singh]\n3 Anant Singh + Onkar 147 IPC 3 Months' RI 1 Month's RI\nSingh + fine of (each)\nRs.100/-\n(each)\nRest of the appellants 148 IPC 6 Months' RI 1 Month's RI\n+ fine of (each)\nRs.100/-\n(each)\n4 All of the appellants 324/149 6 Months' RI 1 Month's RI\n | Actions: stabbed, shot, fired, assaulted, attacked, killed, threatened | Weapon: gun | Outcome: death | IPC: 302, 149, 157, 25, 161, 324, 307, 323, 39, 34, 147, 326, 148, 506",
+      "metadata": {
+        "case_name": "Chandu @ Chandra Bhan vs State Of M.P. on 25 November,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "149",
+          "157",
+          "25",
+          "161",
+          "324",
+          "307",
+          "323",
+          "39",
+          "34",
+          "147",
+          "326",
+          "148",
+          "506"
+        ],
+        "actions": [
+          "stabbed",
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "It should be considered as to whether the death of the deceased\nGovind Singh was homicidal in nature? Whether victims Raghuveer Singh Raghuvanshi (PW-2),\nVijay @ Mannu (PW-11), Uttam Singh (PW-8) and Shivram Singh (PW-4) have sustained any fatal\ninjury. He found various wounds caused by pellets but he did not\nmention as to whether Uttam Singh (PW-8) would have died due to such injuries or not. Similarly, on fire bullet marks of barrel\nmay be obtained and if such marks of barrel are found on the piece of bullet found inside the body of\nsomeone then the comparison may be possible that whether such bullet was fired with a particular\ngun or not. It can never be ascertained whether thereChandu @ Chandra Bhan vs State Of M.P. Manish Jain (PW-5) did not express as to whether the injury\nfound 7 cms above left heel was caused by firearm and whether blackening or charring would be\nfound, if fire was done from a distance of more than 5 ft. If pellet would not have struck directly in\nthe deep skin then doctor cannot say definitely as to whether injury was caused by firearm or not. (41) Now, at this stage, it\nshall be considered as to whether any unlawful assembly was constituted and what was the object of\nthe unlawful assembly. (54) The Registry is directed to issue the super-session warrants in case of the appellants who are in\ncustody.",
+      "embedding_text": "ISSUE_CHUNK | Case: Chandu @ Chandra Bhan vs State Of M.P. on 25 November, | Legal issues: It should be considered as to whether the death of the deceased\nGovind Singh was homicidal in nature? Whether victims Raghuveer Singh Raghuvanshi (PW-2),\nVijay @ Mannu (PW-11), Uttam Singh (PW-8) and Shivram Singh (PW-4) have sustained any fatal\ninjury. He found various wounds caused by pellets but he did not\nmention as to whether Uttam Singh (PW-8) would have died due to such injuries or not. Similarly, on fire bullet marks of barrel\nmay be obtained and if such marks of barrel are found on the piece of bullet found inside the body of\nsomeone then the comparison may be possible that whether such bullet was fired with a particular\ngun or not. It can never be ascertained whether thereChandu @ Chandra Bhan vs State Of M.P. Manish Jain (PW-5) did not express as to whether the injury\nfound 7 cms above left heel was caused by firearm and whether blackening or charring would be\nfound, if fire was done from a distance of more than 5 ft. If pellet would not have struck directly in\nthe deep skin | IPC: 302, 149, 157, 25, 161, 324, 307, 323, 39, 34, 147, 326, 148, 506",
+      "metadata": {
+        "case_name": "Chandu @ Chandra Bhan vs State Of M.P. on 25 November,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "149",
+          "157",
+          "25",
+          "161",
+          "324",
+          "307",
+          "323",
+          "39",
+          "34",
+          "147",
+          "326",
+          "148",
+          "506"
+        ],
+        "actions": [
+          "stabbed",
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Chandu @ Chandra Bhan vs State Of M.P. AHLUWALIA\nCRIMINAL APPEAL NO.172 of 2007\nChandu @ Chandrabhan and others\n-Vs-\nState of Madhya Pradesh\nFor appellant No.8 : Shri Sanjay Gupta,\nFor remaining appellants : Shri N.P. Dwivedi, Senior\nFor respondent/State : Shri J.M. Sahni, Panel\nLawyer\nFor complainant : Shri Prabal Pratap Singh\n&\nCRIMINAL APPEAL NO.176 of 2007\nBanti @ Hindu Singh\n-Vs-\nState of Madhya Pradesh\nFor appellant : Shri N.P. Dwivedi, Senior\nFor respondent/State : Shri J.M. Sahni, Panel\nLawyer\nFor complainant : Shri Prabal Pratap Singh\nSolanki, AdvocateChandu @ Chandra Bhan vs State Of M.P. on 25 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/185928164/ 1\n2 Criminal Appeal No.172/2007\nCriminal Appeal No.176/2007\nCriminal Appeal No.177/2007\n&\nCRIMINAL APPEAL NO.177 of 2007\nRadheshyam and others\n-Vs-\nState of Madhya Pradesh\nFor appellant No.8 : Shri Sanjay Gupta,\nFor remaining appellants : Shri N.P. Dwivedi, Senior\nFor respondent/State : Shri J.M. The appellants have preferred these\nappeals against the aforesaid judgment being aggrieved with the conviction and sentence passed\nagainst them. appellants\n1 Rajesh Singh 302 IPC LI + fine of 1 year's RI\nSuresh Singh Rs. (each)\nNeta @ Narendra (three 500 (each)\nChandu @ Chandrabhan counts)\nRam SinghChandu @ Chandra Bhan vs State Of M.P. Then, he went back to his house\nand thereafter all the accused persons came to the spot armed with 12-bore guns or pistols, Farsa,\nBallam and Lathis (sticks) whereas accused Onkar Singh and Anant Singh were barehanded.Chandu @ Chandra Bhan vs State Of M.P. Appellant Vishnu Raghuvanshi fired with a 12 bore gun\ncausing injury to Uttam Singh (PW-8) on his chest. Appellant Pancham Singh fired\nwith a firearm causing injury to Vijay Singh @ Mannu (PW-\n11). Similarly, all the appellants participated in the crime. Even, accused/appellants Onkar Singh and\nAnant Singh who were barehanded picked up the stones and pelted them on various victims. The\naccused appellants were arrested and the firearms were recovered from appellant Hariom, Bhure\nSingh, Hukum Singh, Lallu @ Surendra Singh, Suresh Singh, Rajesh Singh etc.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Chandu @ Chandra Bhan vs State Of M.P. on 25 November, | Arguments: Chandu @ Chandra Bhan vs State Of M.P. AHLUWALIA\nCRIMINAL APPEAL NO.172 of 2007\nChandu @ Chandrabhan and others\n-Vs-\nState of Madhya Pradesh\nFor appellant No.8 : Shri Sanjay Gupta,\nFor remaining appellants : Shri N.P. Dwivedi, Senior\nFor respondent/State : Shri J.M. Sahni, Panel\nLawyer\nFor complainant : Shri Prabal Pratap Singh\n&\nCRIMINAL APPEAL NO.176 of 2007\nBanti @ Hindu Singh\n-Vs-\nState of Madhya Pradesh\nFor appellant : Shri N.P. Dwivedi, Senior\nFor respondent/State : Shri J.M. Sahni, Panel\nLawyer\nFor complainant : Shri Prabal Pratap Singh\nSolanki, AdvocateChandu @ Chandra Bhan vs State Of M.P. on 25 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/185928164/ 1\n2 Criminal Appeal No.172/2007\nCriminal Appeal No.176/2007\nCriminal Appeal No.177/2007\n&\nCRIMINAL APPEAL NO.177 of 2007\nRadheshyam and others\n-Vs-\nState of Madhya Pradesh\nFor appellant No.8 : Shri Sanjay Gupta,\nFor remaining appellants : Shri N.P. Dwivedi, Senior\nFor respondent/State : Shri J.M. The appellants have  | Intent: intentional | IPC: 302, 149, 157, 25, 161, 324, 307, 323, 39, 34, 147, 326, 148, 506 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Chandu @ Chandra Bhan vs State Of M.P. on 25 November,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "149",
+          "157",
+          "25",
+          "161",
+          "324",
+          "307",
+          "323",
+          "39",
+          "34",
+          "147",
+          "326",
+          "148",
+          "506"
+        ],
+        "actions": [
+          "stabbed",
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Ahluwalia\n1 Criminal Appeal No.172/2007\nCriminal Appeal No.176/2007\nCriminal Appeal No.177/2007\nHIGH COURT OF MADHYA PRADESH\nBENCH AT GWALIOR\nDIVISION BENCH:\nHON'BLE SHRI JUSTICE N.K. He found as many as 25 wounds caused by the pellets on his body and therefore he\nprepared a picture of such injuries in post mortem report Ex.P-14. The report of FSL Ex.P-140 was also filed before the Trial Court. After due investigation, the\ncharge-sheet was filed before the Judicial Magistrate First Class, Guna who committed the case to\nthe Sessions Court and ultimately it was transferred to III Additional Sessions Judge (Fast Track),\nGuna (M.P.). Some of them took a plea of alibi and therefore witnesses\nPrakash Narayan (DW-1), Rajkumar (DW-2), Vinay Buchke (DW-3), Ghanshyam Raghuvanshi\n(DW-4) and Narendra Singh Choudhary Assistant Chemical Examiner (DW-5) were examined. (9) On the bail application of the accused, the\nHon'ble Apex Court vide order dated 03.01.2014 in CRLMP 25377/2013 has directed that appellant\nSuresh may move an application for urgent final hearing of the matter and therefore the matter was\nheard out of turn. Reliance is also placed upon the\njudgment passed by the Division Bench of this court in the case of \"Rajaram Vs. Hence, it is not a mistake of non-framing of charges. (12) This case is having sufficient number of injured persons and sufficient number of accused\npersons and therefore in order to avoid the complexity of the discussion, it would be appropriate to\nconsider the points in a sequence. Heart, brain, both the lungs, liver and omentum were found damaged due to\nimpact of pellets and therefore due to damage of these vital parts of the body, deceased Govind\nSingh died. Sharma (PW-15) and hence looking to\nso many injuries, death of the deceased Govind Singh is proved to be homicidal in nature. Hence, the prosecution has failed to prove that injuries caused to victim\nUttam Singh (PW-8) were fatal in nature. No bed- head ticket or surgical report was produced before the trial court to\nshow that some surgery was done to the victim Raghuveer Singh Raghuvanshi (PW-2) or any vital\npart of his body was found damaged, hence, the prosecution has failed to prove that the victim\nRaghuveer Singh Raghuvanshi (PW-2) sustained any fatal or grave injury.",
+      "embedding_text": "REASONING_CHUNK | Case: Chandu @ Chandra Bhan vs State Of M.P. on 25 November, | Judicial reasoning: Ahluwalia\n1 Criminal Appeal No.172/2007\nCriminal Appeal No.176/2007\nCriminal Appeal No.177/2007\nHIGH COURT OF MADHYA PRADESH\nBENCH AT GWALIOR\nDIVISION BENCH:\nHON'BLE SHRI JUSTICE N.K. He found as many as 25 wounds caused by the pellets on his body and therefore he\nprepared a picture of such injuries in post mortem report Ex.P-14. The report of FSL Ex.P-140 was also filed before the Trial Court. After due investigation, the\ncharge-sheet was filed before the Judicial Magistrate First Class, Guna who committed the case to\nthe Sessions Court and ultimately it was transferred to III Additional Sessions Judge (Fast Track),\nGuna (M.P.). Some of them took a plea of alibi and therefore witnesses\nPrakash Narayan (DW-1), Rajkumar (DW-2), Vinay Buchke (DW-3), Ghanshyam Raghuvanshi\n(DW-4) and Narendra Singh Choudhary Assistant Chemical Examiner (DW-5) were examined. (9) On the bail application of the accused, the\nHon'ble Apex Court vide order dated 03.01.2014 in CRLMP 25377/2013 has directed that a | Intent: intentional | Outcome: death | IPC: 302, 149, 157, 25, 161, 324, 307, 323, 39, 34, 147, 326, 148, 506",
+      "metadata": {
+        "case_name": "Chandu @ Chandra Bhan vs State Of M.P. on 25 November,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "149",
+          "157",
+          "25",
+          "161",
+          "324",
+          "307",
+          "323",
+          "39",
+          "34",
+          "147",
+          "326",
+          "148",
+          "506"
+        ],
+        "actions": [
+          "stabbed",
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Each of the appellants has been convicted and sentenced as under:\nS. 500/- (each)\n(In para 119 of the (each)\njudgment of trial court, it\nwas a typing error that\nhas been convicted of\nmain offence under\nSection 302 of IPC.)\n3 Criminal Appeal No.172/2007\nRest of the appellants 302/149 LI + fine of 1 year's RI\nIPC Rs.500/- (each)\n(each)\n2 All 307/149 7 Years + 1 year's RI\n[Radheshyam, IPC fine of Rs. (7) The trial court after\nconsidering the evidence adduced by the parties, convicted and sentenced the appellants as\nmentioned above. (11) Before adverting to\nthe merits of the case, a technical objection raised by the learned Senior Advocate appearing for the\nSingh has been convicted for offence under Section 302 of IPC whereas no such charge was framed\nagainst him. If charge under Section 302 read with Section 149 of IPC is framed then the accused\ncannot be convicted for the main offence under Section 302 of IPC. In all the aforesaid cases, it is held that in absence of main\ncharge under Section 302 of IPC, if charge is appended of Section 302 read with Section 149 of IPC\nthen the accused cannot be convicted for the main charge of Section 302 of IPC. In\npara 99 of the judgment, on internal page 49, the 9 Criminal Appeal No.172/2007 trial court has\nconvicted the appellants Suresh Singh and Rajesh Singh for offence under Section 302 of IPC andChandu @ Chandra Bhan vs State Of M.P. on 25 November, 2016\nIndian Kanoon - http://indiankanoon.org/doc/185928164/ 5\nconvicted the remaining accused persons for offence under Section 302 read with Section 149 of\nIPC. The charge of Section 302 of IPC relating to deceased Govind Singh was framed against each of the\npersons have been convicted of offence under Section 302 of IPC, hence, looking to the factual\ndifference, the aforesaid judgments are not applicable to the present case. Since appellant Hukum\nSingh was convicted for offence under Section 302 read with Section 149 of IPC in para 99 of the\njudgment then there was no dispute relating to his charges and conviction.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Chandu @ Chandra Bhan vs State Of M.P. on 25 November, | Final judgment: Each of the appellants has been convicted and sentenced as under:\nS. 500/- (each)\n(In para 119 of the (each)\njudgment of trial court, it\nwas a typing error that\nhas been convicted of\nmain offence under\nSection 302 of IPC.)\n3 Criminal Appeal No.172/2007\nRest of the appellants 302/149 LI + fine of 1 year's RI\nIPC Rs.500/- (each)\n(each)\n2 All 307/149 7 Years + 1 year's RI\n[Radheshyam, IPC fine of Rs. (7) The trial court after\nconsidering the evidence adduced by the parties, convicted and sentenced the appellants as\nmentioned above. (11) Before adverting to\nthe merits of the case, a technical objection raised by the learned Senior Advocate appearing for the\nSingh has been convicted for offence under Section 302 of IPC whereas no such charge was framed\nagainst him. If charge under Section 302 read with Section 149 of IPC is framed then the accused\ncannot be convicted for the main offence under Section 302 of IPC. In all the aforesaid cases, it is held that in absence of main\ncharge under Se | Judgment: convicted | IPC: 302, 149, 157, 25, 161, 324, 307, 323, 39, 34, 147, 326, 148, 506",
+      "metadata": {
+        "case_name": "Chandu @ Chandra Bhan vs State Of M.P. on 25 November,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "149",
+          "157",
+          "25",
+          "161",
+          "324",
+          "307",
+          "323",
+          "39",
+          "34",
+          "147",
+          "326",
+          "148",
+          "506"
+        ],
+        "actions": [
+          "stabbed",
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    }
+  ]
+}

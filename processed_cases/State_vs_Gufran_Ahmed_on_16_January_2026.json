@@ -1,0 +1,142 @@
+{
+  "case_id": "State_vs_Gufran_Ahmed_on_16_January_2026",
+  "case_name": "State vs Gufran Ahmed on 16 January, 2026",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "DLCT020033362014\nDigitally\nCIS No. 294792/2016 signed by\nHARSHITA\nFIR No. GUFRAN AHMED 18:51:45\n+0530\nU/s: 420, 403, 120B IPC\nJUDGMENT\n(a) CIS No. 87/2008\n(b) Date of offence Unknown\n(c) Complainant Sh. Vakeel Ahmed\n(d) Accused Gufran Ahmed,\nS/o Late Sh. Tasleem Ahmed,\nR/o House No. 5410, 3rd Floor,\nUnchi Gali, Kucha Rehman,\nChandni Chowk, Delhi. Gufran Ahmed PS: EOW\n2. The story of the prosecution is that the complainant Sh. Vakeel Ahmad had lodged a complaint\nagainst Gufran Ahmad, Mohd. Irshad, Pradeep Thakur, Mohd. Nazim, Mohd. Imran and Kashif\nwith Joint CP (Crime), PHQ, I.P. The complainant\nwas running a proprietorship firm in the name and style of 'M/s V.A. Enterprises'. 'M/s S.A. Exports' wherein accused\nShagun Dhawan was also a partner, and from 'M/s Shaila Anant'. Enterprises' i.e. the firm of the complainant, and encashed\nthe same in the bank account opened in the Canara Bank, Sarita Vihar, by the accused in the name\nof firm 'M/s V.A. Enterprises'. Exports' and 'M/s Shaila Anant'. Gufran Ahmed PS: EOW\ndespite knowing that the complainant's proprietorship firm was in the name of 'M/s V.A. Enterprises' despite that introduced and helped accused Gufran Ahmad in opening the bank account\nin the name of 'M/s V.A. Enterprises' in Canara Bank, Sarita Vihar, Delhi. 3. The accused Gurfan Ahmed was booked under Section 419, 420, 468, 471 IPC while his associates\nwere merely kept under the suspects column. 4. 1st Supplementary Chargesheet was filed on 25.01.2016. Ms. Shagun Dhawan was placed in the suspects column in the chargesheet as well as 1 st supplementary\nchargesheet. Only in the 2nd Supplementary Chargesheet filed on 06.04.2016 was she made an\naccused. Cognizance of the offences under Sections 419, 420, 468, 471/120B IPC was taken on\n18.04.2017. Copy of chargesheet was supplied to the accused Gufran Ahmed and then to accused\nShagun Dhawan on 30.03.2019. 5. At the stage of charge framing, the Ld. Predecessor noted that the accused Gufran Ahmad also\nreceived cheques and H- Form meant for firm of the complainant from 'M/s SA Enterprises'\nwherein co-accused Shagun Dhawan was also a partner.",
+      "embedding_text": "FACT_CHUNK | Case: State vs Gufran Ahmed on 16 January, 2026 | Facts: DLCT020033362014\nDigitally\nCIS No. 294792/2016 signed by\nHARSHITA\nFIR No. GUFRAN AHMED 18:51:45\n+0530\nU/s: 420, 403, 120B IPC\nJUDGMENT\n(a) CIS No. 87/2008\n(b) Date of offence Unknown\n(c) Complainant Sh. Vakeel Ahmed\n(d) Accused Gufran Ahmed,\nS/o Late Sh. Tasleem Ahmed,\nR/o House No. 5410, 3rd Floor,\nUnchi Gali, Kucha Rehman,\nChandni Chowk, Delhi. Gufran Ahmed PS: EOW\n2. The story of the prosecution is that the complainant Sh. Vakeel Ahmad had lodged a complaint\nagainst Gufran Ahmad, Mohd. Irshad, Pradeep Thakur, Mohd. Nazim, Mohd. Imran and Kashif\nwith Joint CP (Crime), PHQ, I.P. The complainant\nwas running a proprietorship firm in the name and style of 'M/s V.A. Enterprises'. 'M/s S.A. Exports' wherein accused\nShagun Dhawan was also a partner, and from 'M/s Shaila Anant'. Enterprises' i.e. the firm of the complainant, and encashed\nthe same in the bank account opened in the Canara Bank, Sarita Vihar, by the accused in the name\nof firm 'M/s V.A. Enterprises'. Exports' and 'M/s Shaila An | Actions: misappropriated | Weapon: unknown | Outcome: fraud | IPC: 471, 120B, 403, 420, 419, 468, 120",
+      "metadata": {
+        "case_name": "State vs Gufran Ahmed on 16 January, 2026",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "471",
+          "120B",
+          "403",
+          "420",
+          "419",
+          "468",
+          "120"
+        ],
+        "actions": [
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Accused Gufran Ahamd got\ncheques issued in the name of 'M/s V.A. He noted that as stated and reflected\nfrom record, Gufran Ahmad received purchase orders, delivered challans, received payments, and\nissued acknowledgement of cheques on behalf of 'M/s. Gufran Ahmed PS: EOW Enterprises' in\norder to encash the cheques issued in favour of proprietorship concern of the complainant. The following point arises for determination in the present case: Whether accused Gurfan\nAhmed after opening an account in the name of M/s V.A. Whether in doing so accused Gufran Ahmad had conspired with co- accused Shagun Dhawan to get\nthe said cheques and H- State Vs. Whether the accused Gurfan Ahmed had dishonestly misappropriated money from\nfirm M/s SA Enterprises?",
+      "embedding_text": "ISSUE_CHUNK | Case: State vs Gufran Ahmed on 16 January, 2026 | Legal issues: Accused Gufran Ahamd got\ncheques issued in the name of 'M/s V.A. He noted that as stated and reflected\nfrom record, Gufran Ahmad received purchase orders, delivered challans, received payments, and\nissued acknowledgement of cheques on behalf of 'M/s. Gufran Ahmed PS: EOW Enterprises' in\norder to encash the cheques issued in favour of proprietorship concern of the complainant. The following point arises for determination in the present case: Whether accused Gurfan\nAhmed after opening an account in the name of M/s V.A. Whether in doing so accused Gufran Ahmad had conspired with co- accused Shagun Dhawan to get\nthe said cheques and H- State Vs. Whether the accused Gurfan Ahmed had dishonestly misappropriated money from\nfirm M/s SA Enterprises? | IPC: 471, 120B, 403, 420, 419, 468, 120",
+      "metadata": {
+        "case_name": "State vs Gufran Ahmed on 16 January, 2026",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "471",
+          "120B",
+          "403",
+          "420",
+          "419",
+          "468",
+          "120"
+        ],
+        "actions": [
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State vs Gufran Ahmed on 16 January, 2026\nIN THE COURT OF MS. 87/2008 HARSHITA MISHRA\nPS: EOW MISHRA Date:\n2026.01.17\nState Vs. State Vs. Estate, New Delhi alleging commission of offences under\nSections379/383/415/420/467/468/471/472/405/406/409/50 6/120-B/34 IPC. He was also\nhaving another partnership firm with the accused Gufran Ahmad in the name and style of 'M/s\nAllied India Overseas Ltd.' It is stated that accused Gufran Ahmad with the help of co-accused\nShagun Dhawan got opened a current account in the name of 'M/s V.A. Enterprises' in the CanaraState vs Gufran Ahmed on 16 January, 2026\nIndian Kanoon - http://indiankanoon.org/doc/117162595/ 1\nBank, Sarita Vihar, Delhi. It is further stated that accused Gurfan Ahmad received cheques from two\nfirms to whom the complainant used to supply materials i.e. It is further stated that the accused got Sales Tax H- Form from 'M/s\nS.A. Accused Shagun Dhawan State Vs. Shagun Dhawan had herself given H- Form\nand cheques to the accused Gufran State Vs. State Vs. Gufran\nAhmed PS: EOWState vs Gufran Ahmed on 16 January, 2026\nIndian Kanoon - http://indiankanoon.org/doc/117162595/ 2\n7. State Vs. ASJ also noted that the Investigating Officer, in the 1st supplementary charge-sheet, categorically\nstated that there was insufficient evidence to charge-sheet the petitioner. Enterprises' and delivery of the said cheques and Sale Tax H-Forms to him\nbelonging to proprietorship concern of State Vs. He accordingly, discharged the accused Shagun Dhawan of the charge under SectionState vs Gufran Ahmed on 16 January, 2026\nIndian Kanoon - http://indiankanoon.org/doc/117162595/ 3\n403 IPC read with Section 120-B IPC. To prove the charge against the accused, the prosecution summoned the complainant Vakeel\nAhmed on State Vs. Considering that there was no incriminating\nmaterial on record against the accused, the statement of the accused under S. Similarly, without any evidence implicating the accused, no purpose was to be\nserved by requiring him to lead defence evidence. Accused submitted that he did not wish to lead\nany defence evidence. APP for State and Ld. It is also well settled that no adverse State Vs. The accused cannot be made to suffer the ordeal of aState vs Gufran Ahmed on 16 January, 2026\nIndian Kanoon - http://indiankanoon.org/doc/117162595/ 4\ncriminal trial when the prosecution itself has failed to discharge its primary burden.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State vs Gufran Ahmed on 16 January, 2026 | Arguments: State vs Gufran Ahmed on 16 January, 2026\nIN THE COURT OF MS. 87/2008 HARSHITA MISHRA\nPS: EOW MISHRA Date:\n2026.01.17\nState Vs. State Vs. Estate, New Delhi alleging commission of offences under\nSections379/383/415/420/467/468/471/472/405/406/409/50 6/120-B/34 IPC. He was also\nhaving another partnership firm with the accused Gufran Ahmad in the name and style of 'M/s\nAllied India Overseas Ltd.' It is stated that accused Gufran Ahmad with the help of co-accused\nShagun Dhawan got opened a current account in the name of 'M/s V.A. Enterprises' in the CanaraState vs Gufran Ahmed on 16 January, 2026\nIndian Kanoon - http://indiankanoon.org/doc/117162595/ 1\nBank, Sarita Vihar, Delhi. It is further stated that accused Gurfan Ahmad received cheques from two\nfirms to whom the complainant used to supply materials i.e. It is further stated that the accused got Sales Tax H- Form from 'M/s\nS.A. Accused Shagun Dhawan State Vs. Shagun Dhawan had herself given H- Form\nand cheques to the accused Gufran St | Intent: intentional | IPC: 471, 120B, 403, 420, 419, 468, 120 | Judgment context: acquitted",
+      "metadata": {
+        "case_name": "State vs Gufran Ahmed on 16 January, 2026",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "471",
+          "120B",
+          "403",
+          "420",
+          "419",
+          "468",
+          "120"
+        ],
+        "actions": [
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "HARSHITA MISHRA\nCHIEF JUDICIAL MAGISTRATE, CENTRAL DISTRICT,\nTIS HAZARI COURTS, DELHI\nCNR No. Vide this judgment, this court shall dispose of the present case u/s 419, 420, 468, 471 Indian\nPenal Code filed against accused Gufran Ahmed. After completing the investigative formalities, Charge sheet was filed against the accused Gufran\nAhmed in the court on 30.08.2014. Thus,\nthe Ld. He\nobserved that criminal conspiracy among them was apparent from the handing over of cheques\nmeant for firm of complainant to him and by helping him in opening a bank account in the same\nname as firm of the complainant. Sessions Court,\nwhich vide its detailed order dated 22.03.2023, discharged her. ASJ observed that after investigation, Investigating Officer categorically stated that the\nsaid cheques and Sale Tax H-Forms were delivered to Gufran Ahmad in the capacity of\nrepresentative of the complainant's proprietorship concern. ASJ observed that\nquite surprisingly, the Investigating Officer charge-sheeted the petitioner in 2nd supplementary\ncharge-sheet without any further investigation, based on the investigation already conducted by\nhim. He went on to add that the only reason for charge-sheeting the petitioner was the adverse\nobservation made by the Trial Court, vide order dated 25.01.2016. Sessions Court observed\nthat it was a settled law that investigating authority cannot be directed to charge-sheet any person. Whenever any closure report is filed qua any accused, the Court may accept the closure report or\nmay take cognizance and summon the accused or direct further investigation. He observed with a\nsense of concern that the Trial Court did not take recourse to any of these alternatives. The Trial\nCourt passed remarks that Investigating Officer did not charge-sheet the petitioner despite the fact\nshe was the introducer of the fake account and pursuant thereto, the petitioner was charge-sheeted\nin the 2nd supplementary charge-sheet. He\nobserved that there was no material against Shagun Dhawan that she had entered into any\nconspiracy with Gufran Ahmad in order to misappropriate the amount due to the complainant or\nshe had any dishonest intention to aid Gufran Ahmad to misappropriate the amount belonging to\nthe complainant or withhold Sale Tax H-Forms pertaining to proprietorship concern of the\ncomplainant.",
+      "embedding_text": "REASONING_CHUNK | Case: State vs Gufran Ahmed on 16 January, 2026 | Judicial reasoning: HARSHITA MISHRA\nCHIEF JUDICIAL MAGISTRATE, CENTRAL DISTRICT,\nTIS HAZARI COURTS, DELHI\nCNR No. Vide this judgment, this court shall dispose of the present case u/s 419, 420, 468, 471 Indian\nPenal Code filed against accused Gufran Ahmed. After completing the investigative formalities, Charge sheet was filed against the accused Gufran\nAhmed in the court on 30.08.2014. Thus,\nthe Ld. He\nobserved that criminal conspiracy among them was apparent from the handing over of cheques\nmeant for firm of complainant to him and by helping him in opening a bank account in the same\nname as firm of the complainant. Sessions Court,\nwhich vide its detailed order dated 22.03.2023, discharged her. ASJ observed that after investigation, Investigating Officer categorically stated that the\nsaid cheques and Sale Tax H-Forms were delivered to Gufran Ahmad in the capacity of\nrepresentative of the complainant's proprietorship concern. ASJ observed that\nquite surprisingly, the Investigating Officer charge-sheeted the | Intent: intentional | Outcome: fraud | IPC: 471, 120B, 403, 420, 419, 468, 120",
+      "metadata": {
+        "case_name": "State vs Gufran Ahmed on 16 January, 2026",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "471",
+          "120B",
+          "403",
+          "420",
+          "419",
+          "468",
+          "120"
+        ],
+        "actions": [
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "(e) Offence 419, 420, 468, 471 IPC\n(f) Plea of accused Pleaded Not guilty\n(g) Final Order Acquitted\n(h) Date of Institution 30.08.2014\n(I) Date when judgment 16.01.2026\nwas reserved\n(j) Date of judgment 16.01.2026\n1. To keep a\ncriminal trial pending indefinitely when the star witness shows no interest in the prosecution is a\ntravesty of justice and a waste of precious judicial time. 17. It is a cardinal principle of criminal jurisprudence that the prosecution must prove its case\nagainst the accused beyond all reasonable doubts. 18. In the case at hand, the foundation of the prosecution's charge under Section 403/420/120B IPC\nhas remained unproved. The complainant/victim, who is the most material witness, has\nconspicuously remained absent. Gufran\nAhmed PS: EOW allegations remain unverified. Without proving those allegations, the charge under\nSection 403/420/120B IPC falls like a house of cards. 19. The benefit of doubt, which is not a matter of\ncharity but a matter of right, must necessarily go to the accused. Accordingly, accused Gufran\nAhmed, is hereby acquitted of the charges u/s 420, 403, 120B IPC levelled against him. 20. File be consigned to Record Room after due compliance. 21. Copy of this judgment be given dasti to the accused/ his counsel against due acknowledgment.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State vs Gufran Ahmed on 16 January, 2026 | Final judgment: (e) Offence 419, 420, 468, 471 IPC\n(f) Plea of accused Pleaded Not guilty\n(g) Final Order Acquitted\n(h) Date of Institution 30.08.2014\n(I) Date when judgment 16.01.2026\nwas reserved\n(j) Date of judgment 16.01.2026\n1. To keep a\ncriminal trial pending indefinitely when the star witness shows no interest in the prosecution is a\ntravesty of justice and a waste of precious judicial time. 17. It is a cardinal principle of criminal jurisprudence that the prosecution must prove its case\nagainst the accused beyond all reasonable doubts. 18. In the case at hand, the foundation of the prosecution's charge under Section 403/420/120B IPC\nhas remained unproved. The complainant/victim, who is the most material witness, has\nconspicuously remained absent. Gufran\nAhmed PS: EOW allegations remain unverified. Without proving those allegations, the charge under\nSection 403/420/120B IPC falls like a house of cards. 19. The benefit of doubt, which is not a matter of\ncharity but a matter of right, must necess | Judgment: acquitted | IPC: 471, 120B, 403, 420, 419, 468, 120",
+      "metadata": {
+        "case_name": "State vs Gufran Ahmed on 16 January, 2026",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "471",
+          "120B",
+          "403",
+          "420",
+          "419",
+          "468",
+          "120"
+        ],
+        "actions": [
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "acquitted",
+        "court": "Sessions Court",
+        "year": "2026"
+      }
+    }
+  ]
+}

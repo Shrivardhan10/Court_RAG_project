@@ -1,0 +1,137 @@
+{
+  "case_id": "Chaman_Lal_vs_The_State_Of_Himachal_Pradesh_on_3_December_2020",
+  "case_name": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Shah\nBench: M.R. Shah, R. SHAH, J. 1. with fine of Rs. 10,000/− and in default of payment of\nfine, further six months R.I. under Section 376 IPC and four years R.I. with fine of Rs.5,000/− and\nin default of payment of fine, further three months R.I. under Section 506 IPC, the original accused\nhas preferred the present appeal. 2. The facts leading to the present appeal in nutshell are as under:\nThat the father of the prosecutrix lodged an FIR against the accused with the\nallegations that on 1.4.2008, his wife Dhaneshwari Devi telephonically informed him\nat Shimla that their daughter (prosecutrix) is pregnant. It was alleged that the\nprosecutrix told her mother that when she used to go to jungle to graze goats and\ncattle, accused also used to go to jungle to graze cattle and goats. That the accused threatened the prosecutrix not to\ndisclose the incident to anyone. That due to fear and due to forgetting the same and\nfurther due to mental weakness, she did not disclose about the incident to anyone\nincluding her mother. That the prosecutrix was got medically examined and as per\nthe Medical Officer the prosecutrix was carrying a pregnancy of 31 weeks. Prosecutrix was alleged to be mentally retarded. She was\nmedically examined at IGMC, Shimla as well as PGI, Chandigarh. Prosecutrix gave\nbirth to a female child on 19.6.2008 at KNH, Shimla. Blood samples of the\nprosecutrix, the baby and the accused were taken for DNA test. As per report, accused\nwas the biological father of the female child. The accused was arrested. After\ncompletion of the investigation, the Investigating Officer submitted the chargesheet\nagainst the accused for the offences under Sections 376 and 506 IPC. 2.1 To prove the case against the accused, the prosecution examined as many as 23\nwitnesses including the parents of the prosecutrix (PW 1 & 2), Prosecutrix (PW3),\nLaboratory Technician – Jitender Kumar (PW8), Dr. Sarla Chand (PW9), Dr. Rakesh\nKumar, Radiologist (PW10), Dr. Ramesh Kumar, Assistant Professor, Department of\nPsychiatry (PW11), Dr.",
+      "embedding_text": "FACT_CHUNK | Case: Chaman Lal vs The State Of Himachal Pradesh on 3 December, | Facts: Shah\nBench: M.R. Shah, R. SHAH, J. 1. with fine of Rs. 10,000/− and in default of payment of\nfine, further six months R.I. under Section 376 IPC and four years R.I. with fine of Rs.5,000/− and\nin default of payment of fine, further three months R.I. under Section 506 IPC, the original accused\nhas preferred the present appeal. 2. The facts leading to the present appeal in nutshell are as under:\nThat the father of the prosecutrix lodged an FIR against the accused with the\nallegations that on 1.4.2008, his wife Dhaneshwari Devi telephonically informed him\nat Shimla that their daughter (prosecutrix) is pregnant. It was alleged that the\nprosecutrix told her mother that when she used to go to jungle to graze goats and\ncattle, accused also used to go to jungle to graze cattle and goats. That the accused threatened the prosecutrix not to\ndisclose the incident to anyone. That due to fear and due to forgetting the same and\nfurther due to mental weakness, she did not disclose about the incident t | Actions: threatened | Weapon: unknown | Outcome: unknown | IPC: 376, 506, 313, 378, 417, 375",
+      "metadata": {
+        "case_name": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "378",
+          "417",
+          "375"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2020"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "While dealing with a judgment of acquittal, the appellate court has to\nconsider the entire evidence on record, so as to arrive at a finding as to whether the\nviews of the trial court were perverse or otherwise unsustainable. The appellate court\nis entitled to consider whether in arriving at a finding of fact, the trial court had failed\nto take into consideration admissible evidence and/or had taken into consideration\nthe evidence brought on record contrary to law. State of\nKerala , the High Court reversed the order of acquittal passed by the learned trial\ncourt and held the accused guilty on re−appreciation of the entire evidence on record, however, the\nHigh Court did not record its conclusion on the question whether the approach of the trial court in\ndealing with the evidence was patently illegal or the conclusions arrived at by it were wholly\nuntenable. We have perused\nthe judgment under appeal to ascertain whether the High Court has conformed to the\naforementioned principles. first\nrecording its conclusion on the question whether the approach of the trial court in dealing with the\nevidence was patently illegal or the conclusions arrived at by it were wholly untenable, which alone\nwill justify interference in an order of acquittal though the High Court has rendered a well−\nconsidered judgment duly meeting all the contentions raised before it.",
+      "embedding_text": "ISSUE_CHUNK | Case: Chaman Lal vs The State Of Himachal Pradesh on 3 December, | Legal issues: While dealing with a judgment of acquittal, the appellate court has to\nconsider the entire evidence on record, so as to arrive at a finding as to whether the\nviews of the trial court were perverse or otherwise unsustainable. The appellate court\nis entitled to consider whether in arriving at a finding of fact, the trial court had failed\nto take into consideration admissible evidence and/or had taken into consideration\nthe evidence brought on record contrary to law. State of\nKerala , the High Court reversed the order of acquittal passed by the learned trial\ncourt and held the accused guilty on re−appreciation of the entire evidence on record, however, the\nHigh Court did not record its conclusion on the question whether the approach of the trial court in\ndealing with the evidence was patently illegal or the conclusions arrived at by it were wholly\nuntenable. We have perused\nthe judgment under appeal to ascertain whether the High Court has conformed to the\naforementioned principles. first\n | IPC: 376, 506, 313, 378, 417, 375",
+      "metadata": {
+        "case_name": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "378",
+          "417",
+          "375"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2020"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,\n2020\n869\nAuthor: M.R. 1229 OF 2017\nChaman Lal …Appellant\nVersus\nThe State of Himachal Pradesh …Respondent\nJUDGMENT\nM.R. The prosecutrix toldChaman Lal vs The State Of Himachal Pradesh on 3 December, 2020\nIndian Kanoon - http://indiankanoon.org/doc/185380263/ 1\nher mother that three−four months ago, accused had sexual intercourse with her\nforcibly and without her consent. Her age\nwas stated to be 19 years. That after closure of the evidence on behalf of the prosecution,\nstatement of the accused under Section 313 Cr.P.C. It is submitted therefore that the FIR was filed only\nas a vengeful act. It is submitted that the appellant−accused was not in a position to\nmarry the prosecutrix as the appellant was married and was having the children of\nhis own;\niii) as such there is a delay of 8 months from the date of incident in filing the FIR. It is submitted that it is not\nbelievable that the parents were not aware of the pregnancy of the prosecutrix;\niv) as such the prosecutrix was not suffering from mild mental retardation as claimed\nby the prosecution. It is submitted that two psychiatrists gave a different account of\nwhich language the prosecutrix seems to know. It is submitted that one says she knew\n‘Hindi’ and other says she knew ‘Phari’ and he had to use the interpreter. State of Karnataka , it is submitted that the High Court has clearly erred in\nreversing the order of acquittal passed by the learned trial Court which was based on appreciation of\nevidence on record and the view taken by the learned trial Court was a plausible view. It is submitted that as such the accused had taken undue\nadvantage of the mental condition of the prosecutrix and therefore even if there is\nany material contradiction, the benefit shall not go to the accused and the benefit\nmust go in favour of such a victim who is suffering from a mental disease and not in a\nposition to understand the good and bad aspect of sexual assault;\niii) that in the present case even the conduct on the part of the accused is also\nrequired to be appreciated.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Chaman Lal vs The State Of Himachal Pradesh on 3 December, | Arguments: Chaman Lal vs The State Of Himachal Pradesh on 3 December,\n2020\n869\nAuthor: M.R. 1229 OF 2017\nChaman Lal …Appellant\nVersus\nThe State of Himachal Pradesh …Respondent\nJUDGMENT\nM.R. The prosecutrix toldChaman Lal vs The State Of Himachal Pradesh on 3 December, 2020\nIndian Kanoon - http://indiankanoon.org/doc/185380263/ 1\nher mother that three−four months ago, accused had sexual intercourse with her\nforcibly and without her consent. Her age\nwas stated to be 19 years. That after closure of the evidence on behalf of the prosecution,\nstatement of the accused under Section 313 Cr.P.C. It is submitted therefore that the FIR was filed only\nas a vengeful act. It is submitted that the appellant−accused was not in a position to\nmarry the prosecutrix as the appellant was married and was having the children of\nhis own;\niii) as such there is a delay of 8 months from the date of incident in filing the FIR. It is submitted that it is not\nbelievable that the parents were not aware of the pregnancy of the | Intent: unknown | IPC: 376, 506, 313, 378, 417, 375 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "378",
+          "417",
+          "375"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2020"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Subhash Reddy, Ashok Bhushan\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Feeling aggrieved and dissatisfied with the impugned judgment and order dated\n14.09.2016/19.09.2016 passed by the High Court of Himachal Pradesh, Shimla in Criminal Appeal\nNo. The accused\npleaded not guilty and therefore he came to be tried by the learned trial Court for the\naforesaid offences. On re−appreciation of the entire evidence\non record, the High Court came to the conclusion that the IQ of the prosecutrix was 62 and that she\nhad mild mental retardation. It is\nsubmitted that cogent reasons were given by the learned trial Court, which were on appreciation of\nthe evidence on record, and therefore the same were not required to be interfered with by the High\nCourt in exercise of the appellate jurisdiction in an appeal against acquittal. It is\nsubmitted that this is a major discrepancy in the prosecution’s case when one Doctor\nwho is supposed to have assessed her for mental faculties and therefore must have\nasked her many questions which she spoke in Hindi and the other Doctor who is also\nsupposed to ask her a lot of questions in Phari and he had to use the interpreter. It is\nsubmitted that therefore either both of them or at least one of them is not stating the\ntrue facts;\nv) even there are material contradictions in the deposition of the prosecutrix as well\nas the mother, sister and father of the prosecutrix inasmuch as the prosecutrix said\nthat she came to know about her pregnancy from her family members when they told\nher about it, whereas the testimony of the mother, sister and father reveal that it was\nclearly the prosecutrix who informed her sister about the pregnancy;Chaman Lal vs The State Of Himachal Pradesh on 3 December, 2020\nIndian Kanoon - http://indiankanoon.org/doc/185380263/ 3\nvi) the High Court has mainly relied upon the medical evidence of PW22 while\ncoming to the conclusion that the prosecutrix was having mild mental retardation. As rightly observed by the learned trial Court, the prosecutrix was a person capable of\nunderstanding her welfare and quite intelligent.",
+      "embedding_text": "REASONING_CHUNK | Case: Chaman Lal vs The State Of Himachal Pradesh on 3 December, | Judicial reasoning: Subhash Reddy, Ashok Bhushan\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Feeling aggrieved and dissatisfied with the impugned judgment and order dated\n14.09.2016/19.09.2016 passed by the High Court of Himachal Pradesh, Shimla in Criminal Appeal\nNo. The accused\npleaded not guilty and therefore he came to be tried by the learned trial Court for the\naforesaid offences. On re−appreciation of the entire evidence\non record, the High Court came to the conclusion that the IQ of the prosecutrix was 62 and that she\nhad mild mental retardation. It is\nsubmitted that cogent reasons were given by the learned trial Court, which were on appreciation of\nthe evidence on record, and therefore the same were not required to be interfered with by the High\nCourt in exercise of the appellate jurisdiction in an appeal against acquittal. It is\nsubmitted that this is a major discrepancy in the prosecution’s case when one Doctor\nwho is supposed to have assessed her | Intent: unknown | Outcome: unknown | IPC: 376, 506, 313, 378, 417, 375",
+      "metadata": {
+        "case_name": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "378",
+          "417",
+          "375"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2020"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "36 of 2014, by which the High Court has allowed the said appeal preferred by the State and has\nquashed and set aside the judgment and order of acquittal passed by the learned trial Court\nacquitting the appellant herein – original accused for the offences under Sections 376 and 506 of the\nIPC and consequently has convicted the appellant – accused for the aforesaid offences and has\nsentenced him to undergo seven years R.I. The learned trial Court acquitted the accused mainly on the ground of delay in lodging the FIR and\nalso on the ground that the prosecutrix was not mentally unsound to understand the consequences\nand what was happening. Feeling aggrieved and dissatisfied with the judgment and order of acquittal passed by the learned\ntrial Court, the State preferred appeal before the High Court and by the impugned judgment and\norder and on re−appreciation of the entire evidence on record, more particularly the medical\nevidence, the High Court has reversed the order of acquittal and has convicted the accused for the\noffences under Sections 376 and 506 IPC by observing that the prosecutrix was not in a position to\nunderstand the good and bad aspect of the sexual assault. i) there was a delay of four months in registering the FIR from the time the\nprosecution claimed the incident occurred and therefore the learned trial Court\nrightly acquitted the accused;\nii) even the father of the prosecutrix (PW1) clearly deposed that the appellant –\naccused was called to discuss the matter and he offered to take care of the child but\nrefused to marry the prosecutrix. 5.4 It is further submitted by the learned Advocate appearing on behalf of the appellant – accused\nthat out of seven years imprisonment, the accused has already undergone four years and therefore it\nis prayed to allow the present appeal and quash and set aside the impugned judgment and order\npassed by the High Court and in the alternative to reduce the sentence to the period already\nundergone by the accused. While opposing the present appeal, the learned Advocate appearing on behalf of the State has\nvehemently submitted that in the facts and circumstances of the case the High Court has rightly\nreversed the order of acquittal passed by the learned trial Court and has rightly convicted the\naccused for the offences under Sections 376 and 506 IPC, more particularly when the prosecutrix\nwas suffering from mental disease and as per the medical evidence she was not in a position to\nunderstand the good and bad aspect of sexual assault.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Chaman Lal vs The State Of Himachal Pradesh on 3 December, | Final judgment: 36 of 2014, by which the High Court has allowed the said appeal preferred by the State and has\nquashed and set aside the judgment and order of acquittal passed by the learned trial Court\nacquitting the appellant herein – original accused for the offences under Sections 376 and 506 of the\nIPC and consequently has convicted the appellant – accused for the aforesaid offences and has\nsentenced him to undergo seven years R.I. The learned trial Court acquitted the accused mainly on the ground of delay in lodging the FIR and\nalso on the ground that the prosecutrix was not mentally unsound to understand the consequences\nand what was happening. Feeling aggrieved and dissatisfied with the judgment and order of acquittal passed by the learned\ntrial Court, the State preferred appeal before the High Court and by the impugned judgment and\norder and on re−appreciation of the entire evidence on record, more particularly the medical\nevidence, the High Court has reversed the order of acquittal and has c | Judgment: convicted | IPC: 376, 506, 313, 378, 417, 375",
+      "metadata": {
+        "case_name": "Chaman Lal vs The State Of Himachal Pradesh on 3 December,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "378",
+          "417",
+          "375"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2020"
+      }
+    }
+  ]
+}

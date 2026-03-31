@@ -1,0 +1,157 @@
+{
+  "case_id": "Sayed_Ahmed_Ali_Kari_Alias_Munna_And_Etc_vs_State_Of_Maharashtra_on_7_June_1995",
+  "case_name": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "1. Since both these appeals arise out of the same set of facts, we propose disposing them of by a\ncommon judgment. Vide judgment and order dated 12-8-1993, Shri V. C. Singh, Additional Sessions Judge, Greater\nBombay, in Sessions Case No. 66 of 1990, and Sessions Case No. 1,000/- in default of\npayment of fine, to further undergo RI for 30 days. These convictions and sentences have been challenged in the present\nappeals. 2. The prosecution in brief, as emerging from the recitals contained in the FIR, dying declaration of\nthe victim and the evidence of the two eye-witnesses namely Abdul Hamid PW 1 and Abdul Majid\nPW 2, runs as follows :-\nThe victim (deceased) Abdul Razak had come to Ajay Transport on S. V. P. Road,\nCharnal, Dongri, Bombay sometimes between 9 a.m. and 9.30 a.m. on 31-10-1989. Along with him was his nephew Abdul Hamid PW 1 and his brother Abdul Majid PW\n2. It is alleged that they used to manage Ajay Roadways which was a partnership firm\ndealing in transport business. At about 11.45 a.m. One of them namely Syed\nMunna told the victim to give Rs. 4,000/- and threatened him that in case he failed to\ndo so, he should be ready to face the consequences. He also remonstrated as to why they were threatening him. On that\nin three fingers of the right hand of the victim being severely injured. Thereafter, both the\nwho were passing be caught hold of Nasir Hussain near charnal Island. They brought\nvan from Dongri Police station came there. Blood was oozing out from Nasir Hussain's nose as a result of the\ninjuries caused to him by persons, in trying to arrest him. Thereafter, Abdul Hamid\nPW 1 took the victim to J. J. Hospital on a motor cycle and at the aforesaid. Hospital,\nthe victim was given first aid treatment and thereafter, was sent to Bombay Hospital. 3. The FIR was lodged by PW 1 Abdul Hamid at 1.30 a.m. 4. Dr. Pravin Bagul, PW 7 of J.",
+      "embedding_text": "FACT_CHUNK | Case: Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of | Facts: 1. Since both these appeals arise out of the same set of facts, we propose disposing them of by a\ncommon judgment. Vide judgment and order dated 12-8-1993, Shri V. C. Singh, Additional Sessions Judge, Greater\nBombay, in Sessions Case No. 66 of 1990, and Sessions Case No. 1,000/- in default of\npayment of fine, to further undergo RI for 30 days. These convictions and sentences have been challenged in the present\nappeals. 2. The prosecution in brief, as emerging from the recitals contained in the FIR, dying declaration of\nthe victim and the evidence of the two eye-witnesses namely Abdul Hamid PW 1 and Abdul Majid\nPW 2, runs as follows :-\nThe victim (deceased) Abdul Razak had come to Ajay Transport on S. V. P. Road,\nCharnal, Dongri, Bombay sometimes between 9 a.m. and 9.30 a.m. on 31-10-1989. Along with him was his nephew Abdul Hamid PW 1 and his brother Abdul Majid PW\n2. It is alleged that they used to manage Ajay Roadways which was a partnership firm\ndealing in transport business. At abo | Actions: assaulted, threatened | Weapon: knife | Outcome: death | IPC: 302, 34, 326, 387, 161, 32, 300, 299, 304",
+      "metadata": {
+        "case_name": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "387",
+          "161",
+          "32",
+          "300",
+          "299",
+          "304"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "1995"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The crucial thing to be remembered before invoking the application of Section 34 of the IPC, in a\ngiven case, is as to whether the criminal act in question committed by persons more than one, was in\nfurtherance of common intention of all. Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of\nMaharashtra on 7 June, 1995\nEquivalent citations: (1995)97BOMLR435, 1995CRILJ3585\nAuthor: Vishnu Sahai\nBench: Vishnu Sahai\nJUDGMENT\nSahai, J. 1. Since both these appeals arise out of the same set of facts, we propose disposing them of by a\ncommon judgment. Vide judgment and order dated 12-8-1993, Shri V. C. Singh, Additional Sessions Judge, Greater\nBombay, in Sessions Case No. 66 of 1990, and Sessions Case No.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of | Legal issues: The crucial thing to be remembered before invoking the application of Section 34 of the IPC, in a\ngiven case, is as to whether the criminal act in question committed by persons more than one, was in\nfurtherance of common intention of all. Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of\nMaharashtra on 7 June, 1995\nEquivalent citations: (1995)97BOMLR435, 1995CRILJ3585\nAuthor: Vishnu Sahai\nBench: Vishnu Sahai\nJUDGMENT\nSahai, J. 1. Since both these appeals arise out of the same set of facts, we propose disposing them of by a\ncommon judgment. Vide judgment and order dated 12-8-1993, Shri V. C. Singh, Additional Sessions Judge, Greater\nBombay, in Sessions Case No. 66 of 1990, and Sessions Case No. | IPC: 302, 34, 326, 387, 161, 32, 300, 299, 304",
+      "metadata": {
+        "case_name": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "387",
+          "161",
+          "32",
+          "300",
+          "299",
+          "304"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "1995"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of\nMaharashtra on 7 June, 1995\nEquivalent citations: (1995)97BOMLR435, 1995CRILJ3585\nAuthor: Vishnu Sahai\nBench: Vishnu Sahai\nJUDGMENT\nSahai, J. The substantive sentences of the appellants were\ndirected to run concurrently. when the victim and PW 1 Abdul\nHamid were standing on the footpath, in front of Ajay Transport and were talking,\nthe two appellants came from the direction of Charnal. The other appellant Nasir\nHussain Shaikh is alleged to have said 'give just now'. On that, the victim replied that\nsince they were from the same Mohalla, why should he pay them the aforesaidSayed Ahmed Ali Kari Alias Munna And Etc vs State Of Maharashtra on 7 June, 1995\nIndian Kanoon - http://indiankanoon.org/doc/989726/ 1\namount. The victim's\nnephew PW 1 Abdul Hamid tried to catch Sayed Munna but, the appellant Nasir\nHussain Shaikh thwarted his effort by kicking him on the back. The appellant Nasir Hussain was handed\nover to the police. on 31-10-1989, at police station Dongri\nand in the aforesaid FIR both the appellants are named. At the aforesaid hospital, injuries of appellant Nasir Hussain Shaikh were also medically\nexamined. 389, 325, 34 IPC against the appellants. there\nrecorded the statement of the victim, under Section 161, Cr.P.C. After returning to the police station,\nhe recorded statements of some other witnesses. After completion of the investigation, the chargesheet was filed against the appellants. (3) Stitched wound on right hand ring finger proximal to middle phalanx 3.5 cm\npalmer surface.Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of Maharashtra on 7 June, 1995\nIndian Kanoon - http://indiankanoon.org/doc/989726/ 2\nIn the opinion of Dr. In defence, no oral\nevidence was adduced on behalf of the appellants. Deshpande for the appellants and Mr. Chopda, Additional Public Prosecutor for the respondent. In our judgment, the learned Trial Judge acting correctly\nin convicting the appellants under Section 387 read with Section 34 IPC but, palpably erred in\nconvicting them under Section 302 read with Section 34 IPC. Deshpande, first emphatically tried to convince us that the\nevidence on record does not inspire confidence and the appellants deserve a clear acquittal; at any\nrate, benefit of doubt, on both the counts.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of | Arguments: Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of\nMaharashtra on 7 June, 1995\nEquivalent citations: (1995)97BOMLR435, 1995CRILJ3585\nAuthor: Vishnu Sahai\nBench: Vishnu Sahai\nJUDGMENT\nSahai, J. The substantive sentences of the appellants were\ndirected to run concurrently. when the victim and PW 1 Abdul\nHamid were standing on the footpath, in front of Ajay Transport and were talking,\nthe two appellants came from the direction of Charnal. The other appellant Nasir\nHussain Shaikh is alleged to have said 'give just now'. On that, the victim replied that\nsince they were from the same Mohalla, why should he pay them the aforesaidSayed Ahmed Ali Kari Alias Munna And Etc vs State Of Maharashtra on 7 June, 1995\nIndian Kanoon - http://indiankanoon.org/doc/989726/ 1\namount. The victim's\nnephew PW 1 Abdul Hamid tried to catch Sayed Munna but, the appellant Nasir\nHussain Shaikh thwarted his effort by kicking him on the back. The appellant Nasir Hussain was handed\nover to the police. on 31-10-1989, | Intent: intentional | IPC: 302, 34, 326, 387, 161, 32, 300, 299, 304 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "387",
+          "161",
+          "32",
+          "300",
+          "299",
+          "304"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "1995"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "In the course, the case was committed to the Court of Session. In the trial Court, charges under\nSections 387 read with Sections 34 IPC and 302 read with Section 34 IPC were framed against the\nadduced evidence of as many as eight witnesses. Criminal Courts attach great\nsignificance to the lodging of a prompt FIR. In our view, it inspires confidence and the learned trial\nJudge erred in ignoring it. For the aforesaid reasons, in our view, the learned Trial Judge rightly accepted the involvement\nof the appellants in the instant crime. In our view, the learned Trial Judge also rightly held that the\nprosecution had brought home the guilt of the appellants under Section 387 read with Section 34\nIPC beyond reasonable doubt. Explaining the difference between these two concepts, the Apex Court in para 32 of the decision ,\nPandurang v. State of Hyderabad, observed as follows :-\n'Several persons can simultaneously attack a man and each can have the same\nintention, namely the intention to kill, and each can individually inflict a separate\nfatal blow and yet none would have the common intention required by the section\nbecause there was no prior meeting of minds to form a prearranged plan. Emperor put it in the immemorial\nwords, when it observed :\n'Care must be taken not to confuse same or similar intention with common intention;\nthe partition which divides 'their bounds' is often very thin; nevertheless the\ndistinction is real and substantial and if overlooked will result in miscarriage of\njustice. Explaining the expression 'common intention' the Apex Court held in para 32 of the decision ,\n(supra) as follows :-\n'a common intention presupposes prior concert. Criminal Courts should be slow and cautious in inferring the existence of common intention. Emperor, (1945 (46) Cri LJ 689) (supra) the Judicial\nCommittee of the Privy Council gave a similar warning to Criminal Courts by observing :\n'The inference of common intention within the meaning of the term in S.",
+      "embedding_text": "REASONING_CHUNK | Case: Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of | Judicial reasoning: In the course, the case was committed to the Court of Session. In the trial Court, charges under\nSections 387 read with Sections 34 IPC and 302 read with Section 34 IPC were framed against the\nadduced evidence of as many as eight witnesses. Criminal Courts attach great\nsignificance to the lodging of a prompt FIR. In our view, it inspires confidence and the learned trial\nJudge erred in ignoring it. For the aforesaid reasons, in our view, the learned Trial Judge rightly accepted the involvement\nof the appellants in the instant crime. In our view, the learned Trial Judge also rightly held that the\nprosecution had brought home the guilt of the appellants under Section 387 read with Section 34\nIPC beyond reasonable doubt. Explaining the difference between these two concepts, the Apex Court in para 32 of the decision ,\nPandurang v. State of Hyderabad, observed as follows :-\n'Several persons can simultaneously attack a man and each can have the same\nintention, namely the intention to kill, an | Intent: intentional | Outcome: death | IPC: 302, 34, 326, 387, 161, 32, 300, 299, 304",
+      "metadata": {
+        "case_name": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "387",
+          "161",
+          "32",
+          "300",
+          "299",
+          "304"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "1995"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "49 of 1991, convicted the appellants\nof both the appeals on two counts, namely Section 387 read with Section 34 IPC and 302 read with\nSection 34 IPC; whereas under the first count, he awarded each of the appellants a sentence of five\nyears RI and a fine of Rs. 1,000/- in default to further undergo RI for 30 days, on the second count,\nhe sentenced them to undergo imprisonment for life and to pay a fine of Rs. In our judgment, they deserve to be\nacquitted on that count and instead, appellant Sayed Munna deserves to be convicted under Section\n326 IPC and appellants Nasir Shaikh under S. It was only when their aforesaid submission failed to\nmake any impression on us, that they switched on to the alternative argument namely that the\nlearned Trial Judge gravely erred in convicting the appellants under Sections 302/34 IPC and\nshould have instead convicted the appellant Sayed Munna under Section 326 IPC and appellant\nNasir Hussain Shaikh under Section 326/34 IPC. However, in our opinion, the learned trial Judge grossly erred in convicting the appellants under\nSection 302 read with Section 34 IPC and instead he should have convicted the appellant SayedSayed Ahmed Ali Kari Alias Munna And Etc vs State Of Maharashtra on 7 June, 1995\nIndian Kanoon - http://indiankanoon.org/doc/989726/ 4\nMunna under Section 326 IPC and appellant Nasir Hussain Shaikh under Section 326/34 IPC. In a case\nlike that, each would be individually liable for whatever injury he caused but none\ncould be vicariously convicted for the act of any of the others; and if the prosecution\ncannot prove that his separate blow was a fatal one he cannot be convicted of the\nmurder however, clearly an intention to kill could be proved in his case.' The Judicial\nCommittee of the Privy Council , Mehboob Shah v. It requires a pre-arranged plan\nbecause before a man can be vicariously convicted for the criminal act of another, the\nact must have been done in furtherance of the common intention of them all.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of | Final judgment: 49 of 1991, convicted the appellants\nof both the appeals on two counts, namely Section 387 read with Section 34 IPC and 302 read with\nSection 34 IPC; whereas under the first count, he awarded each of the appellants a sentence of five\nyears RI and a fine of Rs. 1,000/- in default to further undergo RI for 30 days, on the second count,\nhe sentenced them to undergo imprisonment for life and to pay a fine of Rs. In our judgment, they deserve to be\nacquitted on that count and instead, appellant Sayed Munna deserves to be convicted under Section\n326 IPC and appellants Nasir Shaikh under S. It was only when their aforesaid submission failed to\nmake any impression on us, that they switched on to the alternative argument namely that the\nlearned Trial Judge gravely erred in convicting the appellants under Sections 302/34 IPC and\nshould have instead convicted the appellant Sayed Munna under Section 326 IPC and appellant\nNasir Hussain Shaikh under Section 326/34 IPC. However, in our opinion, the l | Judgment: convicted | IPC: 302, 34, 326, 387, 161, 32, 300, 299, 304",
+      "metadata": {
+        "case_name": "Sayed Ahmed Ali Kari Alias Munna And Etc vs State Of",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "326",
+          "387",
+          "161",
+          "32",
+          "300",
+          "299",
+          "304"
+        ],
+        "actions": [
+          "assaulted",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "1995"
+      }
+    }
+  ]
+}

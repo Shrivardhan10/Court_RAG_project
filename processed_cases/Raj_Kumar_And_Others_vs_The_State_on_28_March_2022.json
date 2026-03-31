@@ -1,0 +1,192 @@
+{
+  "case_id": "Raj_Kumar_And_Others_vs_The_State_on_28_March_2022",
+  "case_name": "Raj Kumar And Others vs The State on 28 March, 2022",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "- 1\nCase :- CRIMINAL APPEAL No. - 1003 of 1982\n2. Raj Kishore. 1. Hon'ble Ramesh Sinha,J. Hon'ble Mrs. Saroj Yadav,J. 2. 3. The facts necessary for disposal of this appeal as culled out are as under:-\ni. A First Information Report (in short F.I.R.) was registered at Crime No.926 of 1981\non the basis of written report presented by Ramesh Chand son of Ram Saran at Police\nStation Kotwali Hardoi on 22.11.1981 at about 4:45 P.M.. In the written report it was\nalleged that on 22.11.1981 at about 3:00 P.M. the uncle of the complainant went to his\npaddy-field and found that the cattle of Raj Kumar were grazing and destroying the\npaddy-crop. His uncle after ousting the cattle from the field went to house of Raj\nKumar at about 3:30 P.M. to make a complaint about the same, there Raj Kumar and\nRaj Kishore met and when his uncle complained about the cattle, they said that he\nwas accusing them falsely. After that Raj Kumar brought a gun and Raj Kishore a\nstick (lathi) from their houses and said just wait they will tell. Upon it his uncle raised\na hue and cry, hearing a noise the complainant, his father Ram Saran and Nigendra\nNath, Munshi, Ram Pal and many other people reached there. Upon challenge made by all present\nthere, both Raj Kumar and Raj Kishore ran away towards south. ii. and Section 323 of I.P.C.. and framed charge\nunder Section 325 read with Section 34 of I.P.C. on 06.12.1982. iii. The prosecution in order to prove its case examined nine witnesses in all. P.W. 1\nDr. S.N. Singh, Medical Officer, District Hospital Hardoi, P.W. 2 Ramesh Chandra,\ncomplainant, P.W. 3 Dr. U.D. Kapoor, District Hospital Hardoi, P.W. 4 Yashpal Singh\nGirewal, Senior Sub Inspector, P.W. 5 Prabhu Dayal uncle of the complainant and\ninjured, P.W. 6 Head Constable Rajendra Kumar, and P.W. 8 Munshi an independent eye witness and P.W. 9 Sri R.S. Verma, Sub\nInspector. Apart from the oral evidence the documents Exhibit Ka-1 to Exhibit Ka-18\nwere proved and exhibited.",
+      "embedding_text": "FACT_CHUNK | Case: Raj Kumar And Others vs The State on 28 March, 2022 | Facts: - 1\nCase :- CRIMINAL APPEAL No. - 1003 of 1982\n2. Raj Kishore. 1. Hon'ble Ramesh Sinha,J. Hon'ble Mrs. Saroj Yadav,J. 2. 3. The facts necessary for disposal of this appeal as culled out are as under:-\ni. A First Information Report (in short F.I.R.) was registered at Crime No.926 of 1981\non the basis of written report presented by Ramesh Chand son of Ram Saran at Police\nStation Kotwali Hardoi on 22.11.1981 at about 4:45 P.M.. In the written report it was\nalleged that on 22.11.1981 at about 3:00 P.M. the uncle of the complainant went to his\npaddy-field and found that the cattle of Raj Kumar were grazing and destroying the\npaddy-crop. His uncle after ousting the cattle from the field went to house of Raj\nKumar at about 3:30 P.M. to make a complaint about the same, there Raj Kumar and\nRaj Kishore met and when his uncle complained about the cattle, they said that he\nwas accusing them falsely. After that Raj Kumar brought a gun and Raj Kishore a\nstick (lathi) from their houses and said just  | Actions: shot, fired, assaulted, killed, threatened | Weapon: knife | Outcome: death | IPC: 302, 323, 34, 325, 313, 99, 307, 161, 96, 300, 304, 100, 437",
+      "metadata": {
+        "case_name": "Raj Kumar And Others vs The State on 28 March, 2022",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "323",
+          "34",
+          "325",
+          "313",
+          "99",
+          "307",
+          "161",
+          "96",
+          "300",
+          "304",
+          "100",
+          "437"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Now only question remains whether the\ndeceased Ram Saran, as he went there to complain about the destruction of paddy-field by the cattle\nof Raj Kumar. Right of private defence of the body and of Property:- Every person has a right,\nsubject to the restrictions contained in Section 99, to defend-Raj Kumar And Others vs The State on 28 March, 2022\nIndian Kanoon - http://indiankanoon.org/doc/108320460/ 7\nFirst- His own body, and the body of any other person, against any offence affecting\nthe human body;\nSecondly- The property, whether movable or immovable, of himself or of any other\nperson, against any act which is an offence falling under the definition of theft,\nrobbery, mischief or criminal trespass, or which is an attempt to commit theft,\nrobbery, mischief or criminal trespass. In adjudging the question as to whether more\nforce than was necessary was used in the prevailing circumstances on the spot, it\nwould be inappropriate, as held by this Court, to adopt tests by detached objectivity\nwhich would be so natural in a court room, or that which would seem absolutely\nnecessary to a perfectly cool bystander. In order to find out whether the right of private defence is available or not, the\ninjuries received by the accused, the imminence of threat to his safety, the injuries\ncaused by the accused and the circumstances whether the accused had time to have\nrecourse to public authorities are all relevant factors to be considered.\"\n11. Now, to consider the question as to whether the exercise of right of private defence by the\nother colleagues. But the question is whether he could go to\nthe extent of causing the death.",
+      "embedding_text": "ISSUE_CHUNK | Case: Raj Kumar And Others vs The State on 28 March, 2022 | Legal issues: Now only question remains whether the\ndeceased Ram Saran, as he went there to complain about the destruction of paddy-field by the cattle\nof Raj Kumar. Right of private defence of the body and of Property:- Every person has a right,\nsubject to the restrictions contained in Section 99, to defend-Raj Kumar And Others vs The State on 28 March, 2022\nIndian Kanoon - http://indiankanoon.org/doc/108320460/ 7\nFirst- His own body, and the body of any other person, against any offence affecting\nthe human body;\nSecondly- The property, whether movable or immovable, of himself or of any other\nperson, against any act which is an offence falling under the definition of theft,\nrobbery, mischief or criminal trespass, or which is an attempt to commit theft,\nrobbery, mischief or criminal trespass. In adjudging the question as to whether more\nforce than was necessary was used in the prevailing circumstances on the spot, it\nwould be inappropriate, as held by this Court, to adopt tests by detached objectivi | IPC: 302, 323, 34, 325, 313, 99, 307, 161, 96, 300, 304, 100, 437",
+      "metadata": {
+        "case_name": "Raj Kumar And Others vs The State on 28 March, 2022",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "323",
+          "34",
+          "325",
+          "313",
+          "99",
+          "307",
+          "161",
+          "96",
+          "300",
+          "304",
+          "100",
+          "437"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Raj Kumar And Others vs The State on 28 March, 2022\nBench: Ramesh Sinha, Saroj Yadav\nHIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH\nAFR\nIN THE HIGH COURT OF JUDICATURE AT ALLAHABAD\nLUCKNOW BENCH, LUCKNOW\nReserved on 04.02.2022\nDelivered on 28.3.2022\nCourt No. Sri Jai Pal Singh, Amicus Curiae for the appellant no.1. (Per Saroj Yadav, J for the Bench)Raj Kumar And Others vs The State on 28 March, 2022\nIndian Kanoon - http://indiankanoon.org/doc/108320460/ 1\n1. This Criminal Appeal has been filed by the appellants/convicts Raj Kumar and Raj Kishore against\nthe judgment and order dated 18.12.1982 passed by Sri I.N. Heard Sri Jai Pal Singh, learned Amicus Curiae for the appellant no.1- Raj Kumar, Sri Sheikh\nlearned A.G.A for the State respondent. Thereafter Raj Kishore\nassaulted his uncle Prabhu Dayal with stick and Raj Kumar fired with gun on his\nfather (the father of the complainant) which hit him and he died on the platform\n(Chabutara) in front of the house of appellants. The appellants\ndenied the charges and claimed to be tried. 7 Constable Sunil Kumar,Raj Kumar And Others vs The State on 28 March, 2022\nIndian Kanoon - http://indiankanoon.org/doc/108320460/ 2\nP.W. He has further stated that he and his brother were going towards field, at the\nsame place his orchard is also there. Prabhu Dayal ran away towards his house abusing the appellant and said that\nhe (Prabhu Dayal) will see him. Thereafter the appellant went to his house. He (appellant Raj\nKumar) was collecting the paddy which was drying in front of his house. On\nnoise raised by him, Ram Sewak, Lakhan and other people of the village came there\nand challenged Ram Saran, thereafter he (Raj Kumar) ran away and hid in the\nvillage.Raj Kumar And Others vs The State on 28 March, 2022\nIndian Kanoon - http://indiankanoon.org/doc/108320460/ 3\nv. Singh who has proved injury\nreport of Prabhu Dayal and has stated that he (Prabhu Dayal) received grievous\ninjury which could be caused on 22.11.1981 at about 3:30 PM with lathi. The learned trial court did not accept the theory of\nexercise of right of private defence put forward by the appellant Raj Kumar.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Raj Kumar And Others vs The State on 28 March, 2022 | Arguments: Raj Kumar And Others vs The State on 28 March, 2022\nBench: Ramesh Sinha, Saroj Yadav\nHIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH\nAFR\nIN THE HIGH COURT OF JUDICATURE AT ALLAHABAD\nLUCKNOW BENCH, LUCKNOW\nReserved on 04.02.2022\nDelivered on 28.3.2022\nCourt No. Sri Jai Pal Singh, Amicus Curiae for the appellant no.1. (Per Saroj Yadav, J for the Bench)Raj Kumar And Others vs The State on 28 March, 2022\nIndian Kanoon - http://indiankanoon.org/doc/108320460/ 1\n1. This Criminal Appeal has been filed by the appellants/convicts Raj Kumar and Raj Kishore against\nthe judgment and order dated 18.12.1982 passed by Sri I.N. Heard Sri Jai Pal Singh, learned Amicus Curiae for the appellant no.1- Raj Kumar, Sri Sheikh\nlearned A.G.A for the State respondent. Thereafter Raj Kishore\nassaulted his uncle Prabhu Dayal with stick and Raj Kumar fired with gun on his\nfather (the father of the complainant) which hit him and he died on the platform\n(Chabutara) in front of the house of appellants. The appel | Intent: intentional | IPC: 302, 323, 34, 325, 313, 99, 307, 161, 96, 300, 304, 100, 437 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Raj Kumar And Others vs The State on 28 March, 2022",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "323",
+          "34",
+          "325",
+          "313",
+          "99",
+          "307",
+          "161",
+          "96",
+          "300",
+          "304",
+          "100",
+          "437"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "After investigation chargesheet was submitted in the Court, the concerned\nMagistrate after taking cognizance committed the case to the Sessions Court for trial. The trial court framed charges against accused persons on 03.09.1982 under Section\n302 read with Section 34 of I.P.C. Subsequently the trial\ncourt amended the charges framed under Section 323 of I.P.C. In the opinion of trial court the medical evidence is in corroboration of ocular\naccount given by the eye-witnesses of the case. The trial court has found his conduct\nsuspicious, prior enmity with Prabhu Dayal was also established and some contradictions were also\nfound. It has further been\nobserved by the trial court that as per the version of Raj Kumar, pistol has been shown in the hands\nof Ram Saran who had fallen from the wall after being shot at Chabutara, but there is no mention of\nit, where that tamancha had gone. Analyzing and concluding as aforesaid, the learned trial court came to the conclusion that\nprosecution has established that Raj Kishore inflicted lathi blow on Prabhu Dayal causing him\ngrievous hurt and accused Raj Kumar fired with his gun at Ram Saran killing him at his Chabutara. The conviction is against the evidence on\nrecord and the findings of the trial court are perverse. 1975 (Gujarat\nHigh Court) c. Hence the theory put forward, of exercise of right of private defence is not worthy of\nacceptance. Hence the appeal should be dismissed. (supra) is also of no help to the appellant\nbecause in this matter the Hon'ble Apex Court held that \"where the accused has not received any\ninjuries and the injuries received by some of defence witness were simple, the accused must be said\nto have exceeded his right of private defence when he had fired six shots indiscriminately, killing\none and injuring six injuries on the others\". Hence the theory of right of private defence should be\nbelieved. Hon'ble the Apex Court in the case of Jangir Singh Vs. This Court in the case of Vidhya Singh v. State of Madhya Pradesh, observed\nthat− \"7.",
+      "embedding_text": "REASONING_CHUNK | Case: Raj Kumar And Others vs The State on 28 March, 2022 | Judicial reasoning: After investigation chargesheet was submitted in the Court, the concerned\nMagistrate after taking cognizance committed the case to the Sessions Court for trial. The trial court framed charges against accused persons on 03.09.1982 under Section\n302 read with Section 34 of I.P.C. Subsequently the trial\ncourt amended the charges framed under Section 323 of I.P.C. In the opinion of trial court the medical evidence is in corroboration of ocular\naccount given by the eye-witnesses of the case. The trial court has found his conduct\nsuspicious, prior enmity with Prabhu Dayal was also established and some contradictions were also\nfound. It has further been\nobserved by the trial court that as per the version of Raj Kumar, pistol has been shown in the hands\nof Ram Saran who had fallen from the wall after being shot at Chabutara, but there is no mention of\nit, where that tamancha had gone. Analyzing and concluding as aforesaid, the learned trial court came to the conclusion that\nprosecution has est | Intent: intentional | Outcome: death | IPC: 302, 323, 34, 325, 313, 99, 307, 161, 96, 300, 304, 100, 437",
+      "metadata": {
+        "case_name": "Raj Kumar And Others vs The State on 28 March, 2022",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "323",
+          "34",
+          "325",
+          "313",
+          "99",
+          "307",
+          "161",
+          "96",
+          "300",
+          "304",
+          "100",
+          "437"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Thakral VIIth Additional Sessions\nJudge, Hardoi in Sessions Trial No.144 of 1982 arising out of Crime No.926 of 1981, Police Station\nKotwali, District Hardoi, wherein the appellants were held guilty and convicted under Section 302\nread with Section 34 of Indian Penal Code, 1860 (in short I.P.C.) with imprisonment for life and a\nfine of Rs.1,000/- (one thousand). The appellants were also convicted under Section 325 read with\nSection 34 of I.P.C. with imprisonment of two years and a fine of Rs.500/-(five hundred). for causing grievous hurt to Prabhu Dayal and\nconvicted accordingly. Hence\naccused Raj Kumar should be acquitted. State of Maharashtra, this Court\nacquitted the accused from charges under Section 302 IPC and modified the conviction to Section\n304 Part I of IPC, as per the following observations:-\n\"5. We also impose a sentence of 7 years' rigorous imprisonment on the appellant;\nthe other part of the sentence to remain as it is.\"\n15. Thus, appeal was partly allowed, conviction under Section 302 was set\naside and the accused was convicted under Section 304 Part I of the IPC.\"\nTo sum up in the present matter appellant Raj Kumar has not alleged that any injury was caused to\nhis person or any other member of his family or damage to his properety by the complainant side. and not\nunder Section 302 of I.P.C. 24. In the case of Jaspal Vs. prosecution has to prove prior meeting\nof minds which may be determined from the conduct of the offenders unfolding itself during the\ncourse of action and the declaration made by them just before mounting the attack and it can also be\ndeveloped at the spur of the moment, but there must be pre-arrangement or premeditation concert.\"\n25. In Jasdeep Singh alias Jassu Vs. The existence of common intention is obviously the duty of the prosecution to\nprove. A mere common intention per se may not attract\nSection 34 IPC, sans an action in furtherance. There may also be cases where a\nperson despite being an active participant in forming a common intention to commit\na crime, may actually withdraw from it later.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Raj Kumar And Others vs The State on 28 March, 2022 | Final judgment: Thakral VIIth Additional Sessions\nJudge, Hardoi in Sessions Trial No.144 of 1982 arising out of Crime No.926 of 1981, Police Station\nKotwali, District Hardoi, wherein the appellants were held guilty and convicted under Section 302\nread with Section 34 of Indian Penal Code, 1860 (in short I.P.C.) with imprisonment for life and a\nfine of Rs.1,000/- (one thousand). The appellants were also convicted under Section 325 read with\nSection 34 of I.P.C. with imprisonment of two years and a fine of Rs.500/-(five hundred). for causing grievous hurt to Prabhu Dayal and\nconvicted accordingly. Hence\naccused Raj Kumar should be acquitted. State of Maharashtra, this Court\nacquitted the accused from charges under Section 302 IPC and modified the conviction to Section\n304 Part I of IPC, as per the following observations:-\n\"5. We also impose a sentence of 7 years' rigorous imprisonment on the appellant;\nthe other part of the sentence to remain as it is.\"\n15. Thus, appeal was partly allowed, conviction un | Judgment: convicted | IPC: 302, 323, 34, 325, 313, 99, 307, 161, 96, 300, 304, 100, 437",
+      "metadata": {
+        "case_name": "Raj Kumar And Others vs The State on 28 March, 2022",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "323",
+          "34",
+          "325",
+          "313",
+          "99",
+          "307",
+          "161",
+          "96",
+          "300",
+          "304",
+          "100",
+          "437"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    }
+  ]
+}

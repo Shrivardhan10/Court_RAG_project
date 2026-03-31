@@ -1,0 +1,217 @@
+{
+  "case_id": "Bipul_Medhi_vs_State_Of_Assam_on_10_August_2006",
+  "case_name": "Bipul Medhi vs State Of Assam on 10 August, 2006",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Ansari\nBench: I.A. Ansari\nJUDGMENT\nP.G. Agarwal, J. 1. Criminal Appeal No. 313/2001 is directed against, the Judgment and Order, dated 4.9.2001,\npassed by the Addl. Sessions Judeg, Kamrup, Guwahati, in Sessions Case No. 135(K)/1997 (GR Case\nNo. 2. The prosecution allegation, in brief, is that accused Bipul Medhi developed some intimacy and\nfriendship with Sewali Kalita and the affair continued for two-and-half years. The accused,\nthereafter, promised to marry Sewali and believing on the said plea, Sewali allowed the accused to\nhave cohabitation with her and as of such cohabitation, she became pregnant. The victim also\nalleged rape, whereupon the accused was tried for commission of offence under Section 493/376,\nIPC. 3. All these cases\nhave been decided by learned Single Judges, but with different views. On reference being made, the\nhon'ble Chief Justice has referred these matters to this Bench and that is how, we have heard\nmatters. appointed as amicus curiae. We have heard the learned P.P. 5. In this batch of cases, we are deciding the question of law referred to us and as such, the facts of\nindividual cases are not considered or referred to. 6. In the case of Joleswar Kalita v. The expression 'to do' or 'omit to do any\nthing in Section 415 apply to a person who is deceived in relation to property though\nthe property may or may not be delivered. It does not apply to the case of the woman\nwho is made to surrender her chastity to a man who deceived her. 8. The facts in Moni Gogoi v. Smti. Sarumani Hazarika, (1992) 2 GLR 113, were also more or less\nidentical and the accused promised the complainant that he would marry her and on that\nunderstanding, he requested her to have sexual intercourse with the complainant, who became\npregnant and gave birth to a child. The accused deserted the complainant and refused to marry her. The learned Single Judge (hon'ble S.D. There may be hundreds of factors for which an\naccused may fail to keep his promise.",
+      "embedding_text": "FACT_CHUNK | Case: Bipul Medhi vs State Of Assam on 10 August, 2006 | Facts: Ansari\nBench: I.A. Ansari\nJUDGMENT\nP.G. Agarwal, J. 1. Criminal Appeal No. 313/2001 is directed against, the Judgment and Order, dated 4.9.2001,\npassed by the Addl. Sessions Judeg, Kamrup, Guwahati, in Sessions Case No. 135(K)/1997 (GR Case\nNo. 2. The prosecution allegation, in brief, is that accused Bipul Medhi developed some intimacy and\nfriendship with Sewali Kalita and the affair continued for two-and-half years. The accused,\nthereafter, promised to marry Sewali and believing on the said plea, Sewali allowed the accused to\nhave cohabitation with her and as of such cohabitation, she became pregnant. The victim also\nalleged rape, whereupon the accused was tried for commission of offence under Section 493/376,\nIPC. 3. All these cases\nhave been decided by learned Single Judges, but with different views. On reference being made, the\nhon'ble Chief Justice has referred these matters to this Bench and that is how, we have heard\nmatters. appointed as amicus curiae. We have heard the learned | Actions: cheated, raped | Weapon: unknown | Outcome: death | IPC: 417, 493, 376, 415, 90, 375, 114A, 420, 95, 81, 87, 88, 89, 91, 92, 100, 104, 106, 93, 469, 499",
+      "metadata": {
+        "case_name": "Bipul Medhi vs State Of Assam on 10 August, 2006",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "417",
+          "493",
+          "376",
+          "415",
+          "90",
+          "375",
+          "114A",
+          "420",
+          "95",
+          "81",
+          "87",
+          "88",
+          "89",
+          "91",
+          "92",
+          "100",
+          "104",
+          "106",
+          "93",
+          "469",
+          "499"
+        ],
+        "actions": [
+          "cheated",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "While hearing the appeal, the learned Single Judge noted that in the facts and circumstances of\nsuch cases on the question whether offence under Section 417, IPC is made out or not, there are\nthree decisions of this court and two of these decisions are contrary to each other. Whether\nthere was consent or not, is to be ascertained only on a careful study of all relevant\ncircumstances. We are inclined to agree with this view, but we must\nadd that there is no straitjacket formula for determining whether consent given by\nthe prosecutrix to sexual intercourse is voluntary, or whether it is given under a\nmisconception of fact. In the ultimate analysis, the tests laid down by the courts\nprovide at best guidance to the judicial mind while considering a question of consent,\nbut the court must, in each case, consider the evidence before it and the surrounding\ncircumstances, before reaching a conclusion, because each case has its own peculiar\nfacts which may have a bearing on the question whether the consent was voluntary,\nor was given under a misconception of fact. State of Bihar , the question posed by the Apex Court\nwas as to whether consent given by a woman believing a man's promise to marry her is a 'consent',\nwhich excludes the offence of rape. The court was cautious enough to add a qualification that no\nstraitjacket formula could be evolved for determining whether the consent was given\nunder a misconception of fact. Whether the tacit consent given by the prosecutrix was the result of a\nmisconception created in her mind as to the intention of the accused to marry her ? The last question raises the allied question, whether the promise to marry, if made by\nthe accused, was false to his knowledge and belief from the very inception and it was\nnever intended to be acted upon by him. The remaining question is whether on the basis of the evidence on record, it is\nreasonably possible to hold that the accused with the fraudulent intention of inducing\nher to sexual intercourse, made a false promise to marry.",
+      "embedding_text": "ISSUE_CHUNK | Case: Bipul Medhi vs State Of Assam on 10 August, 2006 | Legal issues: While hearing the appeal, the learned Single Judge noted that in the facts and circumstances of\nsuch cases on the question whether offence under Section 417, IPC is made out or not, there are\nthree decisions of this court and two of these decisions are contrary to each other. Whether\nthere was consent or not, is to be ascertained only on a careful study of all relevant\ncircumstances. We are inclined to agree with this view, but we must\nadd that there is no straitjacket formula for determining whether consent given by\nthe prosecutrix to sexual intercourse is voluntary, or whether it is given under a\nmisconception of fact. In the ultimate analysis, the tests laid down by the courts\nprovide at best guidance to the judicial mind while considering a question of consent,\nbut the court must, in each case, consider the evidence before it and the surrounding\ncircumstances, before reaching a conclusion, because each case has its own peculiar\nfacts which may have a bearing on the question whether | IPC: 417, 493, 376, 415, 90, 375, 114A, 420, 95, 81, 87, 88, 89, 91, 92, 100, 104, 106, 93, 469, 499",
+      "metadata": {
+        "case_name": "Bipul Medhi vs State Of Assam on 10 August, 2006",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "417",
+          "493",
+          "376",
+          "415",
+          "90",
+          "375",
+          "114A",
+          "420",
+          "95",
+          "81",
+          "87",
+          "88",
+          "89",
+          "91",
+          "92",
+          "100",
+          "104",
+          "106",
+          "93",
+          "469",
+          "499"
+        ],
+        "actions": [
+          "cheated",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Bipul Medhi vs State Of Assam on 10 August, 2006\nEquivalent citations: 2008CRILJ1099, (2007)2GLR200\nAuthor: I.A. and the learned Counsel in each case. Before proceeding further, we may briefly note the various decisions of this court on the subject.Bipul Medhi vs State Of Assam on 10 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/440556/ 1\n7. In absence of such circumstances in the evidence\non record, the conviction and sentence imposed upon the petitioner cannot be\nmaintained.Bipul Medhi vs State Of Assam on 10 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/440556/ 2\n9. State of Tripura (1996) 2 GLR 15, the allegation of Swaraswati Paul was\nthat the accused forcibly cohabited with her by tempting her with his promise to marry her soon\nand, following such cohabitation, she became pregnant and gave birth to a child. However, this court, while convicting the accused under Section 417, IPC, held as\nfollows:\nThis is not to say that the appellant has not committed any offence at all. In fact the\ntrial court has taken a view in the impugned judgment that the appellant was guilty of\nthe offence of cheating under Section 417 of the IPC, but did not convict him for the\nsaid offence as no charge had been iramed against the appellant under Section 417 of\nthe IPC. In my opinion if the trial court had doubts as to which of the two offences the\nthe Criminal P.C., 1973 to convict the appellant of the offence of cheating under\nSection 417 read with Section 415 of the IPC if it appeared from the evidence that he\nhad committed an offence different from that for which he had been charged. The\nevidence of Smti, Saraswati Paul (P.W.2) is clear that he was induced to sexual\nintercourse with the appellant on a word being given by the appellant that he will\nmarry her and such evidence of a woman of society given at the cost of her reputation\ncannot be disbelieved by the court except for extraordinary reasons. 8, has stated, that the woman\nwho delivered the child was identified to him as the wife of Nimai Paul and not\nSaraswati Paul, it was natural for the family of Saraswati Paul to suppress that fact of\ndelivery of the child by Saraswati Paul at that stage.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Bipul Medhi vs State Of Assam on 10 August, 2006 | Arguments: Bipul Medhi vs State Of Assam on 10 August, 2006\nEquivalent citations: 2008CRILJ1099, (2007)2GLR200\nAuthor: I.A. and the learned Counsel in each case. Before proceeding further, we may briefly note the various decisions of this court on the subject.Bipul Medhi vs State Of Assam on 10 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/440556/ 1\n7. In absence of such circumstances in the evidence\non record, the conviction and sentence imposed upon the petitioner cannot be\nmaintained.Bipul Medhi vs State Of Assam on 10 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/440556/ 2\n9. State of Tripura (1996) 2 GLR 15, the allegation of Swaraswati Paul was\nthat the accused forcibly cohabited with her by tempting her with his promise to marry her soon\nand, following such cohabitation, she became pregnant and gave birth to a child. However, this court, while convicting the accused under Section 417, IPC, held as\nfollows:\nThis is not to say that the appellant has not committed any of | Intent: intentional | IPC: 417, 493, 376, 415, 90, 375, 114A, 420, 95, 81, 87, 88, 89, 91, 92, 100, 104, 106, 93, 469, 499 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Bipul Medhi vs State Of Assam on 10 August, 2006",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "417",
+          "493",
+          "376",
+          "415",
+          "90",
+          "375",
+          "114A",
+          "420",
+          "95",
+          "81",
+          "87",
+          "88",
+          "89",
+          "91",
+          "92",
+          "100",
+          "104",
+          "106",
+          "93",
+          "469",
+          "499"
+        ],
+        "actions": [
+          "cheated",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Therefore, in order to bring the case even under the later part of the section,\ndeception must be in relation to property. The appellant, therefore, was guilty of the offence of cheating as\ndefined in Section 415 of the IPC and was accordingly liable for punishment under\nSection 417 of the I.P.C. It may be mentioned that although the decision in Jaleswar Kalita (supra) was given in the year\n1988, it was not brought to the notice of the court in Moni Gogoi (supra) and Moran Chandra Paul\n(supra) and this court had no occasion to consider the same in the later two cases. 123, explaining as to\nwhat the word 'consent' in criminal law conveys, observed as follows:\nA mere act of helpless resignation in the face of inevitable compulsion, quiescence,\nnon-resistance, or passive giving in, when volitional faculty is either clouded by fear\nor vitiated by duress, cannot be deemed to be 'consent' as understood in law. 1535, the Calcutta High Court\nconcluded as follows:\nThe failure to keep the promise at a future uncertain date due to reasons not very\nclear on the evidence does not always amount to a misconception of fact at the\ninception of the act itself. Mango Ram , the Apex Court held as follows:\nThe evidence as a whole indicates that there was resistance by the prosecutrix and\nthere was no voluntary participation by her for the sexual act. State of Karnataka , the Apex Court considered the earlier decisions on the\nsubject and held as follows:\nIt, therefore, appears that the consensus of judicial opinion is in favour of the view\nthat the consent given by the prosecutrix to sexual intercourse with a person with\nwhom she is deeply in love on a promise that he would marry her on a later date,\ncannot be said to be given under a misconception of fact. She knew, as we have observed\nearlier, that her marriage with the appellant was difficult on account of caste\nconsiderations. There, therefore, a distinct possibility, of which she was clearly\nconscious, that the marriage may not take place at all despite the promise of theBipul Medhi vs State Of Assam on 10 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/440556/ 5\nor had reason to believe, that the prosecutrix had consented to having sexual\nintercourse with him only as a consequence of her belief, based on his promise, that\nthey will get married in due course.",
+      "embedding_text": "REASONING_CHUNK | Case: Bipul Medhi vs State Of Assam on 10 August, 2006 | Judicial reasoning: Therefore, in order to bring the case even under the later part of the section,\ndeception must be in relation to property. The appellant, therefore, was guilty of the offence of cheating as\ndefined in Section 415 of the IPC and was accordingly liable for punishment under\nSection 417 of the I.P.C. It may be mentioned that although the decision in Jaleswar Kalita (supra) was given in the year\n1988, it was not brought to the notice of the court in Moni Gogoi (supra) and Moran Chandra Paul\n(supra) and this court had no occasion to consider the same in the later two cases. 123, explaining as to\nwhat the word 'consent' in criminal law conveys, observed as follows:\nA mere act of helpless resignation in the face of inevitable compulsion, quiescence,\nnon-resistance, or passive giving in, when volitional faculty is either clouded by fear\nor vitiated by duress, cannot be deemed to be 'consent' as understood in law. 1535, the Calcutta High Court\nconcluded as follows:\nThe failure to keep the promis | Intent: intentional | Outcome: death | IPC: 417, 493, 376, 415, 90, 375, 114A, 420, 95, 81, 87, 88, 89, 91, 92, 100, 104, 106, 93, 469, 499",
+      "metadata": {
+        "case_name": "Bipul Medhi vs State Of Assam on 10 August, 2006",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "417",
+          "493",
+          "376",
+          "415",
+          "90",
+          "375",
+          "114A",
+          "420",
+          "95",
+          "81",
+          "87",
+          "88",
+          "89",
+          "91",
+          "92",
+          "100",
+          "104",
+          "106",
+          "93",
+          "469",
+          "499"
+        ],
+        "actions": [
+          "cheated",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "209/97), whereby the accused appellant Bipul Medhi was convicted under Section 417, IPC and\nsentenced to rigorous 'imprisonment for six months and to pay fine of Rs, 1,000 in default further\nimprisonment for two months. On conclusion of the, trial, the learned trial court convicted the accused-appellant as aforesaid. State of Assam (1988) 1 GLR 128, the question raised was that the\nprosecutrix could not have surrendered to the petitioner, if she was not deceived and as the\nprosecutrix had suffered damage or harm in body, mind and reputation due to deception, the\noffence of cheating under Section 415, IPC is made out hon'ble Sangma, J, declined to accept, the\nabove submission and held that the petitioner could not be convicted for cheating under the penal\nlaw and it was held as follows:\nSection 415/417, IPC come under Chapter XVII - Offenses against property. Roy, J, as his lordship then was) set aside the order of\nconviction and acquitted the accused holding, inter alia, as follows:\nThere is no evidence on record that at the time of making such promise/ assurance or\nat the time of cohabitation, petitioners made such promise to the complainant that he\nwould marry her with knowledge that ultimately he would not marry to complainant. Had the petitioner made the promise honestly and bona fide during or before the\nalleged intercourse then the petitioner could be convicted under Section, 417 IPC for\nhis failure to keep the promise. The trial court\nconvicted the accused under Section 376, IPC and this court, on consideration of the evidence on\nrecord, held that cohabitation was with the consent of the prosecutrix and as such, no offence of\nrape is made out. - Whoever cheats shall be punished with\nimprisonment of either description for a term which may extend to one year or with\nfine, or with both. 31. I must, however,\nhasten to add that mere failure of an accused to keep to his promise of marriage, on a future date,\nwill not be sufficient proof, in the absence of anything more, that the promise made by the accused\nwas never intended to be acted upon by him.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Bipul Medhi vs State Of Assam on 10 August, 2006 | Final judgment: 209/97), whereby the accused appellant Bipul Medhi was convicted under Section 417, IPC and\nsentenced to rigorous 'imprisonment for six months and to pay fine of Rs, 1,000 in default further\nimprisonment for two months. On conclusion of the, trial, the learned trial court convicted the accused-appellant as aforesaid. State of Assam (1988) 1 GLR 128, the question raised was that the\nprosecutrix could not have surrendered to the petitioner, if she was not deceived and as the\nprosecutrix had suffered damage or harm in body, mind and reputation due to deception, the\noffence of cheating under Section 415, IPC is made out hon'ble Sangma, J, declined to accept, the\nabove submission and held that the petitioner could not be convicted for cheating under the penal\nlaw and it was held as follows:\nSection 415/417, IPC come under Chapter XVII - Offenses against property. Roy, J, as his lordship then was) set aside the order of\nconviction and acquitted the accused holding, inter alia, as follows:\nTh | Judgment: convicted | IPC: 417, 493, 376, 415, 90, 375, 114A, 420, 95, 81, 87, 88, 89, 91, 92, 100, 104, 106, 93, 469, 499",
+      "metadata": {
+        "case_name": "Bipul Medhi vs State Of Assam on 10 August, 2006",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "417",
+          "493",
+          "376",
+          "415",
+          "90",
+          "375",
+          "114A",
+          "420",
+          "95",
+          "81",
+          "87",
+          "88",
+          "89",
+          "91",
+          "92",
+          "100",
+          "104",
+          "106",
+          "93",
+          "469",
+          "499"
+        ],
+        "actions": [
+          "cheated",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

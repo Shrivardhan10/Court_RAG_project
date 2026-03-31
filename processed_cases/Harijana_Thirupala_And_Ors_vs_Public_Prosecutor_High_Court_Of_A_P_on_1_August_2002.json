@@ -1,0 +1,127 @@
+{
+  "case_id": "Harijana_Thirupala_And_Ors_vs_Public_Prosecutor_High_Court_Of_A_P_on_1_August_2002",
+  "case_name": "Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Harijana Thirupala And Ors. Patil\nBench: Doraiswamy Raju, Shivaraj V. Patil\nJUDGMENT\nShivraj V. Patil, J. 1. 2. In brief, according to the prosecution, the deceased Kuruva Naganna purchased a house site from\non a Harijana Madanna and erected a kottam and was running a hotel in it. Appellants 1 and 2 are\nthe neighbours of the deceased. The deceased desired to sell the said site owning to losses sustained\nby him in running the hotel. On 17.7.1991, while the deceased, PWs 1 and 2, wife\nand daughter respectively, were in their kottam, the third parties came to see the site in order to\npurchase it and proposed to come the next day to settle the bargain. on 1 August, 2002\nIndian Kanoon - http://indiankanoon.org/doc/44660839/ 1\nabout 6.00 p.m. and questioned the deceased as the why he proposed to sell the said site to others\nignoring them. The deceased asserted that he had every right to sell the site to any person of his\nchoice, being its owner. On this, there were exchange of words between the deceased and the\nhis knees. The deceased fell down after receiving injuries. 3 came\narmed wit crow-bar and beat the deceased three or four times on his head. The incident was\nwitnessed by PWs 1 and 2. After assaulting the deceased, the appellants left the scene of offence with\ntheir weapons. PW-3, son of the deceased, had gone for Hamali work. After coming to know about\nthe incident, PW-4, the mother of the deceased, rushed to the scene and PWs 1 and 2 narrated about\nthe incident to her. At about 9.00 p.m., PW-3 came there and found the dead body of his father lying\non the road near the house and he was told about the incident by PWs 1 and 2. Thereafter, PWs 1 to\n3 proceeded to Kallur police station where PW-1 orally reported about the occurrence to PW-7, the\nSub-Inspector of Police, at about 1.30 p.m. The report was reduced into writing and a case as Crime\nNo. 70/91 was registered under Section 302 IPC.",
+      "embedding_text": "FACT_CHUNK | Case: Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of | Facts: Harijana Thirupala And Ors. Patil\nBench: Doraiswamy Raju, Shivaraj V. Patil\nJUDGMENT\nShivraj V. Patil, J. 1. 2. In brief, according to the prosecution, the deceased Kuruva Naganna purchased a house site from\non a Harijana Madanna and erected a kottam and was running a hotel in it. Appellants 1 and 2 are\nthe neighbours of the deceased. The deceased desired to sell the said site owning to losses sustained\nby him in running the hotel. On 17.7.1991, while the deceased, PWs 1 and 2, wife\nand daughter respectively, were in their kottam, the third parties came to see the site in order to\npurchase it and proposed to come the next day to settle the bargain. on 1 August, 2002\nIndian Kanoon - http://indiankanoon.org/doc/44660839/ 1\nabout 6.00 p.m. and questioned the deceased as the why he proposed to sell the said site to others\nignoring them. The deceased asserted that he had every right to sell the site to any person of his\nchoice, being its owner. On this, there were exchange of words between  | Actions: assaulted, attacked, threatened | Weapon: unknown | Outcome: death | IPC: 302, 34",
+      "metadata": {
+        "case_name": "Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The leaned Sessions\nJudge expressed doubt whether PW-3 accompanied PWs 1 and 2 to police station as spoken to by\nthem inasmuch as PW-7 did not examine him at the police station. Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of\nA.P., ... on 1 August, 2002\nEquivalent citations: AIR2002SC2821, 2002(2)ALD(CRI)383,\n2002(2)ALT(CRI)175, 2002CRILJ3751, 2002(3)CRIMES87(SC),\nJT2002(5)SC551, 2002(5)SCALE434, , [2002]SUPP1SCR379,\nAIR 2002 SUPREME COURT 2821, 2002 (6) SCC 470, 2002 AIR SCW 3199,\n(2002) 5 JT 551 (SC), 2002 (4) SLT 602, 2002 CRILR(SC&MP) 661, 2002 (8) SRJ\n57, 2002 (5) SCALE 434, 2002 CRILR(SC MAH GUJ) 661, 2002 (5) JT 551, 2002\n(3) LRI 553, 2002 SCC(CRI) 1370, (2002) 3 JLJR 132, (2002) 3 EASTCRIC 1,\n(2002) SC CR R 740, (2002) 3 ALLCRILR 834, (2002) 46 MAD LJ(CRI) 1077,\n(2002) 3 RAJ CRI C 699, (2002) 3 RECCRIR 861, (2002) 3 SCJ 674, (2002) 3\nCURCRIR 104, (2002) 5 SUPREME 229, (2002) 3 ALLCRIR 2420, (2002) 5\nSCALE 434, (2002) 45 ALLCRIC 488, (2003) 1 BLJ 113, (2003) 1 CAL HN 136,\n(2002) 3 CHANDCRIC 14, (2002) 3 CRIMES 87, 2002 (2) ALD(CRL) 383, 2002 (2)\nANDHLT(CRI) 175 SC\nAuthor: Shivraj V.",
+      "embedding_text": "ISSUE_CHUNK | Case: Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of | Legal issues: The leaned Sessions\nJudge expressed doubt whether PW-3 accompanied PWs 1 and 2 to police station as spoken to by\nthem inasmuch as PW-7 did not examine him at the police station. Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of\nA.P., ... on 1 August, 2002\nEquivalent citations: AIR2002SC2821, 2002(2)ALD(CRI)383,\n2002(2)ALT(CRI)175, 2002CRILJ3751, 2002(3)CRIMES87(SC),\nJT2002(5)SC551, 2002(5)SCALE434, , [2002]SUPP1SCR379,\nAIR 2002 SUPREME COURT 2821, 2002 (6) SCC 470, 2002 AIR SCW 3199,\n(2002) 5 JT 551 (SC), 2002 (4) SLT 602, 2002 CRILR(SC&MP) 661, 2002 (8) SRJ\n57, 2002 (5) SCALE 434, 2002 CRILR(SC MAH GUJ) 661, 2002 (5) JT 551, 2002\n(3) LRI 553, 2002 SCC(CRI) 1370, (2002) 3 JLJR 132, (2002) 3 EASTCRIC 1,\n(2002) SC CR R 740, (2002) 3 ALLCRILR 834, (2002) 46 MAD LJ(CRI) 1077,\n(2002) 3 RAJ CRI C 699, (2002) 3 RECCRIR 861, (2002) 3 SCJ 674, (2002) 3\nCURCRIR 104, (2002) 5 SUPREME 229, (2002) 3 ALLCRIR 2420, (2002) 5\nSCALE 434, (2002) 45 ALLCRIC 488, (2003) 1 BLJ 113, (2003) 1 CA | IPC: 302, 34",
+      "metadata": {
+        "case_name": "Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Appellants 1 and 2 insisted that he should sell the site to them and\nthreatened him that he should not sell the same to others except them. Appellants 1 & 2 came there atHarijana Thirupala And Ors. Thereafter, the appellant No. The learned Sessions Judge, on the basis of material placed on record, framed charge against all\nthe appellants under Section 302 IPC and tried them for the said offence. The State filed appeal before the High Court challenging the order of acquittal made by the\nlearned Sessions Judge. The appellants, being aggrieved by the impugned judgment and order, have approached this\nCourt in the appeal. On the other hand, the learned counsel for the State made submissions supporting the impugned\njudgment more or less on the reasons given by the High Court in the impugned judgment. PWs 1-3 could not say\nthe name of the vendor and other details such as plot number, survey number etc.; though the PWs 1\nand 2 stated that third parties came to see the site, they could not tell their names and the said fact\ndoes not find place in Exbt. 3 besides the names of appellants 1\nand 2. PW-1 deposed that appellant No. 3 is their neighbour but she did not know his name; she\nmerely stated before the police that besides appellants 1 and 2, one Muslim attacked her husband. Admittedly, identification parade was not held and PWs 1 and 2 identified appellants No. On behalf of the appellants, it was contended that the name of appellant No. The learned Sessions Judge has stated in the judgment\nthat no evidentiary value could be given to the testimony of PWs 1 ad 2 as to identification of\nevidence of PWs 1 and 2 that several independent persons of the locality witnesses the occurrenceHarijana Thirupala And Ors. The principles to be kept in ind in our system of administration of criminal justice are stated and\nrestated in several decisions of this Court. It appears to us that the High Court while doing so, did not\nbear in mind the well-settled principles stated above as to what should be the approach in reversing\nan order of acquittal and under that circumstances it should be reversed.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of | Arguments: Appellants 1 and 2 insisted that he should sell the site to them and\nthreatened him that he should not sell the same to others except them. Appellants 1 & 2 came there atHarijana Thirupala And Ors. Thereafter, the appellant No. The learned Sessions Judge, on the basis of material placed on record, framed charge against all\nthe appellants under Section 302 IPC and tried them for the said offence. The State filed appeal before the High Court challenging the order of acquittal made by the\nlearned Sessions Judge. The appellants, being aggrieved by the impugned judgment and order, have approached this\nCourt in the appeal. On the other hand, the learned counsel for the State made submissions supporting the impugned\njudgment more or less on the reasons given by the High Court in the impugned judgment. PWs 1-3 could not say\nthe name of the vendor and other details such as plot number, survey number etc.; though the PWs 1\nand 2 stated that third parties came to see the site, they could not tell | Intent: intentional | IPC: 302, 34 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "vs Public Prosecutor, High Court Of\nA.P., ... on 1 August, 2002\nEquivalent citations: AIR2002SC2821, 2002(2)ALD(CRI)383,\n2002(2)ALT(CRI)175, 2002CRILJ3751, 2002(3)CRIMES87(SC),\nJT2002(5)SC551, 2002(5)SCALE434, , [2002]SUPP1SCR379,\nAIR 2002 SUPREME COURT 2821, 2002 (6) SCC 470, 2002 AIR SCW 3199,\n(2002) 5 JT 551 (SC), 2002 (4) SLT 602, 2002 CRILR(SC&MP) 661, 2002 (8) SRJ\n57, 2002 (5) SCALE 434, 2002 CRILR(SC MAH GUJ) 661, 2002 (5) JT 551, 2002\n(3) LRI 553, 2002 SCC(CRI) 1370, (2002) 3 JLJR 132, (2002) 3 EASTCRIC 1,\n(2002) SC CR R 740, (2002) 3 ALLCRILR 834, (2002) 46 MAD LJ(CRI) 1077,\n(2002) 3 RAJ CRI C 699, (2002) 3 RECCRIR 861, (2002) 3 SCJ 674, (2002) 3\nCURCRIR 104, (2002) 5 SUPREME 229, (2002) 3 ALLCRIR 2420, (2002) 5\nSCALE 434, (2002) 45 ALLCRIC 488, (2003) 1 BLJ 113, (2003) 1 CAL HN 136,\n(2002) 3 CHANDCRIC 14, (2002) 3 CRIMES 87, 2002 (2) ALD(CRL) 383, 2002 (2)\nANDHLT(CRI) 175 SC\nAuthor: Shivraj V. Thus, there were ill-feelings\nbetween the deceased and appellants 1 and 2. vs Public Prosecutor, High Court Of A.P., ... The trial court, after\nappreciating the evidence brought before it and looking to the infirmities appearing in the case,\nconcluded that the prosecution could not bring home the guilt of the accused beyond reasonable\ndoubt. The High Court by the impugned judgment upset the order of acquittal\nmade by the trial court. vs Public Prosecutor, High Court Of A.P., ... on 1 August, 2002\nIndian Kanoon - http://indiankanoon.org/doc/44660839/ 2\nSessions Judge having regard to the infirmities recorded sound reasons for not relying upon the\nevidence of PWs 1 and 2, the so called eye-witnesses; the High Court was not right and justified in\ntaking a contrary view lightly brushing aside the reasons given by the trial court; while disturbing\nthe order of acquittal, the High Court failed to keep in view the well-settled principles of justice laid\ndown by this Court. This being the position, in our view, the trial court was right in\nholding that the motive part was not proved. vs Public Prosecutor, High Court Of A.P., ...",
+      "embedding_text": "REASONING_CHUNK | Case: Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of | Judicial reasoning: vs Public Prosecutor, High Court Of\nA.P., ... on 1 August, 2002\nEquivalent citations: AIR2002SC2821, 2002(2)ALD(CRI)383,\n2002(2)ALT(CRI)175, 2002CRILJ3751, 2002(3)CRIMES87(SC),\nJT2002(5)SC551, 2002(5)SCALE434, , [2002]SUPP1SCR379,\nAIR 2002 SUPREME COURT 2821, 2002 (6) SCC 470, 2002 AIR SCW 3199,\n(2002) 5 JT 551 (SC), 2002 (4) SLT 602, 2002 CRILR(SC&MP) 661, 2002 (8) SRJ\n57, 2002 (5) SCALE 434, 2002 CRILR(SC MAH GUJ) 661, 2002 (5) JT 551, 2002\n(3) LRI 553, 2002 SCC(CRI) 1370, (2002) 3 JLJR 132, (2002) 3 EASTCRIC 1,\n(2002) SC CR R 740, (2002) 3 ALLCRILR 834, (2002) 46 MAD LJ(CRI) 1077,\n(2002) 3 RAJ CRI C 699, (2002) 3 RECCRIR 861, (2002) 3 SCJ 674, (2002) 3\nCURCRIR 104, (2002) 5 SUPREME 229, (2002) 3 ALLCRIR 2420, (2002) 5\nSCALE 434, (2002) 45 ALLCRIC 488, (2003) 1 BLJ 113, (2003) 1 CAL HN 136,\n(2002) 3 CHANDCRIC 14, (2002) 3 CRIMES 87, 2002 (2) ALD(CRL) 383, 2002 (2)\nANDHLT(CRI) 175 SC\nAuthor: Shivraj V. Thus, there were ill-feelings\nbetween the deceased and appellants 1 and 2. vs Publi | Intent: intentional | Outcome: death | IPC: 302, 34",
+      "metadata": {
+        "case_name": "Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2002"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "In this appeal, the appellants are assailing the judgment of the High Court by which the order of\nacquittal passed by the trial court was set aside and they were convicted for the offence under\nSection 302 read with Section 34 IPC and sentenced to undergo imprisonment for life. In that view, not finding the accused guilty under Section 302 IPC, giving them benefit of\ndoubt, acquitted them. The High Court disagreed with the reasons given and findings recorded by\nthe learned Sessions Judge and found the appellants guilty of committing offence punishable under\nSection 302 read with Section 34 IPC and consequently sentenced them to undergo imprisonment\nfor life. The learned counsel for the appellants urged that the High Court manifestly erred in setting aside\nthe well-considered order of acquittal passed by the trial court; the order of acquittal could not be\ndisturbed merely because the High Court could take a different view when it was not shown that\neither reasons recorded or appreciation of evidence by the trial court were neither perverse nor\nuntenable nor any material evidence was ignored; the case registered by the police was only for\noffence under Section 302 IPC and the charge was framed by the trial court under Section 302 IPC\nonly and not read with Section 34 IPC; the High Court applied Section 34 IPC and convicted all the\nto establish motive; PWs 1 and 2 being related to the deceased were interested and looking to the\ncontradictions and omission in their statements coupled with their conduct, their evidence could not\nbe believed; further the evidence of the Doctor, PW-6, contradicts the evidence of PW-1 in regard to\nthe very over act or assault by the appellants 1 and 2; though several eye-witnesses were available,\nnone of them were examined by the prosecution which was fatal to the prosecution case; the learnedHarijana Thirupala And Ors. The case was\nregistered in the police station for an offence under Section 302 IPC. 3. 18. In the light of aforementioned reasons and discussions and to do substantial justice, the\nimpugned judgment and order is set aside and that of the trial court is restored.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of | Final judgment: In this appeal, the appellants are assailing the judgment of the High Court by which the order of\nacquittal passed by the trial court was set aside and they were convicted for the offence under\nSection 302 read with Section 34 IPC and sentenced to undergo imprisonment for life. In that view, not finding the accused guilty under Section 302 IPC, giving them benefit of\ndoubt, acquitted them. The High Court disagreed with the reasons given and findings recorded by\nthe learned Sessions Judge and found the appellants guilty of committing offence punishable under\nSection 302 read with Section 34 IPC and consequently sentenced them to undergo imprisonment\nfor life. The learned counsel for the appellants urged that the High Court manifestly erred in setting aside\nthe well-considered order of acquittal passed by the trial court; the order of acquittal could not be\ndisturbed merely because the High Court could take a different view when it was not shown that\neither reasons recorded or appreciati | Judgment: convicted | IPC: 302, 34",
+      "metadata": {
+        "case_name": "Harijana Thirupala And Ors. vs Public Prosecutor, High Court Of",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2002"
+      }
+    }
+  ]
+}

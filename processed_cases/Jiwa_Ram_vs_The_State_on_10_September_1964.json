@@ -1,0 +1,152 @@
+{
+  "case_id": "Jiwa_Ram_vs_The_State_on_10_September_1964",
+  "case_name": "Jiwa Ram vs The State on 10 September, 1964",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Chhangani, J. 1. 2. The facts leading to the prosecution of the appellant and two other persons, Roop Singh-his\nfather-and Mst. Deceased Kalyansingh and the injured Sughadsingh Pw/3 and the three accused were all\nresidents of village Noorpur. The accused Roopsingh is the uncle of Sughadsingh and the deceased\nKalyansingh (alias Kaluva). It is said that relations between the accused and the deceased and\nSughadsingh had not been happy for some years past. The prosecution case further is that in the\nevening of i3th March, 1963, a she-buffalo of Sughadsingh caused some damage to the fodder of\nRoopsingh and Jiwaram in consequence of which Jeewaram and Mst. Bhudevi belaboured Mst. Bhanwari Pw/5 mother of Sughadsingh and Mst. Draupadi--wife of Kalyansingh. Sughadsingh was\nDot in the village but was at Bharatpur in connection with his service in Central India Machine\nManufacturing Company, When he arrived in the village in the morning of 14th March, 1963, Mst. Bhanwari and Mst. Draupadi narrated to him the incident which had happened the previous\nevening. Thereupon Sughadsingh went to Roopsingh to protest. Roopsingh is reported to have said\nthat till then he had belaboured his mother and sister-in-law but now he would belabour\nSughadsingh also. Sughadsingh then went to the common 'baithak' and sat there. After a while, all\nthe three accused came armed with lathi and spear and assaulted Sughadsingh. Kaluva, the\ndeceased, also happened to arrive on the scene and the three accused, it is alleged, inflicted injuries\nboth upon Sughadsingh and Kaluva. Kaluva on receiving the injuries fell on the ground and died on\nthe spot. The case was tried by the\nAdditional Sessions Judge, Bharatpur. 4. The prosecution examined ten witnesses to prove its case. The Additional Sessions Judge held that Jiwaram inflicted injuries to Sughadsingh. He also held\nthat Jiwaram inflicted three spear blows to the deceased Kaluva, He, however, held that the other\ntwo accused did not inflict any injuries to the deceased Kaluva as long as Kaluva was alive. According to the Additional Sessions Judge if they caused any injuries, they had been inflicted after\nKaluva had died.",
+      "embedding_text": "FACT_CHUNK | Case: Jiwa Ram vs The State on 10 September, 1964 | Facts: Chhangani, J. 1. 2. The facts leading to the prosecution of the appellant and two other persons, Roop Singh-his\nfather-and Mst. Deceased Kalyansingh and the injured Sughadsingh Pw/3 and the three accused were all\nresidents of village Noorpur. The accused Roopsingh is the uncle of Sughadsingh and the deceased\nKalyansingh (alias Kaluva). It is said that relations between the accused and the deceased and\nSughadsingh had not been happy for some years past. The prosecution case further is that in the\nevening of i3th March, 1963, a she-buffalo of Sughadsingh caused some damage to the fodder of\nRoopsingh and Jiwaram in consequence of which Jeewaram and Mst. Bhudevi belaboured Mst. Bhanwari Pw/5 mother of Sughadsingh and Mst. Draupadi--wife of Kalyansingh. Sughadsingh was\nDot in the village but was at Bharatpur in connection with his service in Central India Machine\nManufacturing Company, When he arrived in the village in the morning of 14th March, 1963, Mst. Bhanwari and Mst. Draupadi narrate | Actions: assaulted | Weapon: lathi | Outcome: death | IPC: 304, 323, 302, 34, 300, 299, 342, 324, 3",
+      "metadata": {
+        "case_name": "Jiwa Ram vs The State on 10 September, 1964",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "304",
+          "323",
+          "302",
+          "34",
+          "300",
+          "299",
+          "342",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1964"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The witness did not\nexpress any opinion as to whether the injuries received by the deceased Kaluva were sufficient in\nthe' ordinary course of nature to cause death to invite the applicability of Sections 300 and 302,\nIndian Penal Code, or they were likely in the ordinary course of nature to cause death to invite the\napplicability of Sections 299 and 304, Indian Penal Code. It will be proper to observe in\nthis connectionthat the Public Prosecutors should be careful in examining medical witnesses and\nshould bring on record the opinion of the Doctor as to whether the injuries in a given case were\nsufficient in the ordinary course of nature to cause death or, were in the ordinary course of natureJiwa Ram vs The State on 10 September, 1964\nIndian Kanoon - http://indiankanoon.org/doc/1518979/ 2\nlikely to cause death. In that case, a question arose whether the shoes recovered\nfrom the house of the accused belonged to the accused. This ground relied upon by the\nAdditional Sessions Judge being not available a question arises whether there can be any other good\nand cogent ground for preferring one set of the contradictory statements of the prosecution\nthe statement at the investigating stage might have been on account of either slip of tongue on the\npart of the witnesses or on account of slip of pen on the part of the investigating officer who\nbasis. Looking to the mode and purpose of exaggeration I consider that the accused should be\ngiven benefit only in respect of the controversy as to whether he used the spear or not during the\ncourse of the incident. It may be remarked here that having regard to the definition of the word \"proved\"\nin Section 3 of the Evidence Act in considering the question whether a particular fact is proved or\nnot the Court should primarily consider whether there is a requisite degree of probability of the fact\nhaving existed on a consideration of the various matters properly brought before it and it should not\noverstress the need of accuracy in the statements of witnesses.",
+      "embedding_text": "ISSUE_CHUNK | Case: Jiwa Ram vs The State on 10 September, 1964 | Legal issues: The witness did not\nexpress any opinion as to whether the injuries received by the deceased Kaluva were sufficient in\nthe' ordinary course of nature to cause death to invite the applicability of Sections 300 and 302,\nIndian Penal Code, or they were likely in the ordinary course of nature to cause death to invite the\napplicability of Sections 299 and 304, Indian Penal Code. It will be proper to observe in\nthis connectionthat the Public Prosecutors should be careful in examining medical witnesses and\nshould bring on record the opinion of the Doctor as to whether the injuries in a given case were\nsufficient in the ordinary course of nature to cause death or, were in the ordinary course of natureJiwa Ram vs The State on 10 September, 1964\nIndian Kanoon - http://indiankanoon.org/doc/1518979/ 2\nlikely to cause death. In that case, a question arose whether the shoes recovered\nfrom the house of the accused belonged to the accused. This ground relied upon by the\nAdditional Sessions Judge being  | IPC: 304, 323, 302, 34, 300, 299, 342, 324, 3",
+      "metadata": {
+        "case_name": "Jiwa Ram vs The State on 10 September, 1964",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "304",
+          "323",
+          "302",
+          "34",
+          "300",
+          "299",
+          "342",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1964"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Jiwa Ram vs The State on 10 September, 1964\nEquivalent citations: AIR1965RAJ32, 1965CRILJ219\nJUDGMENT\nL.N. Bhudevi- his wife- may be briefly stated as follows:\n3. A report was lodged by Kanjra Pw/6 at the Police Outpost, Chiksana, and the same was\nforwarded to the Police Station, Sevar, After investigation the Police submitted a charge sheet\nagainst the appellant and Roopsingh and Mst. The accused denied their guilt but led\nno evidence in defence.Jiwa Ram vs The State on 10 September, 1964\nIndian Kanoon - http://indiankanoon.org/doc/1518979/ 1\n5. The convictions and sentences of the appellants have been challenged in this appeal and the first\nsubmission made by Mr. According to him, \"the death was due to shock and haemorrhage\nby the above mentioned injuries, which were ante-mortem in nature.\" His further statement was\nthat the external injuries Nos. The Doctor no doubt says that the death\nwas caused on account of shock and haemorrhage on account of the above mentioned injuries but\nthis statement cannot be considered equivalent to the statement that \"the injuries by themselves\nwere in the ordinary course of nature likely to cause death\". It will also be proper if the Judges exercise proper care in recording the\nstatements of the medical witnesses and see that proper dates and materials are brought on record. Be\nthat as it may on the statement of the Doctor as it stands, the conviction of the appellant under\nSection 304, Part II, Indian Penal Code', is not safe and cannot be sustained. In dealing with this\nsubmission, it may be stated at the outset that the Additional Sessions Judge has himself noted in\nhis judgment that the three eye witnesses. A\nreference to the statement of Sughadsingh at the police stage (Ex. His statement at the police stage as is on\nthe record is to the effect that Jiwaram gave a latht blow and then he also gave spear blows. Chatterji suggests that the mention of Jiwaram as the person who gave spear blows in the police\nstatement is a mere slip of pen.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Jiwa Ram vs The State on 10 September, 1964 | Arguments: Jiwa Ram vs The State on 10 September, 1964\nEquivalent citations: AIR1965RAJ32, 1965CRILJ219\nJUDGMENT\nL.N. Bhudevi- his wife- may be briefly stated as follows:\n3. A report was lodged by Kanjra Pw/6 at the Police Outpost, Chiksana, and the same was\nforwarded to the Police Station, Sevar, After investigation the Police submitted a charge sheet\nagainst the appellant and Roopsingh and Mst. The accused denied their guilt but led\nno evidence in defence.Jiwa Ram vs The State on 10 September, 1964\nIndian Kanoon - http://indiankanoon.org/doc/1518979/ 1\n5. The convictions and sentences of the appellants have been challenged in this appeal and the first\nsubmission made by Mr. According to him, \"the death was due to shock and haemorrhage\nby the above mentioned injuries, which were ante-mortem in nature.\" His further statement was\nthat the external injuries Nos. The Doctor no doubt says that the death\nwas caused on account of shock and haemorrhage on account of the above mentioned injuries but\nthis | Intent: intentional | IPC: 304, 323, 302, 34, 300, 299, 342, 324, 3 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Jiwa Ram vs The State on 10 September, 1964",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "304",
+          "323",
+          "302",
+          "34",
+          "300",
+          "299",
+          "342",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1964"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Bhudevi under Section 302 read with Section 34,\nIndian Penal Code, in the Court of Munsif Magistrate, Bharatpur. After enquiry, the Munsif\nMagistrate committed them to the Court of Sessions Judge, Bharatpur. I\nwould have recalled the Doctor for further examination in this Court but in the view which I propose\nto take of the evidence, I consider-it unnecessary to recall the Doctor for furtker examination. It may be observed in passing that the Additional\nSessions Judge is not completely accurate when he accepts the position that all the three witnesses\nhad stated in police that Jiwaram only gave lathy blows and Roopsingh gave spear blows. There being thus two contradictory versions, a question arises\nwhether the version as given at the trial stage can be safely accepted or not? Their Lordships of the Supreme Court\ndisapproved the mode adopted by the Additional Sessions Judge and made the following\nobservations:\n\"The learned Additional Sessions Judge was certainly not entitled to allow his view or\nobservation to take the place of evidence because such view or observation of his\ncould not be tested by cross-examination and the accused would certainly not be in a\nposition to furnish any explanation in regard to the same.\"Jiwa Ram vs The State on 10 September, 1964\nIndian Kanoon - http://indiankanoon.org/doc/1518979/ 4\nThus both on principle as also on the authority of cases the reasoning adopted by the Additional\ndifficult to support the reasoning of the Additional Sessions Judge. It appears to me that the prosecution at a later stage thought it proper to impute serious part to the\njunior and younger member of the family and thus came forward with the changed version. The liability of Jiwaram, therefore, even under Section 324, Indian Penal Code,\nalso is not established,\n9. Mr, Chatterji contended that the statements of the eye witnesses at the trial to the effect that\nJiwaram inflicted spear blows having been discarded, there remains no legal basis for convicting the\naccused Jiwaram inflicted injuries with a lathi and, therefore, they do not provide any basis forJiwa Ram vs The State on 10 September, 1964\nIndian Kanoon - http://indiankanoon.org/doc/1518979/ 5\nconviction under Section 323, Indian Penal Code.",
+      "embedding_text": "REASONING_CHUNK | Case: Jiwa Ram vs The State on 10 September, 1964 | Judicial reasoning: Bhudevi under Section 302 read with Section 34,\nIndian Penal Code, in the Court of Munsif Magistrate, Bharatpur. After enquiry, the Munsif\nMagistrate committed them to the Court of Sessions Judge, Bharatpur. I\nwould have recalled the Doctor for further examination in this Court but in the view which I propose\nto take of the evidence, I consider-it unnecessary to recall the Doctor for furtker examination. It may be observed in passing that the Additional\nSessions Judge is not completely accurate when he accepts the position that all the three witnesses\nhad stated in police that Jiwaram only gave lathy blows and Roopsingh gave spear blows. There being thus two contradictory versions, a question arises\nwhether the version as given at the trial stage can be safely accepted or not? Their Lordships of the Supreme Court\ndisapproved the mode adopted by the Additional Sessions Judge and made the following\nobservations:\n\"The learned Additional Sessions Judge was certainly not entitled to allow h | Intent: intentional | Outcome: death | IPC: 304, 323, 302, 34, 300, 299, 342, 324, 3",
+      "metadata": {
+        "case_name": "Jiwa Ram vs The State on 10 September, 1964",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "304",
+          "323",
+          "302",
+          "34",
+          "300",
+          "299",
+          "342",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1964"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "This is an appeal by Jiwaram against the judgment dated 13th July, 1964 of the Additional\nSessions Judge, Bharatpur, convicting him under Section 304 Part II, Indian Penal Code, and\nsentencing him to three years rigorous imprisonment and a fine of Rs. 500/-, in default, 3 months\nfurther rigorous imprisonment, and under Section 323, Indian Penal Code to a fine of Rs. 100/-, in\ndefault, month's further rigorous imprisonment. In the result, he acquitted the two co-accused\nRoopsingh and Mst. Bhudevi, and convicted the appellant and sentenced him as stated earlier. 16. I may also point out that sufficient\nassurance is lent to the testimony of these witnesses by the circumstances indicated by me at an\nearlier stage. I am quite satisfied that Jiwaram was concerned in the assault that was made upon\nSughadsingh and Kaluva and that he was at least responsible for the infliction of simple injuries to\nthem. that the accused had no common intention and had only similar intention, is not proper and that it\nshould be set aside and that I should have recourse to Section 34, Indian Penal Code, in convicting\nthe appellant. Mr. Chatterji, however, submitted that the acquittal of the two co-accused Roopsingh\nand Mst. Bhudevi having remained unchallenged and final, there can be no recourse to Section 34,\nIndian Penal Code, on an assumed complicity of the accused. The Deputy Government Advocate relied upon my\ndecision reported in Mohan Lal v. 18. 19. Now, I take up the question of sentence. The Deputy Government Advocate suggests that as\nKaluva died in consequence of the injuries received by him in the course of the assault in which the\nshould be awarded. Mr. Chatterji, however, contends that when the use of spear by the accused is\nignored, the conduct of the accused cannot be treated as of very serious nature. Balancing all\nconsiderations, I consider a sentence of six months rigorous imprisonment for simple hurt in\nrespect of injury to Kaluva, will meet the ends of justice. No sentence of fine is necessary.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Jiwa Ram vs The State on 10 September, 1964 | Final judgment: This is an appeal by Jiwaram against the judgment dated 13th July, 1964 of the Additional\nSessions Judge, Bharatpur, convicting him under Section 304 Part II, Indian Penal Code, and\nsentencing him to three years rigorous imprisonment and a fine of Rs. 500/-, in default, 3 months\nfurther rigorous imprisonment, and under Section 323, Indian Penal Code to a fine of Rs. 100/-, in\ndefault, month's further rigorous imprisonment. In the result, he acquitted the two co-accused\nRoopsingh and Mst. Bhudevi, and convicted the appellant and sentenced him as stated earlier. 16. I may also point out that sufficient\nassurance is lent to the testimony of these witnesses by the circumstances indicated by me at an\nearlier stage. I am quite satisfied that Jiwaram was concerned in the assault that was made upon\nSughadsingh and Kaluva and that he was at least responsible for the infliction of simple injuries to\nthem. that the accused had no common intention and had only similar intention, is not proper and  | Judgment: convicted | IPC: 304, 323, 302, 34, 300, 299, 342, 324, 3",
+      "metadata": {
+        "case_name": "Jiwa Ram vs The State on 10 September, 1964",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "304",
+          "323",
+          "302",
+          "34",
+          "300",
+          "299",
+          "342",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1964"
+      }
+    }
+  ]
+}

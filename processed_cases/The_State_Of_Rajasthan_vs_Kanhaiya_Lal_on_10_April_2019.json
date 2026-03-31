@@ -1,0 +1,127 @@
+{
+  "case_id": "The_State_Of_Rajasthan_vs_Kanhaiya_Lal_on_10_April_2019",
+  "case_name": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Shah\nBench: M.R. Shah, L. SHAH, J. Leave granted. 2. 3. A First Information Report was lodged by one Dalip Kumar at Police Station Nimbaheda being\nFIR No.32/2008. It was alleged that on 26.01.2008, when PW−5 – Ms. Kailashi was returning from\nthe farm, in her presence, Kanhaiya Lal attacked Raju (deceased) on his head by an axe. As per PW−\n5, Raju fell down and, on her cries, other persons reached the spot. The accused ran away. That Raju\nsuccumbed to the injuries. After concluding the investigation, the Investigating Officer filed the\ncharge−sheet against the accused for the offence punishable under Section 302 of the IPC. That the prosecution examined as many as 17\nwitnesses including PW1 Dr. K. Kailashi;\nPW15 Dr. Anees Ahmed, who performed the Post−Mortem Report of the deceased. Through the\nwitnesses who were examined, the prosecution brought on record the documentary evidence\nincluding the Injury Report (Exhibit P1) as well as the Post−Mortem Report. submitted that in the facts and circumstances of the case, the High Court has materially erred in\naltering the conviction of the accused from Section 302 of the IPC to Section 304 Part I of the IPC. that the main reason given by the High Court while converting the conviction from Section 302 of\nthe IPC to Section 304 Part I is that the deceased died because of a single injury caused on his head. head. It is\nsubmitted that as per the medical evidence, the head injury was sufficient to cause death in ordinary\ncourse of nature. another reason given by the High Court is that there was an altercation between the accused and the\ndeceased and so it can be said that in the circumstances of the case there was no intention to causeThe State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/6958949/ 2\ndeath on the part of the accused−appellant. Union of India ; Ashokkumar Magabhai Vankar v. Section 302 of the IPC to Section 304 Part I of the IPC, the High Court has given cogent reasons and\nhas considered the relevant circumstances and thereafter has come to the conclusion that the\nintention of the accused cannot be said to be to cause death of the deceased.",
+      "embedding_text": "FACT_CHUNK | Case: The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019 | Facts: Shah\nBench: M.R. Shah, L. SHAH, J. Leave granted. 2. 3. A First Information Report was lodged by one Dalip Kumar at Police Station Nimbaheda being\nFIR No.32/2008. It was alleged that on 26.01.2008, when PW−5 – Ms. Kailashi was returning from\nthe farm, in her presence, Kanhaiya Lal attacked Raju (deceased) on his head by an axe. As per PW−\n5, Raju fell down and, on her cries, other persons reached the spot. The accused ran away. That Raju\nsuccumbed to the injuries. After concluding the investigation, the Investigating Officer filed the\ncharge−sheet against the accused for the offence punishable under Section 302 of the IPC. That the prosecution examined as many as 17\nwitnesses including PW1 Dr. K. Kailashi;\nPW15 Dr. Anees Ahmed, who performed the Post−Mortem Report of the deceased. Through the\nwitnesses who were examined, the prosecution brought on record the documentary evidence\nincluding the Injury Report (Exhibit P1) as well as the Post−Mortem Report. submitted that in the facts and  | Actions: attacked | Weapon: axe | Outcome: death | IPC: 304, 302, 313, 300",
+      "metadata": {
+        "case_name": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "304",
+          "302",
+          "313",
+          "300"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "axe",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Asif, who issued the Injury Report (Exhibit P1); PW5 Ms. This Court considered whether the case would fall under Section 302 or Exception 4 of Section 300\nof the IPC. 6.5 A similar view is taken by this Court in the recent decision in the case of Leela Ram alias Leela\nDhar (Supra) and after considering catena of decisions of this Court on the issue on hand i.e. The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\n288, 2019 CRI LJ 3266, (2019) 201 ALLINDCAS 129, (2019) 2 CRIMES 117,\n(2019) 2 MAD LJ(CRI) 697, 2019 (2) SCC (CRI) 674, (2019) 2 UC 891, (2019) 3\nALLCRILR 285, 2019 (4) KCCR SN 295 (SC), 2019 (5) SCC 639, (2019) 6\nAuthor: M.R.",
+      "embedding_text": "ISSUE_CHUNK | Case: The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019 | Legal issues: Asif, who issued the Injury Report (Exhibit P1); PW5 Ms. This Court considered whether the case would fall under Section 302 or Exception 4 of Section 300\nof the IPC. 6.5 A similar view is taken by this Court in the recent decision in the case of Leela Ram alias Leela\nDhar (Supra) and after considering catena of decisions of this Court on the issue on hand i.e. The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\n288, 2019 CRI LJ 3266, (2019) 201 ALLINDCAS 129, (2019) 2 CRIMES 117,\n(2019) 2 MAD LJ(CRI) 697, 2019 (2) SCC (CRI) 674, (2019) 2 UC 891, (2019) 3\nALLCRILR 285, 2019 (4) KCCR SN 295 (SC), 2019 (5) SCC 639, (2019) 6\nAuthor: M.R. | IPC: 304, 302, 313, 300",
+      "metadata": {
+        "case_name": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "304",
+          "302",
+          "313",
+          "300"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "axe",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\n288, 2019 CRI LJ 3266, (2019) 201 ALLINDCAS 129, (2019) 2 CRIMES 117,\n(2019) 2 MAD LJ(CRI) 697, 2019 (2) SCC (CRI) 674, (2019) 2 UC 891, (2019) 3\nALLCRILR 285, 2019 (4) KCCR SN 295 (SC), 2019 (5) SCC 639, (2019) 6\nAuthor: M.R. 645 OF 2019\n(ARISING OUT OF SLP (CRL.) NO.626 OF 2015)\nThe State of Rajasthan ..Appellant\nVersus\nKanhaiya Lal ..Respondents\nJUDGMENT\nM.R. The State preferred this appeal against theThe State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/6958949/ 1\nsaid decision. That thereafter, the\nstatement of accused under Section 313 of the CrPC was recorded, in which accused stated that he\nhas been falsely implicated. No evidence/witness was produced by the accused in defence. 3.1 Feeling aggrieved and dissatisfied with the Judgment and Order of conviction and sentence\npassed by the learned Sessions Court, the respondent−original accused preferred Appeal before the\nHigh Court being Criminal Appeal No.303 of 2009. It is submitted that however the High Court has not, at all, considered the fact that the accused gave\nthe blow by an axe, a deadly weapon and that too on the vital part of the body, i.e. It is submitted that, therefore, the High Court is not justified in converting the\nconviction from Section 302 of the IPC to Section 304 Part I of the IPC. State of Gujarat ; Vijay Ramkrishan Gaikwad v. State of Maharashtra , and a recent\ndecision of this Court in the case of State of Rajasthan v. It is submitted that the\nHigh Court has considered the relevant circumstances and thereafter has converted the conviction\nfrom Section 302 of the IPC to Section 304 Part I of the IPC and therefore the same is not required\nto be interfered with by this Court. In the circumstances of the case, it is proved beyond doubt that Rajmal had died\nbecause of single injury caused on his head by accused− appellant Kanhaiya Lal by an\naxe.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019 | Arguments: The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\n288, 2019 CRI LJ 3266, (2019) 201 ALLINDCAS 129, (2019) 2 CRIMES 117,\n(2019) 2 MAD LJ(CRI) 697, 2019 (2) SCC (CRI) 674, (2019) 2 UC 891, (2019) 3\nALLCRILR 285, 2019 (4) KCCR SN 295 (SC), 2019 (5) SCC 639, (2019) 6\nAuthor: M.R. 645 OF 2019\n(ARISING OUT OF SLP (CRL.) NO.626 OF 2015)\nThe State of Rajasthan ..Appellant\nVersus\nKanhaiya Lal ..Respondents\nJUDGMENT\nM.R. The State preferred this appeal against theThe State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/6958949/ 1\nsaid decision. That thereafter, the\nstatement of accused under Section 313 of the CrPC was recorded, in which accused stated that he\nhas been falsely implicated. No evidence/witness was produced by the accused in defence. 3.1 Feeling aggrieved and dissatisfied with the Judgment and Order of conviction and sentence\npassed by the learned Sessions Court, the respondent−original accused preferred Appeal before the\nHigh Cour | Intent: intentional | IPC: 304, 302, 313, 300 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "304",
+          "302",
+          "313",
+          "300"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "axe",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Nageswara Rao\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. This appeal arises from the Judgement and Order of a Division Bench of the High Court of\nJudicature for Rajasthan dated 23.05.2014 passed in Criminal Appeal No.303 of 2009. That the\naccused pleaded not guilty and therefore he came to be tried by the learned Sessions Court for the\noffence punishable under Section 302 of the IPC. Hence, the present appeal by the\nState against the impugned Judgment and Order passed by the High Court, converting the\nconviction of the accused to Section 304 Part I of the IPC in place of conviction under Section 302 of\nthe IPC. It is\nthe High Court is manifestly perverse and is totally contrary to the evidence on record and therefore\nthe interference of this Court is warranted. 4.4 Making the above submissions and relying upon the decisions of this Court in the case of Arun\nRaj v. 6.1 We have considered in detail the Judgment and Order passed by learned Sessions Court as well\nas the impugned Judgment and Order passed by the High Court. However, in an appeal preferred\nby the accused, the High Court has converted the conviction from Section 302 of the IPC to Section\n304 Part I of the IPC. While doing so, the High Court has assigned the following reasons in\nparagraph 15:\n“15. 6.3 In the case of Arun Raj (Supra) this Court observed and held that there is no fixed\nrule that whenever a single blow is inflicted, Section 302 would not be attracted. It is\nobserved and held by this Court in the aforesaid decision that nature of weapon used\nand vital part of the body where blow was struck, prove beyond reasonable doubt the\nintention of the accused to cause death of deceased. It is further observed and held by\nthis Court that once these ingredients are proved, it is irrelevant whether there was a\nsingle blow struck or multiple blows. It is further\nobserved by this Court that such attack could be none other than for causing death of victim.",
+      "embedding_text": "REASONING_CHUNK | Case: The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019 | Judicial reasoning: Nageswara Rao\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. This appeal arises from the Judgement and Order of a Division Bench of the High Court of\nJudicature for Rajasthan dated 23.05.2014 passed in Criminal Appeal No.303 of 2009. That the\naccused pleaded not guilty and therefore he came to be tried by the learned Sessions Court for the\noffence punishable under Section 302 of the IPC. Hence, the present appeal by the\nState against the impugned Judgment and Order passed by the High Court, converting the\nconviction of the accused to Section 304 Part I of the IPC in place of conviction under Section 302 of\nthe IPC. It is\nthe High Court is manifestly perverse and is totally contrary to the evidence on record and therefore\nthe interference of this Court is warranted. 4.4 Making the above submissions and relying upon the decisions of this Court in the case of Arun\nRaj v. 6.1 We have considered in detail the Judgment and Order passed by learned | Intent: intentional | Outcome: death | IPC: 304, 302, 313, 300",
+      "metadata": {
+        "case_name": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "304",
+          "302",
+          "313",
+          "300"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "axe",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The High\nCourt, while allowing the appeal filed by the respondent, convicted him under Section 304 Part I of\nthe Indian Penal Code, 16:22:35 IST Reason:\ninstead of Section 302 of the IPC. The High Court sentenced the respondent to\nundergo 8 years RI and to pay a fine of Rs.1000/− and in default of payment of fine,\nto suffer one month simple imprisonment. That\nthereafter, on appreciation of evidence, the learned Sessions Court held the accused guilty for the\noffence punishable under Section 302 of the IPC and sentenced him to undergo life imprisonment\nwith fine of Rs.1000/− and in default to pay the fine, to undergo further one month SI. By the impugned Judgment and Order, the High\nCourt has partly allowed the appeal preferred by the accused and has convicted the accused under\nSection 304 Part I of the IPC instead of Section 302 of the IPC. It is submitted that however the High Court has failed to\nconsider and appreciate/reappreciate the fact that at the time when the incident had taken place,\nthere was no altercation at all and the altercation was before few hours and not at the time when the\nsubmitted that in the facts and circumstances of the case and the injuries sustained by the deceased,\nit was a clear case of murder within the definition of Section 300 of the IPC and as such the learned\nSessions Court rightly convicted the accused for the offence under Section 302 of the IPC. Leela Ram alias Leela Dhar dated\n13.12.2018 in Criminal Appeal No.1441 of 2013, it is prayed to allow the present appeal and set aside\nthe impugned Judgment and Order passed by the High Court and to restore the Judgment and\nOrder of conviction and sentence passed by the learned Sessions Court. The learned Sessions Court\nconvicted the accused for the offence under Section 302 of the IPC. in case\nof a single blow, whether a case falls under section 302 or section 304 Part I or section 304 Part II,\nthis Court reversed the judgment of the High Court (in that case also the judgment impugned was\nfrom the Rajasthan High Court) and convicted the accused for the offence under section 302 of the\nIPC.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019 | Final judgment: The High\nCourt, while allowing the appeal filed by the respondent, convicted him under Section 304 Part I of\nthe Indian Penal Code, 16:22:35 IST Reason:\ninstead of Section 302 of the IPC. The High Court sentenced the respondent to\nundergo 8 years RI and to pay a fine of Rs.1000/− and in default of payment of fine,\nto suffer one month simple imprisonment. That\nthereafter, on appreciation of evidence, the learned Sessions Court held the accused guilty for the\noffence punishable under Section 302 of the IPC and sentenced him to undergo life imprisonment\nwith fine of Rs.1000/− and in default to pay the fine, to undergo further one month SI. By the impugned Judgment and Order, the High\nCourt has partly allowed the appeal preferred by the accused and has convicted the accused under\nSection 304 Part I of the IPC instead of Section 302 of the IPC. It is submitted that however the High Court has failed to\nconsider and appreciate/reappreciate the fact that at the time when the incident had taken | Judgment: convicted | IPC: 304, 302, 313, 300",
+      "metadata": {
+        "case_name": "The State Of Rajasthan vs Kanhaiya Lal on 10 April, 2019",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "304",
+          "302",
+          "313",
+          "300"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "axe",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    }
+  ]
+}

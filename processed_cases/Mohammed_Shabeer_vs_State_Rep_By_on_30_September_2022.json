@@ -1,0 +1,152 @@
+{
+  "case_id": "Mohammed_Shabeer_vs_State_Rep_By_on_30_September_2022",
+  "case_name": "Mohammed Shabeer vs State Rep. By on 30 September, 2022",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "by\nInspector of Police,\nAnamalai Police Station,\nCrime No.211/2019 ... 2. The case of the prosecution is that during the year 2018, when the victim girl was going to buy\nsome items to market, the accused had followed the victim girl and took a photo. Furthermore, the\naccused has edited the photo to portray as though the victim girl is too close with accused. Thereafter, the accused in an humiliating manner shared the photo in whatsapp group and also in\nthe Facebook. On 24.06.2019 at about 4 pm, when the victim girl's father questioned the accused for\nthe act of humiliation, the accused scolded the victim girl's father in a filthy language and threatened\nto kill him. https://www.mhc.tn.gov.in/judis\n3. 4. On questioning under Section 313 Cr.P.C., the accused denied the charges as false and\npleaded not guilty. On the side of the accused, no oral and documentary evidence were marked. 5. Aggrieved over the said order of conviction and sentence, the present Criminal\nAppeal has been filed. not established its case as projected by it. 7. The learned Additional Public Prosecutor submitted that the victim girl is only aged about 13\nyears. https://www.mhc.tn.gov.in/judis\n8. 9. The specific case of the prosecution is that when the victim girl was going to buy some items to\nmarket street, the accused had followed the victim girl and took a photograph and created the image\nas if she was too close with accused and had circulated the photographs in social media through his\nmobile phone. One of the paternal uncle of victim girl informed to the PW-1, who is the father of the\nvictim girl. When PW-1 questioned the accused about the act of humiliation, the accused scolded\nhim in a filthy language and threatened to kill him. Based on his complaint, the respondent Police\nregistered a case for the offences punishable under Sections as stated above. 10. 11. As far as the charge under Section 13 r/w 14 of the Pocso Act is concerned, the prosecution has\nnot substantiated by producing the photo, though the cell phone was alleged to have recovered from\nthe accused, the SIM card was not recovered and the same has not been properly tested with the\ncompetent authority and expert opinion has not been obtained.",
+      "embedding_text": "FACT_CHUNK | Case: Mohammed Shabeer vs State Rep. By on 30 September, 2022 | Facts: by\nInspector of Police,\nAnamalai Police Station,\nCrime No.211/2019 ... 2. The case of the prosecution is that during the year 2018, when the victim girl was going to buy\nsome items to market, the accused had followed the victim girl and took a photo. Furthermore, the\naccused has edited the photo to portray as though the victim girl is too close with accused. Thereafter, the accused in an humiliating manner shared the photo in whatsapp group and also in\nthe Facebook. On 24.06.2019 at about 4 pm, when the victim girl's father questioned the accused for\nthe act of humiliation, the accused scolded the victim girl's father in a filthy language and threatened\nto kill him. https://www.mhc.tn.gov.in/judis\n3. 4. On questioning under Section 313 Cr.P.C., the accused denied the charges as false and\npleaded not guilty. On the side of the accused, no oral and documentary evidence were marked. 5. Aggrieved over the said order of conviction and sentence, the present Criminal\nAppeal has been filed. no | Actions: threatened | Weapon: unknown | Outcome: unknown | IPC: 374, 294, 313, 354D, 13, 14, 506, 164, 29",
+      "metadata": {
+        "case_name": "Mohammed Shabeer vs State Rep. By on 30 September, 2022",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "374",
+          "294",
+          "313",
+          "354D",
+          "13",
+          "14",
+          "506",
+          "164",
+          "29"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "https://www.mhc.tn.gov.in/judis\nFurthermore, though the other witnesses, PW-3 and PW-4 have stated that they had seen\nphotographs, which have been circulated in the social media, they have not produced any material\nevidence and even the prosecution has not stated anything about the picture which is alleged to be\navailable in the cell phone and the trial Court has not discussed anything about as to whether they\nhave recovered the photograph of the victim from the cell phone of the accused. Mohammed Shabeer vs State Rep. By on 30 September, 2022\nAuthor: P.Velmurugan\nBench: P.Velmurugan\nCrl.A.No.610 of 2021\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 30.09.2022\nCORAM\nTHE HONOURABLE MR.JUSTICE P.VELMURUGAN\nCrl.A.No.610 of 2021\nMohammed Shabeer ... Appellant\nVs.",
+      "embedding_text": "ISSUE_CHUNK | Case: Mohammed Shabeer vs State Rep. By on 30 September, 2022 | Legal issues: https://www.mhc.tn.gov.in/judis\nFurthermore, though the other witnesses, PW-3 and PW-4 have stated that they had seen\nphotographs, which have been circulated in the social media, they have not produced any material\nevidence and even the prosecution has not stated anything about the picture which is alleged to be\navailable in the cell phone and the trial Court has not discussed anything about as to whether they\nhave recovered the photograph of the victim from the cell phone of the accused. Mohammed Shabeer vs State Rep. By on 30 September, 2022\nAuthor: P.Velmurugan\nBench: P.Velmurugan\nCrl.A.No.610 of 2021\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 30.09.2022\nCORAM\nTHE HONOURABLE MR.JUSTICE P.VELMURUGAN\nCrl.A.No.610 of 2021\nMohammed Shabeer ... Appellant\nVs. | IPC: 374, 294, 313, 354D, 13, 14, 506, 164, 29",
+      "metadata": {
+        "case_name": "Mohammed Shabeer vs State Rep. By on 30 September, 2022",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "374",
+          "294",
+          "313",
+          "354D",
+          "13",
+          "14",
+          "506",
+          "164",
+          "29"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Mohammed Shabeer vs State Rep. Appellant\nVs. State Rep. Respondents\nPRAYER: Criminal Appeal is filed under Section 374(2) of Cr.P.C., to set\naside the judgment made in Spl.C.C.No.46 of 2020, dated 04.05.2021 on the\nfile of the Sessions Judge, Special Court for Exclusive Trial of Cases under\nPOCSO Act, Coimbatore. For Appellant : Mr.S.N.Arunkumar\nFor Respondent : Mr.S.Sugendran APP\n1/14\nhttps://www.mhc.tn.gov.in/judis\nCrl.A.No.610 of 2021Mohammed Shabeer vs State Rep. By on 30 September, 2022\nIndian Kanoon - http://indiankanoon.org/doc/147858899/ 1\nJUDGMENT\nThis Criminal Appeal has been filed by the Appellant/accused as against the order of conviction and\nsentence passed by the learned Sessions Special Judge, Special Court for Exclusive Trial of Cases\nunder POCSO Act, Coimbatore dated 04.05.2021. After investigation charge sheet was laid before the learned Special Court [since the offence is\ncommitted against a child] and the same was taken on file as Spl.CC.No.46 of 2020 and after\ncompleting the formalities framed charges against the accused for the offence as stated above. Though there is no material evidence to prove the charges\nlevelled against the appellant/accused, none of the witnesses have spoken about the alleged\noccurrence except P.W.1, who is the father of the victim girl and since he belongs to a rival political\nparty, in order to take revenge, he foisted the false case against the appellant/accused. Though theMohammed Shabeer vs State Rep. Further, except PW-2, who is the victim girl, no witness had stated that the accused has taken her\nphotograph, however, PW-3, is said to have informed to PW-1 that he has seen the photograph of\nthe appellant with the victim and the appellant had uploaded the same in the social media\n(Facebook and Whatsapp). However the same was not recovered and even from the appellant's cell\nsubmit that in the absence of any materials, it is unsafe to convict the appellant/accused for the\noffence under Section 13 r/w 14(1) of POCSO Act. Heard the learned counsel appearing for the parties and perused the materials placed on record. The State has not preferred any appeal\nagainst the said acquittal, but however, the https://www.mhc.tn.gov.in/judis appellant/accusedMohammed Shabeer vs State Rep.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Mohammed Shabeer vs State Rep. By on 30 September, 2022 | Arguments: Mohammed Shabeer vs State Rep. Appellant\nVs. State Rep. Respondents\nPRAYER: Criminal Appeal is filed under Section 374(2) of Cr.P.C., to set\naside the judgment made in Spl.C.C.No.46 of 2020, dated 04.05.2021 on the\nfile of the Sessions Judge, Special Court for Exclusive Trial of Cases under\nPOCSO Act, Coimbatore. For Appellant : Mr.S.N.Arunkumar\nFor Respondent : Mr.S.Sugendran APP\n1/14\nhttps://www.mhc.tn.gov.in/judis\nCrl.A.No.610 of 2021Mohammed Shabeer vs State Rep. By on 30 September, 2022\nIndian Kanoon - http://indiankanoon.org/doc/147858899/ 1\nJUDGMENT\nThis Criminal Appeal has been filed by the Appellant/accused as against the order of conviction and\nsentence passed by the learned Sessions Special Judge, Special Court for Exclusive Trial of Cases\nunder POCSO Act, Coimbatore dated 04.05.2021. After investigation charge sheet was laid before the learned Special Court [since the offence is\ncommitted against a child] and the same was taken on file as Spl.CC.No.46 of 2020 and after\ncomp | Intent: unknown | IPC: 374, 294, 313, 354D, 13, 14, 506, 164, 29 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Mohammed Shabeer vs State Rep. By on 30 September, 2022",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "374",
+          "294",
+          "313",
+          "354D",
+          "13",
+          "14",
+          "506",
+          "164",
+          "29"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "By on 30 September, 2022\nAuthor: P.Velmurugan\nBench: P.Velmurugan\nCrl.A.No.610 of 2021\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 30.09.2022\nCORAM\nTHE HONOURABLE MR.JUSTICE P.VELMURUGAN\nCrl.A.No.610 of 2021\nMohammed Shabeer ... Therefore, the respondent Police registered the case against the appellant for the offence under\nSections 294(b), 354D(1)(i)&(ii), & 506 (i) IPC and 13 r/w 14(1) of POCSO Act, in Crime No.211 of\n2019. In order to substantiate the charges framed against the accused, on the side of the prosecution\ntotally 12 witnesses were examined as PW-1 to PW-12 and 11 documents were marked as Exs.P.1 to\nExs.P.11 and one material object was marked as MO-1 and one Court document was marked as\nEx.C-1. Therefore, in the absence of the same, the conviction rendered by the trial\nCourt for the offence under Section 13 r/w 14 (1) of the POCSO Act is not legally sustainable. Further, the learned Additional Public Prosecutor submitted that when the victim girl was\ngoing to market street, the accused had followed and took a photograph and created the image as\nthough she was too close with accused and uploaded the same in the facebook and whatsapp group,\ndue to which the father of the victim questioned about the same with the accused and the accused\nscolded using filthy language and threatened him and therefore, PW-1, the father of the victim filed\na complaint before the respondent Police. By on 30 September, 2022\nIndian Kanoon - http://indiankanoon.org/doc/147858899/ 3\nalone has filed the present appeal against the judgment of conviction and sentence passed by the\nTrial Court. Since this Court is an Appellate Court and also final Court of fact finding, it has to re-appreciate\nthe entire evidence and come to the conclusion independently. Therefore, in this regard, this Court directed the prosecution to produce the cell phone and when\nthe same was checked up, there is no such photos in the cell phone. Further, the victim girl is\naged about 13 years only and therefore, the offence is against a child under the definition of POCSO\nAct and therefore, this Court has come to a conclusion that the appellant/accused has committedMohammed Shabeer vs State Rep.",
+      "embedding_text": "REASONING_CHUNK | Case: Mohammed Shabeer vs State Rep. By on 30 September, 2022 | Judicial reasoning: By on 30 September, 2022\nAuthor: P.Velmurugan\nBench: P.Velmurugan\nCrl.A.No.610 of 2021\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 30.09.2022\nCORAM\nTHE HONOURABLE MR.JUSTICE P.VELMURUGAN\nCrl.A.No.610 of 2021\nMohammed Shabeer ... Therefore, the respondent Police registered the case against the appellant for the offence under\nSections 294(b), 354D(1)(i)&(ii), & 506 (i) IPC and 13 r/w 14(1) of POCSO Act, in Crime No.211 of\n2019. In order to substantiate the charges framed against the accused, on the side of the prosecution\ntotally 12 witnesses were examined as PW-1 to PW-12 and 11 documents were marked as Exs.P.1 to\nExs.P.11 and one material object was marked as MO-1 and one Court document was marked as\nEx.C-1. Therefore, in the absence of the same, the conviction rendered by the trial\nCourt for the offence under Section 13 r/w 14 (1) of the POCSO Act is not legally sustainable. Further, the learned Additional Public Prosecutor submitted that when the victim girl was\ngoing to market | Intent: unknown | Outcome: unknown | IPC: 374, 294, 313, 354D, 13, 14, 506, 164, 29",
+      "metadata": {
+        "case_name": "Mohammed Shabeer vs State Rep. By on 30 September, 2022",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "374",
+          "294",
+          "313",
+          "354D",
+          "13",
+          "14",
+          "506",
+          "164",
+          "29"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "On completion of the arguments advanced on either side, the trial Court found that the accused\nwas not guilty for the offence under Sections https://www.mhc.tn.gov.in/judis 294 (b) and 506 (i)\nand acquitted him from the above said charges, however found guilty for the offence punishable\nunder Section 354D(1) (i)&(ii) of IPC and convicted and sentenced to undergo 3 years imprisonment\nand to pay a fine amount of Rs.1000/- in default to undergo 6 months imprisonment and for the\noffence punishable under Section 13 r/w 14 of Pocso Act, the accused was convicted and sentenced\nto undergo 5 years imprisonment and to pay a fine amount of Rs.5,000/-, in default to undergo 1\nyear imprisonment. By on 30 September, 2022\nIndian Kanoon - http://indiankanoon.org/doc/147858899/ 2\ntrial Court convicted the https://www.mhc.tn.gov.in/judis appellant/accused for the offence under\nSection 13 r/w 14 of POCSO Act, no materials have been produced, even though cell phone/MO-1\nwas seized from the appellant, the same was not sent to lab test and no photograph was recovered as\nstated by the prosecution. From the very same materials and evidence, the\ntrial Court had rightly disagreed with the case of the prosecution for the offence under Section\n506(i) and 294(b) and acquitted the accused, however, the trial Court has\nhttps://www.mhc.tn.gov.in/judis wrongly convicted the appellant/accused for the other offence\nunder Section 354D(1)(i)&(ii) of IPC and Section 13 r/w 14(i) of the POCSO Act. Therefore, the\nliable to be set aside. The learned Additional Public Prosecutor submitted that\nthe trial Court had rightly convicted the accused and hence, prayed for confirming the judgment of\nthe trial Court. The Trial Court found\nthat the accused was not guilty for the offence under Sections 294 (b) and 506(i) and acquitted him\nfrom the above said charges, however found guilty of the accused for the offence under Section\n354D(1)\n(i)&(ii) of IPC, convicted and sentence him as referred above. The trial Court also has not\ndiscussed about the same in detail, but based on the evidence of PW-1, PW-2 & PW-3 only,\nconvicted the accused under Section 13 r/w 14 (1) of the POCSO Act.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Mohammed Shabeer vs State Rep. By on 30 September, 2022 | Final judgment: On completion of the arguments advanced on either side, the trial Court found that the accused\nwas not guilty for the offence under Sections https://www.mhc.tn.gov.in/judis 294 (b) and 506 (i)\nand acquitted him from the above said charges, however found guilty for the offence punishable\nunder Section 354D(1) (i)&(ii) of IPC and convicted and sentenced to undergo 3 years imprisonment\nand to pay a fine amount of Rs.1000/- in default to undergo 6 months imprisonment and for the\noffence punishable under Section 13 r/w 14 of Pocso Act, the accused was convicted and sentenced\nto undergo 5 years imprisonment and to pay a fine amount of Rs.5,000/-, in default to undergo 1\nyear imprisonment. By on 30 September, 2022\nIndian Kanoon - http://indiankanoon.org/doc/147858899/ 2\ntrial Court convicted the https://www.mhc.tn.gov.in/judis appellant/accused for the offence under\nSection 13 r/w 14 of POCSO Act, no materials have been produced, even though cell phone/MO-1\nwas seized from the appellant, the  | Judgment: convicted | IPC: 374, 294, 313, 354D, 13, 14, 506, 164, 29",
+      "metadata": {
+        "case_name": "Mohammed Shabeer vs State Rep. By on 30 September, 2022",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "374",
+          "294",
+          "313",
+          "354D",
+          "13",
+          "14",
+          "506",
+          "164",
+          "29"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2022"
+      }
+    }
+  ]
+}

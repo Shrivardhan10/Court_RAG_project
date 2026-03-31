@@ -1,0 +1,137 @@
+{
+  "case_id": "M_Varun_Reddy_vs_The_State_Of_Ap_on_6_July_2018",
+  "case_name": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "The respondent No.1 is a Doctor by profession; he filed a private complaint before the Magistrate for\nthe offence punishable under Sections 403 and 420 of I.P.C. and the same was referred to the police\nby exercising power under Section 156 (3) of Cr.P.C. The relevant allegations made in the charge sheet, in brief, are as\nfollows:\nThe accused is a resident of Hyderabad, who is a professional dog keeper and a pet\nlover. Out of acquaintance between the defacto complainant and the\naccused, they entered into an oral agreement to purchase a good breed dog, for\nbusiness on its productivities. Later, accused purchased \"Sky\"\nnamed German breed dog as per their oral understanding by spending Rs.7,89,000/-\nincluding all expenditure. Having believed the accused, L.W.1 left all formalities on\nhim including the ownership transfer certificate jointly as per the terms and\nconditions of \"The Kennel Club of India\" but the accused wantonly with dishonest\nintention for wrongful gain mutated only his name on the ownership certificate. MSM,J Crl.P_2142_2018 As stated above, the complaint was referred under Section\n156 (3) of Cr.P.C. to the police for investigation and police after investigation filed the\ncharge sheet. The present petition is filed by the petitioner/sole accused on the ground that the allegations made\nin the charge sheet would not constitute any offence punishable under Sections 403 or 420 of I.P.C. When the dispute is with regard to ownership of dog, the allegations made in the complaint or\ncharge sheet would not constitute any offence punishable under Section 403 or 420 of I.P.C. It is\nalso contended that since the respondent No.1 deviated the oral contract between the petitioner and\nthe respondent No.1 and violated the terms and conditions of oral agreement, the remedy open to\nthe respondent No.1 is to approach the Civil Court and claim necessary relief through Civil Court,\ninstead of doing so, the respondent No.1 filed a complaint by abusing process of law and the\nallegations made in the charge sheet would not constitute any offence and prayed to quash the\nproceedings.",
+      "embedding_text": "FACT_CHUNK | Case: M.Varun Reddy vs The State Of Ap., on 6 July, 2018 | Facts: The respondent No.1 is a Doctor by profession; he filed a private complaint before the Magistrate for\nthe offence punishable under Sections 403 and 420 of I.P.C. and the same was referred to the police\nby exercising power under Section 156 (3) of Cr.P.C. The relevant allegations made in the charge sheet, in brief, are as\nfollows:\nThe accused is a resident of Hyderabad, who is a professional dog keeper and a pet\nlover. Out of acquaintance between the defacto complainant and the\naccused, they entered into an oral agreement to purchase a good breed dog, for\nbusiness on its productivities. Later, accused purchased \"Sky\"\nnamed German breed dog as per their oral understanding by spending Rs.7,89,000/-\nincluding all expenditure. Having believed the accused, L.W.1 left all formalities on\nhim including the ownership transfer certificate jointly as per the terms and\nconditions of \"The Kennel Club of India\" but the accused wantonly with dishonest\nintention for wrongful gain mutated only his name  | Actions: cheated | Weapon: unknown | Outcome: fraud | IPC: 482, 403, 420, 156, 415, 155",
+      "metadata": {
+        "case_name": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "482",
+          "403",
+          "420",
+          "156",
+          "415",
+          "155"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "High Court",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "urged in the petition while contended that since the dispute is with regard to ownership of dog, the\nremedy available to the respondent No.1 is to approach the Civil Court and the Criminal Court\ncannot decide such issue, consequently the charge sheet is liable to be quashed as the respondent\nNo.1 gave cloak of criminal liability to the civil wrong. Considering rival contentions and perusing material available on record, the point that arises for\nconsideration is as follows:M.Varun Reddy vs The State Of Ap., on 6 July, 2018\nIndian Kanoon - http://indiankanoon.org/doc/193923358/ 2\n\"Whether the allegations made in the complaint would constitute any offence much\nless the offence punishable under Section 403 and 420 of I.P.C., if not, whether filing\nprivate complaint before the Magistrate is an abuse of process of law giving colour of\ncriminal liability to the civil wrong? If so, whether the proceedings in C.C.No.427 of\n2017 on the file of the Court of the Additional Junior Civil Judge, Chilakaluripet,\nGuntur District, are liable to be quashed? Though, abuse of process of Court and filing a complaint to wreck vengeance is a ground to\nquash the proceedings in view of guidelines issued by the Apex Court in \"State of Haryana v. It is not,\nhowever, necessary that there should be a meticulous analysis of the case, before the trial to find out\nwhether the case would end in conviction or not. The High Court cannot reject the application\nmerely on the ground that the accused can argue legal and factual issues at the time\nof the framing of the charge.",
+      "embedding_text": "ISSUE_CHUNK | Case: M.Varun Reddy vs The State Of Ap., on 6 July, 2018 | Legal issues: urged in the petition while contended that since the dispute is with regard to ownership of dog, the\nremedy available to the respondent No.1 is to approach the Civil Court and the Criminal Court\ncannot decide such issue, consequently the charge sheet is liable to be quashed as the respondent\nNo.1 gave cloak of criminal liability to the civil wrong. Considering rival contentions and perusing material available on record, the point that arises for\nconsideration is as follows:M.Varun Reddy vs The State Of Ap., on 6 July, 2018\nIndian Kanoon - http://indiankanoon.org/doc/193923358/ 2\n\"Whether the allegations made in the complaint would constitute any offence much\nless the offence punishable under Section 403 and 420 of I.P.C., if not, whether filing\nprivate complaint before the Magistrate is an abuse of process of law giving colour of\ncriminal liability to the civil wrong? If so, whether the proceedings in C.C.No.427 of\n2017 on the file of the Court of the Additional Junior Civil Judge, Chi | IPC: 482, 403, 420, 156, 415, 155",
+      "metadata": {
+        "case_name": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "482",
+          "403",
+          "420",
+          "156",
+          "415",
+          "155"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "High Court",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018\nTHE HON'BLE SRI JUSTICE M.SATYANARAYANA MURTHY\nCRIMINAL PETITION NO.2142 OF 2018\nORDER:\nThis criminal petition is filed by petitioner/accused under Section 482 of Criminal Procedure Code\n(for short \"Cr.P.C.\") to quash the proceedings against him in C.C.No.427 of 2017 on the file of the\nCourt of the Additional Junior Civil Judge, Chilakaluripet, Guntur District registered for the offence\npunishable under Sections 403 and 420 of Indian Penal Code (for short \"I.P.C.\"). On reference, police examined 6 witnesses and\nrecorded their statements and finally came to the conclusion that there is material to proceed\nagainst the petitioner and filed charge sheet before the Magistrate for the offence punishable under\nSections 403 and 420 of I.P.C. Accused was introduced to the defacto complainant/respondent No.1 in a dog\nshow at Hyderabad. Then, respondent No.1 obtained hand loan of\nRs.2,00,000/- from L.W.4 and paid Rs.2,10,000/- to the accused at his Pragathi\nNursing Home, Chilakaluripet in the presence of L.Ws.2 and 3 and also further\ntransferred an amount of Rs.1,40,000/- to the bank account of accused on\n10.07.2013 MSM,J Crl.P_2142_2018 through NEFT from his HDFC Bank account\nNo.24371000003306 and in total, respondent No.1 had paid Rs.3,50,000/- to the\naccused towards his share for joint purchase of dog. Having suppressed the mutation of ownership transfer of dog, accused stated to the\ndate of purchase of dog, accused demanded the respondent No.1 money for expenses\non the dog. Accused one way or the other taken money from the respondent No.1\ntowards expenses and maintenance of the dog and lastly, respondent No.1 sent\nRs.12,000/- to the accused towards expenses for dog. Later, respondent No.1 came to\nknow that accused transferred the ownership of dog on his name and getting good\nincome on the dog. Subsequently, respondent No.1 along with L.W.6 went toM.Varun Reddy vs The State Of Ap., on 6 July, 2018\nIndian Kanoon - http://indiankanoon.org/doc/193923358/ 1\nHyderabad in car which was driven by L.W.4 and asked the accused in the presence\nof L.Ws.4 and 6 to return the money spent by him towards the purchase of dog, but\nthe accused refused to return money.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: M.Varun Reddy vs The State Of Ap., on 6 July, 2018 | Arguments: M.Varun Reddy vs The State Of Ap., on 6 July, 2018\nTHE HON'BLE SRI JUSTICE M.SATYANARAYANA MURTHY\nCRIMINAL PETITION NO.2142 OF 2018\nORDER:\nThis criminal petition is filed by petitioner/accused under Section 482 of Criminal Procedure Code\n(for short \"Cr.P.C.\") to quash the proceedings against him in C.C.No.427 of 2017 on the file of the\nCourt of the Additional Junior Civil Judge, Chilakaluripet, Guntur District registered for the offence\npunishable under Sections 403 and 420 of Indian Penal Code (for short \"I.P.C.\"). On reference, police examined 6 witnesses and\nrecorded their statements and finally came to the conclusion that there is material to proceed\nagainst the petitioner and filed charge sheet before the Magistrate for the offence punishable under\nSections 403 and 420 of I.P.C. Accused was introduced to the defacto complainant/respondent No.1 in a dog\nshow at Hyderabad. Then, respondent No.1 obtained hand loan of\nRs.2,00,000/- from L.W.4 and paid Rs.2,10,000/- to the accused at h | Intent: intentional | IPC: 482, 403, 420, 156, 415, 155 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "482",
+          "403",
+          "420",
+          "156",
+          "415",
+          "155"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "High Court",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Thus, the accused with dishonest intention\nencouraged the respondent No.1 to spent money on dog and played fraud by got\nmutating only his name in ownership transfer of dog instead of joint names of\nspent by the respondent No.1 and cheated him for wrongful gain. and prayed to allow the petition and quash the\nproceedings in C.C.No.427 of 2017 on the MSM,J Crl.P_2142_2018 file of the Court of the\nAdditional Junior Civil Judge, Chilakaluripet, Guntur District. Therefore, the material produced before the Court is suffice to conclude that the act done by the\nprima facie. Thus, in total he paid\nRs.3,50,000/- to the petitioner for purchase of Dog, the petitioner purchased the Dog as agreed, but\ngot it registered in his name claiming exclusive ownership over the Dog. Therefore, it is difficult to conclude that the respondent No.1 filed\nprivate complaint with a view to wreck vengeance against the petitioner herein by abusing process of\nlaw. Bhajan Lal\" (referred supra) the Apex Court considered in\ndetail the powers of High Court under Section 482 and the power of the High Court\nto quash criminal proceedings or FIR. Section 482 of the Code of Criminal Procedure empowers the High Court to exercise its inherent\npower to prevent abuse of the process of Court. In that event there would be\nno justification for interference by the High Court as held by the Apex Court in \"Mrs.Dhanalakshmi\nv. the High\nCourt could examine the charge sheet, case diary and other material in the charge\nsheet which by no means can be termed as substantive evidence. However, in\nexercise of power under Section 482 of Cr.P.C., it is not permissible for the High\nCourt to appreciate the evidence as it can only evaluate material documents on record\nto the extent of its prima facie satisfaction about the existence of sufficient ground for\nproceedings against the accused and the court cannot look into materials, the\nacceptability of which is essentially a matter for trial. Law does not prohibit entertaining the petition Under Section 482 Code of\nCriminal Procedure for quashing the charge sheet even before the charges are framed\nor before the application of discharge is filed or even during its pendency of such\napplication before the court concerned.",
+      "embedding_text": "REASONING_CHUNK | Case: M.Varun Reddy vs The State Of Ap., on 6 July, 2018 | Judicial reasoning: Thus, the accused with dishonest intention\nencouraged the respondent No.1 to spent money on dog and played fraud by got\nmutating only his name in ownership transfer of dog instead of joint names of\nspent by the respondent No.1 and cheated him for wrongful gain. and prayed to allow the petition and quash the\nproceedings in C.C.No.427 of 2017 on the MSM,J Crl.P_2142_2018 file of the Court of the\nAdditional Junior Civil Judge, Chilakaluripet, Guntur District. Therefore, the material produced before the Court is suffice to conclude that the act done by the\nprima facie. Thus, in total he paid\nRs.3,50,000/- to the petitioner for purchase of Dog, the petitioner purchased the Dog as agreed, but\ngot it registered in his name claiming exclusive ownership over the Dog. Therefore, it is difficult to conclude that the respondent No.1 filed\nprivate complaint with a view to wreck vengeance against the petitioner herein by abusing process of\nlaw. Bhajan Lal\" (referred supra) the Apex Court considered  | Intent: intentional | Outcome: fraud | IPC: 482, 403, 420, 156, 415, 155",
+      "metadata": {
+        "case_name": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "482",
+          "403",
+          "420",
+          "156",
+          "415",
+          "155"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "High Court",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Dishonest misappropriation of property:- Whoever dishonestly\nmisappropriates or converts to his own use any movable property, shall be punished\nwith imprisonment of either description for a term which may extend two years, or\nwith fine, or with both.\"\nHere, the relationship between the petitioner and respondent No.1 is contractual in nature, but the\nof India\" though it was purchased with the money advanced by MSM,J Crl.P_2142_2018\nmade in the charge sheet would attract the offence punishable under Section 403 of I.P.C. Any document filed along with\nthe petition labelled as evidence without being tested and proved, cannot be\nexamined. Consequently, the petition is liable to be dismissed. In the result, the criminal petition is dismissed. No costs. The miscellaneous petitions pending, if\nany, shall also stand closed. _________________________________________ JUSTICE M.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: M.Varun Reddy vs The State Of Ap., on 6 July, 2018 | Final judgment: Dishonest misappropriation of property:- Whoever dishonestly\nmisappropriates or converts to his own use any movable property, shall be punished\nwith imprisonment of either description for a term which may extend two years, or\nwith fine, or with both.\"\nHere, the relationship between the petitioner and respondent No.1 is contractual in nature, but the\nof India\" though it was purchased with the money advanced by MSM,J Crl.P_2142_2018\nmade in the charge sheet would attract the offence punishable under Section 403 of I.P.C. Any document filed along with\nthe petition labelled as evidence without being tested and proved, cannot be\nexamined. Consequently, the petition is liable to be dismissed. In the result, the criminal petition is dismissed. No costs. The miscellaneous petitions pending, if\nany, shall also stand closed. _________________________________________ JUSTICE M. | Judgment: sentenced | IPC: 482, 403, 420, 156, 415, 155",
+      "metadata": {
+        "case_name": "M.Varun Reddy vs The State Of Ap., on 6 July, 2018",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "482",
+          "403",
+          "420",
+          "156",
+          "415",
+          "155"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "High Court",
+        "year": "2018"
+      }
+    }
+  ]
+}

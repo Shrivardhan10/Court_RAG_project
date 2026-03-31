@@ -1,0 +1,127 @@
+{
+  "case_id": "Nandanam_Nagaraju_vs_The_State_Of_Andhra_Pradesh_on_14_October_2019",
+  "case_name": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Satyanarayana Murthy\nBench: M. Satyanarayana Murthy\nTHE HON'BLE SRI JUSTICE M. SATYANARAYANA MURTHY\nCriminal Petition No.4926 of 2019\nORDER:\nThis petition under Section 482 of Criminal Procedure Code is filed to quash the proceedings in\nF.I.R/Crime No.204 of 2018 of Vetapalem Police Station, Prakasam District, registered for the\noffence punishable under Sections 354D, 509, 506 IPC on the file of I Additional Junior Civil Judge,\nChirala. 2. Her cousin by name Nagaraju, S/o Sambasivarao, R/o\nGujjanagunla, Guntur said that he will marry her and started sending abusive messages to her\nwhatsapp number, so, she blocked his number. She did not inform this to her parents as disputes\nmay arise within their family. Later, Nagaraju called her uncle and informed that he wanted to\nmarry her and told him to inform her to respond to his calls, her uncle reprimanded him and\ninformed to her parents, and his parents said that they will reprimand him. Even then, he did not\nchange his attitude and sent a whatsapp message to her father that he laid a venture and named it as\nNandam Nagamallika, and again her father informed to his parents. Again their parents said that\nthey will reprimand him. Even on 20-11-2018 at about 10.00 AM Nagaraju called her from another\nnumber and said \"Andhe lanja nannu pellichesukomani ennisarlu bedirinchali\" if she did not marry\nhim he will morph her photos and put vulgar messages in the internet and threatened her. 3. 4. The present petition is filed under Section 482 Cr.P.C raising various grounds mainly on the\nground that there are civil disputes between the two families and this complaint was lodged to\nconvert the civil disputes into criminal disputes and that there is no truth in the allegations made\nagainst this petitioner. It is further contended that no material is collected as on date and the\nallegations made in the complaint do not constitute any offence including the offence punishable\nunder Section 354D and prayed to quash the proceedings against this petitioner. 5. 6. 7. It is an admitted fact that the 2nd respondent lodged a complaint with the police.",
+      "embedding_text": "FACT_CHUNK | Case: Nandanam Nagaraju vs The State Of Andhra Pradesh on 14 | Facts: Satyanarayana Murthy\nBench: M. Satyanarayana Murthy\nTHE HON'BLE SRI JUSTICE M. SATYANARAYANA MURTHY\nCriminal Petition No.4926 of 2019\nORDER:\nThis petition under Section 482 of Criminal Procedure Code is filed to quash the proceedings in\nF.I.R/Crime No.204 of 2018 of Vetapalem Police Station, Prakasam District, registered for the\noffence punishable under Sections 354D, 509, 506 IPC on the file of I Additional Junior Civil Judge,\nChirala. 2. Her cousin by name Nagaraju, S/o Sambasivarao, R/o\nGujjanagunla, Guntur said that he will marry her and started sending abusive messages to her\nwhatsapp number, so, she blocked his number. She did not inform this to her parents as disputes\nmay arise within their family. Later, Nagaraju called her uncle and informed that he wanted to\nmarry her and told him to inform her to respond to his calls, her uncle reprimanded him and\ninformed to her parents, and his parents said that they will reprimand him. Even then, he did not\nchange his attitude and sent a  | Actions: threatened | Weapon: unknown | Outcome: unknown | IPC: 482, 354D, 509, 506",
+      "metadata": {
+        "case_name": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "482",
+          "354D",
+          "509",
+          "506"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "On the basis of this report dated 21-11-2018 the police registered the above crime and issued FIR\nfor the offences preferred above. The High Court, being the highest Court of a State should normally refrain\nfrom giving a prima facie decision in a case where the entire facts are incomplete and hazy, more so\nwhen the evidence has not been collected and produced before the Court and the issues involved,\nwhether factual or legal, are of magnitude and cannot be seen in their true perspective without\nsufficient material. The Court is not required to appreciate evidence to conclude whether the materials\nproduced are sufficient or not for convicting the accused. Martin and others3, the Hon'ble Apex Court, while considering the\nguidelines issued by the Apex Court in State of Haryana v.",
+      "embedding_text": "ISSUE_CHUNK | Case: Nandanam Nagaraju vs The State Of Andhra Pradesh on 14 | Legal issues: On the basis of this report dated 21-11-2018 the police registered the above crime and issued FIR\nfor the offences preferred above. The High Court, being the highest Court of a State should normally refrain\nfrom giving a prima facie decision in a case where the entire facts are incomplete and hazy, more so\nwhen the evidence has not been collected and produced before the Court and the issues involved,\nwhether factual or legal, are of magnitude and cannot be seen in their true perspective without\nsufficient material. The Court is not required to appreciate evidence to conclude whether the materials\nproduced are sufficient or not for convicting the accused. Martin and others3, the Hon'ble Apex Court, while considering the\nguidelines issued by the Apex Court in State of Haryana v. | IPC: 482, 354D, 509, 506",
+      "metadata": {
+        "case_name": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "482",
+          "354D",
+          "509",
+          "506"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14\nOctober, 2019\nAuthor: M. The 2nd respondent lodged a report to the police alleging that she completed her B.Tech., and\npreparing for GATE entrance examination. During the course of hearing the learned counsel for petitioner Sri Narra Srinivasa Rao would\ncontend that the crime was registered on 21-11-2018 and issued F.I.R, till date no material was\ncollected by the investigating agency to connect this petitioner with the offences punishable underNandanam Nagaraju vs The State Of Andhra Pradesh on 14 October, 2019\nIndian Kanoon - http://indiankanoon.org/doc/32561276/ 1\nSections 354D, 506 and 509 IPC, in the absence of any material proceeding against the petitioner to\ninvestigate into the case will cause much prejudice and disrepute in the public and requested to\nquash the proceedings against this petitioner. The learned Public Prosecutor for the State of Andhra Pradesh contended that so far five\nwitnesses were examined during investigation and the statement of L.W.4 the victim girl is suffice to\nconclude prima facie that the petitioner committed an offence punishable under Section 354D and\nthe investigation is in the midway. The statement of\nL.W.4 the victim girl recorded by the police is sufficient prima facie constitute the offence\npunishable under Sections 354D, 506 and 509 IPC. The contention of the counsel for the petitioner is that one year is almost elapsed but the\ninvestigating agency has not secured any material, particularly the messages sent by the petitioner\nto the defacto-complainant, the 2nd respondent herein, by itself is not a ground at this stage when\nthe investigation is in the midway and the Apex Court time and again held that the Court cannot\nquash the proceedings. In State of Orissa v. State Of Haryana2 the Apex Court reiterated the same principle. In the recent judgment of the Apex Court\nin State of Tamil Nadu v. SATYANARAYANA MURTHY CRIMINAL PETITION NO.4926 of 2019\nDate:14.10.2019 ISNandanam Nagaraju vs The State Of Andhra Pradesh on 14 October, 2019\nIndian Kanoon - http://indiankanoon.org/doc/32561276/ 3",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Nandanam Nagaraju vs The State Of Andhra Pradesh on 14 | Arguments: Nandanam Nagaraju vs The State Of Andhra Pradesh on 14\nOctober, 2019\nAuthor: M. The 2nd respondent lodged a report to the police alleging that she completed her B.Tech., and\npreparing for GATE entrance examination. During the course of hearing the learned counsel for petitioner Sri Narra Srinivasa Rao would\ncontend that the crime was registered on 21-11-2018 and issued F.I.R, till date no material was\ncollected by the investigating agency to connect this petitioner with the offences punishable underNandanam Nagaraju vs The State Of Andhra Pradesh on 14 October, 2019\nIndian Kanoon - http://indiankanoon.org/doc/32561276/ 1\nSections 354D, 506 and 509 IPC, in the absence of any material proceeding against the petitioner to\ninvestigate into the case will cause much prejudice and disrepute in the public and requested to\nquash the proceedings against this petitioner. The learned Public Prosecutor for the State of Andhra Pradesh contended that so far five\nwitnesses were examined during investi | Intent: unknown | IPC: 482, 354D, 509, 506 | Judgment context: unknown",
+      "metadata": {
+        "case_name": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "482",
+          "354D",
+          "509",
+          "506"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Hence, the proceedings cannot be quashed at this stage during\nthe pendency of the investigation and requested to pass an appropriate order. Therefore, the proceedings cannot be quashed at this stage on the ground that no material\nproduced along with the complaint lodged with the police. Saroj Kumar Sahoo1, the Supreme Court held that the\ninherent powers under Section 482, Cr. should not be exercised by the High Court to stifle a\nlegitimate prosecution. Of course, no hard and fast rule can be laid down in regard to cases in which the\nHigh Court will exercise its extraordinary jurisdiction of quashing the proceeding at any stage. While exercising jurisdiction under Section 482 of the Cr.P.C., it is not permissible for the Court to\nact as if it was a trial court. Even when charge is framed at that stage, the Court has to only prima\nfacie be satisfied about existence of sufficient ground for proceeding against the accused. For that\nlimited purpose, the Court can evaluate material and documents on records but it cannot appreciate\nevidence. In view of the law declared by the Apex Court, normally the Court shall not quash the\nproceedings when the investigation is not yet commenced. In view of the law declared by the Apex Court in the judgments referred supra, it is difficult for\nme to accept the contention of the Counsel for the petitioner and quash the proceedings at this\nstage, more particularly, when investigation is at foetus stage. Hence, I find no ground to quash the\nproceedings and consequently, the petition is liable to be dismissed.",
+      "embedding_text": "REASONING_CHUNK | Case: Nandanam Nagaraju vs The State Of Andhra Pradesh on 14 | Judicial reasoning: Hence, the proceedings cannot be quashed at this stage during\nthe pendency of the investigation and requested to pass an appropriate order. Therefore, the proceedings cannot be quashed at this stage on the ground that no material\nproduced along with the complaint lodged with the police. Saroj Kumar Sahoo1, the Supreme Court held that the\ninherent powers under Section 482, Cr. should not be exercised by the High Court to stifle a\nlegitimate prosecution. Of course, no hard and fast rule can be laid down in regard to cases in which the\nHigh Court will exercise its extraordinary jurisdiction of quashing the proceeding at any stage. While exercising jurisdiction under Section 482 of the Cr.P.C., it is not permissible for the Court to\nact as if it was a trial court. Even when charge is framed at that stage, the Court has to only prima\nfacie be satisfied about existence of sufficient ground for proceeding against the accused. For that\nlimited purpose, the Court can evaluate material and docum | Intent: unknown | Outcome: unknown | IPC: 482, 354D, 509, 506",
+      "metadata": {
+        "case_name": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "482",
+          "354D",
+          "509",
+          "506"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "However the petitioner is at\nliberty to renew his application at appropriate stage. With the above observation, the petition is dismissed at the stage of admission. ___________________________________________ JUSTICE M. SATYANARAYANA\nMURTHY Date: 14-10-2019 IS AIR 2018 SC 1647 1992 Supp (1) SCC 335 THE HON'BLE SRI\nJUSTICE M. Nandanam Nagaraju vs The State Of Andhra Pradesh on 14\nOctober, 2019\nAuthor: M. Satyanarayana Murthy\nBench: M. Satyanarayana Murthy\nTHE HON'BLE SRI JUSTICE M. SATYANARAYANA MURTHY\nCriminal Petition No.4926 of 2019\nORDER:\nThis petition under Section 482 of Criminal Procedure Code is filed to quash the proceedings in\nF.I.R/Crime No.204 of 2018 of Vetapalem Police Station, Prakasam District, registered for the\noffence punishable under Sections 354D, 509, 506 IPC on the file of I Additional Junior Civil Judge,\nChirala.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Nandanam Nagaraju vs The State Of Andhra Pradesh on 14 | Final judgment: However the petitioner is at\nliberty to renew his application at appropriate stage. With the above observation, the petition is dismissed at the stage of admission. ___________________________________________ JUSTICE M. SATYANARAYANA\nMURTHY Date: 14-10-2019 IS AIR 2018 SC 1647 1992 Supp (1) SCC 335 THE HON'BLE SRI\nJUSTICE M. Nandanam Nagaraju vs The State Of Andhra Pradesh on 14\nOctober, 2019\nAuthor: M. Satyanarayana Murthy\nBench: M. Satyanarayana Murthy\nTHE HON'BLE SRI JUSTICE M. SATYANARAYANA MURTHY\nCriminal Petition No.4926 of 2019\nORDER:\nThis petition under Section 482 of Criminal Procedure Code is filed to quash the proceedings in\nF.I.R/Crime No.204 of 2018 of Vetapalem Police Station, Prakasam District, registered for the\noffence punishable under Sections 354D, 509, 506 IPC on the file of I Additional Junior Civil Judge,\nChirala. | Judgment: unknown | IPC: 482, 354D, 509, 506",
+      "metadata": {
+        "case_name": "Nandanam Nagaraju vs The State Of Andhra Pradesh on 14",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "482",
+          "354D",
+          "509",
+          "506"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2019"
+      }
+    }
+  ]
+}

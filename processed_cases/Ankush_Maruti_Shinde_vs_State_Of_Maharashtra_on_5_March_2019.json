@@ -1,0 +1,197 @@
+{
+  "case_id": "Ankush_Maruti_Shinde_vs_State_Of_Maharashtra_on_5_March_2019",
+  "case_name": "Ankush Maruti Shinde . vs State Of Maharashtra on 5 March,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Ankush Maruti Shinde . Shah\nBench: M.R. Shah, S. Abdul Nazeer, A.K. SHAH, J.Ankush Maruti Shinde . 590 of 2006, and are being disposed of by this common judgment. 1 to 6 for the offences punishable under Sections\n395, 302 read with 34 of the IPC, Section 376 (2)(g), Section 307 read with Section 34 of the IPC,\nSections 396, 397 and 398 of the IPC. 2 of 2006. 1, 2 & 4, altered the death sentence in respect of original accused nos. Accused nos. 3, 5 &\n6. 2. 1, 2 & 4 have preferred Criminal Appeal Nos. 1008-1009 of 2007. 3,5, & 6 are concerned. 3, 5 & 6\nfor the offence punishable under Section 376(2)(g) of the IPC. 3, 5 & 6 are concerned. 3. The prosecution version in nut and shell is as follows:\nOn 5/6/2003 Trambak and all his family members as well as the guest Bharat More\nwere chitchatting after dinner and at about 10.30 p.m. seven to eight unknown\npersons entered his hut and all of them were on banyan and half pant and they\nstarted threatening the family members. They demanded money as well as\nornaments and Trambak took out Rs. 3000/-from his pocket and handed over to one\nof them. Some of the gang members forcibly took away the mangalsutra as well as ear-tops\nand dorley from the person of Vimalabai, ear-tops from the person of Savita and\nsilver rings which were around her feet. From the person of Manoj they removed a\nsilver chain and a wrist watch. Thereafter they went out of the hut and consumed liquor. After some time they\nre-entered the hut with weapons like knife, axe handle, sickle, spade with handle and\nyokpin etc., so as to rob the house members and collect more money and ornaments\netc. They started beating the family members and Trambak was the first person who\nreceived assault. Sandeep and other members of the family told the dacoits to take\naway whatever they could collect from the house but no family members should be\nassaulted.",
+      "embedding_text": "FACT_CHUNK | Case: Ankush Maruti Shinde . vs State Of Maharashtra on 5 March, | Facts: Ankush Maruti Shinde . Shah\nBench: M.R. Shah, S. Abdul Nazeer, A.K. SHAH, J.Ankush Maruti Shinde . 590 of 2006, and are being disposed of by this common judgment. 1 to 6 for the offences punishable under Sections\n395, 302 read with 34 of the IPC, Section 376 (2)(g), Section 307 read with Section 34 of the IPC,\nSections 396, 397 and 398 of the IPC. 2 of 2006. 1, 2 & 4, altered the death sentence in respect of original accused nos. Accused nos. 3, 5 &\n6. 2. 1, 2 & 4 have preferred Criminal Appeal Nos. 1008-1009 of 2007. 3,5, & 6 are concerned. 3, 5 & 6\nfor the offence punishable under Section 376(2)(g) of the IPC. 3, 5 & 6 are concerned. 3. The prosecution version in nut and shell is as follows:\nOn 5/6/2003 Trambak and all his family members as well as the guest Bharat More\nwere chitchatting after dinner and at about 10.30 p.m. seven to eight unknown\npersons entered his hut and all of them were on banyan and half pant and they\nstarted threatening the family members. They demanded money a | Actions: assaulted, killed, murdered, raped, stole | Weapon: knife | Outcome: death | IPC: 366, 395, 302, 34, 376, 307, 396, 397, 398, 313, 135, 6, 32, 173",
+      "metadata": {
+        "case_name": "Ankush Maruti Shinde . vs State Of Maharashtra on 5 March,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "366",
+          "395",
+          "302",
+          "34",
+          "376",
+          "307",
+          "396",
+          "397",
+          "398",
+          "313",
+          "135",
+          "6",
+          "32",
+          "173"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "raped",
+          "stole"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Medical certificates were issued by the concerned doctor (Exhibits 133 to 135 and\nExhibits 195 & 196). By the common order dated 14.11.2006 in both these applications, the High Court\nissued the following directions:\n“(i) The prosecution be allowed to lead additional evidence of the Sub-Divisional\nMagistrate who conducted the test identification parade in relation to accused Nos.1\nto 5 and all relevant documents pertaining thereto. 9.4 There is\nvery serious doubt whether at the time of incident, there was sufficient light in the hut. There is no mention in the panchnama as to whether there was light or not in the shed\n(hut). 70, 76, 80 and I was requested to see whether\nthat lady can identify the accused from that file. I had asked that lady whether she could identify\nthe accused, if photographs shown to her and she told that she could identify. I had asked whether the\nsaid statement was as per her narration. Nothing is on record whether those four\npersons, who were identified by PW8 on 7.6.2003, were ever arrested and/or any investigation was\ncarried out qua them. From the statement of PW8 recorded by the special executive magistrate recorded on\n7.6.2003 in which she identified four named persons from the album of the photographs of\nnotorious criminals, nothing is on record whether those four persons were arrested or not or any\nfurther investigation was carried out with respect to those four persons. A finding needs to be recorded in each case, whether the lapse was\ninnocent or blameworthy.",
+      "embedding_text": "ISSUE_CHUNK | Case: Ankush Maruti Shinde . vs State Of Maharashtra on 5 March, | Legal issues: Medical certificates were issued by the concerned doctor (Exhibits 133 to 135 and\nExhibits 195 & 196). By the common order dated 14.11.2006 in both these applications, the High Court\nissued the following directions:\n“(i) The prosecution be allowed to lead additional evidence of the Sub-Divisional\nMagistrate who conducted the test identification parade in relation to accused Nos.1\nto 5 and all relevant documents pertaining thereto. 9.4 There is\nvery serious doubt whether at the time of incident, there was sufficient light in the hut. There is no mention in the panchnama as to whether there was light or not in the shed\n(hut). 70, 76, 80 and I was requested to see whether\nthat lady can identify the accused from that file. I had asked that lady whether she could identify\nthe accused, if photographs shown to her and she told that she could identify. I had asked whether the\nsaid statement was as per her narration. Nothing is on record whether those four\npersons, who were identified by PW8 on | IPC: 366, 395, 302, 34, 376, 307, 396, 397, 398, 313, 135, 6, 32, 173",
+      "metadata": {
+        "case_name": "Ankush Maruti Shinde . vs State Of Maharashtra on 5 March,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "366",
+          "395",
+          "302",
+          "34",
+          "376",
+          "307",
+          "396",
+          "397",
+          "398",
+          "313",
+          "135",
+          "6",
+          "32",
+          "173"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "raped",
+          "stole"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Maharashtra on 5 March,\n2019\n492, (2019) 108 ALLCRIC 276, (2019) 199 ALLINDCAS 78, (2019) 1 CRILR(RAJ)\n323, 2019 (2) ABR(CRI) 245, (2019) 2 ALLCRIR 1302, (2019) 2 MAD LJ(CRI)\n274, (2019) 2 RECCRIR 265, (2019) 4 ALLCRILR 1, (2019) 4 SCALE 266, (2019)\n5 MH LJ (CRI) 646, (2019) 74 OCR 519, 2019 CRILR(SC MAH GUJ) 323, 2019\nAuthor: M.R. 1008-1009 OF 2007\nANKUSH MARUTI SHINDE AND OTHERS ..APPELLANTS\nVERSUS\nSTATE OF MAHARASHTRA ..RESPONDENT\nWITH\nCRIMINAL APPEAL NOS. 881-882 OF 2009\nSTATE OF MAHARASHTRA ..APPELLANT\nVERSUS\nAMBADAS LAXMAN SHINDE AND OTHERS ..RESPONDENTS\nWITH\nCRIMINAL APPEAL NOS. 268-269 OF 2019\nAMBADAS LAXMAN SHINDE AND OTHERS ..APPELLANTS\nVERSUS\nSTATE OF MAHARASHTRA ..RESPONDENT\nJUDGMENT\nM.R. vs State Of Maharashtra on 5 March, 2019\nIndian Kanoon - http://indiankanoon.org/doc/54814974/ 1\nAll these appeals are interlinked, and as such, arise out of the impugned judgment of the Division\nBench of the Bombay High Court dated 22.03.2007 passed in Confirmation Case No.2 of 2006 along\nwith Criminal Appeal No. The State of Maharashtra has also filed Criminal Appeal Nos. The State has also challenged the acquittal of original accused nos. 1, 2 & 4 and allowed the appeals preferred by the State and restored the capital\npunishment imposed by the learned Sessions Court so far as accused Nos. 3, 5 & 6 on the ground that accused nos.3, 5 & 6 had no\nopportunity to be heard by the Bench, before the appeals filed by the State of Maharashtra forAnkush Maruti Shinde . vs State Of Maharashtra on 5 March, 2019\nIndian Kanoon - http://indiankanoon.org/doc/54814974/ 2\nenhancement of sentence were decided. 1, 2 & 4 and State of Maharashtra,\nalso granted permission to accused nos. vs State Of Maharashtra on 5 March, 2019\nIndian Kanoon - http://indiankanoon.org/doc/54814974/ 3\ndacoits brought Savita back but in naked condition and with injuries on her body. The investigating officer\nrecorded the statement of the concerned witnesses including PW1 – Manoj Satote\nand PW8 – Vimalabai. vs State Of Maharashtra on 5 March, 2019\nIndian Kanoon - http://indiankanoon.org/doc/54814974/ 4\nSections 395, 302 read with 34 of the IPC, Section 376 (2)(g), Section 307 read with Section 34 of\nthe IPC, Sections 396, 397 and 398 of the IPC.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Ankush Maruti Shinde . vs State Of Maharashtra on 5 March, | Arguments: vs State Of Maharashtra on 5 March,\n2019\n492, (2019) 108 ALLCRIC 276, (2019) 199 ALLINDCAS 78, (2019) 1 CRILR(RAJ)\n323, 2019 (2) ABR(CRI) 245, (2019) 2 ALLCRIR 1302, (2019) 2 MAD LJ(CRI)\n274, (2019) 2 RECCRIR 265, (2019) 4 ALLCRILR 1, (2019) 4 SCALE 266, (2019)\n5 MH LJ (CRI) 646, (2019) 74 OCR 519, 2019 CRILR(SC MAH GUJ) 323, 2019\nAuthor: M.R. 1008-1009 OF 2007\nANKUSH MARUTI SHINDE AND OTHERS ..APPELLANTS\nVERSUS\nSTATE OF MAHARASHTRA ..RESPONDENT\nWITH\nCRIMINAL APPEAL NOS. 881-882 OF 2009\nSTATE OF MAHARASHTRA ..APPELLANT\nVERSUS\nAMBADAS LAXMAN SHINDE AND OTHERS ..RESPONDENTS\nWITH\nCRIMINAL APPEAL NOS. 268-269 OF 2019\nAMBADAS LAXMAN SHINDE AND OTHERS ..APPELLANTS\nVERSUS\nSTATE OF MAHARASHTRA ..RESPONDENT\nJUDGMENT\nM.R. vs State Of Maharashtra on 5 March, 2019\nIndian Kanoon - http://indiankanoon.org/doc/54814974/ 1\nAll these appeals are interlinked, and as such, arise out of the impugned judgment of the Division\nBench of the Bombay High Court dated 22.03.2007 passed in Confirmation Case No.2 o | Intent: unknown | IPC: 366, 395, 302, 34, 376, 307, 396, 397, 398, 313, 135, 6, 32, 173 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Ankush Maruti Shinde . vs State Of Maharashtra on 5 March,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "366",
+          "395",
+          "302",
+          "34",
+          "376",
+          "307",
+          "396",
+          "397",
+          "398",
+          "313",
+          "135",
+          "6",
+          "32",
+          "173"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "raped",
+          "stole"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sikri\n1\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NOS. 1.1 By the impugned judgment, a Division Bench of the Bombay High Court has disposed of the\nReference made by the learned 3 rd Ad-hoc Additional Sessions Judge, Nashik (hereinafter referred\nto as the ‘Sessions Court’) under Section 366 of the Code of Criminal Procedure, 1973 (hereinafter\nreferred to as the ‘Code’) for confirmation of the death sentence. 1.2 The Sessions Court by judgment and order dated 12.06.2006 in Sessions Case No. 590/2006 before the High Court of Bombay against the order of conviction and sentence imposed\nby the learned Sessions Court. As observed hereinabove, the learned Sessions Court made a\nreference to the High Court for confirmation of the death sentence, which was registered as\nConfirmation Case No. 1.4 That the High Court, while upholding the conviction and death sentence of original accused nos. The High Court confirmed the conviction of the accused for the offences punishable under Section\n307 read with Section 34 of the IPC, Section 397 read with Section 395 of the IPC and Section 396 of\nthe IPC. Feeling aggrieved and dissatisfied with the impugned judgment and order passed by the Division\nBench of the Bombay High Court, original accused nos. 2.1 That by judgment and order dated 30.04.2009, this Court dismissed the appeals preferred by\noriginal accused Nos. That the judgment and order dated 30.04.2009 passed by this Court was sought to be reviewed at\nthe instance of the original accused nos. 2.2 That a three Judge Bench of this Court by its order dated 31.10.2018 allowed the review\napplications, and recalled the judgment and order dated 30.04.2009 rendered by this Court not only\nqua accused nos. 3, 5 & 6, but qua other accused also by observing that the evidence is common and\nthe offences relate to the same incident, and therefore, it is appropriate and proper that the\njudgment dated 30.04.2009 should be recalled in its entirety, in relating to all the six accused. While\nallowing the review applications, this Court recalled the judgment dated 30.04.2009 and directed\nthe criminal appeals to be restored to the file of this Court and directed that the appeals be placed\nbefore the appropriate Bench for hearing afresh.",
+      "embedding_text": "REASONING_CHUNK | Case: Ankush Maruti Shinde . vs State Of Maharashtra on 5 March, | Judicial reasoning: Sikri\n1\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NOS. 1.1 By the impugned judgment, a Division Bench of the Bombay High Court has disposed of the\nReference made by the learned 3 rd Ad-hoc Additional Sessions Judge, Nashik (hereinafter referred\nto as the ‘Sessions Court’) under Section 366 of the Code of Criminal Procedure, 1973 (hereinafter\nreferred to as the ‘Code’) for confirmation of the death sentence. 1.2 The Sessions Court by judgment and order dated 12.06.2006 in Sessions Case No. 590/2006 before the High Court of Bombay against the order of conviction and sentence imposed\nby the learned Sessions Court. As observed hereinabove, the learned Sessions Court made a\nreference to the High Court for confirmation of the death sentence, which was registered as\nConfirmation Case No. 1.4 That the High Court, while upholding the conviction and death sentence of original accused nos. The High Court confirmed the conviction of the accused for th | Intent: unknown | Outcome: death | IPC: 366, 395, 302, 34, 376, 307, 396, 397, 398, 313, 135, 6, 32, 173",
+      "metadata": {
+        "case_name": "Ankush Maruti Shinde . vs State Of Maharashtra on 5 March,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "366",
+          "395",
+          "302",
+          "34",
+          "376",
+          "307",
+          "396",
+          "397",
+          "398",
+          "313",
+          "135",
+          "6",
+          "32",
+          "173"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "raped",
+          "stole"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "43/2004\nconvicted in all six accused – original accused nos. 1.3 The learned Sessions Court sentenced all the accused to death for the offences punishable under\nSection 302 read with 34 of the IPC. The learned Sessions Court also imposed separate punishments\nfor other offences for which they were convicted. All the convicted accused filed Criminal Appeal No. 3, 5 & 6 to life imprisonment\nalong with fine. 1, 2 & 4 were also convicted for the offences punishable under Section\n376(2)(g) of the IPC and they were sentenced to suffer 10 years rigorous imprisonment. The High\nCourt set aside the conviction and sentence under section 376(2)(g) in respect of accused nos. 881-882 of 2009\nchallenging the alteration of death sentence to life imprisonment in respect of original accused nos. 1 to 6 guilty for the offences\npunishable under Sections 395, 302 read with 34 of the IPC, Section 376 (2)(g), Section 307 read\nwith Section 34 of the IPC, Sections 396, 397 and 398 of the IPC, and sentenced the accused as\nunder:Ankush Maruti Shinde . (1) Ankush Maruti Shinde, (2) Rajya Appa Shinde, (3) Ambadas\nLaxman Shinde, (4) Raju Mhasu Shinde, (5) Bapu Appa Shinde & (6) Surya alias\nSuresh s/o Nagu alias Gangaram Sinde are convicted for the offences punishable\nunder sections 395, 302 r.w. 1 to 6 are convicted for the offence punishable under section 302 r.w. They are sentenced to death for the offence punishable under section 302 r.w. 1 to 6 are convicted for the offence punishable under section 376(2)(g) of Indian\nPenal Code and they are sentenced to suffer R.I. 1 to 6 are convicted for the offence punishable under section 307 r.w. They are sentenced to suffer R.I. 1 to 6 are convicted for the offence punishable under section 397 r.w. They are sentenced to suffer R.I. 1 to 6 are convicted for the offence punishable under section 396 of Indian\nPenal Code. And they are sentenced to suffer R.I. 1 to 6 are acquitted of the offence punishable under section 135 of Bombay\nPolice Act.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Ankush Maruti Shinde . vs State Of Maharashtra on 5 March, | Final judgment: 43/2004\nconvicted in all six accused – original accused nos. 1.3 The learned Sessions Court sentenced all the accused to death for the offences punishable under\nSection 302 read with 34 of the IPC. The learned Sessions Court also imposed separate punishments\nfor other offences for which they were convicted. All the convicted accused filed Criminal Appeal No. 3, 5 & 6 to life imprisonment\nalong with fine. 1, 2 & 4 were also convicted for the offences punishable under Section\n376(2)(g) of the IPC and they were sentenced to suffer 10 years rigorous imprisonment. The High\nCourt set aside the conviction and sentence under section 376(2)(g) in respect of accused nos. 881-882 of 2009\nchallenging the alteration of death sentence to life imprisonment in respect of original accused nos. 1 to 6 guilty for the offences\npunishable under Sections 395, 302 read with 34 of the IPC, Section 376 (2)(g), Section 307 read\nwith Section 34 of the IPC, Sections 396, 397 and 398 of the IPC, and sentenced the  | Judgment: convicted | IPC: 366, 395, 302, 34, 376, 307, 396, 397, 398, 313, 135, 6, 32, 173",
+      "metadata": {
+        "case_name": "Ankush Maruti Shinde . vs State Of Maharashtra on 5 March,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "366",
+          "395",
+          "302",
+          "34",
+          "376",
+          "307",
+          "396",
+          "397",
+          "398",
+          "313",
+          "135",
+          "6",
+          "32",
+          "173"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "raped",
+          "stole"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    }
+  ]
+}

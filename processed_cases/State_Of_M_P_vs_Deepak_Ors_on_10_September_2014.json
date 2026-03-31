@@ -1,0 +1,137 @@
+{
+  "case_id": "State_Of_M_P_vs_Deepak_Ors_on_10_September_2014",
+  "case_name": "State Of M.P vs Deepak & Ors on 10 September, 2014",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Sikri\nBench: A.K. Sikri, J. 1985 OF 2014\n[Arising Out of Special Leave Petition (Criminal) No. SIKRI, J. Leave granted. As counsel for both the parties expressed their willingness to argue the matter finally at this stage,\nwe heard the appeal finally. 1 and 2 herein. The\nsaid petition was filed under Section 482 of the Code of Criminal Procedure (hereinafter referred to\nas the “Code”) for compounding/quashing of criminal proceedings arising out of Crime No. 582 of 2013 pending before the Chief\nJudicial Magistrate, Vidisha. 3\n(hereinafter referred to as the complainant). 1. At this,\ncomplainant, he inflicted a blow on his forehead by shouting 'you have lodged the report against my\nelder brother, today I will kill you'. By that time, brother of the\ncomplainant Suraj and one Preeti reached the spot and rescued the complainant. On the same date, the complainant lodged F.I.R. No. 171 of 2013 at Police Station Kotwali, Vidisha\n(M.P.) for the offence punishable under Sections 307 of I.P.C. read with Section 34 of I.P.C. which\ntriggered the criminal investigation and complainant Deepak Ghenghat was sent for medical\nexamination. On 14.4.2013, articles which were seized were sent for forensic examination. After due and proper\ninvestigation charge sheet was filed on 6.4.2013 for the offences punishable under Sections 307 of\nIPC read with Section 34 of IPC. Criminal Case No. PC for quashing the\ncriminal proceedings, arising out of the F.I.R. No. v. (supra) is not applicable to the facts of the present case inasmuch as the incident in question had its\ngenesis and origin in a civil dispute between the parties and having regard to the same the Court had\naccepted the settlement and quashed the proceedings when it found that parties had resolved the\nsaid dispute between them. It was pleaded that on the contrary, in the present case accused personsState Of M.P vs Deepak & Ors on 10 September, 2014\nIndian Kanoon - http://indiankanoon.org/doc/115365177/ 2\nare habitual offenders and they had threatened the complainant and extracted the compromise\ncomplainant which are described in the report as a result of the medical examination carried out on\nthe person of the complainant immediately after the incident.",
+      "embedding_text": "FACT_CHUNK | Case: State Of M.P vs Deepak & Ors on 10 September, 2014 | Facts: Sikri\nBench: A.K. Sikri, J. 1985 OF 2014\n[Arising Out of Special Leave Petition (Criminal) No. SIKRI, J. Leave granted. As counsel for both the parties expressed their willingness to argue the matter finally at this stage,\nwe heard the appeal finally. 1 and 2 herein. The\nsaid petition was filed under Section 482 of the Code of Criminal Procedure (hereinafter referred to\nas the “Code”) for compounding/quashing of criminal proceedings arising out of Crime No. 582 of 2013 pending before the Chief\nJudicial Magistrate, Vidisha. 3\n(hereinafter referred to as the complainant). 1. At this,\ncomplainant, he inflicted a blow on his forehead by shouting 'you have lodged the report against my\nelder brother, today I will kill you'. By that time, brother of the\ncomplainant Suraj and one Preeti reached the spot and rescued the complainant. On the same date, the complainant lodged F.I.R. No. 171 of 2013 at Police Station Kotwali, Vidisha\n(M.P.) for the offence punishable under Sections 307 of I.P.C. re | Actions: attacked, threatened | Weapon: sword | Outcome: death | IPC: 307, 34, 482, 161, 320",
+      "metadata": {
+        "case_name": "State Of M.P vs Deepak & Ors on 10 September, 2014",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "307",
+          "34",
+          "482",
+          "161",
+          "320"
+        ],
+        "actions": [
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In the light of the submissions made at the bar the only question that falls for\ndetermination is whether the prayer for composition of the offence under Section 307\nIPC could be allowed having regard to the compromise arrived at between the parties. While exercising its powers, the High Court is to examine as to whether the possibility of\nconviction is remote and bleak and continuation of criminal cases would put the accused to great\noppression and prejudice and extreme injustice would be caused to him by not quashing the\ncriminal cases. It would be open to the\nHigh Court to examine as to whether incorporation of Section 307 IPC is there for the sake of it or\nthe prosecution has collected sufficient evidence, which if proved, would lead to proving the charge\nunder Section 307 IPC. For this purpose, it would be open to the High Court to go by the nature of\ninjury sustained, whether such injury is inflicted on the vital/delegate parts of the body, nature of\nweapons used, etc. On the basis of this prima facie analysis, the High Court can examine as to whether\nthere is a strong possibility of conviction or the chances of conviction are remote and bleak. While deciding whether to exercise its power under Section 482 of the Code or not, timings of\nsettlement play a crucial role. On the other hand,\nwhere the prosecution evidence is almost complete or after the conclusion of the evidence the matter\nis at the stage of argument, normally the High Court should refrain from exercising its power under\nSection 482 of the Code, as in such cases the trial court would be in a position to decide the case\nfinally on merits and to come to a conclusion as to whether the offence under Section 307 IPC is\ncommitted or not. Further, guidelines are laid down for the Courts to deal with\nsuch matters when application for quashing of proceedings is filed, after the parties have settled the\nissues between themselves.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of M.P vs Deepak & Ors on 10 September, 2014 | Legal issues: In the light of the submissions made at the bar the only question that falls for\ndetermination is whether the prayer for composition of the offence under Section 307\nIPC could be allowed having regard to the compromise arrived at between the parties. While exercising its powers, the High Court is to examine as to whether the possibility of\nconviction is remote and bleak and continuation of criminal cases would put the accused to great\noppression and prejudice and extreme injustice would be caused to him by not quashing the\ncriminal cases. It would be open to the\nHigh Court to examine as to whether incorporation of Section 307 IPC is there for the sake of it or\nthe prosecution has collected sufficient evidence, which if proved, would lead to proving the charge\nunder Section 307 IPC. For this purpose, it would be open to the High Court to go by the nature of\ninjury sustained, whether such injury is inflicted on the vital/delegate parts of the body, nature of\nweapons used, etc. On the bas | IPC: 307, 34, 482, 161, 320",
+      "metadata": {
+        "case_name": "State Of M.P vs Deepak & Ors on 10 September, 2014",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "307",
+          "34",
+          "482",
+          "161",
+          "320"
+        ],
+        "actions": [
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of M.P vs Deepak & Ors on 10 September, 2014\nALLINDCAS 162 (SC), (2015) 1 MH LJ (CRI) 707, 2015 (1) SCC (CRI) 89, (2014)\n4 CURCRIR 140, (2014) 59 OCR 599, 2014 CRILR(SC&MP) 954, 2014 (10) SCC\n285, (2014) 3 UC 1919, (2014) 4 CRIMES 167, (2014) 4 ALLCRILR 769, (2014) 3\nCRILR(RAJ) 954, (2014) 87 ALLCRIC 627, (2014) 3 ALLCRIR 3189, (2015) 1\nRAJ LW 697, 2014 (10) SCALE 427, (2014) 10 SCALE 427, (2014) 4 RECCRIR\n202\nAuthor: A.K. 9854 of 2013]\n|STATE OF MADHYA PRADESH |.....APPELLANT(S) |\n|VERSUS | |\n|DEEPAK & ORS. |.....RESPONDENT(S) |\nJ U D G M E N T\nA.K. This appeal is preferred by the State of Madhya Pradesh against the judgment and order dated\n10.5.2013 passed by the High Court in the petition filed by the Respondent Nos. 171/13State Of M.P vs Deepak & Ors on 10 September, 2014\nIndian Kanoon - http://indiankanoon.org/doc/115365177/ 1\nunder Section 307/34 of IPC registered at Police Station Kotwali, District Vidisha (M.P.) and\nconsequent criminal proceedings bearing Criminal Case No. The FIR was registered at the instance of Respondent No. The complainant (respondent No.3), Deepak Ghenghat s/o Laxminarayan Ghenghat, had alleged\nthat on 11.3.2013 at about 9.45 p.m., while he was going to Baraipura Chauraha for buying Gutkha\nfor his mother, Deepak Nahariya and Mukesh Nahariya (respondent Nos.1 and 2) met him near\nSweepar Mohalla, Gali No. On being asked by respondent No.1, in an abusive language, as to\nwhere he was proceeded to, the complainant protested against the use of such foul language. Respondent No.1, thereafter, inflicted blows above the ear on the\nback side of the head and on the left arm. When the complainant informed that he would lodge a\nreport with the Police, respondent No.2 caught hold of him and threatened that if he lodges the\nreport, then he would not let the complainant reside in the Mohalla. Thereafter, on 12.3.2013 police reached on the spot and prepared the spot map,\nrecorded the statement of the witnesses under Section 161, arrested the accused persons and seized\ncertain articles.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of M.P vs Deepak & Ors on 10 September, 2014 | Arguments: State Of M.P vs Deepak & Ors on 10 September, 2014\nALLINDCAS 162 (SC), (2015) 1 MH LJ (CRI) 707, 2015 (1) SCC (CRI) 89, (2014)\n4 CURCRIR 140, (2014) 59 OCR 599, 2014 CRILR(SC&MP) 954, 2014 (10) SCC\n285, (2014) 3 UC 1919, (2014) 4 CRIMES 167, (2014) 4 ALLCRILR 769, (2014) 3\nCRILR(RAJ) 954, (2014) 87 ALLCRIC 627, (2014) 3 ALLCRIR 3189, (2015) 1\nRAJ LW 697, 2014 (10) SCALE 427, (2014) 10 SCALE 427, (2014) 4 RECCRIR\n202\nAuthor: A.K. 9854 of 2013]\n|STATE OF MADHYA PRADESH |.....APPELLANT(S) |\n|VERSUS | |\n|DEEPAK & ORS. |.....RESPONDENT(S) |\nJ U D G M E N T\nA.K. This appeal is preferred by the State of Madhya Pradesh against the judgment and order dated\n10.5.2013 passed by the High Court in the petition filed by the Respondent Nos. 171/13State Of M.P vs Deepak & Ors on 10 September, 2014\nIndian Kanoon - http://indiankanoon.org/doc/115365177/ 1\nunder Section 307/34 of IPC registered at Police Station Kotwali, District Vidisha (M.P.) and\nconsequent criminal proceedings bearing Criminal Case No | Intent: intentional | IPC: 307, 34, 482, 161, 320 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of M.P vs Deepak & Ors on 10 September, 2014",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "307",
+          "34",
+          "482",
+          "161",
+          "320"
+        ],
+        "actions": [
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Chelameswar\nNON-REPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 3527 of 2013 before\nthe High Court of Madhya Pradesh, Bench at Gwalior under Section 482 of Cr. The High Court has accepted the said compromise after taking note of the submissions made before\nit at the Bar, and the fact that the complainant had also submitted that he did not wish to prosecute\nthe accused persons as he had settled all the disputes amicably with them. For quashing the\nproceedings, the High Court has referred to the judgment of this Court in Shiji @ Pappu & Ors. He pleaded that the offence under\nSection 307 of IPC was, prima facie, made out and for such a heinous crime the High Court should\nnot have exercised its discretion under Section 482 of the Cr. This action of\nthe High Court was justified as parties had buried the hatchet and wanted to leave peacefully. He\nthus, pleaded that this Court should not interfere with the aforesaid exercise of discretion by the\nHigh Court. We may, at the outset, refer to the judgment of this Court in Gulabdas &\nOrs. This Court has in a long line of decisions ruled that\noffences which are not compoundable under Section 320 of the Code of Criminal\nProcedure cannot be allowed to be compounded even if there is any settlement\nbetween the complainant on the one hand and the accused on the other. Reference in\nthis regard may be made to the decisions of this Court in Ram Lal & Anr. In that case also, the High Court had accepted the settlement\nbetween the parties in an offence under Section 307 read with Section 34 IPC and set the accused at\nlarge by acquitting them. The settlement was arrived at during the pendency of appeal before the\nHigh Court against the order of conviction and sentence of the Sessions Judge holding the accused\npersons guilty of the offence under Sections 307/34 IPC. Some earlier cases of compounding of\noffence under Section 307 IPC were taken note of, noticing that under certain circumstances, the\nCourt had approved the compounding whereas in certain other cases such a course of action was not\naccepted.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of M.P vs Deepak & Ors on 10 September, 2014 | Judicial reasoning: Chelameswar\nNON-REPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 3527 of 2013 before\nthe High Court of Madhya Pradesh, Bench at Gwalior under Section 482 of Cr. The High Court has accepted the said compromise after taking note of the submissions made before\nit at the Bar, and the fact that the complainant had also submitted that he did not wish to prosecute\nthe accused persons as he had settled all the disputes amicably with them. For quashing the\nproceedings, the High Court has referred to the judgment of this Court in Shiji @ Pappu & Ors. He pleaded that the offence under\nSection 307 of IPC was, prima facie, made out and for such a heinous crime the High Court should\nnot have exercised its discretion under Section 482 of the Cr. This action of\nthe High Court was justified as parties had buried the hatchet and wanted to leave peacefully. He\nthus, pleaded that this Court should not interfere with the aforesaid exercise of discretion by the\nHi | Intent: intentional | Outcome: death | IPC: 307, 34, 482, 161, 320",
+      "metadata": {
+        "case_name": "State Of M.P vs Deepak & Ors on 10 September, 2014",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "307",
+          "34",
+          "482",
+          "161",
+          "320"
+        ],
+        "actions": [
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "We have, therefore, no hesitation in rejecting the prayer for permission to\ncompound the offence for which Appellant Nos 2 & 3 stand convicted”. We notice that the gravity of the injuries was taken note of by the Sessions Court\nand it had awarded the sentence of 10 years’ rigorous imprisonment for the offence\npunishable under Section 307 IPC, but not by the High Court. Similarly, in those cases where the conviction is already recorded by the trial\ncourt and the matter is at the appellate stage before the High Court, mere compromise between the\nparties would not be a ground to accept the same resulting in acquittal of the offender who has\nalready been convicted by the trial court. The accused was armed\nwith sword and had inflicted blows on the forehead, ear, back side of the head as well as on the left\narm of the complainant. The complainant was attacked five times with the sword by the accused\nperson out of which two blows were struck on his head. But for the timely arrival of brother of the\ncomplainant and another lady named Preeti, who rescued the complainant, the attacks could have\ncontinued. As a result of the aforesaid discussion, this appeal is allowed and the order of the High Court is set\naside. The concerned Magistrate shall proceed with the trial of the case. .............................................J. (J. CHELAMESWAR) .............................................J. (A.K.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of M.P vs Deepak & Ors on 10 September, 2014 | Final judgment: We have, therefore, no hesitation in rejecting the prayer for permission to\ncompound the offence for which Appellant Nos 2 & 3 stand convicted”. We notice that the gravity of the injuries was taken note of by the Sessions Court\nand it had awarded the sentence of 10 years’ rigorous imprisonment for the offence\npunishable under Section 307 IPC, but not by the High Court. Similarly, in those cases where the conviction is already recorded by the trial\ncourt and the matter is at the appellate stage before the High Court, mere compromise between the\nparties would not be a ground to accept the same resulting in acquittal of the offender who has\nalready been convicted by the trial court. The accused was armed\nwith sword and had inflicted blows on the forehead, ear, back side of the head as well as on the left\narm of the complainant. The complainant was attacked five times with the sword by the accused\nperson out of which two blows were struck on his head. But for the timely arrival of brother  | Judgment: convicted | IPC: 307, 34, 482, 161, 320",
+      "metadata": {
+        "case_name": "State Of M.P vs Deepak & Ors on 10 September, 2014",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "307",
+          "34",
+          "482",
+          "161",
+          "320"
+        ],
+        "actions": [
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    }
+  ]
+}

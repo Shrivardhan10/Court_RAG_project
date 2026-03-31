@@ -1,0 +1,177 @@
+{
+  "case_id": "State_Of_Himachal_Pradesh_vs_Surjan_Singh_Son_Of_Shri_Hari_Nand_And_on_21_September_2015",
+  "case_name": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Appeal No. 254 of 2009\nJudgment reserved on: 21st July 2015\n. Vs. of\nCoram:\nrt\nHon'ble Mr. Justice Sanjay Karol, Judge. Hon'ble Mr.Justice P.S.Rana, Judge. Yes. on 21 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/119350313/ 1\nGeneral and Mr.J.S.Guleria, Assistant\nP.S.Rana, J. Yes. Rohru in Sessions Trial No. 24-R/7 of 2007 titled Surjan Singh and others vs. decided\non dated 18.10.2008. . BRIEF FACTS OF THE PROSECUTION CASE:\n2. Brief facts of the case as alleged by prosecution are that Partap Singh son of Kalgi\nRam purchased immovable land comprised in Khasra No. 127, 132 and 133 situated\nin village Haunchali Tehsil Chirgaon District Shimla H.P. from of one Bahadur Singh\nby way of registered sale deed. It is alleged by prosecution that in December 2006\nPartap Singh rt had constructed a house and shed on the land so purchased and\nthereafter his parents started living in the house and shed. It is alleged by\nprosecution that on dated 19.3.2007 at 9 AM all accused persons arrived at land\npurchased by Pratap Singh by way of sale deed. It is alleged by prosecution that co-\naccused Rakeshwar was having a gun and he pointed out the gun at Partap Singh's father namely\nKalgi Ram injured aged 70 years. It is alleged by prosecution that thereafter wife of Kalgi Ram\nstarted to proceed to inform Partap Singh her son about arrival of accused persons and when she\nwas proceeding from residential house co-accused Rakeshwar @ Rakesh pointed the gun at her. It is\nalleged by prosecution that thereafter accused persons tied Kalgi Ram injured aged 70 years with\nropes and gave lever (Jhabbal) blow on foot of Kalgi. It is alleged by prosecution that thereafter\nco-accused . Rakeshwar had given a blow on head of Kalgi injured aged 70 years with butt of gun. It is alleged by\nprosecution that other accused persons put chilli powder in eyes of injured Kalgi aged 70 years. It is\nalleged by prosecution that accused persons have also dismantled the house and shed constructed\nby son of of injured Kalgi.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari | Facts: Appeal No. 254 of 2009\nJudgment reserved on: 21st July 2015\n. Vs. of\nCoram:\nrt\nHon'ble Mr. Justice Sanjay Karol, Judge. Hon'ble Mr.Justice P.S.Rana, Judge. Yes. on 21 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/119350313/ 1\nGeneral and Mr.J.S.Guleria, Assistant\nP.S.Rana, J. Yes. Rohru in Sessions Trial No. 24-R/7 of 2007 titled Surjan Singh and others vs. decided\non dated 18.10.2008. . BRIEF FACTS OF THE PROSECUTION CASE:\n2. Brief facts of the case as alleged by prosecution are that Partap Singh son of Kalgi\nRam purchased immovable land comprised in Khasra No. 127, 132 and 133 situated\nin village Haunchali Tehsil Chirgaon District Shimla H.P. from of one Bahadur Singh\nby way of registered sale deed. It is alleged by prosecution that in December 2006\nPartap Singh rt had constructed a house and shed on the land so purchased and\nthereafter his parents started living in the house and shed. It is alleged by\nprosecution that on dated 19.3.2007 at 9 AM all accused persons arri | Actions: threatened | Weapon: gun | Outcome: death | IPC: 148, 341, 447, 452, 323, 325, 436, 506, 149, 27, 378, 313, 315, 59",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "148",
+          "341",
+          "447",
+          "452",
+          "323",
+          "325",
+          "436",
+          "506",
+          "149",
+          "27",
+          "378",
+          "313",
+          "315",
+          "59"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether approved for reporting1?. JUDGMENT: Present appeal is filed against the judgment passed by learned Additional Sessions\nJudge Shimla Camp at Whether reporters of the Local papers are allowed to see the judgment?. rt Point for determination in present appeal is whether learned trial Court did not properly\nappreciate oral as well as documentary evidence placed on record and whether learned trial Court\nhad caused miscarriage of justice to the State of H.P. He has stated that he has\nissued MLC Ext.PW8/B. He has stated that of\ndemarcation was conducted as per instructions issued by Financial Commissioner and Secretary\nRevenue and rt demarcation report is correct as per factual position at spot. He has stated that Court had issued ad-interim injunction order\non dated 17.1.2006 and copy of order is Ext.PW1/F. rt He has stated that he asked from Headmaster of school to issue certificate about his presence but\nHeadmaster refused to issue the certificate. The Registrar (Judicial) will issue warrant of commitment forthwith strictly in accordance with\njudgment and sentence for compliance.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari | Legal issues: Whether approved for reporting1?. JUDGMENT: Present appeal is filed against the judgment passed by learned Additional Sessions\nJudge Shimla Camp at Whether reporters of the Local papers are allowed to see the judgment?. rt Point for determination in present appeal is whether learned trial Court did not properly\nappreciate oral as well as documentary evidence placed on record and whether learned trial Court\nhad caused miscarriage of justice to the State of H.P. He has stated that he has\nissued MLC Ext.PW8/B. He has stated that of\ndemarcation was conducted as per instructions issued by Financial Commissioner and Secretary\nRevenue and rt demarcation report is correct as per factual position at spot. He has stated that Court had issued ad-interim injunction order\non dated 17.1.2006 and copy of order is Ext.PW1/F. rt He has stated that he asked from Headmaster of school to issue certificate about his presence but\nHeadmaster refused to issue the certificate. The Registrar (Judicial) will iss | IPC: 148, 341, 447, 452, 323, 325, 436, 506, 149, 27, 378, 313, 315, 59",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "148",
+          "341",
+          "447",
+          "452",
+          "323",
+          "325",
+          "436",
+          "506",
+          "149",
+          "27",
+          "378",
+          "313",
+          "315",
+          "59"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari\nNand And ... Date of Judgment: 7, September, 2015\n_______________________________________________________________\nState of Himachal Pradesh .....Appellant. Surjan Singh son of Shri Hari Nand and others\n...Respondents. Advocate General with Mr.State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... State of H.P. It is alleged by prosecution that accused persons have also put KalgiState Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... PW6 Raj BahadurState Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... on 21 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/119350313/ 3\nPW7 Dinesh Kumar\nPW8 Dr.Rakesh Malhotra\nPW9 Bhadur Singh\nPW10 Jia Lal\nof\nPW11 Ramesh Kumar\nPW12 Prem Chand\nrt\nPW13 Vinod Kumar\nPW14 Rajeev Chauhan\nPW15 HC Tenzen Chhering\nPW16 Ramesh Chand\nPW17 SI/SHO Pritam Singh\nDW1 Surjan Singh accused\nDW2 Jai Chand\nDW3 Brijeshwar accused\nDW4 Rajeshwar accusedState Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... 26.6.2006 filed by Pratap\nagainst accused persons before\nSDM Rohru (H.P.)State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... Ext.PW1/L Tatima\nExt.PW1/M Recovery memos of two ropes\nExt.PW1/N Recovery memo of 12 bore gun\nExt.PW1/O Recovery memo of katta plastic\nExt.PW1/P Recovery memo of gas lighter\nExt.PW1/Q Recovery memo of kilbari iron.State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... of Ext.PW11/A Copy of demarcation report Ext.PW13/A Copy of statement of Partap Singh in\ndemarcation proceedings. Ext.PW13/B Copy of statement of Kundan rt Lal in demarcation proceedings. Ext.PW13/C Copy of statements of Surjan Singh and Rakeshwar in demarcation proceedings. passed by learned trial Court dated 18.10.2008 State of H.P. filed present appeal under Section 378\nof Code of Criminal Procedure.State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... We have heard learned Additional Advocate General appearing on behalf of the State of H.P. PW1 Pratap Singh has stated that he has six and half bighas of land in Mandloch\nwhich is near village Haunchali.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari | Arguments: State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari\nNand And ... Date of Judgment: 7, September, 2015\n_______________________________________________________________\nState of Himachal Pradesh .....Appellant. Surjan Singh son of Shri Hari Nand and others\n...Respondents. Advocate General with Mr.State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... State of H.P. It is alleged by prosecution that accused persons have also put KalgiState Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... PW6 Raj BahadurState Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari Nand And ... on 21 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/119350313/ 3\nPW7 Dinesh Kumar\nPW8 Dr.Rakesh Malhotra\nPW9 Bhadur Singh\nPW10 Jia Lal\nof\nPW11 Ramesh Kumar\nPW12 Prem Chand\nrt\nPW13 Vinod Kumar\nPW14 Rajeev Chauhan\nPW15 HC Tenzen Chhering\nPW16 Ramesh Chand\nPW17 SI/SHO Pritam Singh\nDW1 Surjan Singh accused\nDW2 Jai Chand\nDW3 Brijeshwar accused\nDW4 Rajeshwar accusedState Of | Intent: unknown | IPC: 148, 341, 447, 452, 323, 325, 436, 506, 149, 27, 378, 313, 315, 59 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "148",
+          "341",
+          "447",
+          "452",
+          "323",
+          "325",
+          "436",
+          "506",
+          "149",
+          "27",
+          "378",
+          "313",
+          "315",
+          "59"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "on 21 September, 2015\nAuthor: P.S.Rana\nBench: Sanjay Karol, P.S.Rana\nIN THE HIGH COURT OF HIMACHAL PRADESH, AT SHIMLA\nCr. It is alleged by prosecution that Partap Singh produced photographs of\nhouse and shed Ext.PW1/A and Ext.PW4/B and also produced copy of application filed to SDM\nExt.PW1/E and also placed on record the order of Civil Court Ext.PW1/D, copy of daily diary report\nNo. It is alleged by prosecution that Civil Court in case titled Partap Singh vs. Charge was framed against the accused persons rt by learned trial Court on dated 10.12.2007\nunder Sections 148, 341, 447, 452, 323, 325, 436, 506 read with Section 149 IPC and under Section\n27 of Arms Act 1959 read with Section 149 of Indian Penal Code. that civil suit is also pending and civil Court has granted ad-\ninterim injunction in favour of complainant and against accused persons. completion of investigation he prepared challan and filed the same in Court. He has denied suggestion that during investigation it was observed that on dated\n19.3.2007 co-accused Surjan and Ropti were in their house throughout the day as they had engaged\nJai Chand and Vijay Nand as carpenters for construction of their house. He has denied suggestion that he received\nad-interim injunction order from civil Court directing him not to enter in suit land. Testimony of PW2 is\ntrustworthy reliable and inspires confidence of Court. Testimony of PW2 to this effect is trustworty reliable and of inspires confidence of Court. Testimonies of\nPW1 Partap Singh and PW5 Ram Lal qua recovery of gun are trusworthy reliable and inspire\nconfidence of Court. 127, 132 and\n133 before civil Court and on this . on 21 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/119350313/ 20\nco-accused of Rakeshwar @ Rakesh to commit criminal offence with 12 bore gun despite ad-interim\ninjunction passed by civil Court against rt co-accused Surjan Singh and his family members. It is\nwell settled law that proceedings of civil Court and proceedings of criminal Court are independent\nproceedings. In view of the fact that Civil\nCourt had also restrained the rt accused persons from interfering over suit land comprised in Khasra\nNos.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari | Judicial reasoning: on 21 September, 2015\nAuthor: P.S.Rana\nBench: Sanjay Karol, P.S.Rana\nIN THE HIGH COURT OF HIMACHAL PRADESH, AT SHIMLA\nCr. It is alleged by prosecution that Partap Singh produced photographs of\nhouse and shed Ext.PW1/A and Ext.PW4/B and also produced copy of application filed to SDM\nExt.PW1/E and also placed on record the order of Civil Court Ext.PW1/D, copy of daily diary report\nNo. It is alleged by prosecution that Civil Court in case titled Partap Singh vs. Charge was framed against the accused persons rt by learned trial Court on dated 10.12.2007\nunder Sections 148, 341, 447, 452, 323, 325, 436, 506 read with Section 149 IPC and under Section\n27 of Arms Act 1959 read with Section 149 of Indian Penal Code. that civil suit is also pending and civil Court has granted ad-\ninterim injunction in favour of complainant and against accused persons. completion of investigation he prepared challan and filed the same in Court. He has denied suggestion that during investigation it was observed t | Intent: unknown | Outcome: death | IPC: 148, 341, 447, 452, 323, 325, 436, 506, 149, 27, 378, 313, 315, 59",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "148",
+          "341",
+          "447",
+          "452",
+          "323",
+          "325",
+          "436",
+          "506",
+          "149",
+          "27",
+          "378",
+          "313",
+          "315",
+          "59"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Learned trial Court acquitted all accused persons on dated 18.10.2008. 127, 132 rt and 133 situated in Chak Hanchauli Tehsil Chirgaon District\nShimla was destroyed which was used as a human dwelling place and on this ground accused\npersons be convicted under Section 436 IPC is rejected being devoid of any force for the reasons\nhereinafter mentioned. ground co-accused Rakeshwar @ Rakesh cannot be convicted qua criminal offence under Section\n325 IPC and under Section 27 of Arms Act 1959 is rejected being devoid of any force for the reasons\nhereinafter mentioned. Rakeshwar that vendor Bahadur Singh had shown wrong location of Khasra number purchased by\nco-accused Surjan Singh vide sale deed dated 21.11.1977 and on this ground co-accused Rakeshwar\n@ Rakesh cannot be convicted under Section 325 IPC and under Section 27 of Arms Act 1959 is also\nrejected being devoid of any force for the reasons hereinafter mentioned. There is no evidence on record that ad-interim injunction dated\n17.1.2006 of was modified or set aside by any competent Court of law. on 21 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/119350313/ 22\nRakeshwar that there is material contradiction and improvement in prosecution case and on this\nground co-accused Rakeshwar @ Rakesh could not be convicted under Section 325 IPC and under\nSection 27 of Arms Act 1959 is also rejected being devoid of any force for the reasons hereinafter\nmentioned. It is well settled law that minor contradictions are bound to come in criminal case when\ntestimonies of prosecution witnesses are recorded after a gape of sufficient time. We are of the\nRakesh did not point out any material contradiction which goes to the root . of case. It was held in case reported in  titled C. Muniappan and others vs. It was held that undue importance should not be given to\nomissions, of contradictions and discrepancies which do not go to the root of the case. (See: AIR\n1972 SC 2020 titled Sohrab and another vs. vs. M.K. Anthony; See: AIR 1983 SC 753 titled Bharwada Bhoginbhai Hirjibhai\nvs.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari | Final judgment: Learned trial Court acquitted all accused persons on dated 18.10.2008. 127, 132 rt and 133 situated in Chak Hanchauli Tehsil Chirgaon District\nShimla was destroyed which was used as a human dwelling place and on this ground accused\npersons be convicted under Section 436 IPC is rejected being devoid of any force for the reasons\nhereinafter mentioned. ground co-accused Rakeshwar @ Rakesh cannot be convicted qua criminal offence under Section\n325 IPC and under Section 27 of Arms Act 1959 is rejected being devoid of any force for the reasons\nhereinafter mentioned. Rakeshwar that vendor Bahadur Singh had shown wrong location of Khasra number purchased by\nco-accused Surjan Singh vide sale deed dated 21.11.1977 and on this ground co-accused Rakeshwar\n@ Rakesh cannot be convicted under Section 325 IPC and under Section 27 of Arms Act 1959 is also\nrejected being devoid of any force for the reasons hereinafter mentioned. There is no evidence on record that ad-interim injunction dated\n17.1.2006 o | Judgment: convicted | IPC: 148, 341, 447, 452, 323, 325, 436, 506, 149, 27, 378, 313, 315, 59",
+      "metadata": {
+        "case_name": "State Of Himachal Pradesh vs Surjan Singh Son Of Shri Hari",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "148",
+          "341",
+          "447",
+          "452",
+          "323",
+          "325",
+          "436",
+          "506",
+          "149",
+          "27",
+          "378",
+          "313",
+          "315",
+          "59"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2015"
+      }
+    }
+  ]
+}

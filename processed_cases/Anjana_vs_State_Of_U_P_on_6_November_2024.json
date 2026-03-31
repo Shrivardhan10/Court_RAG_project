@@ -1,0 +1,137 @@
+{
+  "case_id": "Anjana_vs_State_Of_U_P_on_6_November_2024",
+  "case_name": "Anjana vs State Of U.P. on 6 November, 2024",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "- 72\nCase :- CRIMINAL MISC. BAIL APPLICATION No. Hon'ble Rajeev Misra,J. This third application for bail has been filed by applicant-Anjana seeking his enlargement on bail in\nCase Crime No. 124 of 2018, under sections 354D, 306, 506 IPC, Police Station- Meja, District-\nPrayagraj, during the pendency of trial i.e. Sessions Trial No. Bail Application No. on 6 November, 2024\nIndian Kanoon - http://indiankanoon.org/doc/85925882/ 1\nlearned A.G.A. 2. 3. This application for bail has been filed by the applicant-Anjana seeking his\nenlargement on bail in Case Crime No. 124 of 2018, under Sections 354D, 306 and\n506 I.P.C., Police Station-Meja, District-Allahabad, during the pendency of the trial. 4. It transpires from the record that on the fateful day, i.e. on 14.03.2018, a young\ngirl, namely, Kanchan Devi committed suicide by immolating herself. The first\ninformation report in respect of the aforesaid incident was lodged on 14.03.2018 by\nthe mother of the deceased, which came to be registered as Case Crime No. 0124 of\n2018, under Sections 354D, 306, 511 and 506 I.P.C., Police Station-Meja,\nDistrict-Allahabad. 5. In the aforesaid F.I.R., two persons, namely, Ajay Kumar and Anjana (the\napplicant herein) were nominated as named accused. It is the case of the prosecution\nthat after the happening of the occurrence on 14.03.2018, the victim was admitted to\nS.R.N. Hospital, Allahabad where she had undergone treatment upto 25.03.2018. Ultimately, the victim died on 25.03.2018. While the victim was undergoing\ntreatment at the aforesaid Hospital her dying declaration was recorded on\n15.03.2018. The allegations in the F.I.R. clearly implicated the present applicant on\naccount of eve teasing and molestation. The prosecution version as unfolded in the\nF.I.R. also stands corroborated by the dying declaration of the deceased which is on\nthe record at page 16 of the paper-book as Annexure-3 to the affidavit. Learned\ninasmuch as the applicant is the resident of the same village where the victim\n/deceased was residing. 6. Be that as it may, there is nothing on the record to disbelieve the dying declaration\nof the deceased upto this stage.",
+      "embedding_text": "FACT_CHUNK | Case: Anjana vs State Of U.P. on 6 November, 2024 | Facts: - 72\nCase :- CRIMINAL MISC. BAIL APPLICATION No. Hon'ble Rajeev Misra,J. This third application for bail has been filed by applicant-Anjana seeking his enlargement on bail in\nCase Crime No. 124 of 2018, under sections 354D, 306, 506 IPC, Police Station- Meja, District-\nPrayagraj, during the pendency of trial i.e. Sessions Trial No. Bail Application No. on 6 November, 2024\nIndian Kanoon - http://indiankanoon.org/doc/85925882/ 1\nlearned A.G.A. 2. 3. This application for bail has been filed by the applicant-Anjana seeking his\nenlargement on bail in Case Crime No. 124 of 2018, under Sections 354D, 306 and\n506 I.P.C., Police Station-Meja, District-Allahabad, during the pendency of the trial. 4. It transpires from the record that on the fateful day, i.e. on 14.03.2018, a young\ngirl, namely, Kanchan Devi committed suicide by immolating herself. The first\ninformation report in respect of the aforesaid incident was lodged on 14.03.2018 by\nthe mother of the deceased, which came to be registered  | Actions: molested, harassed | Weapon: unknown | Outcome: death | IPC: 354D, 306, 506, 511, 173",
+      "metadata": {
+        "case_name": "Anjana vs State Of U.P. on 6 November, 2024",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "354D",
+          "306",
+          "506",
+          "511",
+          "173"
+        ],
+        "actions": [
+          "molested",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Anjana vs State Of U.P. on 6 November, 2024\nAuthor: Rajeev Misra\nBench: Rajeev Misra\nHIGH COURT OF JUDICATURE AT ALLAHABAD\n?Neutral Citation No. - 2024:AHC:174094\nCourt No. - 72\nCase :- CRIMINAL MISC. BAIL APPLICATION No. - 30976 of 2024\nApplicant :- Anjana\nOpposite Party :- State of U.P. Hon'ble Rajeev Misra,J. This third application for bail has been filed by applicant-Anjana seeking his enlargement on bail in\nCase Crime No. 124 of 2018, under sections 354D, 306, 506 IPC, Police Station- Meja, District-\nPrayagraj, during the pendency of trial i.e. Sessions Trial No. 373 of 2018 (State Vs. Ajay Kumar),\nunder sections 354D, 306 and 506 IPC, Police Station- Meja, District- Prayagraj, now pending in the\nCourt of Additional District Judge (POCSO Act), Prayagraj.",
+      "embedding_text": "ISSUE_CHUNK | Case: Anjana vs State Of U.P. on 6 November, 2024 | Legal issues: Anjana vs State Of U.P. on 6 November, 2024\nAuthor: Rajeev Misra\nBench: Rajeev Misra\nHIGH COURT OF JUDICATURE AT ALLAHABAD\n?Neutral Citation No. - 2024:AHC:174094\nCourt No. - 72\nCase :- CRIMINAL MISC. BAIL APPLICATION No. - 30976 of 2024\nApplicant :- Anjana\nOpposite Party :- State of U.P. Hon'ble Rajeev Misra,J. This third application for bail has been filed by applicant-Anjana seeking his enlargement on bail in\nCase Crime No. 124 of 2018, under sections 354D, 306, 506 IPC, Police Station- Meja, District-\nPrayagraj, during the pendency of trial i.e. Sessions Trial No. 373 of 2018 (State Vs. Ajay Kumar),\nunder sections 354D, 306 and 506 IPC, Police Station- Meja, District- Prayagraj, now pending in the\nCourt of Additional District Judge (POCSO Act), Prayagraj. | IPC: 354D, 306, 506, 511, 173",
+      "metadata": {
+        "case_name": "Anjana vs State Of U.P. on 6 November, 2024",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "354D",
+          "306",
+          "506",
+          "511",
+          "173"
+        ],
+        "actions": [
+          "molested",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Anjana vs State Of U.P. - 30976 of 2024\nApplicant :- Anjana\nOpposite Party :- State of U.P. 373 of 2018 (State Vs. 39717 of 2018 (Anjana Vs State of U.P.). For ready\nreference the order dated 4.12.2018 is reproduced herein under:Anjana vs State Of U.P. for the State. has submitted a charge-sheet datedAnjana vs State Of U.P. What has happened subsequent to the\nsubmission of the charge sheet dated 24.06.2018 has not been detailed in the\napplicant has been able to detail the same at the time hearing of the present bail\napplication. State of U.P.). The order dated 6.2.2024 reads as under:\nthe record.Anjana vs State Of U.P. has opposed the prayer for bail and argued that first bail\napplication of applicant was rejected by this Court on merits and that there are\nserious allegations that applicant and co-accused have harassed and molested the\ndeceased due to which, she has committed suicide by burning herself. However, keeping in view of period of incarceration of applicant, the Trial Court is\nagain directed to expedite the trial and to decide the same preferably within a period\nof six months from the date of production/receipt of the copy of this order, if there is\nno legal impediment.Anjana vs State Of U.P. Moreover once the statement of\nthe prosecutrix stands recorded before court below then in that eventuality it cannot be said that if\nthe applicant is enlarged on bail he shall either terrorize the witnesses or shall hamper the course of\ntrial.As such, no good ground now exists to prolong the custodial arrest of applicant. It\nis thus urged by the learned counsel for applicant that applicant is liable to be enlarged on bail. in\napplicant, with reference to the record therefore irrespective of the varied submissions urged by\nlearned counsel for applicant in support of the present application for bail, but without making any\ncomment on the merits of the case, this Court does not find any new good or sufficient ground so as\nto enlarge the applicant on bail.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Anjana vs State Of U.P. on 6 November, 2024 | Arguments: Anjana vs State Of U.P. - 30976 of 2024\nApplicant :- Anjana\nOpposite Party :- State of U.P. 373 of 2018 (State Vs. 39717 of 2018 (Anjana Vs State of U.P.). For ready\nreference the order dated 4.12.2018 is reproduced herein under:Anjana vs State Of U.P. for the State. has submitted a charge-sheet datedAnjana vs State Of U.P. What has happened subsequent to the\nsubmission of the charge sheet dated 24.06.2018 has not been detailed in the\napplicant has been able to detail the same at the time hearing of the present bail\napplication. State of U.P.). The order dated 6.2.2024 reads as under:\nthe record.Anjana vs State Of U.P. has opposed the prayer for bail and argued that first bail\napplication of applicant was rejected by this Court on merits and that there are\nserious allegations that applicant and co-accused have harassed and molested the\ndeceased due to which, she has committed suicide by burning herself. However, keeping in view of period of incarceration of applicant, the Trial Court i | Intent: unknown | IPC: 354D, 306, 506, 511, 173 | Judgment context: unknown",
+      "metadata": {
+        "case_name": "Anjana vs State Of U.P. on 6 November, 2024",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "354D",
+          "306",
+          "506",
+          "511",
+          "173"
+        ],
+        "actions": [
+          "molested",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "on 6 November, 2024\nAuthor: Rajeev Misra\nBench: Rajeev Misra\nHIGH COURT OF JUDICATURE AT ALLAHABAD\n?Neutral Citation No. - 2024:AHC:174094\nCourt No. Ajay Kumar),\nunder sections 354D, 306 and 506 IPC, Police Station- Meja, District- Prayagraj, now pending in the\nCourt of Additional District Judge (POCSO Act), Prayagraj. The first bail application of applicant was rejected by this Court by a detailed order dated 4.12.2018,\npassed in Criminal Misc. Supplementary affidavit filed on behalf of the applicant today in Court, is taken on\nrecord. He therefore submits that the applicant is liable to be enlarged on bail. Therefore, interest of justice shall better be served in\ncase a direction is issued to the trial court to expedite the trial itself instead of\nconsidering the bail application of the applicant on merits. On the aforesaid factual\npremise, he submits that the applicant is not entitled to any indulgence by this Court. The bail application of the applicant is thus liable to be rejected. However, at this stage, it is expected from the learned trial court to gear up the\ntrial and make necessary endeavour to conclude the same within six months provided\nthe applicant would render all necessary co-operation in early conclusion of the trial. Office is directed to communicate the copy of this order forthwith to concerned\ncourt for necessary compliance. \"\nTherefore, applicant filed his repeat application for bail which was registered as Criminal Misc Bail\nApplication No. The same was also rejected by this Court\nvide order dated 6.2.2024. The first bail\napplication of applicant was rejected by this Court vide order dated 4.12.2018, passed\nin Criminal Misc. It is further submitted that first bail application of applicant was rejected by this\nCourt vide order dated 4.12.2018, passed in Criminal Misc. Bail Application No.39717\nof 2018 and the trial court was directed to make necessary endeavour to conclude the\ntrial within a period of six months but trial has not been concluded so far, whereas,\nthe applicant is in jail since 14.06.2018 having no criminal history and that in case\nthe applicant is released on bail, he will not misuse the liberty of bail and will\ncooperate in trial.",
+      "embedding_text": "REASONING_CHUNK | Case: Anjana vs State Of U.P. on 6 November, 2024 | Judicial reasoning: on 6 November, 2024\nAuthor: Rajeev Misra\nBench: Rajeev Misra\nHIGH COURT OF JUDICATURE AT ALLAHABAD\n?Neutral Citation No. - 2024:AHC:174094\nCourt No. Ajay Kumar),\nunder sections 354D, 306 and 506 IPC, Police Station- Meja, District- Prayagraj, now pending in the\nCourt of Additional District Judge (POCSO Act), Prayagraj. The first bail application of applicant was rejected by this Court by a detailed order dated 4.12.2018,\npassed in Criminal Misc. Supplementary affidavit filed on behalf of the applicant today in Court, is taken on\nrecord. He therefore submits that the applicant is liable to be enlarged on bail. Therefore, interest of justice shall better be served in\ncase a direction is issued to the trial court to expedite the trial itself instead of\nconsidering the bail application of the applicant on merits. On the aforesaid factual\npremise, he submits that the applicant is not entitled to any indulgence by this Court. The bail application of the applicant is thus liable to be rejecte | Intent: unknown | Outcome: death | IPC: 354D, 306, 506, 511, 173",
+      "metadata": {
+        "case_name": "Anjana vs State Of U.P. on 6 November, 2024",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "354D",
+          "306",
+          "506",
+          "511",
+          "173"
+        ],
+        "actions": [
+          "molested",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "However, upto this stage, no such,\nincriminating circumstance has emerged necessitating the custodial arrest of applicant during the\npendency of trial. There are no chances of the applicant fleeing away in case he is enlarged on bail. In\ncase the applicant is enlarged on bail, he shall not misuse the liberty of bail and shall co-operate\nwith the trial. Per contra, the learned A.G.A. has opposed the prayer for bail. Considering the nature and gravity of offence, and the period of\npunishment prescribed, the period of incarceration undergone by applicant is by itself not so\nsufficient a ground so as to enlarge the applicant on bail. material brought on record, evidence, nature and gravity of offence as well as complicity of\napplicant, accusation made coupled with the fact that the objections raised by the learned A.G.A. on 6 November, 2024\nIndian Kanoon - http://indiankanoon.org/doc/85925882/ 5\nIt is accordingly rejected. on 6 November, 2024\nIndian Kanoon - http://indiankanoon.org/doc/85925882/ 6",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Anjana vs State Of U.P. on 6 November, 2024 | Final judgment: However, upto this stage, no such,\nincriminating circumstance has emerged necessitating the custodial arrest of applicant during the\npendency of trial. There are no chances of the applicant fleeing away in case he is enlarged on bail. In\ncase the applicant is enlarged on bail, he shall not misuse the liberty of bail and shall co-operate\nwith the trial. Per contra, the learned A.G.A. has opposed the prayer for bail. Considering the nature and gravity of offence, and the period of\npunishment prescribed, the period of incarceration undergone by applicant is by itself not so\nsufficient a ground so as to enlarge the applicant on bail. material brought on record, evidence, nature and gravity of offence as well as complicity of\napplicant, accusation made coupled with the fact that the objections raised by the learned A.G.A. on 6 November, 2024\nIndian Kanoon - http://indiankanoon.org/doc/85925882/ 5\nIt is accordingly rejected. on 6 November, 2024\nIndian Kanoon - http://indiankanoon.org/doc/859 | Judgment: unknown | IPC: 354D, 306, 506, 511, 173",
+      "metadata": {
+        "case_name": "Anjana vs State Of U.P. on 6 November, 2024",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "354D",
+          "306",
+          "506",
+          "511",
+          "173"
+        ],
+        "actions": [
+          "molested",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "case_id": "Smt_Usha_Devi_Wife_Of_Surendra_Nath_vs_State_Of_U_P_Surendra_Nath_Singh_Son_Of_on_19_September_2007",
+  "case_name": "Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P.,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Smt. Usha Devi Wife Of Surendra Nath ... on 19 September, 2007\nJUDGMENT\nM.K. Mittal, J. 1. This appeal has been filed by Smt. 10 Ballia in criminal case no. 2 under Sections 405, 498A\nIPC as he did not find him guilty thereunder. 2. Brief facts of the case are that Smt. Usha Devi claiming herself to be legally weded second wife of\nthe accused filed a first information report on 17.3.1987 against the accused Surendra Nath Singh\nand his bhabhi Smt. Savitri Devi. In the first information report she alleged that she was married\nwith the accused Surendra Kumar Singh resident of Piprakalan on 30.5.1983. After marriage she\nwent with the accused and then she came to know that accused earlier married Smt. Shail Kumari\nwho was turned out of the house and was alive Accused was also having illicit relation with his\nbhabhi Smt. Savitri Devi and had concealed the fact of furst marriage, She also gave birth to a\ndaughter in November, 1984 but alter 15 days her daughter was taken by the accused and was killed\nand she was also turned out of the house. After some time the accused came to her house and\naccepted his mistake and prayed for forgiveness and them her brother and mother allowed her to go. She lived with the accused and gave birth to a son Raju. But again in collusion with Smt. Savitn Devi\naccused planned to kill her by giving some poisonous injection. However she overheard that accused\nhad been planning to take her to Distinct Hospital, Ballia for this purpose. When she was asked to\ngo to hospital she refused but she was beaten and her clothes were also set on fire. However, the\nneighboured came and saved her and thereafter she came to her Maika. A case was registered at\ncrime no 435 of 1987 under Section 498. 506 IPC and after investigation charge sheet was submitted\nagainst the accused under Sections 494, 495, 506 IPC. But a prayer was made to cancel the charge\nsheet and the same was Cancelled on 11.2.1988.",
+      "embedding_text": "FACT_CHUNK | Case: Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P., | Facts: Smt. Usha Devi Wife Of Surendra Nath ... on 19 September, 2007\nJUDGMENT\nM.K. Mittal, J. 1. This appeal has been filed by Smt. 10 Ballia in criminal case no. 2 under Sections 405, 498A\nIPC as he did not find him guilty thereunder. 2. Brief facts of the case are that Smt. Usha Devi claiming herself to be legally weded second wife of\nthe accused filed a first information report on 17.3.1987 against the accused Surendra Nath Singh\nand his bhabhi Smt. Savitri Devi. In the first information report she alleged that she was married\nwith the accused Surendra Kumar Singh resident of Piprakalan on 30.5.1983. After marriage she\nwent with the accused and then she came to know that accused earlier married Smt. Shail Kumari\nwho was turned out of the house and was alive Accused was also having illicit relation with his\nbhabhi Smt. Savitri Devi and had concealed the fact of furst marriage, She also gave birth to a\ndaughter in November, 1984 but alter 15 days her daughter was taken by the accused and wa | Actions: killed, harassed, cruelty | Weapon: unknown | Outcome: death | IPC: 405, 498A, 498, 494, 495, 506, 200, 313, 323, 324, 332, 125, 17, 12",
+      "metadata": {
+        "case_name": "Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P.,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "405",
+          "498A",
+          "498",
+          "494",
+          "495",
+          "506",
+          "200",
+          "313",
+          "323",
+          "324",
+          "332",
+          "125",
+          "17",
+          "12"
+        ],
+        "actions": [
+          "killed",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "District Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In the instant case, it has to be seen whether the prosecution was successful in establishing that\nthe accused had first valid marriage and that during the subsistence of that marriage he contracted a\nsecond valid marriage with the complainant. Now it is to be considered whether the first marriage between the accused and Smt. Snail\nKumari was also validly performed marriage and whether the factum of first marriage was concealed\nby the accused from the complainant. Admission is a formidable evidence in civil proceedings and clinches the issue unless explained\nor shown to be erroneous. Explanation:-For the purpose of this section, \"cruelty\" means:\n(a) any wilful conduct which is of such a nature as is likely to drive the woman to\ncommit suicide or to cause grave injury or danger to life, limb or health (whether\nmental or physical) of the woman; or\n(b) harassment of the woman where such harassment is with a view to coercing her\nor any person related to hereto meet any unlawful demand for any property or\nvaluable security or is on account of failure by her or any person related to her to\nmeet such demand.",
+      "embedding_text": "ISSUE_CHUNK | Case: Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P., | Legal issues: In the instant case, it has to be seen whether the prosecution was successful in establishing that\nthe accused had first valid marriage and that during the subsistence of that marriage he contracted a\nsecond valid marriage with the complainant. Now it is to be considered whether the first marriage between the accused and Smt. Snail\nKumari was also validly performed marriage and whether the factum of first marriage was concealed\nby the accused from the complainant. Admission is a formidable evidence in civil proceedings and clinches the issue unless explained\nor shown to be erroneous. Explanation:-For the purpose of this section, \"cruelty\" means:\n(a) any wilful conduct which is of such a nature as is likely to drive the woman to\ncommit suicide or to cause grave injury or danger to life, limb or health (whether\nmental or physical) of the woman; or\n(b) harassment of the woman where such harassment is with a view to coercing her\nor any person related to hereto meet any unlawful demand for  | IPC: 405, 498A, 498, 494, 495, 506, 200, 313, 323, 324, 332, 125, 17, 12",
+      "metadata": {
+        "case_name": "Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P.,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "405",
+          "498A",
+          "498",
+          "494",
+          "495",
+          "506",
+          "200",
+          "313",
+          "323",
+          "324",
+          "332",
+          "125",
+          "17",
+          "12"
+        ],
+        "actions": [
+          "killed",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "District Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of U.P.,\nSurendra Nath Singh Son Of ... vs State Of U.P., Surendra Nath Singh Son Of ... He also stated that the witnesses had wrongly deposed\nagainst him. Shail Kumari was fled b him for divoree where in the\ndivorce petition he had stated that his marriage with Shail Kumari was performed according to\nHindu rites in May 1971 and that case was dismissed by the Addl. In\nreply to this question the accused stated that the marriage with Snail Kumari was not according to\n(sic) and (sic) method. State of Himanchal Pradesh and also a judgment in the case of Godawari v. State of\nMaharashtra 1985, Cr. Rai, learned Counsel for the appellant and Sri V.B. Kumar learned Counsel for the accused and Sri R.C. vs State Of U.P., Surendra Nath Singh Son Of ... Against it learned Counsel for the accused opposite party No. vs State Of U.P., Surendra Nath Singh Son Of ... In the instant case, according to the complainant the accused performed a legal marriage with\nsecond wife in the year 1983 according to Hindu rites whereas he had already a living wife with\nwhom he had contracted the legal marriage in the year 1971 and against whom he had also filed a\nsuit for divorce which was dismissed on 7.12.1983 that is after her marriage with the appellant and\nthe fact of the earlier marriage was also concealed from her. In order to appreciate the respective\ncontentions of the parties it will be relevant to refer the statements as made by the witnesses. Usha Devi P.W.-1 has stated that she was married to accused Surendra Nath Singh who was\nworking as clerk in the District Court, Ballia on 30.5,1983 according to Hindu rites. When she had come to the court with her\nailing son and had asked for money from Surendra (appellant) marpeet had taken place. P.W.-2 Baleshwar Nath Singh who is brother of the complainant stated that the marriage of his\nsister was settled in 1983 with the accused. vs State Of U.P., Surendra Nath Singh Son Of ...",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P., | Arguments: vs State Of U.P.,\nSurendra Nath Singh Son Of ... vs State Of U.P., Surendra Nath Singh Son Of ... He also stated that the witnesses had wrongly deposed\nagainst him. Shail Kumari was fled b him for divoree where in the\ndivorce petition he had stated that his marriage with Shail Kumari was performed according to\nHindu rites in May 1971 and that case was dismissed by the Addl. In\nreply to this question the accused stated that the marriage with Snail Kumari was not according to\n(sic) and (sic) method. State of Himanchal Pradesh and also a judgment in the case of Godawari v. State of\nMaharashtra 1985, Cr. Rai, learned Counsel for the appellant and Sri V.B. Kumar learned Counsel for the accused and Sri R.C. vs State Of U.P., Surendra Nath Singh Son Of ... Against it learned Counsel for the accused opposite party No. vs State Of U.P., Surendra Nath Singh Son Of ... In the instant case, according to the complainant the accused performed a legal marriage with\nsecond wife in the year 1983 accord | Intent: unknown | IPC: 405, 498A, 498, 494, 495, 506, 200, 313, 323, 324, 332, 125, 17, 12 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P.,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "405",
+          "498A",
+          "498",
+          "494",
+          "495",
+          "506",
+          "200",
+          "313",
+          "323",
+          "324",
+          "332",
+          "125",
+          "17",
+          "12"
+        ],
+        "actions": [
+          "killed",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "District Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Usha Devi against the judgment and order dated 20.3.2002\npassed by Sri Mehtab Ahmad, A.C.J.M., Court No. and specific question was put to him that in the Court of Civil Judge, Ballia Suit\nNo. Learned Trial Court after considering the evidence of the parties came to the conclusion that the\nprosecution had failed to establish that the first marriage was performed according to Hindu rites\nand that the admission as made by the accused were not sufficient, in view of the judgments as\nrendered in the case of Smt. Court and on that basis concluded\nthat the accused was not liable to be punished under Section 495 IPC. and have perused the Trial Court record. He has also contnded that the complainant had also proved that the\nmarriage of the accused with the complainant was a legal marriage and that this marriage was\nperformed when first marriage was still subsisting and therefore the accused had committed theSmt. 2 has contended that learned Trial\nCourt has rightly held that the prosecution could not establish that the alleged marriage with Smt. The exceptions are that where the marriage of such husband or wife had been declared void by\nthe Court of competent jurisdiction and where there is continual absence of one of the parties for theSmt. Surendra Kumar is working as clerk in Civil Court Ballia. He had gone to the house of\nSurendra for settlement of the marriage of his sister and at that time he knew that Surendra was\nworking as clerk in the civil court. A matter was enquired against him for the theft ol a file in the Civil Court prior to this\ncase. In cross examination, he staled that he did not go in the 'agua' of the marriage and he did not\nreceive any summon for coming to the Court. Therefore there is sufficient evidence to establish that\nthe second marriage was performed according to Hindu rites and was a validly performed marriage. Learned Trial Court has also correctly held that the second marriage was legally performed.",
+      "embedding_text": "REASONING_CHUNK | Case: Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P., | Judicial reasoning: Usha Devi against the judgment and order dated 20.3.2002\npassed by Sri Mehtab Ahmad, A.C.J.M., Court No. and specific question was put to him that in the Court of Civil Judge, Ballia Suit\nNo. Learned Trial Court after considering the evidence of the parties came to the conclusion that the\nprosecution had failed to establish that the first marriage was performed according to Hindu rites\nand that the admission as made by the accused were not sufficient, in view of the judgments as\nrendered in the case of Smt. Court and on that basis concluded\nthat the accused was not liable to be punished under Section 495 IPC. and have perused the Trial Court record. He has also contnded that the complainant had also proved that the\nmarriage of the accused with the complainant was a legal marriage and that this marriage was\nperformed when first marriage was still subsisting and therefore the accused had committed theSmt. 2 has contended that learned Trial\nCourt has rightly held that the prosecution coul | Intent: unknown | Outcome: death | IPC: 405, 498A, 498, 494, 495, 506, 200, 313, 323, 324, 332, 125, 17, 12",
+      "metadata": {
+        "case_name": "Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P.,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "405",
+          "498A",
+          "498",
+          "494",
+          "495",
+          "506",
+          "200",
+          "313",
+          "323",
+          "324",
+          "332",
+          "125",
+          "17",
+          "12"
+        ],
+        "actions": [
+          "killed",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "District Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "1746 of 2001\nwhereby he acquitted the accused Surendra Singh, opposite party No. Consequently he acquitted the accused of the two charges as framed against him. on 19 September, 2007\nIndian Kanoon - http://indiankanoon.org/doc/1912742/ 2\nfurther contended that accused had harassed and ill treated the complainant and had turned her out\nof the house and therefore was also liable to be punished under Section 498A IPC, but the learned\nMagistrate wrongly acquitted the accused of both the charges and that the findings as recorded by\nthe learned Magistrate are perverse and are liable to be set aside. He has also contended that the learned\nMagistrate has rightly held that the prosecution failed to establish any harassment of the\ncomplainant made by the accused and that he rightly acquitted the accused and the appeal is liable\nto be dismissed. Section 494 provides that\nwhoever, having a husband or wife living, marries in any case in which such marriage is void by\nreason of its taking place during the life of such husband or wife, shall be punished with\nimprisonment of either description for a term which may extend to seven years, and shall also be\nliable to fine.\"\n11. Section 495 IPC reads as under:\nWhoever commits the offence defined in the last preceding section having concealed\nfrom the person with whom the subsequent marriage is contracted, the fact of the\nformer marriage, shall be punished with imprisonment of either description for a\nterm which may extend to ten years, and shall also be liable to fine. He also stated that in the case filed by\nSurendra Kumar they have been acquitted. two requisite of Saptapadi\nand Homam were gone through and if there is any admission by the accused, same is not sufficient\nto establish that the marriage was validly performed and on that basis accused cannot be convicted. In the circumstances, the prosecution has failed to establish its case against: the accused\nunder Section 495 IPS and the learned Trial Court has rightly acquitted the accused of that offence\nand that finding needs no interference.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P., | Final judgment: 1746 of 2001\nwhereby he acquitted the accused Surendra Singh, opposite party No. Consequently he acquitted the accused of the two charges as framed against him. on 19 September, 2007\nIndian Kanoon - http://indiankanoon.org/doc/1912742/ 2\nfurther contended that accused had harassed and ill treated the complainant and had turned her out\nof the house and therefore was also liable to be punished under Section 498A IPC, but the learned\nMagistrate wrongly acquitted the accused of both the charges and that the findings as recorded by\nthe learned Magistrate are perverse and are liable to be set aside. He has also contended that the learned\nMagistrate has rightly held that the prosecution failed to establish any harassment of the\ncomplainant made by the accused and that he rightly acquitted the accused and the appeal is liable\nto be dismissed. Section 494 provides that\nwhoever, having a husband or wife living, marries in any case in which such marriage is void by\nreason of its taking place duri | Judgment: convicted | IPC: 405, 498A, 498, 494, 495, 506, 200, 313, 323, 324, 332, 125, 17, 12",
+      "metadata": {
+        "case_name": "Smt. Usha Devi Wife Of Surendra Nath ... vs State Of U.P.,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "405",
+          "498A",
+          "498",
+          "494",
+          "495",
+          "506",
+          "200",
+          "313",
+          "323",
+          "324",
+          "332",
+          "125",
+          "17",
+          "12"
+        ],
+        "actions": [
+          "killed",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "District Court",
+        "year": "2007"
+      }
+    }
+  ]
+}

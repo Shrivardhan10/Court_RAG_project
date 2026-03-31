@@ -1,0 +1,127 @@
+{
+  "case_id": "State_vs_Akbar_Malik_on_29_April_2017",
+  "case_name": "State vs . Akbar Malik on 29 April, 2017",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Akbar Malik\nFIR No. 49/13\nU/s : 354D IPC\nPS : Yamuna Depot Metro\nJUDGMENT\n1. Sl. No. of the case : 11089/16\n2. Name of the complainant : Name withheld\n3. Date of commission of offence : 10.11.2013\n4. Name of accused and address : Akbar Malik\nS/o Mr. Akhtar Malik\nR/o 145/61, Gali No. 1,\nShiv Mandir Marg, Mandawali,\nDelhi−92\n5. Offence complained of/ proved : 354D IPC\n6. Plea of accused : Not guilty\n7. Final order : Conviction\n8. FIR No. 49/13 PS Y.D. Akbar Malik Page No.1 to 21\n2. Upon completion of investigation, charge sheet for commission of\noffences punishable U/s 354D/509 IPC was filed. The copies of the challan\nwere supplied to the accused and after hearing the accused, charge for an offence punishable u/s\n354D IPC was framed against the accused Akbar\nMalik to which he pleaded not guilty and claimed trial. Akbar Malik on 29 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/47213141/ 1\n3. In order to substantiate the allegations against the accused, the\nprosecution has examined three witnesses. 4. PW−1 Ms. X (name withheld) is the complainant/ victim who\nhas deposed that on 10.11.2013 at about 2.00 pm, she left her office i.e. NF\nInternational, Mandawali, Delhi to reach at Nirman Vihar Metro Station on\nRickshaw; accused followed her from her office and parked his scooty at the\nparking of Nirman Vihar Metro Station and came behind her at the same platform from where\nshe was waiting for Metro Train going towards\nDwarka. She deposed that accused had clicked on his mobile phone to take\nher photo from side and when she heard the sound of camera then, she asked\nthe accused to show her his mobile phone; on this, accused declined her to\nshow his phone and deleted the photo at the same time. Thereafter, accused started running\ntowards exit and she also ran behind him and called the security person who dragged\nthe accused and took him to cabin. PW1\ndeposed that she asked the security person to check the mobile phone of the\naccused and on checking the phone, photo was found to be deleted by the\naccused.",
+      "embedding_text": "FACT_CHUNK | Case: State vs . Akbar Malik on 29 April, 2017 | Facts: Akbar Malik\nFIR No. 49/13\nU/s : 354D IPC\nPS : Yamuna Depot Metro\nJUDGMENT\n1. Sl. No. of the case : 11089/16\n2. Name of the complainant : Name withheld\n3. Date of commission of offence : 10.11.2013\n4. Name of accused and address : Akbar Malik\nS/o Mr. Akhtar Malik\nR/o 145/61, Gali No. 1,\nShiv Mandir Marg, Mandawali,\nDelhi−92\n5. Offence complained of/ proved : 354D IPC\n6. Plea of accused : Not guilty\n7. Final order : Conviction\n8. FIR No. 49/13 PS Y.D. Akbar Malik Page No.1 to 21\n2. Upon completion of investigation, charge sheet for commission of\noffences punishable U/s 354D/509 IPC was filed. The copies of the challan\nwere supplied to the accused and after hearing the accused, charge for an offence punishable u/s\n354D IPC was framed against the accused Akbar\nMalik to which he pleaded not guilty and claimed trial. Akbar Malik on 29 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/47213141/ 1\n3. In order to substantiate the allegations against the accused, the\nprosecution has examin | Actions: none | Weapon: unknown | Outcome: injury | IPC: 354D, 509, 164, 313, 354, 2",
+      "metadata": {
+        "case_name": "State vs . Akbar Malik on 29 April, 2017",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "354D",
+          "509",
+          "164",
+          "313",
+          "354",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "PW3 deposed that he does not remember whether accused was\nhaving any token or metro card or not; no token or metro card was recovered\nduring the personal search of the accused; he had not enquired regarding\nentry of the accused in the metro station. Akbar Malik Page No.6 to 21 Now this court shall\nproceed to determine whether in the\n10. State vs . Akbar Malik on 29 April, 2017\nIN THE COURT OF MS. SURABHI SHARMA VATS: MM,\nMAHILA COURT−01, EAST DISTRICT, KARKARDOOMA\nCOURTS, DELHI\nState Vs. Akbar Malik\nFIR No. 49/13\nU/s : 354D IPC\nPS : Yamuna Depot Metro\nJUDGMENT\n1. Sl. No. of the case : 11089/16\n2. Name of the complainant : Name withheld\n3.",
+      "embedding_text": "ISSUE_CHUNK | Case: State vs . Akbar Malik on 29 April, 2017 | Legal issues: PW3 deposed that he does not remember whether accused was\nhaving any token or metro card or not; no token or metro card was recovered\nduring the personal search of the accused; he had not enquired regarding\nentry of the accused in the metro station. Akbar Malik Page No.6 to 21 Now this court shall\nproceed to determine whether in the\n10. State vs . Akbar Malik on 29 April, 2017\nIN THE COURT OF MS. SURABHI SHARMA VATS: MM,\nMAHILA COURT−01, EAST DISTRICT, KARKARDOOMA\nCOURTS, DELHI\nState Vs. Akbar Malik\nFIR No. 49/13\nU/s : 354D IPC\nPS : Yamuna Depot Metro\nJUDGMENT\n1. Sl. No. of the case : 11089/16\n2. Name of the complainant : Name withheld\n3. | IPC: 354D, 509, 164, 313, 354, 2",
+      "metadata": {
+        "case_name": "State vs . Akbar Malik on 29 April, 2017",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "354D",
+          "509",
+          "164",
+          "313",
+          "354",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State vs . SURABHI SHARMA VATS: MM,\nMAHILA COURT−01, EAST DISTRICT, KARKARDOOMA\nCOURTS, DELHI\nState Vs. Date of such order : 22.04.17\nBRIEF STATEMENT OF REASONS FOR DECISION OF THE CASE:\n1. Succinctly stated the case of the prosecution is that on 10.11.2013 at about 02:00\npm at platform no. Metro State Vs. State vs . Metro State Vs. Her statement u/s 164 Cr.PC Ex.PW1/B\nwas recorded. She\ndeposed that police had recorded the disclosure statement of accused vide\ndisclosure memo Ex.PW1/E. She admitted that the house of the accused is situatedState vs . Metro State Vs. Metro State Vs. PW3 deposed that he recorded the disclosure statement of the accused Mohd. Akbar vide disclosure memo Ex.PW1/E and also\nrecorded the supplementary statement of complainant at the spot; he also recorded the statement\nof the Station Controller of the concerned metro\nstation. State vs . Metro State Vs. PE was closed after examination of PWs and statement of the accused was recorded u/s 313\nCr.P.C. Accused stated that he is innocent and has been falsely implicated in the present case. APP for the State and Sh. State vs . Akbar Malik on 29 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/47213141/ 4\nThe said offence is subject to the certain exceptions :\ni) if the said act is done for the purpose of preventing or detecting\ncrime and the said act has been entrusted by the State;\nii) if the said act was done under any law; or\niii) if the said act is reasonable and justified in given circumstances. Metro State Vs. Metro State Vs. She asked the security person to check the mobile phone of the accused andState vs . Accused has neither lead any defence evidence in the present matter nor has stated any\nspecific defence. He has only stated in his\nstatement that he is innocent and has been falsely implicated in the present case. Metro State Vs. Metro State Vs. In\nher statement recorded U/s 164 Cr.PC which is Ex.PW1/B, victim has also mentioned that police\ncame and checked CCTV footage in which it was\nfound that accused was clicking her photograph.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State vs . Akbar Malik on 29 April, 2017 | Arguments: State vs . SURABHI SHARMA VATS: MM,\nMAHILA COURT−01, EAST DISTRICT, KARKARDOOMA\nCOURTS, DELHI\nState Vs. Date of such order : 22.04.17\nBRIEF STATEMENT OF REASONS FOR DECISION OF THE CASE:\n1. Succinctly stated the case of the prosecution is that on 10.11.2013 at about 02:00\npm at platform no. Metro State Vs. State vs . Metro State Vs. Her statement u/s 164 Cr.PC Ex.PW1/B\nwas recorded. She\ndeposed that police had recorded the disclosure statement of accused vide\ndisclosure memo Ex.PW1/E. She admitted that the house of the accused is situatedState vs . Metro State Vs. Metro State Vs. PW3 deposed that he recorded the disclosure statement of the accused Mohd. Akbar vide disclosure memo Ex.PW1/E and also\nrecorded the supplementary statement of complainant at the spot; he also recorded the statement\nof the Station Controller of the concerned metro\nstation. State vs . Metro State Vs. PE was closed after examination of PWs and statement of the accused was recorded u/s 313\nCr.P.C. Accused stated  | Intent: intentional | IPC: 354D, 509, 164, 313, 354, 2 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State vs . Akbar Malik on 29 April, 2017",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "354D",
+          "509",
+          "164",
+          "313",
+          "354",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Akbar Malik on 29 April, 2017\nIN THE COURT OF MS. 2, Nirman Vihar Metro\nStation, Delhi, accused followed the complainant namely Ms.'X' to foster\npersonal interaction despite clear indication of disinterest by her and prior to\nthe said date also, at unknown dates and time, he (accused) used to follow\nher repeatedly to foster personal interaction, despite clear indication of her\ndisinterest and thus, thereby, accused Akbar Malik committed an offence punishable U/s 354D IPC. on 11.11.2013, he also\nseized the scooty of the accused vide seizure memo Ex.PW3/C; accused was\ntaken to PS YDM and was released on police bail and after the completion of\ninvestigation, he prepared the charge sheet and filed the same before the court. This\nCourt has heard the Sh. She has further deposed that accused namely Akbar Malik (who was present\nin the court on the day of her deposition and\ncorrectly identified by the victim) followed her from her office and parked\nhis scooty at the parking of Nirman Vihar Metro Station and came behind her at the same\nplatform, where she was waiting for Metro Train going towards Dwarka. near the office of the victim, therefore, accused used to roam around there. Akbar Malik on 29 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/47213141/ 6\nTherefore, the deposition of the victim/ complainant is very\nspecific and clear with regard to the present incident i.e. Akbar Malik Page No.9 to 21\nHence, on the basis of the unequivocal testimony of the victim, it\ncan be said that the accused was following the complainant/ victim. Therefore, in view of\nthe above discussion, mere non recovery of the metro card or token would\nnot by itself prove the plea alibi of the accused when he is being arrested FIR No. Therefore,\nhe used to roam around there. Trial Court held that the\ndefence of the accused was probablized. The court also noted that no proper\ninvestigation was done by the investigation officer. However, in the present case at hand, accused is defence less,\ntherefore, above stated judgment is of no help to the accused, herein.",
+      "embedding_text": "REASONING_CHUNK | Case: State vs . Akbar Malik on 29 April, 2017 | Judicial reasoning: Akbar Malik on 29 April, 2017\nIN THE COURT OF MS. 2, Nirman Vihar Metro\nStation, Delhi, accused followed the complainant namely Ms.'X' to foster\npersonal interaction despite clear indication of disinterest by her and prior to\nthe said date also, at unknown dates and time, he (accused) used to follow\nher repeatedly to foster personal interaction, despite clear indication of her\ndisinterest and thus, thereby, accused Akbar Malik committed an offence punishable U/s 354D IPC. on 11.11.2013, he also\nseized the scooty of the accused vide seizure memo Ex.PW3/C; accused was\ntaken to PS YDM and was released on police bail and after the completion of\ninvestigation, he prepared the charge sheet and filed the same before the court. This\nCourt has heard the Sh. She has further deposed that accused namely Akbar Malik (who was present\nin the court on the day of her deposition and\ncorrectly identified by the victim) followed her from her office and parked\nhis scooty at the parking of Nirman Vihar Metr | Intent: intentional | Outcome: injury | IPC: 354D, 509, 164, 313, 354, 2",
+      "metadata": {
+        "case_name": "State vs . Akbar Malik on 29 April, 2017",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "354D",
+          "509",
+          "164",
+          "313",
+          "354",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "APP for State has submitted that the accused be convicted as\nper law as the victim has vividly described the incident before the court and\nher testimony remained unshaken, even during her cross−examination. Accordingly, accused Akbar\nMalik is hereby, convicted for the offence punishable u/s 354−D IPC. Though, accused has been convicted on the basis of direct ocular testimony of the complainant/\nvictim which was found to be reliable, cogent and\nunimpeachable. However, IO was duty bound to collect the corroborative\nevidence too. IO should be made to explain as to why he did not seize the\nphone of the accused, although victim has clearly deposed that she saw the\nflash light and also heard the sound of camera, while accused was clicking her photographs. Phone would have been seized and sent to CFSL\nand the photographs of the victim could have been retrieved. In his deposition, IO has admitted that CCTVs Camera are\ninstalled in the said Metro Station. IO should explain as to why he did not collect the CCTV footage\ndespite its availability? 8750757518 FIR No. 49/13 PS Y.D. Akbar Malik on 29 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/47213141/ 13\nsending these odd SMSs to her. However, IO has not\nconducted any investigation in this regard; he did not investigate about the registration of these\nmobile numbers and has not made any efforts for\nobtaining any details or CDR or messages of the specific phone numbers\nprovided by the complainant/victim. 26. Section 2(h) of the Code Of Criminal Procedure, 1973 defines investigation :−\nInvestigation includes all the proceedings under this code, for\nthe collection of evidence, conducted by a police officer or by any person\n(other than a Magistrate) who is authorized by a Magistrate in this behalf. Investigation is done for the purpose of collection of evidence. However, it seems that IOs are acting completely in flagrant violation of this\ndefinition. The purpose of the investigation is not to collect the evidence\nwhich suits or assists the prosecution or to collect the evidence, which is readily available.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State vs . Akbar Malik on 29 April, 2017 | Final judgment: APP for State has submitted that the accused be convicted as\nper law as the victim has vividly described the incident before the court and\nher testimony remained unshaken, even during her cross−examination. Accordingly, accused Akbar\nMalik is hereby, convicted for the offence punishable u/s 354−D IPC. Though, accused has been convicted on the basis of direct ocular testimony of the complainant/\nvictim which was found to be reliable, cogent and\nunimpeachable. However, IO was duty bound to collect the corroborative\nevidence too. IO should be made to explain as to why he did not seize the\nphone of the accused, although victim has clearly deposed that she saw the\nflash light and also heard the sound of camera, while accused was clicking her photographs. Phone would have been seized and sent to CFSL\nand the photographs of the victim could have been retrieved. In his deposition, IO has admitted that CCTVs Camera are\ninstalled in the said Metro Station. IO should explain as to why he did not  | Judgment: convicted | IPC: 354D, 509, 164, 313, 354, 2",
+      "metadata": {
+        "case_name": "State vs . Akbar Malik on 29 April, 2017",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "354D",
+          "509",
+          "164",
+          "313",
+          "354",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2017"
+      }
+    }
+  ]
+}

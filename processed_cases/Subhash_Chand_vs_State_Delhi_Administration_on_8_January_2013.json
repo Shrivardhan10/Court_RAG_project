@@ -1,0 +1,142 @@
+{
+  "case_id": "Subhash_Chand_vs_State_Delhi_Administration_on_8_January_2013",
+  "case_name": "Subhash Chand vs State(Delhi Administration) on 8 January,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "1. Leave granted. 2. He is carrying on business in the name and style of M/s. Subhash Soda Water Factory. On\n6/6/1989 at about 4.15 p.m., one P.N. Khatri, Food Inspector, purchased a sample of sweetened\ncarbonated water for analysis from one Daya Chand Jain, Vendor-cum- Contractor of Canteen at\nSuraj Cinema, Dhansa Road, Najafgarh, Delhi. After following the necessary procedure, the sample\nwas sent to the Public Analyst for analysis. On analysis, the Public Analyst opined that the sample\ndoes not conform to the prescribed standard. After conclusion of the investigation, the\n- P.K. Jaiswal filed a Complaint bearing No.64 of 1991 against the appellant and Daya Chand in the\nCourt of the Metropolitan Magistrate, New Delhi alleging that the appellant and the said Daya\nChand had violated the provisions of Sections 2(ia), (a), (b), (f), (h), (l), (m), Section 2(ix)\n(j), (k) and Section 24 of the Prevention of Food Adulteration Act, 1954 (for short, “PFA Act”) and\nRule 32, Rule 42 (zzz)(i) and Rule 47 of the Prevention of Food Adulteration Rules, 1955 (for short,\n“the Rules”) and committed an offence punishable under Section 16(1)(1A) read with Section 7 of the\nPFA Act and the Rules. Since Daya Chand died during the pendency of the case, the case abated as\nagainst him. 4. He contended that an appeal arising from an order of\nacquittal in a complaint case shall lie to the High Court. 5. 6. 7. 8. At our request, Mr. Sidharth Luthra, learned Additional Solicitor General has assisted us as\nAmicus Curiae. We have heard Ms. P.P. Written\nsubmissions have been filed by the counsel which we have carefully perused. Mr. Luthra took us\nthrough the relevant excerpts of Law Commission’s reports. He took us through the Code of\nCriminal Procedure (Amendment) Bill, 1994 ( Bill No. XXXV of 1994). He also took us through\nun-amended and amended Section 378 of the Code. After analyzing the relevant provisions, Mr. Luthra submitted that no appeal lies against an order of acquittal in cases instituted upon a\ncomplaint to the Sessions Court.",
+      "embedding_text": "FACT_CHUNK | Case: Subhash Chand vs State(Delhi Administration) on 8 January, | Facts: 1. Leave granted. 2. He is carrying on business in the name and style of M/s. Subhash Soda Water Factory. On\n6/6/1989 at about 4.15 p.m., one P.N. Khatri, Food Inspector, purchased a sample of sweetened\ncarbonated water for analysis from one Daya Chand Jain, Vendor-cum- Contractor of Canteen at\nSuraj Cinema, Dhansa Road, Najafgarh, Delhi. After following the necessary procedure, the sample\nwas sent to the Public Analyst for analysis. On analysis, the Public Analyst opined that the sample\ndoes not conform to the prescribed standard. After conclusion of the investigation, the\n- P.K. Jaiswal filed a Complaint bearing No.64 of 1991 against the appellant and Daya Chand in the\nCourt of the Metropolitan Magistrate, New Delhi alleging that the appellant and the said Daya\nChand had violated the provisions of Sections 2(ia), (a), (b), (f), (h), (l), (m), Section 2(ix)\n(j), (k) and Section 24 of the Prevention of Food Adulteration Act, 1954 (for short, “PFA Act”) and\nRule 32, Rule 42 (zzz)(i) and | Actions: none | Weapon: unknown | Outcome: death | IPC: 378, 2, 24, 16, 7, 417, 173, 154, 20",
+      "metadata": {
+        "case_name": "Subhash Chand vs State(Delhi Administration) on 8 January,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "378",
+          "2",
+          "24",
+          "16",
+          "7",
+          "417",
+          "173",
+          "154",
+          "20"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The short point which arises for consideration in this appeal is whether in a complaint case, an\nappeal from an order of acquittal of the Magistrate would lie to the Sessions Court under Section\n378(1) (a) of the Code or to the High Court under Section 378(4) of the Code. That issue is not before us. Section 2(d) defines\na complaint to mean any allegation made orally or in writing to a Magistrate with a view to his\ntaking action under the Code, that some person, whether known or unknown has committed an\noffence, but does not include a police report. But once it is a case\ninstituted on a complaint and an order of acquittal is passed, whether the offence be bailable or non-\nbailable, cognizable or non-cognizable, the complainant can file an application under Section 378(4)\nfor special leave to appeal against it in the High Court.",
+      "embedding_text": "ISSUE_CHUNK | Case: Subhash Chand vs State(Delhi Administration) on 8 January, | Legal issues: The short point which arises for consideration in this appeal is whether in a complaint case, an\nappeal from an order of acquittal of the Magistrate would lie to the Sessions Court under Section\n378(1) (a) of the Code or to the High Court under Section 378(4) of the Code. That issue is not before us. Section 2(d) defines\na complaint to mean any allegation made orally or in writing to a Magistrate with a view to his\ntaking action under the Code, that some person, whether known or unknown has committed an\noffence, but does not include a police report. But once it is a case\ninstituted on a complaint and an order of acquittal is passed, whether the offence be bailable or non-\nbailable, cognizable or non-cognizable, the complainant can file an application under Section 378(4)\nfor special leave to appeal against it in the High Court. | IPC: 378, 2, 24, 16, 7, 417, 173, 154, 20",
+      "metadata": {
+        "case_name": "Subhash Chand vs State(Delhi Administration) on 8 January,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "378",
+          "2",
+          "24",
+          "16",
+          "7",
+          "417",
+          "173",
+          "154",
+          "20"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Subhash Chand vs State(Delhi Administration) on 8 January,\n2013\nAIR SCW 356, 2013 (1) SCC (CRI) 802, 2013 (1) SCALE 156, (2013) 123\nALLINDCAS 148 (SC), 2013 (2) CAL CRI LR 151, 2013 (1) KER LT 45 SN,\n(2013) 1 MAD LJ(CRI) 302, (2013) 1 ALLCRIR 681, (2013) 2 MH LJ (CRI) 8, 2013\nCRILR(SC&MP) 1, (2013) 1 CRILR(RAJ) 1, 2013 CRILR(SC MAH GUJ) 1, (2013)\n1 GUJ LH 225, (2013) 1 MADLW(CRI) 692, (2013) 1 RECCRIR 1013, (2013) 1\nCURCRIR 325, (2013) 1 SCALE 156, (2013) 1 UC 530, (2013) 2 BOMCR(CRI) 70,\n(2013) 4 ALLCRILR 282, (2013) 1 CRIMES 135, (2013) 1 EFR 292, (2013) 54\nOCR 816\nBench: Ranjana Prakash Desai, Aftab Alam\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 50 OF 2013\n[Arising out of Special Leave Petition (Crl.) No.6937 of 2011]\nSUBHASH CHAND … APPELLANT\nVs. STATE (DELHI ADMINISTRATION). … RESPONDENTS\nJUDGMENT\n(SMT.) RANJANA PRAKASH DESAI, J. Case No.427 of 2009 whereby the High Court dismissed\nthe petition filed by the appellant holding that an appeal filed by the State against an order of\nacquittal shall lie to the Sessions Court under Section 378(1) of the Code of Criminal Procedure,\n1973 (for short, “the Code”) and not under Section 378(4) of the Code to the High Court.Subhash Chand vs State(Delhi Administration) on 8 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/111520823/ 1\n3. The appellant is the supplier-cum-manufacturer of the food article namely Sweetened Carbonated\nWater. Being aggrieved by the said order dated 27/2/2007, the respondent- State preferred Criminal\nAppeal No.13 of 2008 in the Sessions Court under Section 378(1)(a) of the Code. The appellant\nraised a preliminary objection in regard to the maintainability of the said Appeal before the Sessions\nCourt in view of Section 378(4) of the Code. Aggrieved by the said order dated 4/2/2009, the appellant preferred Criminal Misc. The respondent-State carried the said order dated 9/7/2009 to this court by Special Leave\nPetition (Crl.) No.9880 of 2009 (Criminal Appeal No.1514 of 2010). Meenakshi Lekhi, learned counsel appearing for the petitionerSubhash Chand vs State(Delhi Administration) on 8 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/111520823/ 2\nand Mr.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Subhash Chand vs State(Delhi Administration) on 8 January, | Arguments: Subhash Chand vs State(Delhi Administration) on 8 January,\n2013\nAIR SCW 356, 2013 (1) SCC (CRI) 802, 2013 (1) SCALE 156, (2013) 123\nALLINDCAS 148 (SC), 2013 (2) CAL CRI LR 151, 2013 (1) KER LT 45 SN,\n(2013) 1 MAD LJ(CRI) 302, (2013) 1 ALLCRIR 681, (2013) 2 MH LJ (CRI) 8, 2013\nCRILR(SC&MP) 1, (2013) 1 CRILR(RAJ) 1, 2013 CRILR(SC MAH GUJ) 1, (2013)\n1 GUJ LH 225, (2013) 1 MADLW(CRI) 692, (2013) 1 RECCRIR 1013, (2013) 1\nCURCRIR 325, (2013) 1 SCALE 156, (2013) 1 UC 530, (2013) 2 BOMCR(CRI) 70,\n(2013) 4 ALLCRILR 282, (2013) 1 CRIMES 135, (2013) 1 EFR 292, (2013) 54\nOCR 816\nBench: Ranjana Prakash Desai, Aftab Alam\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 50 OF 2013\n[Arising out of Special Leave Petition (Crl.) No.6937 of 2011]\nSUBHASH CHAND … APPELLANT\nVs. STATE (DELHI ADMINISTRATION). … RESPONDENTS\nJUDGMENT\n(SMT.) RANJANA PRAKASH DESAI, J. Case No.427 of 2009 whereby the High Court dismissed\nthe petition filed by the appellant holding that  | Intent: unknown | IPC: 378, 2, 24, 16, 7, 417, 173, 154, 20 | Judgment context: acquitted",
+      "metadata": {
+        "case_name": "Subhash Chand vs State(Delhi Administration) on 8 January,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "378",
+          "2",
+          "24",
+          "16",
+          "7",
+          "417",
+          "173",
+          "154",
+          "20"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "This appeal, by special leave, is directed against judgment and order dated 07/01/2011 passed by\nthe High Court of Delhi in Criminal Misc. The said objection was rejected by the\nSessions Court by order dated 4/2/2009. Case No.427\nof 2009 before the High Court. By order dated 9/7/2009, the High Court held that the Sessions\nCourt has no jurisdiction to entertain an appeal filed in a complaint case and directed that the\nappeal be transferred to it. Accordingly, Criminal Appeal No.13 of 2008 pending before the Sessions\nCourt was transferred to the High Court and re- numbered as Criminal Appeal No.642 of 2009. By order dated 13/8/2010, this\ncourt remanded the matter to the High Court and directed that the matter be decided afresh after\ntaking into consideration Sections 378(1) and 378(4) of the Code and the relevant provisions of the\nPFA. On remand, the High Court passed the impugned judgment and order dated 7/1/2011. Malhotra learned Additional Solicitor General adopted a different line of argument and\ntherefore, it is necessary to note his submissions in detail. Under the Code of Criminal Procedure, 1973, Section 417 was substituted by\nagainst order of acquittal, if special leave was granted by the High Court. It is, therefore, not\nKhemraj v. (3) No appeal under sub-section (1) or sub-section (2) shall be entertained except with the leave of\nthe High Court. (5) No application under sub-section (4) for the grant of special leave to appeal from an order of\nacquittal shall be entertained by the High Court after the expiry of six months, where the\ncomplainant is a public servant, and sixty days in every other case, computed from the date of that\norder of acquittal. (6) If in any case, the application under sub-section (4) for the grant of special leave to appeal from\nan order of acquittal is refused, no appeal from that order of acquittal shall lie under sub- section (1)\nor under sub-section (2).” Thus, under earlier Section 378(1) of the Code, the State Government\ncould, in any case, direct the Public Prosecutor to present an appeal to the High Court from an\noriginal or appellate order of acquittal passed by any court other than a High Court or an order of\nacquittal passed by the Court of Session in revision.",
+      "embedding_text": "REASONING_CHUNK | Case: Subhash Chand vs State(Delhi Administration) on 8 January, | Judicial reasoning: This appeal, by special leave, is directed against judgment and order dated 07/01/2011 passed by\nthe High Court of Delhi in Criminal Misc. The said objection was rejected by the\nSessions Court by order dated 4/2/2009. Case No.427\nof 2009 before the High Court. By order dated 9/7/2009, the High Court held that the Sessions\nCourt has no jurisdiction to entertain an appeal filed in a complaint case and directed that the\nappeal be transferred to it. Accordingly, Criminal Appeal No.13 of 2008 pending before the Sessions\nCourt was transferred to the High Court and re- numbered as Criminal Appeal No.642 of 2009. By order dated 13/8/2010, this\ncourt remanded the matter to the High Court and directed that the matter be decided afresh after\ntaking into consideration Sections 378(1) and 378(4) of the Code and the relevant provisions of the\nPFA. On remand, the High Court passed the impugned judgment and order dated 7/1/2011. Malhotra learned Additional Solicitor General adopted a different line of | Intent: unknown | Outcome: death | IPC: 378, 2, 24, 16, 7, 417, 173, 154, 20",
+      "metadata": {
+        "case_name": "Subhash Chand vs State(Delhi Administration) on 8 January,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "378",
+          "2",
+          "24",
+          "16",
+          "7",
+          "417",
+          "173",
+          "154",
+          "20"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The appellant was tried and acquitted by learned Magistrate by order dated 27/2/2007. 20. But the major amendment made in Section 378 by Act 25 of 2005\ncannot be ignored. It has a purpose. It does not throw the concern of security of the community to\nthe winds. In fact, it makes filing of appeals against certain types of acquittal orders described in\nSection 378(1)(a) easier, less cumbersome and less time consuming. The judgments cited by Mr. 21. The appellant was acquitted by the\nMetropolitan Magistrate, Patiala House Courts, New Delhi. Therefore, the impugned order holding that this case is not governed by\nSection 378(4) of the Code is quashed and set aside. In the circumstances the appeal is allowed.Subhash Chand vs State(Delhi Administration) on 8 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/111520823/ 9\n……………………………………………..J. (AFTAB ALAM) ……………………………………………..J. (RANJANA\nPRAKASH DESAI) NEW DELHI, JANUARY 8, 2013. -----------------------\n[4] 1970 AWR 288\n[5] 1988 (2) KLT 205\n[7] 1976 (Mah.) LJ 475\n[8] 1986 (90) PLR 466\n[9] 1987 Cri.L.J.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Subhash Chand vs State(Delhi Administration) on 8 January, | Final judgment: The appellant was tried and acquitted by learned Magistrate by order dated 27/2/2007. 20. But the major amendment made in Section 378 by Act 25 of 2005\ncannot be ignored. It has a purpose. It does not throw the concern of security of the community to\nthe winds. In fact, it makes filing of appeals against certain types of acquittal orders described in\nSection 378(1)(a) easier, less cumbersome and less time consuming. The judgments cited by Mr. 21. The appellant was acquitted by the\nMetropolitan Magistrate, Patiala House Courts, New Delhi. Therefore, the impugned order holding that this case is not governed by\nSection 378(4) of the Code is quashed and set aside. In the circumstances the appeal is allowed.Subhash Chand vs State(Delhi Administration) on 8 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/111520823/ 9\n……………………………………………..J. (AFTAB ALAM) ……………………………………………..J. (RANJANA\nPRAKASH DESAI) NEW DELHI, JANUARY 8, 2013. -----------------------\n[4] 1970 AWR 288\n[5] 1988 (2) KLT  | Judgment: acquitted | IPC: 378, 2, 24, 16, 7, 417, 173, 154, 20",
+      "metadata": {
+        "case_name": "Subhash Chand vs State(Delhi Administration) on 8 January,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "378",
+          "2",
+          "24",
+          "16",
+          "7",
+          "417",
+          "173",
+          "154",
+          "20"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    }
+  ]
+}

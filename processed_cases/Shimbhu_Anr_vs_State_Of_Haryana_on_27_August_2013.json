@@ -1,0 +1,157 @@
+{
+  "case_id": "Shimbhu_Anr_vs_State_Of_Haryana_on_27_August_2013",
+  "case_name": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "(Crl.) Nos. 1011-1012 of 2012)\nShimbhu and Anr. .... 1) Leave granted. 3) Brief facts:\n(a) The case relates to the gang rape of the victim in village Nangal Durgu, Haryana. Purushottam-her grandfather, had a shop in the said village. When she\ntried to resist their attempt, they threatened her by pointing out a knife with dire consequences. They took her inside the shop of Balu Ram (A-2) and raped her, turn by turn. They kept her confined\nin the same shop for two days, i.e., 28.12.1995 and 29.12.1995 and committed rape upon her\nrepeatedly. It was only on 29.12.1995, she was allowed to leave the said place when the\nhouse, she narrated the entire incident to her family members. (b) On 30.12.1995, the prosecutrix, accompanied by her father – Luxmi Narain Sharma (PW-4),\nwent to the Police Station Nangal Chaudhary and lodged a First Information Report (FIR) being No. 195 dated 30.12.1995 under Sections 376(2)(g), 366, 342, 363, 506 read with Section 34 of the\nIndian Penal Code, 1860 (in short ‘IPC’). RT-9 of 28.08.1997/11.03.1996 and Sessions\nTrial No. 4 of 28.08.1997/25.03.1996. 5,000/- each, in default, to further undergo RI for six months for\nthe offence punishable under Section 376(2)(g) read with Section 34 of IPC. 1,000/- each, in default, to\nfurther undergo RI for two months for the offence punishable under Section 366 read with Section\n34 of IPC. 200/- each, in default, to further undergo RI for fifteen days for the offence punishable under\nSection 342 read with Section 34 of IPC. 500/- each, in default, to further undergo RI for one month for the offence under\nSection 506 read with Section 34 of IPC. 5) The only contention of Mr. On the other hand, Mr. He also pointed out that for the said\npurpose the legislature has introduced new Section, namely, Section 376D IPC, which came into\neffect from 03.02.2013. 6) In the light of the limited relief prayed, there is no need to go into the aspects relating to\nconviction and sentence. 195 dated 30.12.1995 under Sections 363,\n366, 342, 376(2)(g), 506/34 IPC registered at P.S.",
+      "embedding_text": "FACT_CHUNK | Case: Shimbhu & Anr vs State Of Haryana on 27 August, 2013 | Facts: (Crl.) Nos. 1011-1012 of 2012)\nShimbhu and Anr. .... 1) Leave granted. 3) Brief facts:\n(a) The case relates to the gang rape of the victim in village Nangal Durgu, Haryana. Purushottam-her grandfather, had a shop in the said village. When she\ntried to resist their attempt, they threatened her by pointing out a knife with dire consequences. They took her inside the shop of Balu Ram (A-2) and raped her, turn by turn. They kept her confined\nin the same shop for two days, i.e., 28.12.1995 and 29.12.1995 and committed rape upon her\nrepeatedly. It was only on 29.12.1995, she was allowed to leave the said place when the\nhouse, she narrated the entire incident to her family members. (b) On 30.12.1995, the prosecutrix, accompanied by her father – Luxmi Narain Sharma (PW-4),\nwent to the Police Station Nangal Chaudhary and lodged a First Information Report (FIR) being No. 195 dated 30.12.1995 under Sections 376(2)(g), 366, 342, 363, 506 read with Section 34 of the\nIndian Penal Code, 1860 (in shor | Actions: shot, assaulted, raped, threatened | Weapon: knife | Outcome: cruelty | IPC: 506, 34, 376, 366, 342, 376D, 363",
+      "metadata": {
+        "case_name": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "506",
+          "34",
+          "376",
+          "366",
+          "342",
+          "376D",
+          "363"
+        ],
+        "actions": [
+          "shot",
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In other words, the only question to be considered in these appeals is\nwhether the appellants- accused have made out a case for imposition of a lesser sentence than ten\nyears? Whether there exist\nany \"special and adequate reason\" would depend upon a variety of factors and the peculiar facts and\ncircumstances of each case. Though, the said amendment will not come in the way of exercising\ndiscretion in this case, on perusal of the above legislative provision and catena of\ncases on the issue, we feel that the present case fails to fall within the ambit of\nexceptional case where the Court shall use its extraordinary discretion to reduce the\nperiod of sentence than the minimum prescribed. Shimbhu & Anr vs State Of Haryana on 27 August, 2013\n2013 AIR SCW 6323, AIR 2014 SC (CRIMINAL) 187, 2014 (1) AJR 172, (2014) 2\nALLCRILR 638, 2013 (10) SCALE 595, 2013 ALLMR(CRI) 3306, (2013) 131\nALLINDCAS 145 (SC), 2013 (4) KER LT 140 CN, (2013) 4 KER LT 140, 2013\n(131) ALLINDCAS 145, (2013) 3 ALLCRIR 3517, (2013) 3 CURCRIR 547, (2013)\n3 CHANDCRIC 42, (2013) 56 OCR 1060, (2013) 4 RECCRIR 141, (2013) 10\nSCALE 595, (2013) 3 UC 1896, (2013) 4 BOMCR(CRI) 356, (2013) 4 DLT(CRL)\n90, (2013) 83 ALLCRIC 711, (2013) 4 CRIMES 318\nAuthor: P.Sathasivam\nBench: Ranjan Gogoi, Ranjana Prakash Desai, P.",
+      "embedding_text": "ISSUE_CHUNK | Case: Shimbhu & Anr vs State Of Haryana on 27 August, 2013 | Legal issues: In other words, the only question to be considered in these appeals is\nwhether the appellants- accused have made out a case for imposition of a lesser sentence than ten\nyears? Whether there exist\nany \"special and adequate reason\" would depend upon a variety of factors and the peculiar facts and\ncircumstances of each case. Though, the said amendment will not come in the way of exercising\ndiscretion in this case, on perusal of the above legislative provision and catena of\ncases on the issue, we feel that the present case fails to fall within the ambit of\nexceptional case where the Court shall use its extraordinary discretion to reduce the\nperiod of sentence than the minimum prescribed. Shimbhu & Anr vs State Of Haryana on 27 August, 2013\n2013 AIR SCW 6323, AIR 2014 SC (CRIMINAL) 187, 2014 (1) AJR 172, (2014) 2\nALLCRILR 638, 2013 (10) SCALE 595, 2013 ALLMR(CRI) 3306, (2013) 131\nALLINDCAS 145 (SC), 2013 (4) KER LT 140 CN, (2013) 4 KER LT 140, 2013\n(131) ALLINDCAS 145, (2013) 3 ALLCRIR 3517 | IPC: 506, 34, 376, 366, 342, 376D, 363",
+      "metadata": {
+        "case_name": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "506",
+          "34",
+          "376",
+          "366",
+          "342",
+          "376D",
+          "363"
+        ],
+        "actions": [
+          "shot",
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013\n2013 AIR SCW 6323, AIR 2014 SC (CRIMINAL) 187, 2014 (1) AJR 172, (2014) 2\nALLCRILR 638, 2013 (10) SCALE 595, 2013 ALLMR(CRI) 3306, (2013) 131\nALLINDCAS 145 (SC), 2013 (4) KER LT 140 CN, (2013) 4 KER LT 140, 2013\n(131) ALLINDCAS 145, (2013) 3 ALLCRIR 3517, (2013) 3 CURCRIR 547, (2013)\n3 CHANDCRIC 42, (2013) 56 OCR 1060, (2013) 4 RECCRIR 141, (2013) 10\nSCALE 595, (2013) 3 UC 1896, (2013) 4 BOMCR(CRI) 356, (2013) 4 DLT(CRL)\n90, (2013) 83 ALLCRIC 711, (2013) 4 CRIMES 318\nAuthor: P.Sathasivam\nBench: Ranjan Gogoi, Ranjana Prakash Desai, P. Appellant(s)\nVersus\nState of Haryana .... Respondent(s)\n2\nJ U D G M E N T\nP.Sathasivam,CJI. 2) These appeals are directed against the final judgment and order datedShimbhu & Anr vs State Of Haryana on 27 August, 2013\nIndian Kanoon - http://indiankanoon.org/doc/137841605/ 1\n22.02.2011 passed by the High Court of Punjab and Haryana at Chandigarh in Criminal Appeal Nos. 577 and 479 of 1998 whereby the High Court dismissed the appeals filed by the appellants herein\nwhile affirming the conviction and sentence dated 30/31.03.1998 awarded by the Additional\nSessions Judge, Narnaul. Balu Ram (the appellant herein) also\nhad a shop adjacent to the shop of Purushottam. On 28.12.1995, at about 5.00 a.m., when the\nprosecutrix (PW-3) came out of her house to attend the call of nature, Shimbhu (A-1) and Balu Ram\n(A-2)-the appellants herein, met her and asked her to accompany them to their shop. (d) Being aggrieved of the order of conviction and sentence, the appellants herein preferred\nCriminal Appeal Nos. The Division Bench of the High\nCourt, by a common order dated 22.02.2011, dismissed the appeals and confirmed the order of\nconviction and sentence dated 30/31.03.1998 passed by the Additional Sessions Judge, Narnaul.Shimbhu & Anr vs State Of Haryana on 27 August, 2013\nIndian Kanoon - http://indiankanoon.org/doc/137841605/ 2\n(e) Being aggrieved of the above, the appellants herein have preferred these appeals by way of\nspecial leave before this Court.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Shimbhu & Anr vs State Of Haryana on 27 August, 2013 | Arguments: Shimbhu & Anr vs State Of Haryana on 27 August, 2013\n2013 AIR SCW 6323, AIR 2014 SC (CRIMINAL) 187, 2014 (1) AJR 172, (2014) 2\nALLCRILR 638, 2013 (10) SCALE 595, 2013 ALLMR(CRI) 3306, (2013) 131\nALLINDCAS 145 (SC), 2013 (4) KER LT 140 CN, (2013) 4 KER LT 140, 2013\n(131) ALLINDCAS 145, (2013) 3 ALLCRIR 3517, (2013) 3 CURCRIR 547, (2013)\n3 CHANDCRIC 42, (2013) 56 OCR 1060, (2013) 4 RECCRIR 141, (2013) 10\nSCALE 595, (2013) 3 UC 1896, (2013) 4 BOMCR(CRI) 356, (2013) 4 DLT(CRL)\n90, (2013) 83 ALLCRIC 711, (2013) 4 CRIMES 318\nAuthor: P.Sathasivam\nBench: Ranjan Gogoi, Ranjana Prakash Desai, P. Appellant(s)\nVersus\nState of Haryana .... Respondent(s)\n2\nJ U D G M E N T\nP.Sathasivam,CJI. 2) These appeals are directed against the final judgment and order datedShimbhu & Anr vs State Of Haryana on 27 August, 2013\nIndian Kanoon - http://indiankanoon.org/doc/137841605/ 1\n22.02.2011 passed by the High Court of Punjab and Haryana at Chandigarh in Criminal Appeal Nos. 577 and 479 of 1998 whereby the High  | Intent: unknown | IPC: 506, 34, 376, 366, 342, 376D, 363 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "506",
+          "34",
+          "376",
+          "366",
+          "342",
+          "376D",
+          "363"
+        ],
+        "actions": [
+          "shot",
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sathasivam\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\n1 CRIMINAL APPEAL NOS.1278-1279 OF 2013\n(Arising out of S.L.P. (c) After investigation, the case was committed to the Court of the Additional Sessions Judge,\nNarnaul which was numbered as Sessions Case No. 577 and 479 of 1998 before the High Court. Thus, the normal sentence in a\ncase where gang rape is committed is not less than 10 years though in exceptional cases, the Court\nby giving “special and adequate reasons\", can also award the sentence of less than 10 years. This Court, in various judgments, has reached the consensus that no\nhard and fast rule can be laid down in that behalf for universal application. , a three-Judge Bench of this\nCourt arrived at the conclusion that the fact that the occurrence took place 10 years\nago and the accused or the victim might have settled in life is no special reason for\nreducing the statutory prescribed minimum sentence, stating:\n“22. There should be a\nconjunction of both for enabling the court to invoke the discretion. What\nthe Division Bench of the High Court mentioned (i.e. Such reasons can be noticed in many other cases\nand hence they cannot be regarded as special reasons. As the reasons advanced by the Division Bench of the High Court could not be\nan alternative profile in order to support his contention that there are adequate and\nspecial reasons. We, therefore, enhance the sentence for the offence under Section 376 I.P.C. Bala @ Balaram , this Court held that the long pendency of\nthe criminal trial or offer of the rapist to marry the victim are no relevant reasons for exercising the\ndiscretionary power under the proviso of Section 376(2) IPC. This Court further held as under:\n“11. The reasons must be relevant to the exercise of such discretion vested in\nthe court. Krishnappa , a three-Judge Bench of\nthis Court held that the socio-economic status, religion, race, caste or creed of the\naccused are irrelevant considerations in the sentencing policy.",
+      "embedding_text": "REASONING_CHUNK | Case: Shimbhu & Anr vs State Of Haryana on 27 August, 2013 | Judicial reasoning: Sathasivam\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\n1 CRIMINAL APPEAL NOS.1278-1279 OF 2013\n(Arising out of S.L.P. (c) After investigation, the case was committed to the Court of the Additional Sessions Judge,\nNarnaul which was numbered as Sessions Case No. 577 and 479 of 1998 before the High Court. Thus, the normal sentence in a\ncase where gang rape is committed is not less than 10 years though in exceptional cases, the Court\nby giving “special and adequate reasons\", can also award the sentence of less than 10 years. This Court, in various judgments, has reached the consensus that no\nhard and fast rule can be laid down in that behalf for universal application. , a three-Judge Bench of this\nCourt arrived at the conclusion that the fact that the occurrence took place 10 years\nago and the accused or the victim might have settled in life is no special reason for\nreducing the statutory prescribed minimum sentence, stating:\n“22. There should be a\nconjunction  | Intent: unknown | Outcome: cruelty | IPC: 506, 34, 376, 366, 342, 376D, 363",
+      "metadata": {
+        "case_name": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "506",
+          "34",
+          "376",
+          "366",
+          "342",
+          "376D",
+          "363"
+        ],
+        "actions": [
+          "shot",
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The Additional Sessions Judge, vide order dated\n30/31.03.1998, convicted and sentenced the appellants to undergo rigorous imprisonment (RI) for\nten years along with a fine of Rs. The appellants were\nalso sentenced to undergo RI for three years along with a fine of Rs. They were further sentenced to undergo RI for three months along with a fine of Rs. They were also sentenced to undergo RI for one year along\nwith a fine of Rs. He also brought to our\nnotice the Criminal Law (Amendment) Act, 2013, which not only deleted the proviso which enables\nthe court to reduce the minimum sentence by giving adequate and special reasons but also enhanced\nthe minimum sentence to twenty years, which may extend to life which shall mean imprisonment\nfor the remainder of that person’s natural life and with fine. Punishment for rape.— (1) Whoever, except in the cases provided for by sub-\nsection (2), commits rape shall be punished with imprisonment of either description\nfor a term which shall not be less than seven years but which may be for life or for a\nterm which may extend to ten years and shall also be liable to fine unless the woman\nraped is his own wife and is not under twelve years of age, in which case, he shall be\npunished with imprisonment of either description for a term which may extend to\ntwo years or with fine or with both:\nProvided that the court may, for adequate and special reasons to be mentioned in the\njudgment, impose a sentence of imprisonment for a term of less than seven years.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Shimbhu & Anr vs State Of Haryana on 27 August, 2013 | Final judgment: The Additional Sessions Judge, vide order dated\n30/31.03.1998, convicted and sentenced the appellants to undergo rigorous imprisonment (RI) for\nten years along with a fine of Rs. The appellants were\nalso sentenced to undergo RI for three years along with a fine of Rs. They were further sentenced to undergo RI for three months along with a fine of Rs. They were also sentenced to undergo RI for one year along\nwith a fine of Rs. He also brought to our\nnotice the Criminal Law (Amendment) Act, 2013, which not only deleted the proviso which enables\nthe court to reduce the minimum sentence by giving adequate and special reasons but also enhanced\nthe minimum sentence to twenty years, which may extend to life which shall mean imprisonment\nfor the remainder of that person’s natural life and with fine. Punishment for rape.— (1) Whoever, except in the cases provided for by sub-\nsection (2), commits rape shall be punished with imprisonment of either description\nfor a term which shall not be less th | Judgment: convicted | IPC: 506, 34, 376, 366, 342, 376D, 363",
+      "metadata": {
+        "case_name": "Shimbhu & Anr vs State Of Haryana on 27 August, 2013",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "506",
+          "34",
+          "376",
+          "366",
+          "342",
+          "376D",
+          "363"
+        ],
+        "actions": [
+          "shot",
+          "assaulted",
+          "raped",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    }
+  ]
+}

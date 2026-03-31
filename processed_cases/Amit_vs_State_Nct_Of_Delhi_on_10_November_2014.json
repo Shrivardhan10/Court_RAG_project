@@ -1,0 +1,217 @@
+{
+  "case_id": "Amit_vs_State_Nct_Of_Delhi_on_10_November_2014",
+  "case_name": "Amit vs State Nct Of Delhi on 10 November, 2014",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "242/2013\nAMIT ..... Sunil Sharma, Additional Public\nProsecutor along with ASI Ved Prakash,\nPolice Station Malviya Nagar\n+ CRL.A. 244/2013\nDINESH @ DEENU & ANR. ..... D.K. Devesh and Ms. Sunil Sharma, Additional Public\nProsecutor along with ASI Ved Prakash,\nPolice Station Malviya Nagar\n+ CRL.A. 292/2013\nCHAND KIRAN ..... D.K. Devesh and Ms. Nutan\nKumari, Advocates. Sunil Sharma, Additional Public\nProsecutor along with ASI Ved Prakash. Police Station Malviya Nagar\nCORAM:\nHON'BLE MS. Vide this common judgment, I shall dispose of three criminal appeals bearing Crl.A.Nos. All the sentences were to run concurrently and\nbenefit of Section 428 Cr.P.C. 2. Prosecution case emanates from the fact that on 3rd June, 2006, PW1 Smt. Swarnlata Joshi along\nwith her son PW3-Vineet Malik and daughter PW6-Jyoti had gone to the house of her sister at Lado\nSarai. At about 8/8:30 PM, she was returning along with her son and daughter for going to her\nhouse. Her brother-in-law PW-5 Jai Prakash accompanied them to see them off. Vineet was walking\nahead of them at a distance of about 50-60 meters. Some boys came and assaulted Vineet. Jai\nPrakash called police at No.100. On hearing the siren of PCR, the boys ran away. Vineet was\nremoved to Modi Hospital and after initial treatment he was shifted to Safdarjang hospital. While\nVineet was being taken to hospital, Jai Prakash informed the police vide DD No.21 regarding quarrel\nwith Bunty and that he is being taken to Modi hospital. On the next day, i.e., 4 th June, 2006, Jai\nPrakash went to PP Saket and informed about assault on Vineet and that he has been shifted from\nModi hospital to Safdarjung hospital. During the course of investigation, accused were arrested and charge sheet was submitted under\nSection 341/308/506/34 IPC. 3. In order to substantiate its case, prosecution in all examined 18 witnesses. 4. 5. 6. Nagendra Rai, Sr. lodging the FIR. Although the incident had taken place on 3 rd June, 2006, however, on 4th June,\n2006 at about 9:00 PM, information disclosing cognizable offence was given by Jai Prakash, yet no\nFIR was registered instead only DD No.",
+      "embedding_text": "FACT_CHUNK | Case: Amit vs State Nct Of Delhi on 10 November, 2014 | Facts: 242/2013\nAMIT ..... Sunil Sharma, Additional Public\nProsecutor along with ASI Ved Prakash,\nPolice Station Malviya Nagar\n+ CRL.A. 244/2013\nDINESH @ DEENU & ANR. ..... D.K. Devesh and Ms. Sunil Sharma, Additional Public\nProsecutor along with ASI Ved Prakash,\nPolice Station Malviya Nagar\n+ CRL.A. 292/2013\nCHAND KIRAN ..... D.K. Devesh and Ms. Nutan\nKumari, Advocates. Sunil Sharma, Additional Public\nProsecutor along with ASI Ved Prakash. Police Station Malviya Nagar\nCORAM:\nHON'BLE MS. Vide this common judgment, I shall dispose of three criminal appeals bearing Crl.A.Nos. All the sentences were to run concurrently and\nbenefit of Section 428 Cr.P.C. 2. Prosecution case emanates from the fact that on 3rd June, 2006, PW1 Smt. Swarnlata Joshi along\nwith her son PW3-Vineet Malik and daughter PW6-Jyoti had gone to the house of her sister at Lado\nSarai. At about 8/8:30 PM, she was returning along with her son and daughter for going to her\nhouse. Her brother-in-law PW-5 Jai Prakash accompanied them | Actions: assaulted, attacked, killed, threatened | Weapon: knife | Outcome: death | IPC: 341, 308, 506, 34, 325, 428, 161, 225, 232, 535, 537, 215, 464, 465, 302, 306, 113, 313, 222",
+      "metadata": {
+        "case_name": "Amit vs State Nct Of Delhi on 10 November, 2014",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "341",
+          "308",
+          "506",
+          "34",
+          "325",
+          "428",
+          "161",
+          "225",
+          "232",
+          "535",
+          "537",
+          "215",
+          "464",
+          "465",
+          "302",
+          "306",
+          "113",
+          "313",
+          "222"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether or not the explanation is acceptable will depend upon the facts of\neach case. There is no cut and dried formula for determining whether the explanation is or is not\nacceptable. It is obligatory on the\npart of the court to consider whether the delay in lodging the report adversely affects the case of the\nprosecution and it would depend upon the matter of appreciation of evidence in totality. While deciding this issue, a similar view was taken in Jarnail Singh v. The question arises whether the testimony of the injured can be rejected due to these\ndiscrepancies and whether these discrepancies are so vital that they would affect the core of\nprosecution case. However, it is to be examined as to whether there is any lapse by the IO and whether due to such\nlapse any benefit should be given to the accused. The law on this issue is well settled that the defect\nin the investigation by itself cannot be a ground for acquittal. The question whether omission to frame a charge or any error or irregularity in\nthe charge, is by itself, sufficient for quashing the conviction of the accused was\nconsidered in Willie (William) Slaney vs. But when all is said and done what we are concerned to see is\nwhether the accused had a fair trial, whether he knew what he was being tried for,\nwhether the main facts sought to be established against him were explained to him\nfairly and clearly and whether he was given a full and fair chance to defend himself. If all these elements are there and no prejudice is shown the conviction must stand\nwhatever the irregularities whether traceable to the charge or to a want of one.\"\n9. In view of the apparently conflicting judgments of the coordinate Benches, the issue was referred\nto a larger Bench.",
+      "embedding_text": "ISSUE_CHUNK | Case: Amit vs State Nct Of Delhi on 10 November, 2014 | Legal issues: Whether or not the explanation is acceptable will depend upon the facts of\neach case. There is no cut and dried formula for determining whether the explanation is or is not\nacceptable. It is obligatory on the\npart of the court to consider whether the delay in lodging the report adversely affects the case of the\nprosecution and it would depend upon the matter of appreciation of evidence in totality. While deciding this issue, a similar view was taken in Jarnail Singh v. The question arises whether the testimony of the injured can be rejected due to these\ndiscrepancies and whether these discrepancies are so vital that they would affect the core of\nprosecution case. However, it is to be examined as to whether there is any lapse by the IO and whether due to such\nlapse any benefit should be given to the accused. The law on this issue is well settled that the defect\nin the investigation by itself cannot be a ground for acquittal. The question whether omission to frame a charge or any error o | IPC: 341, 308, 506, 34, 325, 428, 161, 225, 232, 535, 537, 215, 464, 465, 302, 306, 113, 313, 222",
+      "metadata": {
+        "case_name": "Amit vs State Nct Of Delhi on 10 November, 2014",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "341",
+          "308",
+          "506",
+          "34",
+          "325",
+          "428",
+          "161",
+          "225",
+          "232",
+          "535",
+          "537",
+          "215",
+          "464",
+          "465",
+          "302",
+          "306",
+          "113",
+          "313",
+          "222"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Amit vs State Nct Of Delhi on 10 November, 2014\nAuthor: Sunita Gupta\nBench: Sunita Gupta\n$~\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\nDate of Decision: 10th November, 2014\n+ CRL.A. Appellant\nVersus\nSTATE NCT OF DELHI ..... Respondent\nThrough: Mr. Appellant\nMr. Nutan\nKumari, Advocates\nVersus\nSTATE OF NCT OF DELHI ..... Respondent\nThrough: Mr. Appellant\nMr. Versus\nSTATE OF NCT OF DELHI ..... Respondent\nThrough: Mr. JUSTICE SUNITA GUPTA\nJUDGMENT\n: SUNITA GUPTA, J.Amit vs State Nct Of Delhi on 10 November, 2014\nIndian Kanoon - http://indiankanoon.org/doc/138947374/ 1\n1. was given to the appellants. On 5th June, 2006, ASI Shiv Kumar went to Safdarjung\nhospital and recorded statement of Jai Prakash-Ex.PW5/A which culminated in registration of FIR. After hearing arguments on charge, accused Satpal, Dharamveer,\nSandeep and Pradeep were discharged while charge for offence under Section 341/308/506/34 IPC\nwas framed against the appellants. The case of appellants\nwas one of denial simplicitor wherein they alleged their false implication in this case. They did not\nprefer to lead any defence evidence. Feeling aggrieved, separate appeals have been filed by the appellants. The FIR was registered only on 5th June,\n2006 at about 1:30 PM after statement of Jai Prakash was recorded. No explanation is forthcoming\nfor considerable delay in lodging the FIR which casts a serious doubt regarding the complicity of theAmit vs State Nct Of Delhi on 10 November, 2014\nIndian Kanoon - http://indiankanoon.org/doc/138947374/ 2\naccused in the crime. Reliance was placed upon State of Punjab v. However, in the statement Ex.PW5/A, he named two persons, namely, Dinesh\nand Titu besides two other boys who assaulted Vineet with leg and fist blows, iron punches,\ndandas/wickets. Moreover, the\naccused were not known to them and no description of the accused was given in their statement\nunder Section 161 Cr.P.C. State of Andhra\n8. His\nstatement under Section 161 Cr.P.C. Even if that is so, he must have regained consciousness by 15th June, 2006, but no\nexplanation is forthcoming as to why his statement was not recorded immediately thereafter.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Amit vs State Nct Of Delhi on 10 November, 2014 | Arguments: Amit vs State Nct Of Delhi on 10 November, 2014\nAuthor: Sunita Gupta\nBench: Sunita Gupta\n$~\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\nDate of Decision: 10th November, 2014\n+ CRL.A. Appellant\nVersus\nSTATE NCT OF DELHI ..... Respondent\nThrough: Mr. Appellant\nMr. Nutan\nKumari, Advocates\nVersus\nSTATE OF NCT OF DELHI ..... Respondent\nThrough: Mr. Appellant\nMr. Versus\nSTATE OF NCT OF DELHI ..... Respondent\nThrough: Mr. JUSTICE SUNITA GUPTA\nJUDGMENT\n: SUNITA GUPTA, J.Amit vs State Nct Of Delhi on 10 November, 2014\nIndian Kanoon - http://indiankanoon.org/doc/138947374/ 1\n1. was given to the appellants. On 5th June, 2006, ASI Shiv Kumar went to Safdarjung\nhospital and recorded statement of Jai Prakash-Ex.PW5/A which culminated in registration of FIR. After hearing arguments on charge, accused Satpal, Dharamveer,\nSandeep and Pradeep were discharged while charge for offence under Section 341/308/506/34 IPC\nwas framed against the appellants. The case of appellants\nwas one of denial simplicitor whe | Intent: intentional | IPC: 341, 308, 506, 34, 325, 428, 161, 225, 232, 535, 537, 215, 464, 465, 302, 306, 113, 313, 222 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Amit vs State Nct Of Delhi on 10 November, 2014",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "341",
+          "308",
+          "506",
+          "34",
+          "325",
+          "428",
+          "161",
+          "225",
+          "232",
+          "535",
+          "537",
+          "215",
+          "464",
+          "465",
+          "302",
+          "306",
+          "113",
+          "313",
+          "222"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Assailing the findings of the learned Trial Court, it was submitted by Mr. On the same footing, other four accused whose\nnames were given by Jai Prakash were discharged by the learned Additional Sessions Judge and,\ntherefore, the appellant Amit should have been discharged. It is further recorded that since\npolice did not reach the hospital, therefore, he came to police post. They stopped him and abused saying that he\nhad killed their brother Rinku and, therefore, he should also be killed. Normally\nan injured witness would enjoy greater credibility because he is the sufferer himself and thus, there\nwill be no occasion for such a person to state an incorrect version of the occurrence or to involve\nanybody falsely and in the bargain, protect the real culprit. In Mano Dutt (supra), Hon'ble Supreme Court referred to the earlier decisions and observed as\nunder:-\n\"31. The question of the weight to be attached to the evidence of a witness that was\nhimself injured in the course of the occurrence has been extensively discussed by this\nCourt. Thus, we are\nof the considered opinion that evidence of Darshan Singh (PW 4) has rightly been\nrelied upon by the courts below.\"\n30. Thus, the deposition of the injured witness should be relied upon unless there are\nstrong grounds for rejection of his evidence on the basis of major contradictions and discrepancies\ntherein.\"\n22. This view was reiterated in Balwan & Ors.(supra) wherein it was observed:-\n\"It is trite law that the evidence of injured witness, being a stamped witness, is\naccorded a special status in law. However, in his deposition before the Court, he deposed that Chand @ Titu hit him with a rod\non his head. It is a settled legal position that the Courts are not to get skewed by minor contradictions or\ninsignificant discrepancies when otherwise testimony of a witness is cogent, credible and\ntrustworthy on the material aspects of the case. Some minor discrepancies, variations and\nimprovements are bound to occur due to multiple factors governing the human behaviour and the\nbackground of a particular witness under examination and, therefore, unless such discrepancies and\nimprovements affect the core of the prosecution case, no undue importance should be given to such\nminor discrepancies, variations and improvements which usually creep in the testimony of any\nwitness, due to multiple factors.",
+      "embedding_text": "REASONING_CHUNK | Case: Amit vs State Nct Of Delhi on 10 November, 2014 | Judicial reasoning: Assailing the findings of the learned Trial Court, it was submitted by Mr. On the same footing, other four accused whose\nnames were given by Jai Prakash were discharged by the learned Additional Sessions Judge and,\ntherefore, the appellant Amit should have been discharged. It is further recorded that since\npolice did not reach the hospital, therefore, he came to police post. They stopped him and abused saying that he\nhad killed their brother Rinku and, therefore, he should also be killed. Normally\nan injured witness would enjoy greater credibility because he is the sufferer himself and thus, there\nwill be no occasion for such a person to state an incorrect version of the occurrence or to involve\nanybody falsely and in the bargain, protect the real culprit. In Mano Dutt (supra), Hon'ble Supreme Court referred to the earlier decisions and observed as\nunder:-\n\"31. The question of the weight to be attached to the evidence of a witness that was\nhimself injured in the course of the occurrenc | Intent: intentional | Outcome: death | IPC: 341, 308, 506, 34, 325, 428, 161, 225, 232, 535, 537, 215, 464, 465, 302, 306, 113, 313, 222",
+      "metadata": {
+        "case_name": "Amit vs State Nct Of Delhi on 10 November, 2014",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "341",
+          "308",
+          "506",
+          "34",
+          "325",
+          "428",
+          "161",
+          "225",
+          "232",
+          "535",
+          "537",
+          "215",
+          "464",
+          "465",
+          "302",
+          "306",
+          "113",
+          "313",
+          "222"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "242/2013, 244/2013 & 292/2013 which are separately filed by the appellants against the judgment\ndated 31st October, 2012 and order on sentence dated 29th January, 2013 vide which they were\nconvicted under Sections 325/341/34 of Indian Penal Code, 1860 (hereinafter referred to as IPC)\nand were sentenced to undergo rigorous imprisonment for a period of four years and fine of\nRs.5000/- and in default, to undergo further six months simple imprisonment for offence under\nSection 325 IPC. All the four accused were further sentenced to undergo one month simple\nimprisonment for the offence under Section 341 IPC. After analysing the evidence led by the prosecution, vide impugned judgment, the learned\nAdditional Sessions Judge convicted the accused persons for offence under Section 325/341/34 IPC\nand sentenced as mentioned hereinbefore. Under the circumstances, it was\nsubmitted that prosecution has failed to bring home the guilt of the accused beyond reasonable\ndoubt, as such, they are entitled to be acquitted. As such, in the absence of conducting any TIP qua him, his identification for the first time in theAmit vs State Nct Of Delhi on 10 November, 2014\nIndian Kanoon - http://indiankanoon.org/doc/138947374/ 3\nCourt is of no consequence and he is entitled to be acquitted. If an accused is acquitted solely on that ground, it would tantamount to putting\npremium on the inappropriate conduct of the incompetent investigating officers at the cost of the\nvictims which will amount to grave injustice. It is also settled law that for certain defects in investigation, the accused cannot\nbe acquitted. But it would not be right in acquitting an accused person solely on account of the defect; to do so\nwould tantamount to playing into the hands of the investigating officer if the investigation is\ndesignedly defective.\"\nSection 325 IPC is liable to be set aside because they were tried for an offence under Section 308/34\nIPC and not under Section 325 IPC. It was submitted that in the absence of specific charge under\nSection 325 IPC, the court could not have convicted the appellant under that Section because they\ndid not get opportunity to defend themselves.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Amit vs State Nct Of Delhi on 10 November, 2014 | Final judgment: 242/2013, 244/2013 & 292/2013 which are separately filed by the appellants against the judgment\ndated 31st October, 2012 and order on sentence dated 29th January, 2013 vide which they were\nconvicted under Sections 325/341/34 of Indian Penal Code, 1860 (hereinafter referred to as IPC)\nand were sentenced to undergo rigorous imprisonment for a period of four years and fine of\nRs.5000/- and in default, to undergo further six months simple imprisonment for offence under\nSection 325 IPC. All the four accused were further sentenced to undergo one month simple\nimprisonment for the offence under Section 341 IPC. After analysing the evidence led by the prosecution, vide impugned judgment, the learned\nAdditional Sessions Judge convicted the accused persons for offence under Section 325/341/34 IPC\nand sentenced as mentioned hereinbefore. Under the circumstances, it was\nsubmitted that prosecution has failed to bring home the guilt of the accused beyond reasonable\ndoubt, as such, they are entitled t | Judgment: convicted | IPC: 341, 308, 506, 34, 325, 428, 161, 225, 232, 535, 537, 215, 464, 465, 302, 306, 113, 313, 222",
+      "metadata": {
+        "case_name": "Amit vs State Nct Of Delhi on 10 November, 2014",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "341",
+          "308",
+          "506",
+          "34",
+          "325",
+          "428",
+          "161",
+          "225",
+          "232",
+          "535",
+          "537",
+          "215",
+          "464",
+          "465",
+          "302",
+          "306",
+          "113",
+          "313",
+          "222"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    }
+  ]
+}

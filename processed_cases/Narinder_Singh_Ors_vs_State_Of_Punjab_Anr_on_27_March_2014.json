@@ -1,0 +1,192 @@
+{
+  "case_id": "Narinder_Singh_Ors_vs_State_Of_Punjab_Anr_on_27_March_2014",
+  "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "1. 2. Leave granted. 3. attempt to commit murder. FIR No.121/14.7.2010 was registered. In the\naforesaid FIR, the allegations against the petitioners are that on 9.7.2010 at 7.00 A.M. while\nNarinder Singh both sons of Baldev Singh and Baldev Singh son of Lakha Singh attacked him and\ninjured him. After\nexamination the doctor found four injuries on his person. Injury No.1 to 3 are with sharp edged\nweapons and injury No.4 is simple. After X-ray report relating to injury No.3, section 307 IPC\nwas added in the FIR\n5. 6. During the pendency of trial proceedings, the matter has been compromised between the\nis clear from the above that three years after the incident, the parties compromised the matter with\nintervention of the Panchayat of the village. 7. It is on the basis of this compromise, the petitioners moved aforesaid criminal petition under\nsection 482 of the Code for quashing of the said FIR. As per the petitioners, the parties have settled\nthe matter, as they have decided to keep harmony between them to enable them to live with peace\nand love. The compromise records that they have no grudge against each other and the complainant\nhas specifically agreed that he has no objection if the FIR in question is quashed. Further, both the\nparties have undertaken not to indulge in any litigation against each other and withdraw all the\ncomplaints pending between the parties before the court. 8. 9. The ld. However, the circumstances pointed out by the learned Senior Counsel do persuade us for a lenient\nview in regard to the sentence. The incident occurred on 17.5.1991 and it is almost twenty years since\nthen. The appellants are agriculturists by occupation and have no previous criminal background. The fine amount and the default stipulation remain as it is.”\n10. He further submitted that having regard to the circumstances in the present case where\nthe fight had occurred on the spot in the heat of the moment inasmuch as both sides were verbally\nfighting when the petitioners had struck the victim, this assault was more of a crime against the\nindividual than against the society at large.",
+      "embedding_text": "FACT_CHUNK | Case: Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, | Facts: 1. 2. Leave granted. 3. attempt to commit murder. FIR No.121/14.7.2010 was registered. In the\naforesaid FIR, the allegations against the petitioners are that on 9.7.2010 at 7.00 A.M. while\nNarinder Singh both sons of Baldev Singh and Baldev Singh son of Lakha Singh attacked him and\ninjured him. After\nexamination the doctor found four injuries on his person. Injury No.1 to 3 are with sharp edged\nweapons and injury No.4 is simple. After X-ray report relating to injury No.3, section 307 IPC\nwas added in the FIR\n5. 6. During the pendency of trial proceedings, the matter has been compromised between the\nis clear from the above that three years after the incident, the parties compromised the matter with\nintervention of the Panchayat of the village. 7. It is on the basis of this compromise, the petitioners moved aforesaid criminal petition under\nsection 482 of the Code for quashing of the said FIR. As per the petitioners, the parties have settled\nthe matter, as they have decided to keep harmo | Actions: attacked | Weapon: rod | Outcome: death | IPC: 323, 324, 34, 307, 482, 320, 332, 353, 147, 148, 149, 452, 506, 552, 354, 394, 173",
+      "metadata": {
+        "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "324",
+          "34",
+          "307",
+          "482",
+          "320",
+          "332",
+          "353",
+          "147",
+          "148",
+          "149",
+          "452",
+          "506",
+          "552",
+          "354",
+          "394",
+          "173"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "rod",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The question for consideration, in these circumstances, is as to\nwhether the court should have accepted the compromise arrived at between the parties and quash\nthe FIR as well as criminal proceedings pending against the petitioner. Once, it is found that compounding is permissible only if a particular\noffence is covered by the provisions of Section 320 of the Code and the Court in such cases is guided\nsolitary and squarely by the compromise between the parties, in so far as power of quashing under\nSection 482 of the Code is concerned, it is guided by the material on record as to whether the ends of\njustice would justify such exercise of power, although the ultimate consequence may be acquittal or\ndismissal of indictment. In\ncompounding of offences, power of a criminal court is circumscribed by the\nprovisions contained in Section 320 and the court is guided solely and squarely\nthereby while, on the other hand, the formation of opinion by the High Court for\nquashing a criminal offence or criminal proceeding or criminal complaint is guided\nby the material on record as to whether the ends of justice would justify such exercise\nof power although the ultimate consequence may be acquittal or dismissal of\nindictment. In other words, the High Court must consider whether it\nwould be unfair or contrary to the interest of justice to continue with the criminal\nproceeding or continuation of the criminal proceeding or continuation of the criminal\nproceeding would tantamount to abuse of process of law despite settlement and\ncompromise between the victim and the wrongdoer and whether to secure the ends of\njustice, it is appropriate that the criminal case is put to an end and if the answer to\nthe above question(s) is in the affirmative, the High Court shall be well within its\njurisdiction to quash the criminal proceeding.”\n15. The question is as to whether offence under Section 307 IPC falls within the aforesaid\nparameters. The prevalence of such guidelines may not only aim at achieving\nconsistencies in awarding sentences in different cases, such guidelines normally prescribe the\nsentencing policy as well namely whether the purpose of awarding punishment in a particular case is\nmore of a deterrence or retribution or rehabilitation etc.",
+      "embedding_text": "ISSUE_CHUNK | Case: Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, | Legal issues: The question for consideration, in these circumstances, is as to\nwhether the court should have accepted the compromise arrived at between the parties and quash\nthe FIR as well as criminal proceedings pending against the petitioner. Once, it is found that compounding is permissible only if a particular\noffence is covered by the provisions of Section 320 of the Code and the Court in such cases is guided\nsolitary and squarely by the compromise between the parties, in so far as power of quashing under\nSection 482 of the Code is concerned, it is guided by the material on record as to whether the ends of\njustice would justify such exercise of power, although the ultimate consequence may be acquittal or\ndismissal of indictment. In\ncompounding of offences, power of a criminal court is circumscribed by the\nprovisions contained in Section 320 and the court is guided solely and squarely\nthereby while, on the other hand, the formation of opinion by the High Court for\nquashing a criminal offence or | IPC: 323, 324, 34, 307, 482, 320, 332, 353, 147, 148, 149, 452, 506, 552, 354, 394, 173",
+      "metadata": {
+        "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "324",
+          "34",
+          "307",
+          "482",
+          "320",
+          "332",
+          "353",
+          "147",
+          "148",
+          "149",
+          "452",
+          "506",
+          "552",
+          "354",
+          "394",
+          "173"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "rod",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,\n2014\nAuthor: A.K.Sikri\nBench: A.K.Sikri, K.S.Radhakrishnan\n[REPORTABLE]\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO.686/2014\n(arising out of S.L.P.(Criminal) No.9547 of 2013)\nNarinder Singh & Ors. ……Appellants\nVs. State of Punjab & Anr. …Respondents\nJ U D G M E N T\nA.K.SIKRI,J. It was a petition under Section 482 of the Code of Criminal\nProcedure (hereinafter referred to as the “Code”) for quashing of FIR No.121/14.7.2010 registered\nunder Sections 307/324/323/34,IPC, on the basis of compromise dated 22.7.2013 entered into\nbetween the petitioners ( who are accused in the said FIR) and respondent No.2 (who is the\ncomplainant). We have heard counsel for the parties at length.Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, 2014\nIndian Kanoon - http://indiankanoon.org/doc/160278245/ 1\n4. It may be stated at the outset that the petitioners herein, who are three in number, have been\ncharged under various provisions of the IPC including for committing offence punishable under\nSection 307, IPC i.e. Respondent No.2 was admitted in Shri Guru Nanak Dev Hospital, Amritsar. From the statement of injured and MLR’s report, an FIR under\nsections 323/324/34 IPC was registered. As they do not intend to proceed with any\ncriminal case against each other, on that basis the submission of the petitioners before the High\nCourt was that the continuance of the criminal proceedings in the aforesaid FIR will be a futile\nexercise and mere wastage of precious time of the court as well as investigating agencies. In support, the learned counsel for the respondent-State has relied upon the judgment of this Court\nin the case of Rajendra Harakchand Bhandari vs. There has been reconciliation amongst parties; the relations between the appellants and the victim\nhave become cordial and prior to the appellants’ surrender, the parties have been living peacefully in\nthe village. The appellants have already undergone the sentence of more than two-and-a half years. Having regard to those circumstances, we are satisfied that ends of justice will be met if the\nsubstantive sentence awarded to the appellants is reduced to the period already undergone while\nmaintaining the amount of fine.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, | Arguments: Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,\n2014\nAuthor: A.K.Sikri\nBench: A.K.Sikri, K.S.Radhakrishnan\n[REPORTABLE]\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO.686/2014\n(arising out of S.L.P.(Criminal) No.9547 of 2013)\nNarinder Singh & Ors. ……Appellants\nVs. State of Punjab & Anr. …Respondents\nJ U D G M E N T\nA.K.SIKRI,J. It was a petition under Section 482 of the Code of Criminal\nProcedure (hereinafter referred to as the “Code”) for quashing of FIR No.121/14.7.2010 registered\nunder Sections 307/324/323/34,IPC, on the basis of compromise dated 22.7.2013 entered into\nbetween the petitioners ( who are accused in the said FIR) and respondent No.2 (who is the\ncomplainant). We have heard counsel for the parties at length.Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, 2014\nIndian Kanoon - http://indiankanoon.org/doc/160278245/ 1\n4. It may be stated at the outset that the petitioners herein, who are three in number, have been\nchar | Intent: intentional | IPC: 323, 324, 34, 307, 482, 320, 332, 353, 147, 148, 149, 452, 506, 552, 354, 394, 173 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "324",
+          "34",
+          "307",
+          "482",
+          "320",
+          "332",
+          "353",
+          "147",
+          "148",
+          "149",
+          "452",
+          "506",
+          "552",
+          "354",
+          "394",
+          "173"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "rod",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The present Special Leave Petition has been preferred against the impugned judgment/final order\ndated 8.10.2013 passed by the High Court of Punjab and Haryana at Chandigarh in Criminal\nMiscellaneous Petition No.27343/2013. The High Court has refused to exercise its extraordinary discretion invoking the\nprovisions of Section 482 of the Code on the ground that four injuries were suffered by the\ncomplainant and as per the opinion of the Doctor, injury No.3 were serious in nature. The High\nCourt, thus, refused to accept the compromise entered into between the parties, the effect whereof\nwould be that the petitioners would face trial in the said FIR. After the completion of investigation, challan has been presented in the Court against the\nAmritsar, for evidence. The aforesaid submission, however, did not impress the High Court as the medical report depicts\nthe injuries to be of grievous nature. State of Maharashtra  wherein\nthis Court held that since offence under Section 307 is not compoundable, even when the parties\nhad settled the matter, compounding of the offence was out of question. Said settlement along withNarinder Singh & Ors vs State Of Punjab & Anr on 27 March, 2014\nIndian Kanoon - http://indiankanoon.org/doc/160278245/ 2\nother extenuating circumstances was only taken as the ground for reduction of the sentence in the\nfollowing manner:\n“We must immediately state that the offence under Section 307 is not compoundable\nin terms of Section 320(9) of the Code of Criminal Procedure, 1973 and, therefore,\ncompounding of the offence in the present case is out of question. Such a power is recognized by the Supreme Court in catena of\njudgments. He further submitted that this Court in Dimpey Gujral v. We find that there are cases where the power of the High Court under Section 482 of the Code to\nquash the proceedings in those offences which are uncompoundable has been recognized. The only\ndifference is that under Section 320(1) of the Code, no permission is required from the Court in\nthose cases which are compoundable though the Court has discretionary power to refuse to\ncompound the offence.",
+      "embedding_text": "REASONING_CHUNK | Case: Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, | Judicial reasoning: The present Special Leave Petition has been preferred against the impugned judgment/final order\ndated 8.10.2013 passed by the High Court of Punjab and Haryana at Chandigarh in Criminal\nMiscellaneous Petition No.27343/2013. The High Court has refused to exercise its extraordinary discretion invoking the\nprovisions of Section 482 of the Code on the ground that four injuries were suffered by the\ncomplainant and as per the opinion of the Doctor, injury No.3 were serious in nature. The High\nCourt, thus, refused to accept the compromise entered into between the parties, the effect whereof\nwould be that the petitioners would face trial in the said FIR. After the completion of investigation, challan has been presented in the Court against the\nAmritsar, for evidence. The aforesaid submission, however, did not impress the High Court as the medical report depicts\nthe injuries to be of grievous nature. State of Maharashtra  wherein\nthis Court held that since offence under Section 307 is not compou | Intent: intentional | Outcome: death | IPC: 323, 324, 34, 307, 482, 320, 332, 353, 147, 148, 149, 452, 506, 552, 354, 394, 173",
+      "metadata": {
+        "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "324",
+          "34",
+          "307",
+          "482",
+          "320",
+          "332",
+          "353",
+          "147",
+          "148",
+          "149",
+          "452",
+          "506",
+          "552",
+          "354",
+          "394",
+          "173"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "rod",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "counsel for the State has supported the aforesaid verdict of the High Court arguing that\nsince offence under Section 307 is non-compoundable, the respondents could not have been\nacquitted only because of the reason that there was a compromise/settlement between the parties. or the family dispute, where the wrong is basically to the victim and the offender\nand the victim have settled all disputes between them amicably, irrespective of the\nfact that such offences have not been made compoundable, the High Court may\nwithin the framework of its inherent power, quash the criminal proceeding or\ncriminal complaint or FIR if it is satisfied that on the face of such settlement, there is\nhardly any likelihood of the offender being convicted and by not quashing the\ncriminal proceedings, justice shall be casualty and ends of justice shall be defeated. Mostly, punishment provided for committing offences\nis either imprisonment or monetary fine or both. Imprisonment can be rigorous or simple in nature. We notice that the gravity of the injuries was taken note of by the Sessions Court and\nit had awarded the sentence of 10 years rigorous imprisonment for the offence\npunishable under Section 307 IPC, but not by the High Court. It is because of\nthe reason that at this stage the investigation is still on and even the charge sheet has not been filed. Similarly, in those cases where the conviction is already recorded by the trial\ncourt and the matter is at the appellate stage before the High Court, mere compromise between the\nparties would not be a ground to accept the same resulting in acquittal of the offender who has\nalready been convicted by the trial court. After having clarified the legal position in the manner aforesaid, we proceed to discuss the case\nat hand. 33. In the present case, FIR No.121 dated 14.7.2010 was registered under Section 307/324/323/34\nIPC. As per the copy of the settlement which was annexed along with the\npetition, the compromise took place between the parties on 12.7.2013 when respectable members of\nthe Gram Panchayat held a meeting under the Chairmanship of Sarpanch.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Narinder Singh & Ors vs State Of Punjab & Anr on 27 March, | Final judgment: counsel for the State has supported the aforesaid verdict of the High Court arguing that\nsince offence under Section 307 is non-compoundable, the respondents could not have been\nacquitted only because of the reason that there was a compromise/settlement between the parties. or the family dispute, where the wrong is basically to the victim and the offender\nand the victim have settled all disputes between them amicably, irrespective of the\nfact that such offences have not been made compoundable, the High Court may\nwithin the framework of its inherent power, quash the criminal proceeding or\ncriminal complaint or FIR if it is satisfied that on the face of such settlement, there is\nhardly any likelihood of the offender being convicted and by not quashing the\ncriminal proceedings, justice shall be casualty and ends of justice shall be defeated. Mostly, punishment provided for committing offences\nis either imprisonment or monetary fine or both. Imprisonment can be rigorous or simple in nature | Judgment: convicted | IPC: 323, 324, 34, 307, 482, 320, 332, 353, 147, 148, 149, 452, 506, 552, 354, 394, 173",
+      "metadata": {
+        "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr on 27 March,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "324",
+          "34",
+          "307",
+          "482",
+          "320",
+          "332",
+          "353",
+          "147",
+          "148",
+          "149",
+          "452",
+          "506",
+          "552",
+          "354",
+          "394",
+          "173"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "rod",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2014"
+      }
+    }
+  ]
+}

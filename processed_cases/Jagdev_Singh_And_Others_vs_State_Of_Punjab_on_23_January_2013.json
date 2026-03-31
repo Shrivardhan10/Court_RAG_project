@@ -1,0 +1,147 @@
+{
+  "case_id": "Jagdev_Singh_And_Others_vs_State_Of_Punjab_on_23_January_2013",
+  "case_name": "Jagdev Singh And Others vs State Of Punjab on 23 January,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Saron\nBench: S.S. Date of decision: 23.1.2013\nJagdev Singh and Others\n..... JUSTICE S.S. SARON. HON'BLE MR. JUSTICE PARAMJEET SINGH. Mr. S.S. Dhaliwal, Addl. Crl.Rev.No.352 of 2007. Surinder Kaur and another\n..... Petitioners\nVersus\nJagdev Singh and others\n..... S.S. Dhaliwal, Addl. ***\nS.S. SARON, J. The facts are, however, taken from the criminal appeal. It is alleged by the complainant\n(PW-4) that he does labour work. Jora Singh (deceased), his younger brother was a Chowkidar of\nvillage Bhanbauri and being Chowkidar of the village, he fixed duties of the villagers for 'Thikri\nPehra' (voluntary night patrol watchman duties by the villagers) as per their turn. When he reached near the house of Bhage, at that time the complainant (Bharpur\nSingh-PW-4) was standing near the house of Piara Singh. It was about 8.30 p.m. Jang Singh raised a 'lalkara' that Jora Singh (deceased) had not fixed their night duty\nas per their turn and they would teach him a lesson for the same. On hearing the commotion,\nParamjit Singh (petitioner No.2 in the revision petition) son of Gurmail Singh nephew of the\ncomplainant (PW-4) and Surender Kaur (petitioner No.1 in the revision petition) daughter of the\ncomplainant also came at the spot. On saying\nthis, Jagdev Singh (appellant No.1) inflicted a 'gandasa' blow on the head of Jora Singh (deceased)\nand inflicted another 'gandasa' blow from its reverse side on his head and he fell down. Paramjit Singh, nephew of the complainant (Bharpur\nSingh-PW-4) came forward to rescue Jora Singh. The\ncomplainant while standing near them raised an alarm of 'na maro na maro', else he would die. To ward off the same, the\ncomplainant raised his left arm and the 'gandasa' hit him on his elbow. Ajaib Singh (who has\nundergone his sentence) gave a 'soti' blow on his right hand. They all raised a hue and cry on which\nall the accused ran away from the spot along with their respective weapons. It is alleged that the\nassailants caused injuries to Jora Singh on his head with an intention to kill him.",
+      "embedding_text": "FACT_CHUNK | Case: Jagdev Singh And Others vs State Of Punjab on 23 January, | Facts: Saron\nBench: S.S. Date of decision: 23.1.2013\nJagdev Singh and Others\n..... JUSTICE S.S. SARON. HON'BLE MR. JUSTICE PARAMJEET SINGH. Mr. S.S. Dhaliwal, Addl. Crl.Rev.No.352 of 2007. Surinder Kaur and another\n..... Petitioners\nVersus\nJagdev Singh and others\n..... S.S. Dhaliwal, Addl. ***\nS.S. SARON, J. The facts are, however, taken from the criminal appeal. It is alleged by the complainant\n(PW-4) that he does labour work. Jora Singh (deceased), his younger brother was a Chowkidar of\nvillage Bhanbauri and being Chowkidar of the village, he fixed duties of the villagers for 'Thikri\nPehra' (voluntary night patrol watchman duties by the villagers) as per their turn. When he reached near the house of Bhage, at that time the complainant (Bharpur\nSingh-PW-4) was standing near the house of Piara Singh. It was about 8.30 p.m. Jang Singh raised a 'lalkara' that Jora Singh (deceased) had not fixed their night duty\nas per their turn and they would teach him a lesson for the same. On hearing the com | Actions: none | Weapon: lathi | Outcome: death | IPC: 302, 323, 324, 148, 149, 307, 313, 304, 319, 300",
+      "metadata": {
+        "case_name": "Jagdev Singh And Others vs State Of Punjab on 23 January,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "323",
+          "324",
+          "148",
+          "149",
+          "307",
+          "313",
+          "304",
+          "319",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Requests dated 29.09.2001 (Ex.PN/1) were made by SI\nManmohan Singh regarding taking opinion of the doctor as to whether Jora Singh was fit to make a\nstatement or not. SI Manmohan Singh also made a request (Ex.PK/1)\nas to whether Surinder Kaur (PW-7) daughter of Bharpur Singh (PW-4) was fit to make a statement. SI Manmohan Singh also made a request\n(Ex.PN) as to whether Paramjit Singh was fit to make a statement or not. Jagdev Singh And Others vs State Of Punjab on 23 January,\n2013\nAuthor: S.S. Saron\nBench: S.S. Saron, Paramjeet Singh\nCRA No.735-DB of 2006 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH\nCRA No.735-DB of 2006. Date of decision: 23.1.2013\nJagdev Singh and Others\n.....",
+      "embedding_text": "ISSUE_CHUNK | Case: Jagdev Singh And Others vs State Of Punjab on 23 January, | Legal issues: Requests dated 29.09.2001 (Ex.PN/1) were made by SI\nManmohan Singh regarding taking opinion of the doctor as to whether Jora Singh was fit to make a\nstatement or not. SI Manmohan Singh also made a request (Ex.PK/1)\nas to whether Surinder Kaur (PW-7) daughter of Bharpur Singh (PW-4) was fit to make a statement. SI Manmohan Singh also made a request\n(Ex.PN) as to whether Paramjit Singh was fit to make a statement or not. Jagdev Singh And Others vs State Of Punjab on 23 January,\n2013\nAuthor: S.S. Saron\nBench: S.S. Saron, Paramjeet Singh\nCRA No.735-DB of 2006 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH\nCRA No.735-DB of 2006. Date of decision: 23.1.2013\nJagdev Singh and Others\n..... | IPC: 302, 323, 324, 148, 149, 307, 313, 304, 319, 300",
+      "metadata": {
+        "case_name": "Jagdev Singh And Others vs State Of Punjab on 23 January,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "323",
+          "324",
+          "148",
+          "149",
+          "307",
+          "313",
+          "304",
+          "319",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Jagdev Singh And Others vs State Of Punjab on 23 January,\n2013\nAuthor: S.S. Appellants\nVersus\nState of Punjab\n..... Respondent\nCORAM: HON'BLE MR. A.G., Punjab for the State. Respondents\nMr. Vivek Suri Advocate for respondents No.1 to 7.Jagdev Singh And Others vs State Of Punjab on 23 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/162744572/ 1\nMr. A.G., Punjab\nfor respondent No.8. This order will dispose of Criminal Appeal No.D-735-DB of 2006 filed by Jagdev Singh and others\nagainst the State of Punjab and Criminal Revision No.352 of 2007 filed by Surinder Kaur and\nParamjit Singh against Jagdev Singh and others as also State of Punjab as these arise out of the\nsame judgment and order dated 04.09.2006 passed by the learned Additional Sessions Judge,\nSangrur. The FIR (Ex.PO/2) was registered on the statement of the complainant Bharpur Singh son of Sant\nRam, resident of village Bhanbauri, Police Station Dhuri (PW-4). On 28.9.2001\nafter deputing Jagdev Singh (appellant No.1) on 'Thikri Pehra', Jora Singh was returning to their\nhouse. Then Jang Singh stated as to what were they seeing. Then Pritam Singh (appellant No.2) inflicted a\nreverse 'gandasa' blow on the head of Paramjit Singh. The complainant Bharpur Singh (PW-4) and\nhis daughter Surender Kaur came ahead to save Paramjit Singh and then Bitta Singh (Baljinder\nSingh - appellant No.3) gave a 'gandasa' blow which hit near the right eye of Surinder Kaur. Then Kukna (Ranjit Singh\n- appellant No.4) inflicted a 'gandasa' blow on the complainant. The statement (Ex.PO) was made by by Bharpur Singh\ncomplainant (PW-4) before SI Manmohan Singh, Police Station Dhuri (who died before his\ndeposition in the trial Court) and he signed it in Punjabi which was attested by the latter. On\nthis information, Manmohan Singh SI, Police Station, Dhuri sought permission of the doctor for\nrecording the statements of the injured Bharpur Singh (PW-4), Paramjit Singh (PW-6) and Surinder\nKaur (PW-7). The doctor declared them fit to make their statements. Jora Singh was, however,\ndeclared unfit to make his statement. Bharpur Singh (PW-4) got his above said statement (Ex.PO)\nrecorded which was read over to him who after admitting the same to be correct signed the same in\nPunjabi.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Jagdev Singh And Others vs State Of Punjab on 23 January, | Arguments: Jagdev Singh And Others vs State Of Punjab on 23 January,\n2013\nAuthor: S.S. Appellants\nVersus\nState of Punjab\n..... Respondent\nCORAM: HON'BLE MR. A.G., Punjab for the State. Respondents\nMr. Vivek Suri Advocate for respondents No.1 to 7.Jagdev Singh And Others vs State Of Punjab on 23 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/162744572/ 1\nMr. A.G., Punjab\nfor respondent No.8. This order will dispose of Criminal Appeal No.D-735-DB of 2006 filed by Jagdev Singh and others\nagainst the State of Punjab and Criminal Revision No.352 of 2007 filed by Surinder Kaur and\nParamjit Singh against Jagdev Singh and others as also State of Punjab as these arise out of the\nsame judgment and order dated 04.09.2006 passed by the learned Additional Sessions Judge,\nSangrur. The FIR (Ex.PO/2) was registered on the statement of the complainant Bharpur Singh son of Sant\nRam, resident of village Bhanbauri, Police Station Dhuri (PW-4). On 28.9.2001\nafter deputing Jagdev Singh (appellant No.1) on ' | Intent: intentional | IPC: 302, 323, 324, 148, 149, 307, 313, 304, 319, 300 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Jagdev Singh And Others vs State Of Punjab on 23 January,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "323",
+          "324",
+          "148",
+          "149",
+          "307",
+          "313",
+          "304",
+          "319",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Saron, Paramjeet Singh\nCRA No.735-DB of 2006 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH\nCRA No.735-DB of 2006. On completion of investigation, police report (challan) was filed by Joginder Singh\nSI/SHO (PW-8) in the Court of the Sub-Divisional Judicial Magistrate, Dhuri on 15.12.2001. The\nlearned Magistrate in view of the offence under Section 302 IPC being alleged, which was exclusively\ntriable by the Court of Sessions on 15.12.2001 committed the case to the said Court for trial. It was\ndirected that the accused be tried by the Court for the said offences. Therefore, indeed the entire family of the appellants has been implicated\nin the case.Jagdev Singh And Others vs State Of Punjab on 23 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/162744572/ 7\nThe FIR in the case was registered on the statement of Bharpur Singh (PW-4). He initially appeared\nbefore the learned trial Court as PW-1. On the said date, the term of appointment of learned Judge, Fast\nTrack Court had expired and no Presiding Officer had joined. The case was, therefore, adjourned to\n18.11.2003. Therefore, the injuries on the person of Jora Singh (deceased) are such that only\ninjury No.1 has been opined to be with sharp-edged weapon. This Court\nvide order dated 2.3.2007 dismissed the said application. Therefore, at present it is a\ncase of sudden fight which had occurred at the heat of the moment when Jora Singh\n(deceased) was going to the house of Jagdev Singh (appellant No.1) for fixing duties\nfor night patrol. Therefore, Exception\n(4) of Section 300 IPC would apply which reads as under:-\n\"Exception (4) - Culpable homicide is not murder if it is committed without pre-\nmeditation in a sudden fight in the heat of passion upon a sudden quarrel and\nwithout the offender having taken undue advantage or acted in a cruel or unusual\nmanner.\"\nExplanation: - It is immaterial in such cases which party offers the provocation or commits the first\nassault. Therefore, the circumstances of the case indeed show\nthat his case falls within the ambit of Section 304 IPC inasmuch as he committed culpable homicide\nnot amounting to murder.",
+      "embedding_text": "REASONING_CHUNK | Case: Jagdev Singh And Others vs State Of Punjab on 23 January, | Judicial reasoning: Saron, Paramjeet Singh\nCRA No.735-DB of 2006 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH\nCRA No.735-DB of 2006. On completion of investigation, police report (challan) was filed by Joginder Singh\nSI/SHO (PW-8) in the Court of the Sub-Divisional Judicial Magistrate, Dhuri on 15.12.2001. The\nlearned Magistrate in view of the offence under Section 302 IPC being alleged, which was exclusively\ntriable by the Court of Sessions on 15.12.2001 committed the case to the said Court for trial. It was\ndirected that the accused be tried by the Court for the said offences. Therefore, indeed the entire family of the appellants has been implicated\nin the case.Jagdev Singh And Others vs State Of Punjab on 23 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/162744572/ 7\nThe FIR in the case was registered on the statement of Bharpur Singh (PW-4). He initially appeared\nbefore the learned trial Court as PW-1. On the said date, the term of appointment of learned Judge, Fast\nTrack Court | Intent: intentional | Outcome: death | IPC: 302, 323, 324, 148, 149, 307, 313, 304, 319, 300",
+      "metadata": {
+        "case_name": "Jagdev Singh And Others vs State Of Punjab on 23 January,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "323",
+          "324",
+          "148",
+          "149",
+          "307",
+          "313",
+          "304",
+          "319",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The Criminal Appeal No.D-735-DB of 2006 has been filed by the appellants against the\njudgment and order dated 4.9.2006 passed by the learned Additional Sessions Judge, Sangrur\nwhereby Jagdev Singh (appellant No.1) has been convicted for the offence under Section 302 Indian\nPenal Code (\"IPC\" - for short), Pritam Singh (appellant No.2) has been convicted for the offence\nunder Section 323 IPC; besides, Baljinder Singh and Ranjit Singh (appellants No.3 and 4) have been\nconvicted for the offence under Section 324 IPC. Jagdev Singh (appellant No.1) was sentenced to\nundergo life imprisonment, besides, pay a fine of Rs.5000/- and in default thereof, to undergo\nfurther rigorous imprisonment for three months for the offence under Section 302 IPC, Pritam\nSingh (appellant No.2) was sentenced to undergo rigorous imprisonment for one year for the\noffence under Section 323 IPC; besides, Baljinder Singh and Ranjit Singh (appellants No.3 and 4)\nwere sentenced to undergo rigorous imprisonment for two years each for the offence under Section\n324 IPC. Surinder Kaur and Paramjit Singh have filed Criminal Revision No.352 of 2007 praying for\nacceptance of their revision petition and for setting aside the judgment dated 04.09.2006 passed by\nthe learned Additional Sessions Judge, Sangrur to the extent that Jang Singh and Jarnail Singh have\nbeen acquitted by giving the benefit of doubt and for convicting them for the offences punishable\nunder Section 302 read with Sections 148 and 149 IPC and for sentencing them accordingly;\nbesides, for enhancing the sentences awarded to Pritam Singh and Ajaib Singh for the offences\npunishable under Section 302 read with Sections 148 and 149 IPC and also for enhancing the\nsentences of Baljinder Singh and Ranjit Singh by converting their offence to that under Section 302\nread with Sections 148 and 149 IPC. Then Jang Singh\n(since acquitted) son of appellant No.1 - Jagdev Singh armed with a 'soti'; Bitta Singh (Baljinder\nSingh - appellant No.3) son of Jagdev Singh (appellant No.3) armed with a 'gandasa'; Kukna (Ranjit\nSingh - appellant No.4) son of Jagdev Singh armed with a 'gandasa'; Jagdev Singh (appellant No.1)\narmed with a 'gandasa'; Pritam Singh (appellant No.2) armed with a 'gandasa'; Ajaib Singh (who hasJagdev Singh And Others vs State Of Punjab on 23 January, 2013\nIndian Kanoon - http://indiankanoon.org/doc/162744572/ 2\nsince undergone his sentence) armed with a 'soti'; Jarnail Singh son of Lal Singh armed with a 'soti'\nall residents of village Bhanbauri at once came out of the house of Ajaib Singh (who has undergone\nhis sentence).",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Jagdev Singh And Others vs State Of Punjab on 23 January, | Final judgment: The Criminal Appeal No.D-735-DB of 2006 has been filed by the appellants against the\njudgment and order dated 4.9.2006 passed by the learned Additional Sessions Judge, Sangrur\nwhereby Jagdev Singh (appellant No.1) has been convicted for the offence under Section 302 Indian\nPenal Code (\"IPC\" - for short), Pritam Singh (appellant No.2) has been convicted for the offence\nunder Section 323 IPC; besides, Baljinder Singh and Ranjit Singh (appellants No.3 and 4) have been\nconvicted for the offence under Section 324 IPC. Jagdev Singh (appellant No.1) was sentenced to\nundergo life imprisonment, besides, pay a fine of Rs.5000/- and in default thereof, to undergo\nfurther rigorous imprisonment for three months for the offence under Section 302 IPC, Pritam\nSingh (appellant No.2) was sentenced to undergo rigorous imprisonment for one year for the\noffence under Section 323 IPC; besides, Baljinder Singh and Ranjit Singh (appellants No.3 and 4)\nwere sentenced to undergo rigorous imprisonment for two ye | Judgment: convicted | IPC: 302, 323, 324, 148, 149, 307, 313, 304, 319, 300",
+      "metadata": {
+        "case_name": "Jagdev Singh And Others vs State Of Punjab on 23 January,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "323",
+          "324",
+          "148",
+          "149",
+          "307",
+          "313",
+          "304",
+          "319",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "case_id": "Prahlad_And_Ors_vs_State_Of_Rajasthan_on_19_May_1986",
+  "case_name": "Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Prahlad And Ors. 1. All the substantive sentences have been\nordered to run concurrently. 2. The facts necessary to be noticed for the disposal of this appeal briefly stated are that the marriage\nof Kistooraram's two daughters took place in village Lamba in which most of the Bishnoi's of the\nadjoining areas were also invited. One Kishnaram resident of village Fitkasni, who has been\nexamined as PW 8, also cams to attend this marriage in village Lamba. It is alleged that on\nSeptember 6, 1977 at about 3 p.m., PW 8 Kishnaram was passing by the side of the temple of\nKesariya Kunwarji. All these 5 accused-persons along with their companions, who were in all 9\npersons objected to the way in which PW 8 Kishnaram was wearing his Dhoti. In Bishnoi\ncommunity, the corners of the Dhoti are pushed inside the part of the Dhoti which is tied to the\nwaiste. No corner of the Dhoti is allowed to be kept in hanging or flattering. PW 8 Kishnaram was\nwearing the Dhoti in the style where corner of the Dhoti was kept hanging. This was objected by the\naccused-persons and they asked him not to keep the corners of the Dhoti hanging. He was asked to\npush this corner inside the portion of Dhoti tied to the waiste. Kishnaram did not listen to them. It is alleged that Kishnaram\nbrought this fact to the notice of PW 3 Prahaladram who happens to be his cousin brother i.e. his\nmother's sister's son and told him that these accused-persons have insisted with him not to wear the\nDhoti in the fashion he used to wear it. Prahlad Ram (PW 3) told him that he should not mind it\nbecause it hardly matters to him as he has only come here for a day. This further enraged the\naccused persons and they started pelting stones on Kishnaram. On\nthis, accused persons left Kishnaram and they remonstrated Chhogaram as to why he is taking sidePrahlad And Ors. Chhogaram took shelter in the house of his brother Ramsukh.",
+      "embedding_text": "FACT_CHUNK | Case: Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986 | Facts: Prahlad And Ors. 1. All the substantive sentences have been\nordered to run concurrently. 2. The facts necessary to be noticed for the disposal of this appeal briefly stated are that the marriage\nof Kistooraram's two daughters took place in village Lamba in which most of the Bishnoi's of the\nadjoining areas were also invited. One Kishnaram resident of village Fitkasni, who has been\nexamined as PW 8, also cams to attend this marriage in village Lamba. It is alleged that on\nSeptember 6, 1977 at about 3 p.m., PW 8 Kishnaram was passing by the side of the temple of\nKesariya Kunwarji. All these 5 accused-persons along with their companions, who were in all 9\npersons objected to the way in which PW 8 Kishnaram was wearing his Dhoti. In Bishnoi\ncommunity, the corners of the Dhoti are pushed inside the part of the Dhoti which is tied to the\nwaiste. No corner of the Dhoti is allowed to be kept in hanging or flattering. PW 8 Kishnaram was\nwearing the Dhoti in the style where corner of the Dhoti w | Actions: shot | Weapon: lathi | Outcome: death | IPC: 304, 452, 323, 147, 148, 149, 336, 302, 449, 423, 313, 34, 397, 401",
+      "metadata": {
+        "case_name": "Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "304",
+          "452",
+          "323",
+          "147",
+          "148",
+          "149",
+          "336",
+          "302",
+          "449",
+          "423",
+          "313",
+          "34",
+          "397",
+          "401"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1986"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "After that, arguments to decide whether the accused-persons can be held guiltyPrahlad And Ors. Looking to these facts and\ncircumstances of this case, the notice issued to accused appellants Harlal, Jiya,\nArjunrctm son of Natha and Kishnaram to show cause as to why they should not be\nheld guilty of the offence under Section 304, Part II, read with Section 34, IPC\ndeserves to be withdrawn, and it is hereby withdrawn. Although there is some difference between the testimony of the eye witnesses as\nto whether the blows were landed on the right temporal region or on the left temporal region ofPrahlad And Ors. Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986\nEquivalent citations: 1986(2)WLN379\nJUDGMENT\nJasraj Chopra, J.",
+      "embedding_text": "ISSUE_CHUNK | Case: Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986 | Legal issues: After that, arguments to decide whether the accused-persons can be held guiltyPrahlad And Ors. Looking to these facts and\ncircumstances of this case, the notice issued to accused appellants Harlal, Jiya,\nArjunrctm son of Natha and Kishnaram to show cause as to why they should not be\nheld guilty of the offence under Section 304, Part II, read with Section 34, IPC\ndeserves to be withdrawn, and it is hereby withdrawn. Although there is some difference between the testimony of the eye witnesses as\nto whether the blows were landed on the right temporal region or on the left temporal region ofPrahlad And Ors. Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986\nEquivalent citations: 1986(2)WLN379\nJUDGMENT\nJasraj Chopra, J. | IPC: 304, 452, 323, 147, 148, 149, 336, 302, 449, 423, 313, 34, 397, 401",
+      "metadata": {
+        "case_name": "Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "304",
+          "452",
+          "323",
+          "147",
+          "148",
+          "149",
+          "336",
+          "302",
+          "449",
+          "423",
+          "313",
+          "34",
+          "397",
+          "401"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1986"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Rajasthan on 19 May, 1986\nEquivalent citations: 1986(2)WLN379\nJUDGMENT\nJasraj Chopra, J. The remaining four accused-appellants viz. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 1\nof a man who has not tied his Dhoti in the fishion prevailed amongst Bishnois and after saying this,\nthey ran after Chhogaram. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 2\n(6) Ramiya Under Sections 302/149, 449 and 147 IPC;\n(7) Manglaram Under Sections 302/149, 449 and 147 IPC;\n(8) Gordhan Under Sections 302/149 and 147 IPC;\n(9) Kishnaram Under Sections 302/149, 449 and 147 and 423 IPC. The\nstatements of the accused persons were recorded under Section 313 Cr.PC. They have stated that\nthey are innocent and they have been falsely implicated. They examined five witnesses in their\ndefence. Purohit, learned counsel for the accused- appellants and Mr. Bhausali,\nlearned Public Prosecutor for the State. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 3\nof the graver offences were heard. Bhansali, learned Public Prosecutor appearing for the State has argued that in this case\nthe learned lower court has held that common object and common intention developed amongst the\nassembly of the accused-persons at the spur of the moment. The question of holding accused-appellants\nHarlal, Jiya, Arjunram son of Natha and Kishnaram guilty of the graver offence does not survive for\nany decision by this court in view of the above quoted Supreme Court authority. convictions of accused-appellants Harlal, Jiya. accused-appellants. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 5\nhouse of Ramjas together armed with weapons like Dhariyas and hockeys in hot pursuit of Chhoga\nRam. They have stated that accused Harlal, Arjun son of Natharam and Jiya\nwere armed with Dhariyas. PW 5 Jetaram who is another injured witness has stated that accused Harlal struck a blow from\nthe back side of the Dhariya on the right side of the head of Chhogaram whereas the blows inflicted\nby accused Arjun son of Natha and Jiya from the back side of their Dhariyas were struck on the right\ntemporal region of Chhogaram.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986 | Arguments: vs State Of Rajasthan on 19 May, 1986\nEquivalent citations: 1986(2)WLN379\nJUDGMENT\nJasraj Chopra, J. The remaining four accused-appellants viz. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 1\nof a man who has not tied his Dhoti in the fishion prevailed amongst Bishnois and after saying this,\nthey ran after Chhogaram. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 2\n(6) Ramiya Under Sections 302/149, 449 and 147 IPC;\n(7) Manglaram Under Sections 302/149, 449 and 147 IPC;\n(8) Gordhan Under Sections 302/149 and 147 IPC;\n(9) Kishnaram Under Sections 302/149, 449 and 147 and 423 IPC. The\nstatements of the accused persons were recorded under Section 313 Cr.PC. They have stated that\nthey are innocent and they have been falsely implicated. They examined five witnesses in their\ndefence. Purohit, learned counsel for the accused- appellants and Mr. Bhausali,\nlearned Public Prosecutor for the State. vs State O | Intent: intentional | IPC: 304, 452, 323, 147, 148, 149, 336, 302, 449, 423, 313, 34, 397, 401 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "304",
+          "452",
+          "323",
+          "147",
+          "148",
+          "149",
+          "336",
+          "302",
+          "449",
+          "423",
+          "313",
+          "34",
+          "397",
+          "401"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1986"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "This enraged the accused-persons and, therefore, these five accused-persons along with their\ncompanions Arjun son of Khetaram, Ramiya, Manglaram and Gordhan who were armed with lathis,\nhockey and Dhariyas pursued him in order to give a beating to him. When this was observed by\nChhogaram elder brother of Kishnaram, he came out of his house. Some of the stones even fell on\nhis Chabutri and below it and probably one or two went inside his house and, therefore, he asked the\naccused-persons why they were unnecessarily following the guest who has come to the village. Chhogaram became\nunconscious and, therefore, he was shifted from Laroba to Jodhpur Hospital and there, he died at\n9.45 p.m. After usual inves'igation, the case against the accused-persons was challaned in the court of\nlearned Munsif& Judicial Magistrate, Bilara from where, it was committed for trial to the court of\nlearned Sessions Judge, Jodhpur. It has also held\nthat from the evidence of PW 3 Prahlad and PW 5 Jetaram, it is clear that accused Kishnaram has\ninflicted simple injuries and, therefore, he has been held guilty of the offences Under Section 323,\nIPC for causing simple injuries to these two injured persons. Accused Harlal, Jiya and Arjun are\nalleged to have caused simple injuries from the back side of Dhariyas to deceased Chhoga Ram and,\ntherefore, they to have been held guilty of the offence under Section 323 IPC. It has further held that\naccused Prahladram had inflicted a hockey blow on the head of Chhogaram and that injury has\nproved fatal and, therefore, the learned lower court has assigned to accused Prahladram the\nknowledge that he caused an injury which was likely to cause death because he has availed the head\nof the deceased for causing severe blow with such a heavy weapon like hockey and so, the accused\nPrahaladram has been held guilty of the offence under Section 304, Part II, IPC. Nobody has been\nheld guilty of the offence under Section 449 IPC because no intention to kill Chhogaram had ever\ndeveloped amongst the accused-persons and thus, only 5 accused persons against whom, there is\nspecific evidence of causing injuries have been held guilty of the offence under Section 452 IPC.",
+      "embedding_text": "REASONING_CHUNK | Case: Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986 | Judicial reasoning: This enraged the accused-persons and, therefore, these five accused-persons along with their\ncompanions Arjun son of Khetaram, Ramiya, Manglaram and Gordhan who were armed with lathis,\nhockey and Dhariyas pursued him in order to give a beating to him. When this was observed by\nChhogaram elder brother of Kishnaram, he came out of his house. Some of the stones even fell on\nhis Chabutri and below it and probably one or two went inside his house and, therefore, he asked the\naccused-persons why they were unnecessarily following the guest who has come to the village. Chhogaram became\nunconscious and, therefore, he was shifted from Laroba to Jodhpur Hospital and there, he died at\n9.45 p.m. After usual inves'igation, the case against the accused-persons was challaned in the court of\nlearned Munsif& Judicial Magistrate, Bilara from where, it was committed for trial to the court of\nlearned Sessions Judge, Jodhpur. It has also held\nthat from the evidence of PW 3 Prahlad and PW 5 Jetaram, it is cl | Intent: intentional | Outcome: death | IPC: 304, 452, 323, 147, 148, 149, 336, 302, 449, 423, 313, 34, 397, 401",
+      "metadata": {
+        "case_name": "Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "304",
+          "452",
+          "323",
+          "147",
+          "148",
+          "149",
+          "336",
+          "302",
+          "449",
+          "423",
+          "313",
+          "34",
+          "397",
+          "401"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1986"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "This is an appeal against the judgment of the learned Sessions Judge, Jodhpur dated 28-4-1978\nwhereby the learned lower court has held accused-appellant Prahladram guilty of the offence under\nSections 304, Part II and 452, IPC and has sentenced him to 5 years rigorous imprisonment for the\noffence under Section 304, Part II, IPC and 6 months rigorous imprisonment for the offence under\nSection 452 IPC. Harlal, Jiya, Arjunram and Kishnaram\nhave been held guilty of the offences under Sections 323 and 452 IPC and they have been sentenced\nto 3 months' rigorous imprisonment for the offence under Section 323 IPC and 6 months rigorous\nimprisonment for the offence under Section 452, IPC. After hearing the parties, the learned lower court held that in this case, no common intention or\ncommon object to commit the murder of Chhogaram was formed and, therefore, it has acquitted all\nthe accused persons of the offences under Sections 147, 148 and 149 IPC. The\nremaining four accused-persons against whom there is no specific evidence of causing injuries to\nany of the injured have been acquitted of all the offences alleged against them. Even the convicted\naccused persons have been acquitted of the offences under Sections 302/149, 449 and 148 and 147\nIPC. They have been convicted and sentenced as aforesaid. Aggrieved against this judgment, these 5 accused-appellants who have been convicted by the\nlearned lower court have preferred this appeal. In this case, after the arguments were heard, a notice was issued to the accused-appellants to\nshow cause as to why they should not be convicted of the offence under Section 304, Part II, read\nwith Section 34 IPC. State of Maharastra\nwherein it was laid down as under:\nIn an appeal against inadequancy of sentence it is not permissible to alter the\nconviction to an aggrevated cateogory of offence for which the accused was not\nconvicted. vs State Of Rajasthan on 19 May, 1986\nIndian Kanoon - http://indiankanoon.org/doc/1625243/ 4\nThus, it is clear that although this Court has power to enhance the sentence in an\nappropriate case by exercising the powers of revision suo moto under Section 397\nread with Section 401 Cr.PC but this power cannot be exercised to alter the conviction\nof an offender to an aggrevated category of an offence from the one for which the\naccused has been convicted by the trial court.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986 | Final judgment: This is an appeal against the judgment of the learned Sessions Judge, Jodhpur dated 28-4-1978\nwhereby the learned lower court has held accused-appellant Prahladram guilty of the offence under\nSections 304, Part II and 452, IPC and has sentenced him to 5 years rigorous imprisonment for the\noffence under Section 304, Part II, IPC and 6 months rigorous imprisonment for the offence under\nSection 452 IPC. Harlal, Jiya, Arjunram and Kishnaram\nhave been held guilty of the offences under Sections 323 and 452 IPC and they have been sentenced\nto 3 months' rigorous imprisonment for the offence under Section 323 IPC and 6 months rigorous\nimprisonment for the offence under Section 452, IPC. After hearing the parties, the learned lower court held that in this case, no common intention or\ncommon object to commit the murder of Chhogaram was formed and, therefore, it has acquitted all\nthe accused persons of the offences under Sections 147, 148 and 149 IPC. The\nremaining four accused-persons against who | Judgment: convicted | IPC: 304, 452, 323, 147, 148, 149, 336, 302, 449, 423, 313, 34, 397, 401",
+      "metadata": {
+        "case_name": "Prahlad And Ors. vs State Of Rajasthan on 19 May, 1986",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "304",
+          "452",
+          "323",
+          "147",
+          "148",
+          "149",
+          "336",
+          "302",
+          "449",
+          "423",
+          "313",
+          "34",
+          "397",
+          "401"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1986"
+      }
+    }
+  ]
+}

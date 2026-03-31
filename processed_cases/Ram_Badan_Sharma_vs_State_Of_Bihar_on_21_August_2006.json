@@ -1,0 +1,152 @@
+{
+  "case_id": "Ram_Badan_Sharma_vs_State_Of_Bihar_on_21_August_2006",
+  "case_name": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "SINHA & DALVEER BHANDARI\nJUDGMENT:\nJ U D G M E N T WITH CRIMINAL APPEAL NO.333 OF 2005. Surya Kant Sharma .... Brief facts of this case are as follows:\nOn 20th November 1993, at 4.30 p.m., the brother of the deceased Chandra Bhushan\nChaudhary, PW2 filed a written complaint at the Police Station Chandi alleging that\nhis sister Sanju Kumari (who was married in the year 1989) was poisoned by her\nhusband Surya Kant Sharma, her father-in-law Ram Badan Sharma and\nmother-in-law Saraswati Devi. It was also alleged that at the time of marriage, Surya\nKant Sharma, Ram Badan Sharma and Saraswati Devi demanded a colour TV,\nYamaha motor-cycle and cash of Rs.20,000/-. The informant and his family could\nnot fulfill their dowry demands. The customary 'Durgaman' (second marriage) had\ntaken place on 26.10.1993 and at that time, the same demands were repeated by the\naccused persons. In the report, it was also mentioned that on 17.11.1993, brother-in-law of the\ndeceased (sister's husband) Ramakant Chaudhary, PW1, visited Lodipur on the\nrequest of the deceased's mother to meet the deceased. The accused persons told PW1\nthat no one would be permitted to meet Sanju Kumari unless their dowry demands\nare fulfilled by the parents of the deceased. On persuasion for sometime, he was\npermitted to meet Sanju Kumari. She wept before him and narrated that she was\nharassed and tortured by the accused persons for not getting motor-cycle, colour TV\nand Rs.20,000/- from her parents. On return from the house of the deceased, PW1\nnarrated to his mother-in-\nlaw and brother-in-law the entire story of harassment of the deceased on account of non-fulfillment\nof dowry demands. It is further stated in the report that only after a few hours, on the intervening\nnight of 17th and 18th of November, poison was administered to the deceased in the 'Prasad' and\nconsequently she died. On 20.11.1993, a Barber from Lodipur brought a letter which disclosed that Sanju Kumari had died\non the intervening night of 17/18.11.1993. The informant rushed to the village Lodipur where he\ncame to know that the accused persons had killed his sister by administering poison to her.",
+      "embedding_text": "FACT_CHUNK | Case: Ram Badan Sharma vs State Of Bihar on 21 August, 2006 | Facts: SINHA & DALVEER BHANDARI\nJUDGMENT:\nJ U D G M E N T WITH CRIMINAL APPEAL NO.333 OF 2005. Surya Kant Sharma .... Brief facts of this case are as follows:\nOn 20th November 1993, at 4.30 p.m., the brother of the deceased Chandra Bhushan\nChaudhary, PW2 filed a written complaint at the Police Station Chandi alleging that\nhis sister Sanju Kumari (who was married in the year 1989) was poisoned by her\nhusband Surya Kant Sharma, her father-in-law Ram Badan Sharma and\nmother-in-law Saraswati Devi. It was also alleged that at the time of marriage, Surya\nKant Sharma, Ram Badan Sharma and Saraswati Devi demanded a colour TV,\nYamaha motor-cycle and cash of Rs.20,000/-. The informant and his family could\nnot fulfill their dowry demands. The customary 'Durgaman' (second marriage) had\ntaken place on 26.10.1993 and at that time, the same demands were repeated by the\naccused persons. In the report, it was also mentioned that on 17.11.1993, brother-in-law of the\ndeceased (sister's husband) Ramakant Chaudha | Actions: killed, poisoned, threatened, harassed, cruelty | Weapon: poison | Outcome: death | IPC: 319, 304, 113, 304B, 201",
+      "metadata": {
+        "case_name": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "319",
+          "304",
+          "113",
+          "304B",
+          "201"
+        ],
+        "actions": [
+          "killed",
+          "poisoned",
+          "threatened",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "On the basis of evidence on record, we are called upon to adjudicate following questions:\n(I) Whether the prosecution was able to prove the demands of dowry? (II) Whether the deceased had died because of harassment and cruelty meted out at\nthe hands of the accused persons in connection with the demands of dowry? (III) Whether the death had occurred within seven years of the marriage? According to the requirement of Section 304-B IPC and Section 113-B of the Indian Evidence Act,\nthe trial court also examined whether there was evidence that the deceased soon before the death\nwas subjected to harassment and cruelty in connection with the demands for dowry. On this issue\nalso, the trial court carefully analysed the evidence and came to a definite finding that theRam Badan Sharma vs State Of Bihar on 21 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1999694/ 5\nprosecution was able to prove the fact that due to demands of dowry, the deceased was subjected to\nharassment before her death. The\nSection reads as under:-\n\"113-B: Presumption as to dowry death- When the question is whether a person has\ncommitted the dowry death of a woman and it is shown that soon before her death\nsuch woman has been subjected by such person to cruelty or harassment for, or in\nconnection with, any demand for dowry, the Court shall presume that such person\nhad caused the dowry death.",
+      "embedding_text": "ISSUE_CHUNK | Case: Ram Badan Sharma vs State Of Bihar on 21 August, 2006 | Legal issues: On the basis of evidence on record, we are called upon to adjudicate following questions:\n(I) Whether the prosecution was able to prove the demands of dowry? (II) Whether the deceased had died because of harassment and cruelty meted out at\nthe hands of the accused persons in connection with the demands of dowry? (III) Whether the death had occurred within seven years of the marriage? According to the requirement of Section 304-B IPC and Section 113-B of the Indian Evidence Act,\nthe trial court also examined whether there was evidence that the deceased soon before the death\nwas subjected to harassment and cruelty in connection with the demands for dowry. On this issue\nalso, the trial court carefully analysed the evidence and came to a definite finding that theRam Badan Sharma vs State Of Bihar on 21 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1999694/ 5\nprosecution was able to prove the fact that due to demands of dowry, the deceased was subjected to\nharassment before her d | IPC: 319, 304, 113, 304B, 201",
+      "metadata": {
+        "case_name": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "319",
+          "304",
+          "113",
+          "304B",
+          "201"
+        ],
+        "actions": [
+          "killed",
+          "poisoned",
+          "threatened",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006\n2006 AIR SCW 4068, 2006 (3) ABR (NOC) 493 (MP), 2007 (1) SCC(CRI) 166,\n(2006) 46 ALLINDCAS 371 (SC), 2006 (8) SCALE 210, 2006 ALL MR(CRI) 3250,\n2006 (46) ALLINDCAS 371, (2006) 4 JCR 215 (SC), 2006 CRILR(SC&MP) 732,\n2006 (9) SRJ 273, 2006 CRILR(SC MAH GUJ) 732, (2006) 4 RECCRIR 856,\n(2007) 57 ALLCRIC 949, (2006) 3 CHANDCRIC 227, (2006) 2 DMC 368, (2006) 2\nHINDULR 627, (2007) 1 MADLW(CRI) 391, (2006) 2 MARRILJ 674, (2006) 35\nOCR 377, (2006) 4 PAT LJR 86, (2006) 4 RECCRIR 104, (2006) 6 SUPREME\n418, (2006) 3 ALLCRIR 2390, (2006) 8 SCALE 210, (2006) 3 CRIMES 273, (2006)\n131 DLT 401, 2006 CHANDLR(CIV&CRI) 691, 2006 CRILR(SC&MP) 228, (2007)\n1 ALLCRILR 69, (2006) 4 EASTCRIC 106, 2006 (2) ALD(CRL) 606, 2007 (1)\nANDHLT(CRI) 162 SC, (2007) 1 ANDHLT(CRI) 162\nAuthor: Dalveer Bhandari\nBench: S.B. Sinha, Dalveer Bhandari\nCASE NO.:\nAppeal (crl.) 1493 of 2004\nRam Badan Sharma\nState of Bihar\nDATE OF JUDGMENT: 21/08/2006\nBENCH:\nS.B. Appellant\nVersus\nState of Bihar .... Respondent\nDALVEER BHANDARI, J.Ram Badan Sharma vs State Of Bihar on 21 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1999694/ 1\nThese appeals are directed against the judgment of the High Court of Patna in Criminal Appeal\nNo.64 of 2002. The accused persons denied the allegations and a defence was taken that Sanju Kumari had died due\nto stomach pain. It was alleged on behalf of the defence that she complained of stomach pain on\n16.11.1993 and that she was taken to the clinic where she was treated by Dr. B.K.Ram Badan Sharma vs State Of Bihar on 21 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1999694/ 2\nJain. It was also stated that the informant and his relatives attended the 'Shradh' of Sanju Kumari. On behalf of the defence, five witnesses were examined. Sudama Singh DW1 and Ram Chhabila\nSingh DW2 were examined to support the defence version. He further\nstated that they received the news of the death of Sanju Kumari from a Barber after three days of the\ndeath i.e.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Ram Badan Sharma vs State Of Bihar on 21 August, 2006 | Arguments: Ram Badan Sharma vs State Of Bihar on 21 August, 2006\n2006 AIR SCW 4068, 2006 (3) ABR (NOC) 493 (MP), 2007 (1) SCC(CRI) 166,\n(2006) 46 ALLINDCAS 371 (SC), 2006 (8) SCALE 210, 2006 ALL MR(CRI) 3250,\n2006 (46) ALLINDCAS 371, (2006) 4 JCR 215 (SC), 2006 CRILR(SC&MP) 732,\n2006 (9) SRJ 273, 2006 CRILR(SC MAH GUJ) 732, (2006) 4 RECCRIR 856,\n(2007) 57 ALLCRIC 949, (2006) 3 CHANDCRIC 227, (2006) 2 DMC 368, (2006) 2\nHINDULR 627, (2007) 1 MADLW(CRI) 391, (2006) 2 MARRILJ 674, (2006) 35\nOCR 377, (2006) 4 PAT LJR 86, (2006) 4 RECCRIR 104, (2006) 6 SUPREME\n418, (2006) 3 ALLCRIR 2390, (2006) 8 SCALE 210, (2006) 3 CRIMES 273, (2006)\n131 DLT 401, 2006 CHANDLR(CIV&CRI) 691, 2006 CRILR(SC&MP) 228, (2007)\n1 ALLCRILR 69, (2006) 4 EASTCRIC 106, 2006 (2) ALD(CRL) 606, 2007 (1)\nANDHLT(CRI) 162 SC, (2007) 1 ANDHLT(CRI) 162\nAuthor: Dalveer Bhandari\nBench: S.B. Sinha, Dalveer Bhandari\nCASE NO.:\nAppeal (crl.) 1493 of 2004\nRam Badan Sharma\nState of Bihar\nDATE OF JUDGMENT: 21/08/2006\nBENCH:\nS.B. Appellant\nVersus\nS | Intent: intentional | IPC: 319, 304, 113, 304B, 201 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "319",
+          "304",
+          "113",
+          "304B",
+          "201"
+        ],
+        "actions": [
+          "killed",
+          "poisoned",
+          "threatened",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The case was committed to the Court of Sessions. However, after\nexamination of the witnesses, Saraswati Devi was also summoned by the Court under Section 319\nCr.P.C. The trial court after analyzing the entire evidence on\nrecord came to the categoric finding that the prosecution was able to prove that Sanju Kumari was\nkilled within seven years of her marriage for not fulfilling the demands of dowry articles. The trial court observed that on the day of\n'Chhath' i.e. According to the trial court,\nimmediately after the death, the dead-body was hurriedly disposed of and there was no autopsy of\nthe dead body. The trial court also observed that\nunder the provisions of Section 113-B of the Evidence Act, the prosecution has proved the\npresumption of dowry death. The trial court discarded the story of return of ornaments by DW1 and\nDW2 as being not convincing. The trial court observed that the deceased died in the circumstances\nnarrated by DW1. According to the trial court, either it was a case of homicide or suicide, in both the\ncases, the accused would be held guilty for the offence under Section 304B IPC. The trial court observed that admittedly the death had occurred on the intervening night of\n17/18.11.1993. According to the trial court, involvement of Saraswati Devi in this case was not\nestablished beyond reasonable doubt. The trial court was of the\nopinion that reasonable doubt arose with regard to the involvement of mother-in-law of the\ndeceased Sanju Devi and, therefore, gave her benefit of doubt. The Court\nfurther directed that both the sentences shall run concurrently. Sessions Judge, Bhojpur, Arrah,\npreferred an appeal before the High Court. The High Court analysed the judgment of the learned\nAddl. It is not necessary to repeat the findings of\nthe High Court in detail. According to the High Court, clear offences under Section\n304-B and 201 I.P.C. The High Court observed that there was perceptible nexus between the death of Sanju and dowry\nrelated harassment or cruelty inflicted on her. The High Court also independently came to the\nconclusion that the evidence of the prosecution witnesses manifestly reflected that shortly after\nSanju Kumari went to her in-laws house after the marriage and returned to her parents house only\nafter eight days, she had been complaining to her parents about torture and beating by the husband\nand in-laws for not getting the dowry articles.",
+      "embedding_text": "REASONING_CHUNK | Case: Ram Badan Sharma vs State Of Bihar on 21 August, 2006 | Judicial reasoning: The case was committed to the Court of Sessions. However, after\nexamination of the witnesses, Saraswati Devi was also summoned by the Court under Section 319\nCr.P.C. The trial court after analyzing the entire evidence on\nrecord came to the categoric finding that the prosecution was able to prove that Sanju Kumari was\nkilled within seven years of her marriage for not fulfilling the demands of dowry articles. The trial court observed that on the day of\n'Chhath' i.e. According to the trial court,\nimmediately after the death, the dead-body was hurriedly disposed of and there was no autopsy of\nthe dead body. The trial court also observed that\nunder the provisions of Section 113-B of the Evidence Act, the prosecution has proved the\npresumption of dowry death. The trial court discarded the story of return of ornaments by DW1 and\nDW2 as being not convincing. The trial court observed that the deceased died in the circumstances\nnarrated by DW1. According to the trial court, either it was a case  | Intent: intentional | Outcome: death | IPC: 319, 304, 113, 304B, 201",
+      "metadata": {
+        "case_name": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "319",
+          "304",
+          "113",
+          "304B",
+          "201"
+        ],
+        "actions": [
+          "killed",
+          "poisoned",
+          "threatened",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The trial court came to a definite conclusion that the prosecution had been able to prove the charges\nunder Sections 304-B and 201 IPC against the husband and father-in-law of the deceased and\nconvicted them under Sections 304-B and 201 IPC. The trial court sentenced the accused to undergo\n10 years rigorous imprisonment for the offence under Section 304-B I.P.C. They were also sentenced\nto undergo rigorous imprisonment for two years for the offence under Section 201 IPC. The appellants have challenged the impugned judgment of the High Court on the plea that they have\nbeen erroneously convicted under Sections 304-B and 201 IPC. In the instant case, the appellants were convicted under Sections 304-B and 201 IPC. (2) Whoever commits dowry death shall be punished with imprisonment for a term\nwhich shall not be less than seven years but which may extend to imprisonment for\nlife.\"\nThis Section was inserted in the Indian Penal Code by an Act 43 of 1986 on 19.11.1986. In our considered opinion, the trial court has properly analyzed the evidence and justly convicted\nthe appellants under Section 304-B I.P.C. The appellants have also been convicted under Section 201 IPC. Causing disappearance of evidence of offence, or giving false information to\nscreen offender.\u0017Whoever, knowing or having reason to believe that an offence has\nbeen committed, causes any evidence of the commission of that offence to disappear,\nwith the intention of screening the offender from legal punishment, or with that\nintention gives any information respecting the offence which he knows or believes to\nbe false;\nif a capital offence.\u0017shall, if the offence which he knows or believes to have been\ncommitted is punishable with death, be punished with imprisonment of either\ndescription for a term which may extend to seven years, and shall also be liable to\nfine;\nif punishable with imprisonment for life.\u0017and if the offence is punishable with\nimprisonment for life, or with imprisonment which may extend to ten years, shall be\npunished with imprisonment of either description for a term which may extend to\nthree years, and shall also be liable to fine;\nif punishable with less than ten years' imprisonment.\u0017and if the offence is punishable\nwith imprisonment for any term not extending to ten years, shall be punished with\nimprisonment of the description provided for the offence, for a term which may\nextend to one-fourth part of the longest term of the imprisonment provided for the\noffence, or with fine, or with both.\"\nIn the instant case, according to the prosecution, the deceased was killed by administering poison to\nher on the intervening night of 17/18.11.1993.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Ram Badan Sharma vs State Of Bihar on 21 August, 2006 | Final judgment: The trial court came to a definite conclusion that the prosecution had been able to prove the charges\nunder Sections 304-B and 201 IPC against the husband and father-in-law of the deceased and\nconvicted them under Sections 304-B and 201 IPC. The trial court sentenced the accused to undergo\n10 years rigorous imprisonment for the offence under Section 304-B I.P.C. They were also sentenced\nto undergo rigorous imprisonment for two years for the offence under Section 201 IPC. The appellants have challenged the impugned judgment of the High Court on the plea that they have\nbeen erroneously convicted under Sections 304-B and 201 IPC. In the instant case, the appellants were convicted under Sections 304-B and 201 IPC. (2) Whoever commits dowry death shall be punished with imprisonment for a term\nwhich shall not be less than seven years but which may extend to imprisonment for\nlife.\"\nThis Section was inserted in the Indian Penal Code by an Act 43 of 1986 on 19.11.1986. In our considered opinion | Judgment: convicted | IPC: 319, 304, 113, 304B, 201",
+      "metadata": {
+        "case_name": "Ram Badan Sharma vs State Of Bihar on 21 August, 2006",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "319",
+          "304",
+          "113",
+          "304B",
+          "201"
+        ],
+        "actions": [
+          "killed",
+          "poisoned",
+          "threatened",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

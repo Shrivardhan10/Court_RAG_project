@@ -1,0 +1,197 @@
+{
+  "case_id": "Sandeep_vs_State_Of_U_P_on_11_May_2012",
+  "case_name": "Sandeep vs State Of U.P on 11 May, 2012",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "1. Shorn of unnecessary facts, the case of the prosecution as projected before the trial Court was that\non 17.11.2004 I D.N. Verma (PW-\n1) along with Sub-Inspector Chander Pal Singh (PW-2), Constable Rambir Singh,\nConstable Sukhram, Constable Ashok Kumar and Driver Yashvir Singh were on\npatrolling duty; that when they reached ahead of Badsu on Khatoli Road leading\ntowards Falut, they met Constable Rajesh Kumar and another Constable Ramavtar\nwho informed PW-1 and other persons accompanying him that one Indica car took a\nturn for going towards Falut road and that they heard some screaming noise from\nthat vehicle. PW-1, accompanied by the other personnel referred to above, proceeded\ntowards Falut road and after a distance saw an Indica car. The police jeep in which PW-1 and others were proceeding stopped\nahead of the Indica car and caught hold of the two young men and also noticed a girl,\nwith injuries all over, on whom acid was also sprinkled. The girl had also sustained\ninjuries on the head as well as on her right cheek. On noticing the above, according to\nPW-1, when he questioned her, she responded by stating that her name was Jyoti and\nshe is the daughter of one Baljeet Singh, R/o Lane No.16, House No.56, Jagatpuri,\nP.S. Preet Vihar, New Delhi and that her mother’s name was Varsha whose cell\nnumber was 9871020368. Inspector D.N. According to the information gathered from Jyoti, accused Sandeep had\ncalled her on that evening and asked her to come to Laxmi Nagar market, Delhi,\naround 6 p.m. promising her that he will marry her at Haridwar. Believing his words,\nshe went to Laxmi Nagar market from where she was taken in a car and that while\nthey were moving in the vehicle, accused Sandeep asked Jyoti to get the foetus\naborted at Meerut, to which she disagreed. On this, he started beating her inside the\nvehicle right from the point of Modinagar. She stated to have further informed PW-1\nand others that she told accused Sandeep that she would reveal all facts to his family\nmembers as well as to the police and that when the vehicle in which they were\ntravelling turned towards an isolated place near Khatoli, they tried to throw her into\nthe sugarcane field at which point of time PW-1 and other police members reached\nthe spot.",
+      "embedding_text": "FACT_CHUNK | Case: Sandeep vs State Of U.P on 11 May, 2012 | Facts: 1. Shorn of unnecessary facts, the case of the prosecution as projected before the trial Court was that\non 17.11.2004 I D.N. Verma (PW-\n1) along with Sub-Inspector Chander Pal Singh (PW-2), Constable Rambir Singh,\nConstable Sukhram, Constable Ashok Kumar and Driver Yashvir Singh were on\npatrolling duty; that when they reached ahead of Badsu on Khatoli Road leading\ntowards Falut, they met Constable Rajesh Kumar and another Constable Ramavtar\nwho informed PW-1 and other persons accompanying him that one Indica car took a\nturn for going towards Falut road and that they heard some screaming noise from\nthat vehicle. PW-1, accompanied by the other personnel referred to above, proceeded\ntowards Falut road and after a distance saw an Indica car. The police jeep in which PW-1 and others were proceeding stopped\nahead of the Indica car and caught hold of the two young men and also noticed a girl,\nwith injuries all over, on whom acid was also sprinkled. The girl had also sustained\ninjuries on the  | Actions: threatened, stole | Weapon: sword | Outcome: death | IPC: 302, 34, 307, 326, 324, 328, 316, 313, 304, 8, 25, 157, 106, 24, 164, 26, 27",
+      "metadata": {
+        "case_name": "Sandeep vs State Of U.P on 11 May, 2012",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "326",
+          "324",
+          "328",
+          "316",
+          "313",
+          "304",
+          "8",
+          "25",
+          "157",
+          "106",
+          "24",
+          "164",
+          "26",
+          "27"
+        ],
+        "actions": [
+          "threatened",
+          "stole"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whatever injuries sustained by the\ndeceased were borne out by medical record, namely, post-mortem certificate and the evidence of the\ndoctor who issued the said certificate. In this context, when we peruse the evidence of the\nDoctor (PW-6), he has specifically expressed an opinion that he was not in a position to state\nwhether after receipt of injury on the body of the deceased she would have been in a position to\nspeak or not. The expression \"accused of any offence\" in Section 25 would\ncover the case of an accused who has since been put on trial, whether or not at the\ntime when he made the confessional statement, he was under\narrest or in custody as an accused in that case or not inadmissibility of a confessional\nstatement made to a police officer under Section 25 of the Evidence Act is based on\nthe ground of public policy. Section 27 of the Evidence Act is in the nature of a proviso or an exception, which\npartially lifts the ban imposed by Sections 25 and 26 of the Evidence Act and makes\nadmissible so much of such information, whether it amounts to a confession or not,\nas relates to the fact thereby discovered, when made by a person accused of an\noffence while in police custody. It is borne out by record that\nthere was an FSL report dated 5.1.2005 as per which the SSP of Muzaffarnagar was informed that\nthe foetus which was preserved in Formalin solution was not accepted since laboratory had no\nstandard protocol for extracting the amplifiable DNA of Formalin preserved tissues.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sandeep vs State Of U.P on 11 May, 2012 | Legal issues: Whatever injuries sustained by the\ndeceased were borne out by medical record, namely, post-mortem certificate and the evidence of the\ndoctor who issued the said certificate. In this context, when we peruse the evidence of the\nDoctor (PW-6), he has specifically expressed an opinion that he was not in a position to state\nwhether after receipt of injury on the body of the deceased she would have been in a position to\nspeak or not. The expression \"accused of any offence\" in Section 25 would\ncover the case of an accused who has since been put on trial, whether or not at the\ntime when he made the confessional statement, he was under\narrest or in custody as an accused in that case or not inadmissibility of a confessional\nstatement made to a police officer under Section 25 of the Evidence Act is based on\nthe ground of public policy. Section 27 of the Evidence Act is in the nature of a proviso or an exception, which\npartially lifts the ban imposed by Sections 25 and 26 of the Evidence Act and m | IPC: 302, 34, 307, 326, 324, 328, 316, 313, 304, 8, 25, 157, 106, 24, 164, 26, 27",
+      "metadata": {
+        "case_name": "Sandeep vs State Of U.P on 11 May, 2012",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "326",
+          "324",
+          "328",
+          "316",
+          "313",
+          "304",
+          "8",
+          "25",
+          "157",
+          "106",
+          "24",
+          "164",
+          "26",
+          "27"
+        ],
+        "actions": [
+          "threatened",
+          "stole"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Sandeep vs State Of U.P on 11 May, 2012\nEquivalent citations: AIRONLINE 2012 SC 750\nBench: B.S. Chauhan, Fakkir Mohamed Ibrahim Kalifulla\nReportable\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO.1651 OF 2009\nSANDEEP ….APPELLANT\nVERSUS\nSTATE OF U.P. ….RESPONDENT\nWITH\nCRIMINAL APPEAL NOS.1425-26 OF 2011\nSHASHI BHUSHAN …APPELLANT\nVERSUS\nSTATE OF U.P. …RESPONDENT\nJ U D G M E N T\nFakkir Mohamed Ibrahim Kalifulla, J. These appeals arise out of the common judgment of the Division Bench of the High Court of\nAllahabad in Criminal Appeal No.4148/2007 along with Criminal Reference No.19/2007 by which,\nthe High Court while accepting the Criminal Reference insofar as it related to appellant Sandeep in\nCriminal Appeal No.1651/2009, rejected the same insofar as it related to appellant Shashi Bhushan\nin Criminal Appeal Nos.1425-26/2011. They stated to have seen\nthrough the focus light of the police jeep two young men trying to pull out a girl in an\ninjured condition by opening the rear door of the car. It is stated that it was around\n21.30 hours. Verma (PW-1) stated to have gathered\ninformation from her that she developed friendship with the appellant Sandeep while\nshe was working in a mobile shop. She also stated to have revealed that she was\npregnant. PW-1 stated that\non noticing the condition of the girl, he arranged for shifting her to Muzaffarnagar\nGovernment Hospital in the police jeep along with Constable Rambir Singh and the\ndriver of the jeep. he stated to have called her over\nphone to meet him at Laxmi Nagar red light, that she responded to his call and came\nto Laxmi Nagar red light where accused Sandeep was waiting along with his friend\nShashi Bhushan who drove the vehicle Indica car bearing registration No. Accused Sandeep stated to have extended a promise to marry her at Haridwar. The\narticles, namely, blood stained floor mat, empty bottles of acid, one pair of ladies footwear were\nstated to have been seized after preparing a seizure memo. A copy of the seizure memo was stated to\nhave been handed over to the accused.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sandeep vs State Of U.P on 11 May, 2012 | Arguments: Sandeep vs State Of U.P on 11 May, 2012\nEquivalent citations: AIRONLINE 2012 SC 750\nBench: B.S. Chauhan, Fakkir Mohamed Ibrahim Kalifulla\nReportable\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO.1651 OF 2009\nSANDEEP ….APPELLANT\nVERSUS\nSTATE OF U.P. ….RESPONDENT\nWITH\nCRIMINAL APPEAL NOS.1425-26 OF 2011\nSHASHI BHUSHAN …APPELLANT\nVERSUS\nSTATE OF U.P. …RESPONDENT\nJ U D G M E N T\nFakkir Mohamed Ibrahim Kalifulla, J. These appeals arise out of the common judgment of the Division Bench of the High Court of\nAllahabad in Criminal Appeal No.4148/2007 along with Criminal Reference No.19/2007 by which,\nthe High Court while accepting the Criminal Reference insofar as it related to appellant Sandeep in\nCriminal Appeal No.1651/2009, rejected the same insofar as it related to appellant Shashi Bhushan\nin Criminal Appeal Nos.1425-26/2011. They stated to have seen\nthrough the focus light of the police jeep two young men trying to pull out a girl in an\ninjured condition  | Intent: intentional | IPC: 302, 34, 307, 326, 324, 328, 316, 313, 304, 8, 25, 157, 106, 24, 164, 26, 27 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Sandeep vs State Of U.P on 11 May, 2012",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "326",
+          "324",
+          "328",
+          "316",
+          "313",
+          "304",
+          "8",
+          "25",
+          "157",
+          "106",
+          "24",
+          "164",
+          "26",
+          "27"
+        ],
+        "actions": [
+          "threatened",
+          "stole"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The trial Court in its judgment\ndated 02.06.2007 ultimately found the accused persons guilty of offences under Section 302 read\nwith Section 34, IPC and 316 read with Section 34, IPC and after hearing both the accused persons\non the question of sentence, took the view that having regard to the magnitude and the diabolic\nmanner in which the offences were committed by them and also having regard to the various\nprinciples laid down in the decisions of this Court in relation to the award of death penalty\nconcluded that, the case on hand was one such case which fell under the category of ‘rarest of rare\ncase’ in which the accused deserved to be inflicted with the capital punishment of death under\nSection 302, IPC read with Section 34, IPC. We also heard\nevidence of the prosecution witnesses and medical evidence as well as expert witnesses submitted\nthat the so called dying declaration of the deceased Jyoti was not proved, that the confessional\nstatement of the accused cannot be relied upon, that there were very many missing links in the chain\nof circumstances and therefore the guilt of the accused cannot be held to be made out. foetus samples and, therefore, the ultimate D.N.A. He further contended that the case of the accused about the theft of the Indica car was not\nproperly appreciated by the Courts below. It was also contended that there were infirmities in regard\nto the recoveries which were not properly examined by the Courts below. and the injuries noted by the\ndoctor would show that the deceased was capable of making a statement and, therefore, the\nrecording of such statement by PW-1 in his complaint was perfectly in order. ix) The claim of theft of the car was not established before the trial Court in the\nmanner known to law. xii) The accused failed to show that the non-examination of any of the cited witnesses\ncaused prejudice to them before the trial Court and, therefore, the grievance nowSandeep vs State Of U.P on 11 May, 2012\nIndian Kanoon - http://indiankanoon.org/doc/31929238/ 7\nexpressed will not vitiate the case of the prosecution.",
+      "embedding_text": "REASONING_CHUNK | Case: Sandeep vs State Of U.P on 11 May, 2012 | Judicial reasoning: The trial Court in its judgment\ndated 02.06.2007 ultimately found the accused persons guilty of offences under Section 302 read\nwith Section 34, IPC and 316 read with Section 34, IPC and after hearing both the accused persons\non the question of sentence, took the view that having regard to the magnitude and the diabolic\nmanner in which the offences were committed by them and also having regard to the various\nprinciples laid down in the decisions of this Court in relation to the award of death penalty\nconcluded that, the case on hand was one such case which fell under the category of ‘rarest of rare\ncase’ in which the accused deserved to be inflicted with the capital punishment of death under\nSection 302, IPC read with Section 34, IPC. We also heard\nevidence of the prosecution witnesses and medical evidence as well as expert witnesses submitted\nthat the so called dying declaration of the deceased Jyoti was not proved, that the confessional\nstatement of the accused cannot be relied upon, | Intent: intentional | Outcome: death | IPC: 302, 34, 307, 326, 324, 328, 316, 313, 304, 8, 25, 157, 106, 24, 164, 26, 27",
+      "metadata": {
+        "case_name": "Sandeep vs State Of U.P on 11 May, 2012",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "326",
+          "324",
+          "328",
+          "316",
+          "313",
+          "304",
+          "8",
+          "25",
+          "157",
+          "106",
+          "24",
+          "164",
+          "26",
+          "27"
+        ],
+        "actions": [
+          "threatened",
+          "stole"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "In other words, while upholding the sentence of death\nawarded to Sandeep, the appellant in Criminal Appeal No.1651/2009, the Division Bench modified\nthe sentence into one of life imprisonment insofar as it related to Shashi Bhushan, the appellant in\nCriminal Appeal Nos.1425-26/2011.Sandeep vs State Of U.P on 11 May, 2012\nIndian Kanoon - http://indiankanoon.org/doc/31929238/ 1\n2. Ultimately, the trial Court convicted and sentenced both\nthe accused persons to death under Section 302 read with Section 34, IPC apart from imposing a\nfine of Rs.30,000/- each and also sentenced them to undergo 10 years rigorous imprisonment and\npay a fine of Rs.10,000/- each for offences under Section 316 read with Section 34, IPC and inSandeep vs State Of U.P on 11 May, 2012\nIndian Kanoon - http://indiankanoon.org/doc/31929238/ 3\ndefault of payment of fine sentenced them to undergo further rigorous imprisonment for one year. While hearing the Criminal Reference No.19/2007 as well as Criminal Appeal No.4148/2007\npreferred by the appellants, the High Court while confirming the death penalty imposed on\ngravity of the offence did not warrant infliction of extreme punishment of death and consequently\naltered the same into one of imprisonment for life. We do not find any serious lacunae pointed out in\nsupport of the said submissions. 36. 37. Farooq Abdul Gafur v. Goraksha Ambaji Adsul [AIR 2011 SC 2689]. The rarest of rare case” comes when a convict would be a menace and threat to\nthe harmonious and peaceful coexistence of the society. The crime may be heinous or\nbrutal but may not be in the category of “the rarest of the rare case”. There must be\nno reason to believe that the accused cannot be reformed or rehabilitated and that he\nis likely to continue criminal acts of violence as would constitute a continuing threat\nto the society. The accused may be a menace to the society and would continue to be\nso, threatening its peaceful and harmonious coexistence. The manner in which the\ncrime is committed must be such that it may result in intense and extreme\nindignation of the community and shock the collective conscience of the society.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sandeep vs State Of U.P on 11 May, 2012 | Final judgment: In other words, while upholding the sentence of death\nawarded to Sandeep, the appellant in Criminal Appeal No.1651/2009, the Division Bench modified\nthe sentence into one of life imprisonment insofar as it related to Shashi Bhushan, the appellant in\nCriminal Appeal Nos.1425-26/2011.Sandeep vs State Of U.P on 11 May, 2012\nIndian Kanoon - http://indiankanoon.org/doc/31929238/ 1\n2. Ultimately, the trial Court convicted and sentenced both\nthe accused persons to death under Section 302 read with Section 34, IPC apart from imposing a\nfine of Rs.30,000/- each and also sentenced them to undergo 10 years rigorous imprisonment and\npay a fine of Rs.10,000/- each for offences under Section 316 read with Section 34, IPC and inSandeep vs State Of U.P on 11 May, 2012\nIndian Kanoon - http://indiankanoon.org/doc/31929238/ 3\ndefault of payment of fine sentenced them to undergo further rigorous imprisonment for one year. While hearing the Criminal Reference No.19/2007 as well as Criminal Appeal No.4148/2 | Judgment: convicted | IPC: 302, 34, 307, 326, 324, 328, 316, 313, 304, 8, 25, 157, 106, 24, 164, 26, 27",
+      "metadata": {
+        "case_name": "Sandeep vs State Of U.P on 11 May, 2012",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "326",
+          "324",
+          "328",
+          "316",
+          "313",
+          "304",
+          "8",
+          "25",
+          "157",
+          "106",
+          "24",
+          "164",
+          "26",
+          "27"
+        ],
+        "actions": [
+          "threatened",
+          "stole"
+        ],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2012"
+      }
+    }
+  ]
+}

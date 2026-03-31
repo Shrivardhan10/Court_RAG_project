@@ -1,0 +1,112 @@
+{
+  "case_id": "Tuklal_Yadav_vs_The_State_Of_Jharkhand_Anr_on_9_July_2018",
+  "case_name": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Mishra\nBench: H.C. Mishra, B.B. ..... ... ... ... JUSTICE H.C. MISHRA\nHON'BLE MR. JUSTICE B.B. MANGALMURTI\n-------\nVishal Kumar Tiwary, Kirti Saboo\n-------\n13/ 09.07.2018. All Acquittal Appeals shall be listed before the Division Bench for Admission,\nand if admitted, shall be processed for hearing. Section 372 of the Cr.P.C., reads as follows:-\n\"372. No appeal to lie unless otherwise provided. As such, the Acquittal Appeals\narising out of such cases should also be listed before the Single Judge only, in view of the Proviso to\nSection 372 of the Cr.P.C. As such, there was no occasion to refer these matters to the Division\nBench. 15. The relevant portion of Section 378 of the Cr.P.C. (4) If such an order of acquittal is passed in any case instituted upon complaint and the High Court,\non an application made to it by the complainant in this behalf, grants special leave to appeal from\nthe order of acquittal, the complainant may present such an appeal to the High Court. (5) -------------------. ------------. 31.12.2009.",
+      "embedding_text": "FACT_CHUNK | Case: Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018 | Facts: Mishra\nBench: H.C. Mishra, B.B. ..... ... ... ... JUSTICE H.C. MISHRA\nHON'BLE MR. JUSTICE B.B. MANGALMURTI\n-------\nVishal Kumar Tiwary, Kirti Saboo\n-------\n13/ 09.07.2018. All Acquittal Appeals shall be listed before the Division Bench for Admission,\nand if admitted, shall be processed for hearing. Section 372 of the Cr.P.C., reads as follows:-\n\"372. No appeal to lie unless otherwise provided. As such, the Acquittal Appeals\narising out of such cases should also be listed before the Single Judge only, in view of the Proviso to\nSection 372 of the Cr.P.C. As such, there was no occasion to refer these matters to the Division\nBench. 15. The relevant portion of Section 378 of the Cr.P.C. (4) If such an order of acquittal is passed in any case instituted upon complaint and the High Court,\non an application made to it by the complainant in this behalf, grants special leave to appeal from\nthe order of acquittal, the complainant may present such an appeal to the High Court. (5) ----------------- | Actions: none | Weapon: unknown | Outcome: death | IPC: 372, 378, 2",
+      "metadata": {
+        "case_name": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "372",
+          "378",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "After the amendment in Cr.P.C., there was some confusion whether a victim had a statutory right to\nprefer an appeal to the High Court against the order of acquittal under the proviso to Section 372\nCr.P.C., without obtaining the leave of the High Court, as required under Section 378 (3) Cr.P.C. It also appears that one procedural confusion is also prevailing, in as much as, whether the\napplication for leave to appeal under Section 378 (3) Cr.P.C., has to be filed separately as an\nindependent application in the form of Cr.M.P., or the same may be filed by way of interlocutory\napplication (I.A.), in the same appeal. Yet another question shall arise, i.e., whether the application for leave to appeal under Section 378\n(3) Cr.P.C., has to be adjudicated by a Division Bench, even in the acquittal appeals filed against the\nappellate orders passed by the Courts of Session, or the same may be entertained by the Single\nJudge, in case it is held that such acquittal appeals shall lie before the Single Judge only. Another question which arose for consideration in two of these appeals (Criminal Appeal Nos.1281\nof 2016 and 2229 of 2017), is that whether such acquittal appeals arising out of complaint cases,\nwould also be governed by proviso to Section 372 of the Cr.P.C., read with Section 378 (3) of the\nCr.P.C., or they would be governed by Section 378 (4) of the Cr.P.C. We think that it would be appropriate that the larger Bench of this Court should clarify the law,\nparticularly on the following points:-\n(i) Whether the acquittal appeals arising out of the appellate judgments / orders\npassed by the Courts of Session should be heard by a Division Bench, or it should be\nheard by the Single Judge in view of Proviso to Section 372, r/w 378 (3) of the\nCr.P.C., as was being done earlier. (ii) Whether the orders passed by the Hon'ble Single Judge, referring the acquittal\nappeals filed against the appellate judgments / orders passed by the Courts of\nSession, in view of Rule 152 of the High Court of Jharkhand Rules, is in consonance\nwith Proviso to Section 372 of the Cr.P.C., or whether such appeals shall lie to the\nCourt to which the appeals ordinarily lie against the orders of conviction, i.e., Single\nJudge, in view of Proviso to Section 372 of the Cr.P.C.",
+      "embedding_text": "ISSUE_CHUNK | Case: Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018 | Legal issues: After the amendment in Cr.P.C., there was some confusion whether a victim had a statutory right to\nprefer an appeal to the High Court against the order of acquittal under the proviso to Section 372\nCr.P.C., without obtaining the leave of the High Court, as required under Section 378 (3) Cr.P.C. It also appears that one procedural confusion is also prevailing, in as much as, whether the\napplication for leave to appeal under Section 378 (3) Cr.P.C., has to be filed separately as an\nindependent application in the form of Cr.M.P., or the same may be filed by way of interlocutory\napplication (I.A.), in the same appeal. Yet another question shall arise, i.e., whether the application for leave to appeal under Section 378\n(3) Cr.P.C., has to be adjudicated by a Division Bench, even in the acquittal appeals filed against the\nappellate orders passed by the Courts of Session, or the same may be entertained by the Single\nJudge, in case it is held that such acquittal appeals shall lie before the Si | IPC: 372, 378, 2",
+      "metadata": {
+        "case_name": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "372",
+          "378",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018\nAuthor: H.C. Appellant\n-Versus-\nThe State of Jharkhand & Anr. Respondents\nWith\nCriminal Appeal (S.J.) No.2229 of 2017\nTapas Kumar Sahu .... Appellant\n-Versus-\nThe State of Jharkhand & Anr. Respondents\nWith\nCriminal Appeal (S.J.) No.825 of 2014\nAnita Devi ... Appellant\n-Versus-\nThe State of Jharkhand & Ors. Respondents/Opp.Parties\nWith\nCriminal Appeal (S.J.) No.2066 of 2017\nRadhika Devi ... Appellant\n-Versus-\nThe State of Jharkhand & Ors. Respondents\n-------\nCORAM: HON'BLE MR. The record of the Court below shallTuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018\nIndian Kanoon - http://indiankanoon.org/doc/58687129/ 1\nimmediately be sent for.\"\nWhile these matters were being taken up, an objection was taken by the learned counsel for the\nState, that in view of the Proviso to Section 372 of the Code of Criminal Procedure, these appeals\nshall lie before the Single Judge, and not before the Division Bench, as these acquittal appeals arise\nout of the appellate orders passed by the Courts of Session. State of Madhya Pradesh and Ors., reported in , as under :-\n\"14. Section 372 itself and together\nwith sub-section (3) of Section 378 Cr.P.C otherwise the substantive provision of\nSection 372 Cr.P.C will be rendered nugatory, as it clearly states that no appeal shall\nlie from any judgment or order of a criminal court except as provided by Cr.P.C. reads as follows:-\n\"378- Appeal in case of acquittal- (1) Save as otherwise provided in sub-section (2)\nand subject to the provisions of sub- sections (3) and (5)-\n(a) The District Magistrate may, in any case, direct the Public Prosecutor to present\nan appeal to the Court of Session from an order of acquittal passed by a Magistrate in\nrespect of a cognizable and non-bailable offence;\n(b) The State Government may, in any case, direct the Public Prosecutor to present\nan appeal to the High Court from an original or appellate order of an acquittal passed\nby any Court other than a high Court [not being an order under clause (a)] [or an\norder of acquittal passed by the Court of Session in revision].",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018 | Arguments: Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018\nAuthor: H.C. Appellant\n-Versus-\nThe State of Jharkhand & Anr. Respondents\nWith\nCriminal Appeal (S.J.) No.2229 of 2017\nTapas Kumar Sahu .... Appellant\n-Versus-\nThe State of Jharkhand & Anr. Respondents\nWith\nCriminal Appeal (S.J.) No.825 of 2014\nAnita Devi ... Appellant\n-Versus-\nThe State of Jharkhand & Ors. Respondents/Opp.Parties\nWith\nCriminal Appeal (S.J.) No.2066 of 2017\nRadhika Devi ... Appellant\n-Versus-\nThe State of Jharkhand & Ors. Respondents\n-------\nCORAM: HON'BLE MR. The record of the Court below shallTuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018\nIndian Kanoon - http://indiankanoon.org/doc/58687129/ 1\nimmediately be sent for.\"\nWhile these matters were being taken up, an objection was taken by the learned counsel for the\nState, that in view of the Proviso to Section 372 of the Code of Criminal Procedure, these appeals\nshall lie before the Single Judge, and not before the Division Bench, as these acquitt | Intent: unknown | IPC: 372, 378, 2 | Judgment context: acquitted",
+      "metadata": {
+        "case_name": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "372",
+          "378",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Mangalmurti\nIN THE HIGH COURT OF JHARKHAND AT RANCHI\nCriminal Appeal (S.J.) No.1281 of 2016\nTuklal Yadav .... All these acquittal appeals arising out of appellate judgments / orders of acquittal\npassed by the Courts of Session, which were originally to be heard by the Single Judge and were also\nbeing listed before the Single Judge, have been referred by the Hon'ble Single Judge to the Division\nBench, in view of Rule 152 of the High Court of Jharkhand Rules, 2001, which reads as follows:-\n\"152. - No appeal shall lie from any\njudgment or order of a Criminal Court except as provided by this Code or by any\nother law for the time being in force. Provided that the victim shall have a right to prefer an appeal against any order\npassed by the Court acquitting the accused or convicting for a lesser offence or\nimposing inadequate compensation, and such appeal shall lie to a Court to which an\nappeal ordinarily lies against the order of conviction of such Court.\"\nIt is pointed out that Proviso has been inserted in Section 372 of the Cr.P.C., by an Amendment Act,\nw.e.f. 31.12.2009, and the High Court of Jharkhand Rules were framed in the year 2001, and it is\nsettled principle of law that the provisions of Rules cannot override the provisions of the Act. It is further submitted that the appeals arising out of the appellate Judgments / orders of conviction\npassed by the Courts of Session, are listed before the Single Judge. That confusion has since been clarified by the Hon'ble Supreme Court laying down the law in Satya\nPal Singh Vs. Thus, from a reading of the above-said legal position laid down by this Court in\nthe cases referred to supra, it is abundantly clear that the proviso to Section 372\nCr.P.C must be read along with its main enactment i.e.",
+      "embedding_text": "REASONING_CHUNK | Case: Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018 | Judicial reasoning: Mangalmurti\nIN THE HIGH COURT OF JHARKHAND AT RANCHI\nCriminal Appeal (S.J.) No.1281 of 2016\nTuklal Yadav .... All these acquittal appeals arising out of appellate judgments / orders of acquittal\npassed by the Courts of Session, which were originally to be heard by the Single Judge and were also\nbeing listed before the Single Judge, have been referred by the Hon'ble Single Judge to the Division\nBench, in view of Rule 152 of the High Court of Jharkhand Rules, 2001, which reads as follows:-\n\"152. - No appeal shall lie from any\njudgment or order of a Criminal Court except as provided by this Code or by any\nother law for the time being in force. Provided that the victim shall have a right to prefer an appeal against any order\npassed by the Court acquitting the accused or convicting for a lesser offence or\nimposing inadequate compensation, and such appeal shall lie to a Court to which an\nappeal ordinarily lies against the order of conviction of such Court.\"\nIt is pointed out that Proviso has | Intent: unknown | Outcome: death | IPC: 372, 378, 2",
+      "metadata": {
+        "case_name": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "372",
+          "378",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The appellant was\nacquitted by the Metropolitan Magistrate, Patiala House Courts, New Delhi. Therefore, the\nimpugned order holding that this case is not governed by Section 378 (4) of the Code\nis quashed and set aside. In the circumstances, the appeal is allowed.\"\nWe have been informed that confusion is prevailing in the State of Jharkhand with regard to the\ncomplaint cases, inasmuch as in some districts, the acquittal appeals arising out of acquittal orders\npassed by the Magistrates arising out of even complaint cases, are being entertained by the Sessions\nJudges, relying upon the decision of the Division Bench of this Court in Baidya Lakhan Bhagat's case\n(supra), as has been done in two of these appeals before us, whereas in some districts, the victims\ncomplainants are being asked to prefer the application for special leave to appeal before the High\nCourt, and the acquittal appeals filed by the complainants are not being entertained by the Courts of\nSession, in view of the law laid down by the Apex Court in Subhash Chand's case (supra).Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018\nIndian Kanoon - http://indiankanoon.org/doc/58687129/ 4\nTaking into consideration the contrary view taken by the Division Bench of this Court, and also for\nclearing the confusions in this regard, we are of the considered view that it would be appropriate\nthat the matter be referred to a larger Bench for laying down the law in this regard, so that there\nmay be no confusion, and an uniform practice is henceforth followed in the entire State. The nomenclature Cr. Appeals should only be for the appeals arising out of the\nJudgments / Orders of conviction. (viii) Any other question(s), which may arise, for consideration before the larger Bench. Registry is directed to place the matter before the Hon'ble Acting Chief Justice in the administrative\nside, for constituting larger Bench at the earliest. (H.C. Mishra, J.) (B.B.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018 | Final judgment: The appellant was\nacquitted by the Metropolitan Magistrate, Patiala House Courts, New Delhi. Therefore, the\nimpugned order holding that this case is not governed by Section 378 (4) of the Code\nis quashed and set aside. In the circumstances, the appeal is allowed.\"\nWe have been informed that confusion is prevailing in the State of Jharkhand with regard to the\ncomplaint cases, inasmuch as in some districts, the acquittal appeals arising out of acquittal orders\npassed by the Magistrates arising out of even complaint cases, are being entertained by the Sessions\nJudges, relying upon the decision of the Division Bench of this Court in Baidya Lakhan Bhagat's case\n(supra), as has been done in two of these appeals before us, whereas in some districts, the victims\ncomplainants are being asked to prefer the application for special leave to appeal before the High\nCourt, and the acquittal appeals filed by the complainants are not being entertained by the Courts of\nSession, in view of the law laid d | Judgment: acquitted | IPC: 372, 378, 2",
+      "metadata": {
+        "case_name": "Tuklal Yadav vs The State Of Jharkhand & Anr on 9 July, 2018",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "372",
+          "378",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    }
+  ]
+}

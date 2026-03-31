@@ -2,4 +2,5 @@ faiss-cpu
 numpy
 sentence-transformers
 torch
-transformers
+google-generativeai
+python-dotenv

@@ -1,0 +1,132 @@
+{
+  "case_id": "S_Anbazhagan_vs_The_Sub_Inspector_Of_Police_on_19_November_2018",
+  "case_name": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,\n2018\nAuthor: N. Anand Venkatesh\nBench: N. JUSTICE N. ANAND VENKATESH\nCrl.OP No.5427 of 2017\nand\nCrl.M.P.Nos.4046 & 4047 of 2017\nS.Anbazhagan ..Petitioner\n..Vs.. 1.The Sub Inspector of Police,\n(Law and Order)\nOthiyan Salai Police Station,\nPuducherry. 2.V.Ramani. ..Respondents\nPRAYER: Criminal Original Petition filed under Section 482 of the Code\nof Criminal Procedure, to call for the records relating to the Complaint in\nC.C.No.9 of 2017, on the file of the learned Chief Judicial Magistrate,\nPuducherry, and quash the same. even on the entire reading of the Final Report, no offence has been made out under Section 420 of\nIPC. The learned Senior counsel further submitted that there was no dispute with regard to the fact\nthat the Solar Power Plant was in fact installed at the house of the de-facto Complainant, and\naccording to the de-facto Complainant, the product is only worth Rs.23,500/-. The essence of the case of the prosecution is that the petitioner received a sum of Rs.1,50,000/-\nfrom the de-facto Complainant in order to install a Solar Power Plant of 1 KWP and ultimately\ninstalled a Solar Power Plant with a capacity of 100 WT and in spite of several promises failed to\ninstall the balance 900 WT. Jagnar Singh and Anr. reported in [2017(3) MWN (Cr.) 335 (SC)]. It will be relevant to extract para\n9 to 11 of the judgment is hereunder:\n\"9.The ingredients of Section 420 of the Indian Penal Code are :\n\"(i) Deception of any persons;\n(ii) Fraudulently or dishonestly inducing any person to deliver any property; or\n(iii) To consent that any person shall retain any property and finally intentionally\ninducing that person to do or omit to do anything which he would not do or omit.\"\n10. Similar is the legal position in respect of an offence of criminal breach of trust having regard to its\ndefinition contained in Section 405 of the Indian Penal Code. {See Ajay Mitra v. Kalyani v. Janak C. Mehta & Ors. (3) Such a power should be exercised very sparingly.",
+      "embedding_text": "FACT_CHUNK | Case: S.Anbazhagan vs The Sub Inspector Of Police on 19 November, | Facts: S.Anbazhagan vs The Sub Inspector Of Police on 19 November,\n2018\nAuthor: N. Anand Venkatesh\nBench: N. JUSTICE N. ANAND VENKATESH\nCrl.OP No.5427 of 2017\nand\nCrl.M.P.Nos.4046 & 4047 of 2017\nS.Anbazhagan ..Petitioner\n..Vs.. 1.The Sub Inspector of Police,\n(Law and Order)\nOthiyan Salai Police Station,\nPuducherry. 2.V.Ramani. ..Respondents\nPRAYER: Criminal Original Petition filed under Section 482 of the Code\nof Criminal Procedure, to call for the records relating to the Complaint in\nC.C.No.9 of 2017, on the file of the learned Chief Judicial Magistrate,\nPuducherry, and quash the same. even on the entire reading of the Final Report, no offence has been made out under Section 420 of\nIPC. The learned Senior counsel further submitted that there was no dispute with regard to the fact\nthat the Solar Power Plant was in fact installed at the house of the de-facto Complainant, and\naccording to the de-facto Complainant, the product is only worth Rs.23,500/-. The essence of the case of the prosecution | Actions: cheated | Weapon: unknown | Outcome: fraud | IPC: 482, 420, 405, 415, 417",
+      "metadata": {
+        "case_name": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "482",
+          "420",
+          "405",
+          "415",
+          "417"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In law, only because he had issued cheques which were dishonoured, the same by itself would\nnot mean that he had cheated the complainant. Where a civil suit is\npending and the complaint petition has been filed one year after filing of the civil suit,\nwe may for the purpose of finding out as to whether the said allegations are prima\nfacie cannot notice the correspondences exchanged by the parties and other admitted\ndocuments. 12.It is to be seen whether the above facts culled out from the Final Report and the statement of\nwitnesses, constitute an offence under Section 420 of IPC. S.Anbazhagan vs The Sub Inspector Of Police on 19 November,\n2018\nAuthor: N. Anand Venkatesh\nBench: N. Anand Venkatesh\n1\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 19.11.2018\nCORAM\nTHE HONOURABLE MR.",
+      "embedding_text": "ISSUE_CHUNK | Case: S.Anbazhagan vs The Sub Inspector Of Police on 19 November, | Legal issues: In law, only because he had issued cheques which were dishonoured, the same by itself would\nnot mean that he had cheated the complainant. Where a civil suit is\npending and the complaint petition has been filed one year after filing of the civil suit,\nwe may for the purpose of finding out as to whether the said allegations are prima\nfacie cannot notice the correspondences exchanged by the parties and other admitted\ndocuments. 12.It is to be seen whether the above facts culled out from the Final Report and the statement of\nwitnesses, constitute an offence under Section 420 of IPC. S.Anbazhagan vs The Sub Inspector Of Police on 19 November,\n2018\nAuthor: N. Anand Venkatesh\nBench: N. Anand Venkatesh\n1\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 19.11.2018\nCORAM\nTHE HONOURABLE MR. | IPC: 482, 420, 405, 415, 417",
+      "metadata": {
+        "case_name": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "482",
+          "420",
+          "405",
+          "415",
+          "417"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "For Respondents : Mr.Bharath Chakravarthi for R1\nPublic Prosecutor (Puducherry)\nMr.D.Palanivel for R2\nMr.P.Vasanthan\nhttp://www.judis.nic.inS.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 1\n2\nORDER\nThis Criminal Original Petition has been filed challenging the proceedings in C.C.No.9 of 2017,\npending on the file of the learned Chief Judicial Magistrate, Puducherry. 2.The petitioner is the accused, against whom the first respondent Police have filed a Final Report\nbefore the Court below for an alleged offence under Section 420 of IPC. 3.The case of the prosecution, as projected in the Final Report is that during the month of December\n2011, the petitioner who was the Managing Director of an Export Company received a sum of\nRs.1,50,000/- from the second respondent as an advance to install 1 KWP OOF-GRID Solar\nPhotovoltalic Power Plant, at the house of the de-facto Complainant. In the course of transaction,\nduring September 2013, the petitioner installed 100 WT instead of 1 KWP without DC combiner\nBox, in the house of the second respondent and the said installation was not in accordance with the\ngeneral specifications. If the dispute between the parties was essentially a\ncivil http://www.judis.nic.in dispute resulting from a breach of contract on the part of the appellants\nby non-refunding the amount of advance the same would not constitute an offence of cheating. State of M.P. [(2009 (1) SCC 516] is attracted, which are as under:\n\"(1) The High Court ordinarily would not exercise its inherent jurisdiction to quash a\ncriminal proceeding and, in particular, a First Information Report unless the\nallegations contained therein, even if given face value and taken to be correct in their\nentirety, disclosed no cognizable offence.S.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 3\n(2) For the said purpose, the Court, save and except in very exceptional\ncircumstances, would not look to any document relied upon by the defence. State Rep. No act of inducement on the part of the appellant has been alleged by the respondent. No allegation\nhas been made that he had an intention to cheat the respondent from the very inception.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: S.Anbazhagan vs The Sub Inspector Of Police on 19 November, | Arguments: For Respondents : Mr.Bharath Chakravarthi for R1\nPublic Prosecutor (Puducherry)\nMr.D.Palanivel for R2\nMr.P.Vasanthan\nhttp://www.judis.nic.inS.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 1\n2\nORDER\nThis Criminal Original Petition has been filed challenging the proceedings in C.C.No.9 of 2017,\npending on the file of the learned Chief Judicial Magistrate, Puducherry. 2.The petitioner is the accused, against whom the first respondent Police have filed a Final Report\nbefore the Court below for an alleged offence under Section 420 of IPC. 3.The case of the prosecution, as projected in the Final Report is that during the month of December\n2011, the petitioner who was the Managing Director of an Export Company received a sum of\nRs.1,50,000/- from the second respondent as an advance to install 1 KWP OOF-GRID Solar\nPhotovoltalic Power Plant, at the house of the de-facto Complainant. In the course of transaction,\nduring Sept | Intent: intentional | IPC: 482, 420, 405, 415, 417 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "482",
+          "420",
+          "405",
+          "415",
+          "417"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Anand Venkatesh\n1\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 19.11.2018\nCORAM\nTHE HONOURABLE MR. Therefore, according to the Final Report, the cost of the product that was installed by the petitioner\nwas only Rs.23,500/- and the petitioner caused a wrongful loss of Rs.1,27,000/- to the 2nd\nan offence under Section 420 IPC. It is the further case\nof the de-facto Complainant that the petitioner had promised to install the balance 900 WT at a\nlater point of time and the same was not complied with by the petitioner, and therefore, even if the\nsaid allegation is taken to be true, no offence under Section 420 IPC has been made out. The learned\nSenior counsel therefore submitted that this is a case of a defective equipment, that is said to have\nbeen installed by the petitioner and it is not worth the amount received by the petitioner and at the\nbest this dispute can only be termed as a defective service, which will at the best attract the\nprovisions of the Consumer Protection Act, or the second respondent must have worked out his\nremedy only before a http://www.judis.nic.in Competent Civil Court, and setting the criminal law in\nmotion is not sustainable. 5.The learned Public Prosecutor (Puducherry) representing the first respondent would submit that\nthe materials available on record would clearly establish that the de-facto Complainant suffered a\nwrongful loss and there was a wrongful gain for the petitioner, and therefore, there are sufficient\ngrounds to frame a charge under Section 420 of IPC, and in fact the Court below has also framed a\ncharge under Section 420 IPC against the petitioner. Therefore, this Court should not entertain the\nquash petition at this stage.S.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 2\nhas been supplied with a Solar Power Equipment with a lower capacity. Therefore, the learned\ncounsel would submit that the second respondent has been put to wrongful loss, and therefore, an\noffence of cheating under Section 420 has been prima facie made out.",
+      "embedding_text": "REASONING_CHUNK | Case: S.Anbazhagan vs The Sub Inspector Of Police on 19 November, | Judicial reasoning: Anand Venkatesh\n1\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED : 19.11.2018\nCORAM\nTHE HONOURABLE MR. Therefore, according to the Final Report, the cost of the product that was installed by the petitioner\nwas only Rs.23,500/- and the petitioner caused a wrongful loss of Rs.1,27,000/- to the 2nd\nan offence under Section 420 IPC. It is the further case\nof the de-facto Complainant that the petitioner had promised to install the balance 900 WT at a\nlater point of time and the same was not complied with by the petitioner, and therefore, even if the\nsaid allegation is taken to be true, no offence under Section 420 IPC has been made out. The learned\nSenior counsel therefore submitted that this is a case of a defective equipment, that is said to have\nbeen installed by the petitioner and it is not worth the amount received by the petitioner and at the\nbest this dispute can only be termed as a defective service, which will at the best attract the\nprovisions of the Consumer Protection Act, or t | Intent: intentional | Outcome: fraud | IPC: 482, 420, 405, 415, 417",
+      "metadata": {
+        "case_name": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "482",
+          "420",
+          "405",
+          "415",
+          "417"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Whoever\ncheats and thereby dishonestly induces the person deceived to deliver any property to\nany person, or to make, alter or destroy the whole or any part of a valuable security,\nor anything which is signed or sealed, and which is capable of being converted into a\nvaluable security, shall be punished with imprisonment of either description fo a\nterm which may extend to seven years, and shall also be liable to fine.”\n18. 23. The petitioner installed a Solar Power with a capacity of 100 WT and promised the second\nattempted to get in touch with the petitioner, but the petitioner never responded. A careful reading of the judgments\nreferred supra, makes it abundantly clear that for establishing the offence of cheating, the\nComplainant is required to show that the accused had fraudulent or dishonest intention at the time\nof making promise or representation.S.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 10\nFrom his making failure to keep up promise subsequently, such a http://www.judis.nic.in culpable\nintention right at the beginning, i.e., at the time when the promise was made, cannot be presumed. 13.The material that is available on record does not satisfy the ingredients of Section 420 of IPC and\nat the best it can only said to be a failure to keep up a promise subsequently, by the petitioner. A\nsubsequent conduct can never raise a presumption of the culpable intention right at the beginning. The prosecution has not established that there was fraudulent or dishonest intention at the\ninception. 15.In the result, the proceedings in C.C.No.9 of 2017, on the file of the learned Judicial Magistrate,\nPuducherry is hereby quashed. Accordingly, the Criminal Original Petition is allowed. Consequently, the connected miscellaneous\npetitions are closed. 19.11.2018 Index : Yes Internet: Yes KP To\n1.The Chief Judicial Magistrage, Puducherry. 2.The Sub Inspector of Police, (Law and Order) Othiyan Salai Police Station, Puducherry. N. ANAND VENKATESH,. J. http://www.judis.nic.in KP 19.11.2018 http://www.judis.nic.inS.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 11",
+      "embedding_text": "JUDGMENT_CHUNK | Case: S.Anbazhagan vs The Sub Inspector Of Police on 19 November, | Final judgment: Whoever\ncheats and thereby dishonestly induces the person deceived to deliver any property to\nany person, or to make, alter or destroy the whole or any part of a valuable security,\nor anything which is signed or sealed, and which is capable of being converted into a\nvaluable security, shall be punished with imprisonment of either description fo a\nterm which may extend to seven years, and shall also be liable to fine.”\n18. 23. The petitioner installed a Solar Power with a capacity of 100 WT and promised the second\nattempted to get in touch with the petitioner, but the petitioner never responded. A careful reading of the judgments\nreferred supra, makes it abundantly clear that for establishing the offence of cheating, the\nComplainant is required to show that the accused had fraudulent or dishonest intention at the time\nof making promise or representation.S.Anbazhagan vs The Sub Inspector Of Police on 19 November, 2018\nIndian Kanoon - http://indiankanoon.org/doc/100439056/ 10\nFrom his mak | Judgment: sentenced | IPC: 482, 420, 405, 415, 417",
+      "metadata": {
+        "case_name": "S.Anbazhagan vs The Sub Inspector Of Police on 19 November,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "482",
+          "420",
+          "405",
+          "415",
+          "417"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "fraud",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    }
+  ]
+}

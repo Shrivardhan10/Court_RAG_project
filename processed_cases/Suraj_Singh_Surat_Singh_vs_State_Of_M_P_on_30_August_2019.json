@@ -1,0 +1,182 @@
+{
+  "case_id": "Suraj_Singh_Surat_Singh_vs_State_Of_M_P_on_30_August_2019",
+  "case_name": "Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "on 30 August, 2019\nAuthor: Vivek Agarwal\nBench: Sanjay Yadav, Vivek Agarwal\n1\nCriminal Appeal Nos. -------------------------------------------------------------------------------------\nShri F.A. -------------------------------------------------------------------------------------\nCRIMINAL APPEAL No. -------------------------------------------------------------------------------------\nShri V. K. on 30 August, 2019\nIndian Kanoon - http://indiankanoon.org/doc/107225803/ 1\nShri F.A. -------------------------------------------------------------------------------------\n2\nCriminal Appeal Nos. 408/2000, 449/2000, 465/2000 & 545/2000\nCRIMINAL APPEAL No. -------------------------------------------------------------------------------------\nShri F.A. -------------------------------------------------------------------------------------\nCRIMINAL APPEAL No. -------------------------------------------------------------------------------------\nShri F.A. 408/2000, 449/2000, 465/2000 & 545/2000 complainant party who are accused in Criminal\nAppeals No. 449/2000, 465/2000 & 545/2000. 04/1989 at police chowki Ajnar, Police Station Lahar alleging that\non 16.09.1989, there was Pata (death ritual) of father of the complainant Indrapal Singh, where\nBaburam, Mahendra Singh and others came to have their meals. Ramavtar and Babu had an old\nenmity. As a result of which, they started fighting and when complainant party intervened, then\nPancham Singh and Ramlakhan armed with ballam, Brahmanand, Munna, Baldhari and Jagat\narmed with lathi came there. Baburam and Mahendra Singh started beating the complainant\nIndrapal Singh and his brother causing injuries to complainant, his brother Ranveer, Bachan Singh,\nBrajpal and Ramjilal. Pancham Singh hit complainant Indrapal Singh with ballam causing injury\nbelow his left eye, as a result of which blood started oozing from left eye. Nos.465/2000, 449/2000 & 545/2000, Exhibit P-21 to P-23, dated\n17.09.1989, registered at Police Station Lahar. According to which, Head Constable, Chhote Singh\nTomar visited Police Station Lahar from Police Chowki Ajnar presenting a report registering Crime\nCriminal Appeal Nos. 408/2000, 449/2000, 465/2000 & 545/2000 No.03/1989 under Sections\n147, 148, 149, 307 IPC in which it is mentioned that complainant had lodged oral report that he is\nengaged in occupation of agriculture and had visited Raghunath Singh Kushwaha on an invitation\nfor Pata along with Mahendra, where he had met Ramavtar and Ramjilal with whom he had old\nenmity over money transaction. Ramavtar started abusing them and when he asked as to why he is\nbeing abused then Ramjilal started beating him with lathi and in the meanwhile persons belonging\nto that group, namely, Udhal Singh armed with farsa, Maharban Singh, Mangal Singh, Raghunath\nSingh, Rajveer Singh, Indrapal Singh, Soraj Singh, Mordhwaj armed with lathi, Awdesh armed with\nballam, whereas Bachan Singh and Brajpal armed with guns came and attacked them.",
+      "embedding_text": "FACT_CHUNK | Case: Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019 | Facts: on 30 August, 2019\nAuthor: Vivek Agarwal\nBench: Sanjay Yadav, Vivek Agarwal\n1\nCriminal Appeal Nos. -------------------------------------------------------------------------------------\nShri F.A. -------------------------------------------------------------------------------------\nCRIMINAL APPEAL No. -------------------------------------------------------------------------------------\nShri V. K. on 30 August, 2019\nIndian Kanoon - http://indiankanoon.org/doc/107225803/ 1\nShri F.A. -------------------------------------------------------------------------------------\n2\nCriminal Appeal Nos. 408/2000, 449/2000, 465/2000 & 545/2000\nCRIMINAL APPEAL No. -------------------------------------------------------------------------------------\nShri F.A. -------------------------------------------------------------------------------------\nCRIMINAL APPEAL No. -------------------------------------------------------------------------------------\nShri F.A. 408/2000, 449/2000, 465/2000 & 545/2000 complaina | Actions: shot, fired, attacked, threatened | Weapon: gun | Outcome: death | IPC: 323, 149, 307, 302, 147, 148, 324, 161, 304, 326, 300, 27",
+      "metadata": {
+        "case_name": "Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "149",
+          "307",
+          "302",
+          "147",
+          "148",
+          "324",
+          "161",
+          "304",
+          "326",
+          "300",
+          "27"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "408/2000, 449/2000, 465/2000 & 545/2000\n307, 307/149 IPC, then whether conviction under Section 302/149 IPC is justified ? [40] Learned Public Prosecutor, on the other hand, submits that in Para 27 and 28 of\nthe impugned judgment, trial Court has referred the issue of cross case, which party\nwas the aggressor and has recorded a finding that accused persons were aggressor\ncausing injury to complainant party. Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019\nAuthor: Vivek Agarwal\nBench: Sanjay Yadav, Vivek Agarwal\n1\nCriminal Appeal Nos. 408/2000, 449/2000, 465/2000 & 545/2000\nHIGH COURT OF MADHYA PRADESH\nBENCH AT GWALIOR\nDIVISION BENCH:\nHON'BLE SHRI JUSTICE SANJAY YADAV\n&\nHON'BLE SHRI JUSTICE VIVEK AGARWAL\nCRIMINAL APPEAL NO.",
+      "embedding_text": "ISSUE_CHUNK | Case: Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019 | Legal issues: 408/2000, 449/2000, 465/2000 & 545/2000\n307, 307/149 IPC, then whether conviction under Section 302/149 IPC is justified ? [40] Learned Public Prosecutor, on the other hand, submits that in Para 27 and 28 of\nthe impugned judgment, trial Court has referred the issue of cross case, which party\nwas the aggressor and has recorded a finding that accused persons were aggressor\ncausing injury to complainant party. Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019\nAuthor: Vivek Agarwal\nBench: Sanjay Yadav, Vivek Agarwal\n1\nCriminal Appeal Nos. 408/2000, 449/2000, 465/2000 & 545/2000\nHIGH COURT OF MADHYA PRADESH\nBENCH AT GWALIOR\nDIVISION BENCH:\nHON'BLE SHRI JUSTICE SANJAY YADAV\n&\nHON'BLE SHRI JUSTICE VIVEK AGARWAL\nCRIMINAL APPEAL NO. | IPC: 323, 149, 307, 302, 147, 148, 324, 161, 304, 326, 300, 27",
+      "metadata": {
+        "case_name": "Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "149",
+          "307",
+          "302",
+          "147",
+          "148",
+          "324",
+          "161",
+          "304",
+          "326",
+          "300",
+          "27"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Suraj Singh @ Surat Singh vs State Of M.P. 408/2000\nJagat Singh & Others\nVersus\nState of M.P. Shah, Public Prosecutor for respondent/State. 449/2000\nRamavtar\nVersus\nState of M.P. Saxena, Senior Advocate with Shri Jagdish Singh, AdvocateSuraj Singh @ Surat Singh vs State Of M.P. Shah, Public Prosecutor for respondent/State. 465/2000\nRaghunath Singh & Others\nVersus\nState of M.P. Shah, Public Prosecutor for respondent/State. 545/2000\nSuraj Singh @ Surat Singh\nVersus\nState of M.P. Shah, Public Prosecutor for respondent/State. -------------------------------------------------------------------------------------\nJUDGMENT\n(30/08/2019) Per Vivek Agarwal, J.Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019\nIndian Kanoon - http://indiankanoon.org/doc/107225803/ 2\nCriminal Appeal No.408/2000 has been filed by the appellants being aggrieved by judgment dated\n05.06.2000 passed in Sessions Case No.130/1991 originating out of FIR lodged by Criminal Appeal\nNos. [2] It is submitted that FIR (Exhibit D-1) was recorded at the instance of Indrapal Singh (PW-1) on\n16.09.1989 registering Crime No. [3] A counter case has also been registered by the accused/appellants which is subject matter in\nCriminal Appeals No. They have been exonerated from the charges under Sections 148,\n324/149 and 323/149.Suraj Singh @ Surat Singh vs State Of M.P. It is submitted that injured Bachan Singh and Parvati\nsustained simple injuries, whereas Ranveer was referred for MLC vide Exhibit P-4. In the MLC, it\nwas found that patient was in a state of shock. It is submitted that there was\nallegation of causing gunshot injury on Baburam, and therefore, offence under Sections 148, 149,\n324 was enhanced to 307 IPC. It is submitted that MLC of Parvati widow of Chuttan Singh Exhibit\nP-6 reveals abrasion on right temporal and one abrasion over scalp of right side and doctor opined\ninjury to be simple in nature caused by hard and blunt object. It is submitted that thus it is apparent\nthat fight had taken place at the spur of moment because of old enmity between two rival parties\nwho had visited house of Indrapal Singh on account of Pata (death ritual) of his father. It is submitted that Court\nstatements of Indrapal (PW-2) are contrary to his case diary statements Exhibit D-2 inasmuch as in\nhis case diary statement under Section 161 Cr.P.C, this witness has deposed that Pancham Singh had\nhit him with a ballam causing injury on his left cheek.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019 | Arguments: Suraj Singh @ Surat Singh vs State Of M.P. 408/2000\nJagat Singh & Others\nVersus\nState of M.P. Shah, Public Prosecutor for respondent/State. 449/2000\nRamavtar\nVersus\nState of M.P. Saxena, Senior Advocate with Shri Jagdish Singh, AdvocateSuraj Singh @ Surat Singh vs State Of M.P. Shah, Public Prosecutor for respondent/State. 465/2000\nRaghunath Singh & Others\nVersus\nState of M.P. Shah, Public Prosecutor for respondent/State. 545/2000\nSuraj Singh @ Surat Singh\nVersus\nState of M.P. Shah, Public Prosecutor for respondent/State. -------------------------------------------------------------------------------------\nJUDGMENT\n(30/08/2019) Per Vivek Agarwal, J.Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019\nIndian Kanoon - http://indiankanoon.org/doc/107225803/ 2\nCriminal Appeal No.408/2000 has been filed by the appellants being aggrieved by judgment dated\n05.06.2000 passed in Sessions Case No.130/1991 originating out of FIR lodged by Criminal Appeal\nNos. [2] It is submitted that FIR | Intent: intentional | IPC: 323, 149, 307, 302, 147, 148, 324, 161, 304, 326, 300, 27 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "149",
+          "307",
+          "302",
+          "147",
+          "148",
+          "324",
+          "161",
+          "304",
+          "326",
+          "300",
+          "27"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "408/2000, 449/2000, 465/2000 & 545/2000\nHIGH COURT OF MADHYA PRADESH\nBENCH AT GWALIOR\nDIVISION BENCH:\nHON'BLE SHRI JUSTICE SANJAY YADAV\n&\nHON'BLE SHRI JUSTICE VIVEK AGARWAL\nCRIMINAL APPEAL NO. There was no\npremeditation, and once trial Court has recorded finding of acquittal under Sections 148, 324/149\nand 323/149 of IPC and has also recorded a finding that any of the accused in Criminal Appeal No. 408/2000, 449/2000, 465/2000 & 545/2000 statements of Bachu Singh and Parvati Bai were not\nrecorded before the Court, it is a case where individual act is to be seen, and therefore, there could\nreferring to statement of Indrapal (PW-1) submits that accused Baburam Sharma, Mahendra,\nRamjilal, Ramavtar were invited for a family function at his place. Ramlakhan hit him with a\nballam below his eye, therefore, a report was lodged at police chowki. Therefore, since the incident had taken place at spur of moment,\nindividual act of accused is to be seen as there was no common intention or common object. It is also submitted that dying declaration of Ranveer has\nnot been exhibited in the case, and therefore, taking into consideration testimony of prosecution\nwitnesses and Dr. Mudgal (PW-11) who has opined that injuries caused to Bacchu Singh were\nsimple in nature, so also the injuries caused to Parvati, Bachan Singh and Raghunath Singh from the\nopposite camp were also referred by him to be simple injuries, therefore, in the light of individual\nact of the accused party, conviction deserves to be modified. PW-11 never opined that injuries were\ngrievous in nature, and therefore, it is a fit case to acquit other accused persons other than one who\nhas been directly charged of causing injury to Ranveer, Parvati and Bachu Singh i.e. It is\nsubmitted that it has come on record as has been discussed by learned trial Court that injuries\ncaused to the Criminal Appeal Nos. It is also\nsubmitted that learned Additional Sessions Judge has recorded a finding that all the members of the\naccused were attackers, and therefore, conviction cannot be interfered with.",
+      "embedding_text": "REASONING_CHUNK | Case: Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019 | Judicial reasoning: 408/2000, 449/2000, 465/2000 & 545/2000\nHIGH COURT OF MADHYA PRADESH\nBENCH AT GWALIOR\nDIVISION BENCH:\nHON'BLE SHRI JUSTICE SANJAY YADAV\n&\nHON'BLE SHRI JUSTICE VIVEK AGARWAL\nCRIMINAL APPEAL NO. There was no\npremeditation, and once trial Court has recorded finding of acquittal under Sections 148, 324/149\nand 323/149 of IPC and has also recorded a finding that any of the accused in Criminal Appeal No. 408/2000, 449/2000, 465/2000 & 545/2000 statements of Bachu Singh and Parvati Bai were not\nrecorded before the Court, it is a case where individual act is to be seen, and therefore, there could\nreferring to statement of Indrapal (PW-1) submits that accused Baburam Sharma, Mahendra,\nRamjilal, Ramavtar were invited for a family function at his place. Ramlakhan hit him with a\nballam below his eye, therefore, a report was lodged at police chowki. Therefore, since the incident had taken place at spur of moment,\nindividual act of accused is to be seen as there was no common intention or common obj | Intent: intentional | Outcome: death | IPC: 323, 149, 307, 302, 147, 148, 324, 161, 304, 326, 300, 27",
+      "metadata": {
+        "case_name": "Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "149",
+          "307",
+          "302",
+          "147",
+          "148",
+          "324",
+          "161",
+          "304",
+          "326",
+          "300",
+          "27"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "[5] In Criminal Appeal No.408/2000; appellants, who lost one of the members of their\ngroup Pancham Singh, have been charged under Sections 148, 307/149, 324/149 and 323/149 IPC\nand have been convicted under Section 307/149 of IPC with five years R.I. In view of such testimony of prosecution\nwitnesses, it is submitted that all the accused could not have been convicted under Section 307 IPC\nwith the aid of Section 149 IPC. Jagat Singh and Baldhari can at the best be convicted under\nSections 323 of IPC and Baburam under Section 307 of IPC simpliciter. No.408/2000 submits that in Para 23, a categorical\nfinding has been recorded that accused persons in the night of 16.09.1989 had not committed any\nrioting in furtherance of common object and accordingly they have been acquitted from the charges\nunder Sections 148, 324/149, 323/149 of IPC, but without assigning any reason, as to how offence\nunder Section 149 IPC is made out when the court has recorded a categorical finding in regard to\nlack of common object, convicted them under Section 307/149 IPC, and therefore, conviction of allSuraj Singh @ Surat Singh vs State Of M.P. No reason has been assigned that once appellants\nhave been acquitted of the charges under Sections 148, 324/149, 323/149, then how\ncan they be convicted under Section 307 IPC with the aid of Section 149 IPC. The incident took place at the spur of moment, and\ntherefore, since ingredients of unlawful assembly and Section 149 are not fulfilled, therefore, this\nCourt is of the opinion that Baburam was an aggressor and had attacked Ranveer, He needs to be\nconvicted under Section 307 IPC simpliciter and other accused persons i.e. No.408/2000 have been wrongly convicted under Section 307 IPC with the aid of Section 149\nIPC, and therefore, their conviction cannot be sustained. 1\nto 6) are acquitted from charges under Section 307/149 of IPC. 465/2000, 449/2000 and 545/2000, appellants have been convicted\nunder Section 302/149 IPC with life imprisonment and fine of Rs.2000/- each, with default\nstipulation. State of Tamil\nNadu, as reported in, 2006 (10) SCC 549, wherein broad guidelines have been discussed, wherein it\nhas been held that since appellant No.1 inflicted grievous injuries, he is liable to be convicted under\nSection 302 IPC and looking to the appellants No.2 and 3, they are convicted under Section 304 Part\nI and Section 324 and appellant No.3 under Section 326 IPC referring to judgment of Virsa Singh\nVs.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019 | Final judgment: [5] In Criminal Appeal No.408/2000; appellants, who lost one of the members of their\ngroup Pancham Singh, have been charged under Sections 148, 307/149, 324/149 and 323/149 IPC\nand have been convicted under Section 307/149 of IPC with five years R.I. In view of such testimony of prosecution\nwitnesses, it is submitted that all the accused could not have been convicted under Section 307 IPC\nwith the aid of Section 149 IPC. Jagat Singh and Baldhari can at the best be convicted under\nSections 323 of IPC and Baburam under Section 307 of IPC simpliciter. No.408/2000 submits that in Para 23, a categorical\nfinding has been recorded that accused persons in the night of 16.09.1989 had not committed any\nrioting in furtherance of common object and accordingly they have been acquitted from the charges\nunder Sections 148, 324/149, 323/149 of IPC, but without assigning any reason, as to how offence\nunder Section 149 IPC is made out when the court has recorded a categorical finding in regard to\nlack o | Judgment: convicted | IPC: 323, 149, 307, 302, 147, 148, 324, 161, 304, 326, 300, 27",
+      "metadata": {
+        "case_name": "Suraj Singh @ Surat Singh vs State Of M.P. on 30 August, 2019",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "149",
+          "307",
+          "302",
+          "147",
+          "148",
+          "324",
+          "161",
+          "304",
+          "326",
+          "300",
+          "27"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2019"
+      }
+    }
+  ]
+}

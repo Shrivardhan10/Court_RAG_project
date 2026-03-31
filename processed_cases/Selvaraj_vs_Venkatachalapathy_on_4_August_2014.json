@@ -1,0 +1,147 @@
+{
+  "case_id": "Selvaraj_vs_Venkatachalapathy_on_4_August_2014",
+  "case_name": "Selvaraj vs Venkatachalapathy on 4 August, 2014",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Venkatachalapathy ... The said case in S.T.C.No.124 of 2008 came to be instituted on\na complaint against the appellant for an alleged offence under Section 138 of the Negotiable\nInstruments Act, 1881. Both the cases are\ntaken up together and are being disposed of by this common judgment. The materials available\non record are also perused. respectively. According to the\nhas been incorporated in the Code that no appeal will lie against any order or judgment unless such\nan appeal is provided in any other provision of the Code and that the same is the reason why the\nSection itself has been couched in a negative language to the effect that no appeal will lie against any\norder or judgment unless such an appeal is provided under any other provision of the Code. would submit that since the proviso to Section 372 Cr.P.C does not make any distinction between a\nvictim-complainant and a victim in a case instituted on police report, the plain meaning of the term\n?victim? should be applied in interpreting the proviso to Section 372 Cr.P.C and that if such a\nmeaning is applied to the term ?victim? found in the proviso to Section 372, the complainant can be\nconstrued to be a person on whom such right of appeal has been conferred under the said proviso. 13.Section 378 of the Code of Criminal Procedure dealing with appeals in case of acquittal reads as\nfollows:\n?378.Appeal in case of acquittal. (4) If such an order of' acquittal is passed in any case instituted upon complaint and\nthe High Court, on an application made to it by the complainant in this behalf, grants\nspecial leave to appeal from the order of acquittal, the complainant may present such\nan appeal to the High Court. (6) If in any case, the application under sub-section (4) for the grant of special leave,\nto appeal from an order of acquittal is refused, no appeal from that order of acquittal\nshall lie under sub-section (1) or under sub-\nsection (2). The entire scheme of Code of Criminal\nProcedure dealing with criminal cases instituted on complaint and instituted on police report will\nmake it clear that the Parliament by enacting the relevant provisions wanted to deal with the said\ncases as two different categories applying different procedures right from the stage of taking\ncognizance till pronouncement of judgment and also regarding appeals.",
+      "embedding_text": "FACT_CHUNK | Case: Selvaraj vs Venkatachalapathy on 4 August, 2014 | Facts: Venkatachalapathy ... The said case in S.T.C.No.124 of 2008 came to be instituted on\na complaint against the appellant for an alleged offence under Section 138 of the Negotiable\nInstruments Act, 1881. Both the cases are\ntaken up together and are being disposed of by this common judgment. The materials available\non record are also perused. respectively. According to the\nhas been incorporated in the Code that no appeal will lie against any order or judgment unless such\nan appeal is provided in any other provision of the Code and that the same is the reason why the\nSection itself has been couched in a negative language to the effect that no appeal will lie against any\norder or judgment unless such an appeal is provided under any other provision of the Code. would submit that since the proviso to Section 372 Cr.P.C does not make any distinction between a\nvictim-complainant and a victim in a case instituted on police report, the plain meaning of the term\n?victim? should be applied in interp | Actions: none | Weapon: unknown | Outcome: injury | IPC: 374, 397, 401, 138, 372, 378, 373, 5, 2, 4",
+      "metadata": {
+        "case_name": "Selvaraj vs Venkatachalapathy on 4 August, 2014",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "374",
+          "397",
+          "401",
+          "138",
+          "372",
+          "378",
+          "373",
+          "5",
+          "2",
+          "4"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "(accused) without adverting to the facts of the case confined his arguments with regard to the\nchallenge made to the judgment of the lower appellate Court on a legal issue namely, jurisdiction of\nthe lower appellate Court to entertain the appeal. 15.So far as the cases instituted on complaint are concerned, irrespective of the fact whether the\ncomplainant is a private individual or a public servant, the Code prescribes a condition that an\nappeal against acquittal in such cases can be preferred with the Special Leave of the High Court. Selvaraj vs Venkatachalapathy on 4 August, 2014\nAuthor: P.R.Shivakumar\nBench: P.R.Shivakumar\nBEFORE THE MADURAI BENCH OF MADRAS HIGH COURT\nDATED: 04.08.2014\nCORAM\nTHE HONOURABLE MR.JUSTICE P.R.SHIVAKUMAR\nCriminal Appeal(MD) No.20 of 2014\nand\nCriminal Revision Case (MD)No.237 of 2014\nSelvaraj ...",
+      "embedding_text": "ISSUE_CHUNK | Case: Selvaraj vs Venkatachalapathy on 4 August, 2014 | Legal issues: (accused) without adverting to the facts of the case confined his arguments with regard to the\nchallenge made to the judgment of the lower appellate Court on a legal issue namely, jurisdiction of\nthe lower appellate Court to entertain the appeal. 15.So far as the cases instituted on complaint are concerned, irrespective of the fact whether the\ncomplainant is a private individual or a public servant, the Code prescribes a condition that an\nappeal against acquittal in such cases can be preferred with the Special Leave of the High Court. Selvaraj vs Venkatachalapathy on 4 August, 2014\nAuthor: P.R.Shivakumar\nBench: P.R.Shivakumar\nBEFORE THE MADURAI BENCH OF MADRAS HIGH COURT\nDATED: 04.08.2014\nCORAM\nTHE HONOURABLE MR.JUSTICE P.R.SHIVAKUMAR\nCriminal Appeal(MD) No.20 of 2014\nand\nCriminal Revision Case (MD)No.237 of 2014\nSelvaraj ... | IPC: 374, 397, 401, 138, 372, 378, 373, 5, 2, 4",
+      "metadata": {
+        "case_name": "Selvaraj vs Venkatachalapathy on 4 August, 2014",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "374",
+          "397",
+          "401",
+          "138",
+          "372",
+          "378",
+          "373",
+          "5",
+          "2",
+          "4"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Appellant in Crl.A(MD)No.20/2014\nand Respondent in\nCrl.R.C(MD)No.237 of 2014\nVs. Petition filed under Section 397 read with 401 Cr.P.C., calling for the\nrecords in judgment dated 26.12.2013 in Criminal Appeal No.13 of 2011 on the\nfile of the learned Additional District and Sessions Judge (EC) Court,\nPudukkottai modifying the judgment in S.T.C.No.124 of 2008 on the file of the\nJudicial Magistrate, Pudukkottai and modify the same with regard to sentence\nimposed upon the respondent/accused by way of allowing the revision petition. For Appellant : Mr.M.Karunanithi\n(in Crl.A(MD)No.20/2014 &\nIndian Kanoon - http://indiankanoon.org/doc/27881961/ 1\nFor Respondent : Mr.P.Ganapathisubramanian\n(in Crl.A(MD)No.20/2014 &\nJUDGMENT\nCriminal Appeal No.20 of 2014 has been preferred against the judgment of the learned Additional\nDistrict and Sessions Judge, Special Court for EC and NDPS Act Case, dated 26.12.2013 pronounced\nin Crl.A.No.13 of 2011 reversing the judgment of acquittal passed by the learned Judicial Magistrate,\nPudukottai in S.T.C.No.124 of 2008. As against the\nabove said judgment of the appellate Court, the appellant/accused has preferred Criminal Appeal\n(MD)No.20 of 2014. 2.The respondent in the said Criminal Appeal, namely, the complainant has chosen to file Criminal\nRevision Case (MD)No.237 of 2014 under Sections 397 read with 401 Cr.PC complaining that the\nsentence imposed is inadequate and praying for enhancement of punishment. Appeal (MD)No.20 of 2014 who is the respondent in Criminal Revision Case (MD)No.234 of 2014\nAppeal/Petitioner in the Criminal Revision Case (complainant) are heard. 4.In this judgment, the appellant and the respondent in Crl.A(MD)No.20 of 2014 shall be referred to\nas ?appellant? and ?respondent? 6.According to the submissions made by the learned counsel for the appellant, an appeal against an\norder of acquittal passed in a case instituted on complaint shall be governed by Section 378 (4) and\n(5) of Code of Criminal Procedure, 1973 and the right of appeal conferred on the victim underSelvaraj vs Venkatachalapathy on 4 August, 2014\nIndian Kanoon - http://indiankanoon.org/doc/27881961/ 2\nSection 372 proviso shall not be available to a victim who is also the complainant when the criminal\nproviso to Section 372 Cr.P.C should be understood in the light of the object sought to be achieved\nby the amending Act introducing the amendment and that if such an approach is made, this Court\ncannot come to any other conclusion than the one in support of his contention.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Selvaraj vs Venkatachalapathy on 4 August, 2014 | Arguments: Appellant in Crl.A(MD)No.20/2014\nand Respondent in\nCrl.R.C(MD)No.237 of 2014\nVs. Petition filed under Section 397 read with 401 Cr.P.C., calling for the\nrecords in judgment dated 26.12.2013 in Criminal Appeal No.13 of 2011 on the\nfile of the learned Additional District and Sessions Judge (EC) Court,\nPudukkottai modifying the judgment in S.T.C.No.124 of 2008 on the file of the\nJudicial Magistrate, Pudukkottai and modify the same with regard to sentence\nimposed upon the respondent/accused by way of allowing the revision petition. For Appellant : Mr.M.Karunanithi\n(in Crl.A(MD)No.20/2014 &\nIndian Kanoon - http://indiankanoon.org/doc/27881961/ 1\nFor Respondent : Mr.P.Ganapathisubramanian\n(in Crl.A(MD)No.20/2014 &\nJUDGMENT\nCriminal Appeal No.20 of 2014 has been preferred against the judgment of the learned Additional\nDistrict and Sessions Judge, Special Court for EC and NDPS Act Case, dated 26.12.2013 pronounced\nin Crl.A.No.13 of 2011 reversing the judgment of acquittal passed by the learned | Intent: unknown | IPC: 374, 397, 401, 138, 372, 378, 373, 5, 2, 4 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Selvaraj vs Venkatachalapathy on 4 August, 2014",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "374",
+          "397",
+          "401",
+          "138",
+          "372",
+          "378",
+          "373",
+          "5",
+          "2",
+          "4"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Selvaraj vs Venkatachalapathy on 4 August, 2014\nAuthor: P.R.Shivakumar\nBench: P.R.Shivakumar\nBEFORE THE MADURAI BENCH OF MADRAS HIGH COURT\nDATED: 04.08.2014\nCORAM\nTHE HONOURABLE MR.JUSTICE P.R.SHIVAKUMAR\nCriminal Appeal(MD) No.20 of 2014\nand\nCriminal Revision Case (MD)No.237 of 2014\nSelvaraj ... As against the\nacquittal, the complainant preferred an appeal before the lower Appellate Court under Section 372\nproviso Cr.P.C. 10.This Court paid its anxious considerations to the rival submissions made on both sides. 11.Section 372 of Code of Criminal Procedure, 1973, reads as follows:\n?372.No appeal to lie unless otherwise provided:- No appeal shall lie from any\njudgment or order of a Criminal Court except as provided for by this Code or by any\nother law for the time being in force:\nProvided that the victim shall have a right to prefer an appeal against any order\npassed by the Court acquitting the accused or convicting for a lesser offence or\nimposing inadequate compensation, and such appeal shall lie to the Court to which\nan appeal ordinarily lies against the order of conviction of such Court?.Selvaraj vs Venkatachalapathy on 4 August, 2014\nIndian Kanoon - http://indiankanoon.org/doc/27881961/ 3\n12.It is pertinent to note that the proviso was inserted by Act 5 of 2009 and it came into effect from\n31.12.2009. (2) If such an order of' acquittal is passed in any case in which the offence has been\ninvestigated by the Delhi Special Police Establishment constituted under the Delhi\nSpecial Police Establishment Act, 1946 (25 of 1946) or by any other agency\nempowered to make investigation into an offence under any Central Act other than\nthis Code, [the Central Government may, subject to the provisions of sub-section (3),\nalso direct the Public Prosecutor to present an appeal-\n(a) to the Court of Session, from an order of acquittal passed by a Magistrate in\nrespect of a cognizable and non-bailable offence;\n(b) to the High Court from an original or appellate order of an acquittal passed by any\nCourt other than a High Court [not being an order under clause (a)] or an order of\nacquittal passed by the Court of Session in revision].",
+      "embedding_text": "REASONING_CHUNK | Case: Selvaraj vs Venkatachalapathy on 4 August, 2014 | Judicial reasoning: Selvaraj vs Venkatachalapathy on 4 August, 2014\nAuthor: P.R.Shivakumar\nBench: P.R.Shivakumar\nBEFORE THE MADURAI BENCH OF MADRAS HIGH COURT\nDATED: 04.08.2014\nCORAM\nTHE HONOURABLE MR.JUSTICE P.R.SHIVAKUMAR\nCriminal Appeal(MD) No.20 of 2014\nand\nCriminal Revision Case (MD)No.237 of 2014\nSelvaraj ... As against the\nacquittal, the complainant preferred an appeal before the lower Appellate Court under Section 372\nproviso Cr.P.C. 10.This Court paid its anxious considerations to the rival submissions made on both sides. 11.Section 372 of Code of Criminal Procedure, 1973, reads as follows:\n?372.No appeal to lie unless otherwise provided:- No appeal shall lie from any\njudgment or order of a Criminal Court except as provided for by this Code or by any\nother law for the time being in force:\nProvided that the victim shall have a right to prefer an appeal against any order\npassed by the Court acquitting the accused or convicting for a lesser offence or\nimposing inadequate compensation, and such appea | Intent: unknown | Outcome: injury | IPC: 374, 397, 401, 138, 372, 378, 373, 5, 2, 4",
+      "metadata": {
+        "case_name": "Selvaraj vs Venkatachalapathy on 4 August, 2014",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "374",
+          "397",
+          "401",
+          "138",
+          "372",
+          "378",
+          "373",
+          "5",
+          "2",
+          "4"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Respondent in Crl.A(MD)No.20/2014\nand Petitioner in\nCrl.R.C(MD)No.237 of 2014\nAppeal filed under Section 374 Cr.P.C., to set aside the judgment and\nconviction passed by the learned Additional District and Sessions Judge,\nSpecial Court for EC and NDPS Act cases, Pudukkottai, dated 26.12.2013 in\nCrl.A.No.13 of 2011 by which reversing the judgment of acquittal dated\n09.08.2010 passed by the learned Judicial Magistrate, Pudukkottai in\nS.T.C.No.124 of 2008 and acquit the appellant. The trial Court acquitted the appellant herein/accused. The learned lower Appellate Judge allowed the appeal, set aside the order of\nacquittal passed by the trial Court, convicted the appellant herein/accused for the offence under\nSection 138 of the Negotiable Instruments Act, 1881 and sentenced him to undergo simple\nimprisonment for six months and to pay a fine of Rs.10,000/- with a further direction to undergo\nsimple imprisonment for three months in case of default in payment of the fine. The offence alleged is one punishable under\nSection 138 of the Negotiable Instruments Act, 1881. The appeal is\nbound to succeed and the revision is bound to fail. 20.Accordingly, the Criminal Appeal is allowed, the judgment of the learned lower Appellate Judge,\ndated 26.12.2013 is set aside, the Criminal Revision Case filed by the respondent/complainant is\ndismissed and the order of acquittal pronounced by the learned Judicial Magistrate, Pudukkottai,\ndated 09.08.2010 shall stand restored. \u001aSelvaraj vs Venkatachalapathy on 4 August, 2014\nIndian Kanoon - http://indiankanoon.org/doc/27881961/ 7",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Selvaraj vs Venkatachalapathy on 4 August, 2014 | Final judgment: Respondent in Crl.A(MD)No.20/2014\nand Petitioner in\nCrl.R.C(MD)No.237 of 2014\nAppeal filed under Section 374 Cr.P.C., to set aside the judgment and\nconviction passed by the learned Additional District and Sessions Judge,\nSpecial Court for EC and NDPS Act cases, Pudukkottai, dated 26.12.2013 in\nCrl.A.No.13 of 2011 by which reversing the judgment of acquittal dated\n09.08.2010 passed by the learned Judicial Magistrate, Pudukkottai in\nS.T.C.No.124 of 2008 and acquit the appellant. The trial Court acquitted the appellant herein/accused. The learned lower Appellate Judge allowed the appeal, set aside the order of\nacquittal passed by the trial Court, convicted the appellant herein/accused for the offence under\nSection 138 of the Negotiable Instruments Act, 1881 and sentenced him to undergo simple\nimprisonment for six months and to pay a fine of Rs.10,000/- with a further direction to undergo\nsimple imprisonment for three months in case of default in payment of the fine. The offence alleged is | Judgment: convicted | IPC: 374, 397, 401, 138, 372, 378, 373, 5, 2, 4",
+      "metadata": {
+        "case_name": "Selvaraj vs Venkatachalapathy on 4 August, 2014",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "374",
+          "397",
+          "401",
+          "138",
+          "372",
+          "378",
+          "373",
+          "5",
+          "2",
+          "4"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    }
+  ]
+}

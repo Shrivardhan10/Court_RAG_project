@@ -1,0 +1,162 @@
+{
+  "case_id": "Bhadresh_Bipinbhai_Sheth_vs_State_Of_Gujarat_Anr_on_1_September_2015",
+  "case_name": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Sikri\nBench: Rohinton Fali Nariman, A.K. 1134-1135 OF 2015\n[arising out of Special Leave Petition (Crl.) Nos. SIKRI, J. Leave granted. On 29.05.2001, the prosecutrix wrote a complaint to the\nAssistant Police Commissioner, Crime Branch, Gaekwad Haveli, Ahmedabad City alleging the\nharassment that was meted out to her by the appellant over a period of time. After two days i.e. On the basis of statement made on 31.05.2001, F.I.R. was registered and charge under\nSection 506(2) of Indian Penal Code (IPC) was framed in the year 2001. Trial has proceeded which has not made much headway for number of years. In the year 2010, the prosecutrix made an application for addition of charge under Section 376 IPC\nas well. The Metropolitan Magistrate held that the said application should be taken into\nconsideration only after chief examination of the complainant. The matter was remanded back to the\nMetropolitan Magistrate with a direction that the application shall be heard afresh in its entirety\nafter giving opportunity to both parties. On 31.03.2012, the Metropolitan Magistrate directed the\nPolice to carry out special investigation under Section 173(8) of the Code of Criminal Procedure\n(hereinafter referred to as the 'Code'). Being not satisfied, the parties challenged the above order. Ultimately, the Police\nfiled a revised chargesheet stating that a prima facie case under Section 376 IPC was also made out. As pointed out\nabove, it is the justification and legality of this order which is in question before us in the instant\nappeals. Insofar as charge under Section 376 of IPC is\nconcerned, it is added only in the year 2014. If one has to go by these facts, coupled with the fact\nthat allegation of rape is of the year 1997-98, one may not find fault with the order of the Additional\nSession Judge granting anticipatory bail. These facts are\nrecapitulated with elaboration which is absolutely necessary for our purposes, as under:\nAs mentioned above, before registration of the FIR on 31.05.2001 on the basis of the\nstatement, the prosecutrix had filed a complaint on 29.05.2001 before the Assistant\nCommissioner of Police, Crime Branch.",
+      "embedding_text": "FACT_CHUNK | Case: Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1 | Facts: Sikri\nBench: Rohinton Fali Nariman, A.K. 1134-1135 OF 2015\n[arising out of Special Leave Petition (Crl.) Nos. SIKRI, J. Leave granted. On 29.05.2001, the prosecutrix wrote a complaint to the\nAssistant Police Commissioner, Crime Branch, Gaekwad Haveli, Ahmedabad City alleging the\nharassment that was meted out to her by the appellant over a period of time. After two days i.e. On the basis of statement made on 31.05.2001, F.I.R. was registered and charge under\nSection 506(2) of Indian Penal Code (IPC) was framed in the year 2001. Trial has proceeded which has not made much headway for number of years. In the year 2010, the prosecutrix made an application for addition of charge under Section 376 IPC\nas well. The Metropolitan Magistrate held that the said application should be taken into\nconsideration only after chief examination of the complainant. The matter was remanded back to the\nMetropolitan Magistrate with a direction that the application shall be heard afresh in its entirety\nafter g | Actions: raped, threatened | Weapon: unknown | Outcome: cruelty | IPC: 506, 376, 173, 438, 46, 498, 439, 437, 34, 149",
+      "metadata": {
+        "case_name": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "506",
+          "376",
+          "173",
+          "438",
+          "46",
+          "498",
+          "439",
+          "437",
+          "34",
+          "149"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The matter travelled up to this Court wherein certain directions were issued. It would\nultimately be for the trial court to arrive at the findings as to whether such a charge stands proved or\nnot, on the basis of evidence that would be produced by the prosecution in support of this charge. With these preliminary remarks, we advert to the core issue, namely, whether in the circumstances\nof this case, appellant was entitled to anticipatory bail or not and whether the High Court was\njustified in cancelling the anticipatory bail. Whether this, in\nfact, happened would be tested during trial. However, it is not for us to go into the same at this stage\ninasmuch as that is again a matter of trial and it would be for the Sessions Court to\nultimately adjudge as to whether such delay was suitably explained and/or has any\nbearing on the merits of the charge. The Code explains that an anticipatory bail is a pre-\narrest legal process which directs that if the person in whose favour it is issued is thereafter arrested\non the accusation in respect of which the direction is issued, he shall be released on bail. The Court has also to consider whether there is any\npossibility of the accused tampering with evidence or influencing witnesses etc. In the very first\npara, the Court highlighted the conflicting interests which are to be balanced while\ntaking a decision as to whether bail is to be granted or not, as is clear from the\nfollowing observations:\n“1. This appeal involves issues of great public importance pertaining\nto the importance of individual's personal liberty and the society's interest. The law of bails dovetails two conflicting interests, namely,\non the one hand, the requirements of shielding society from the hazards of those\ncommitting crimes and potentiality of repeating the same crime while on bail and on\nthe other hand, absolute adherence to the fundamental principle of criminal\njurisprudence regarding presumption of innocence of an accused until he is found\nguilty and the sanctity of individual liberty.” The principles which can be culled out,\nfor the purposes of the instant case, can be stated as under:\n(i) The complaint filed against the accused needs to be thoroughly examined,\nincluding the aspect whether the complainant has filed a false or frivolous complaint\non earlier occasion.",
+      "embedding_text": "ISSUE_CHUNK | Case: Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1 | Legal issues: The matter travelled up to this Court wherein certain directions were issued. It would\nultimately be for the trial court to arrive at the findings as to whether such a charge stands proved or\nnot, on the basis of evidence that would be produced by the prosecution in support of this charge. With these preliminary remarks, we advert to the core issue, namely, whether in the circumstances\nof this case, appellant was entitled to anticipatory bail or not and whether the High Court was\njustified in cancelling the anticipatory bail. Whether this, in\nfact, happened would be tested during trial. However, it is not for us to go into the same at this stage\ninasmuch as that is again a matter of trial and it would be for the Sessions Court to\nultimately adjudge as to whether such delay was suitably explained and/or has any\nbearing on the merits of the charge. The Code explains that an anticipatory bail is a pre-\narrest legal process which directs that if the person in whose favour it is issued is t | IPC: 506, 376, 173, 438, 46, 498, 439, 437, 34, 149",
+      "metadata": {
+        "case_name": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "506",
+          "376",
+          "173",
+          "438",
+          "46",
+          "498",
+          "439",
+          "437",
+          "34",
+          "149"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1\nSeptember, 2015\nAuthor: A.K. 6028-6029 of 2014]\n|BHADRESH BIPINBHAI SHETH |.....APPELLANT(S) |\n|VERSUS | |\n|STATE OF GUJARAT & ANOTHER |.....RESPONDENT(S) |\nJ U D G M E N T\nA.K. The appellant herein, in these appeals, challenges the validity of the judgment dated 18.07.2014\npassed by High Court of Judicature at Gujarat cancelling the anticipatory bail which was granted to\nthe appellant by the Additional Sessions Judge, Court No.16 of Ahmedabad City Sessions Court. Before coming to the factual narrative of a long drawn event that has taken place in respect of\ncriminal trial pending against the appellant, we would like to state, in capsiculated manner, the\ncircumstances under which the matter has landed up in this Court. The appellant and respondent No.2 (hereinafter referred to as the 'prosecutrix') were neighbours at\nthe relevant time and known to each other. Allegations of rape,\nemotional blackmail and threats were levelled against the appellant therein. on\n31.05.2001, her statement was recorded by a Police officer of the concerned Police Station wherein\nshe again levelled the allegations of maltreatment, blackmail etc. However, in this statement of hers,Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1 September, 2015\nIndian Kanoon - http://indiankanoon.org/doc/180463386/ 1\nwhich was recorded by the Investigating Officer (I.O.), allegations of rape were conspiciously\nmissing. The appellant was admitted\nto bail in the said case. In view of addition of charge under Section 376 IPC, the Magistrate passed the order on 25.04.2013\nfor committal of proceedings to the Sessions Court and taking the appellant into custody. However,\nexecution of this order for taking the appellant into custody was stayed till 07.05.2013. During this\nperiod, the appellant moved the City Sessions Court No.16 at Ahmedabad for grant of anticipatory\nbail which was ultimately granted on 18.05.2013. Against this order of grant of anticipatory bail, the\nprosecutrix filed criminal revision petition which has been allowed by the High Court vide impugned\norder dated 18.07.2014 cancelling the anticipatory bail granted to the appellant.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1 | Arguments: Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1\nSeptember, 2015\nAuthor: A.K. 6028-6029 of 2014]\n|BHADRESH BIPINBHAI SHETH |.....APPELLANT(S) |\n|VERSUS | |\n|STATE OF GUJARAT & ANOTHER |.....RESPONDENT(S) |\nJ U D G M E N T\nA.K. The appellant herein, in these appeals, challenges the validity of the judgment dated 18.07.2014\npassed by High Court of Judicature at Gujarat cancelling the anticipatory bail which was granted to\nthe appellant by the Additional Sessions Judge, Court No.16 of Ahmedabad City Sessions Court. Before coming to the factual narrative of a long drawn event that has taken place in respect of\ncriminal trial pending against the appellant, we would like to state, in capsiculated manner, the\ncircumstances under which the matter has landed up in this Court. The appellant and respondent No.2 (hereinafter referred to as the 'prosecutrix') were neighbours at\nthe relevant time and known to each other. Allegations of rape,\nemotional blackmail and threats were levelled again | Intent: intentional | IPC: 506, 376, 173, 438, 46, 498, 439, 437, 34, 149 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "506",
+          "376",
+          "173",
+          "438",
+          "46",
+          "498",
+          "439",
+          "437",
+          "34",
+          "149"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sikri\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NOS. The prosecutrix challenged the said\norder before the Court of City Session Judge at Ahmedabad. However, the impugned order passed by the High Court\nwhereby the anticipatory bail order of the Additional Session Judge is cancelled, does not take the\nmatter in such a simplistic manner and, therefore, a detailed discussion on the issue has become\nimperative. The High Court took note of the circumstances which led to the addition of charge under Section\n376 IPC at a belated stage. Thus, it would be necessary to take stock of those detailed events and\nthereafter decide as to whether the order of the High Court is sustainable or not. However, in the revision petition filed against that order, the\nSessions Court remanded the case for fresh consideration. Without stating the details, it suffices to mention that the matter was taken by\nall the parties to the Sessions Court and then to the High Court. Thereafter, the\nprosecutrix even came up to this Court by way of SLP (Crl.) No.636/2013 against the\norder dated 23.10.2012 passed by the High Court which had upheld the order of the\nMagistrate who had already ordered further investigation. It was also submitted that in her statement recorded before the IO on 31.05.2001,\nthere was no allegation of rape; even when the charge was framed under Section\n506(2) IPC the prosecutrix did not object to the framing of the said charge simplicitor\nor insist upon addition of charge under Section 376 of IPC as well; after a gap of more\nthan 9 years from the framing of charge, application was moved for this purpose; in\nthe fresh chargesheet filed by the IO, the IO clearly observed that no other\ncircumstantial evidence could be collected regarding the rape as alleged by the\ncomplainant except her statement. Submission in this behalf was that even if the complaint\nor cases lodged by the appellant against the husband of the prosecutrix are presumed\nto be false, they had nothing to do with the instant case and, therefore, such acts on\nthe part of the appellant could never be treated as tampering with the evidence.",
+      "embedding_text": "REASONING_CHUNK | Case: Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1 | Judicial reasoning: Sikri\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NOS. The prosecutrix challenged the said\norder before the Court of City Session Judge at Ahmedabad. However, the impugned order passed by the High Court\nwhereby the anticipatory bail order of the Additional Session Judge is cancelled, does not take the\nmatter in such a simplistic manner and, therefore, a detailed discussion on the issue has become\nimperative. The High Court took note of the circumstances which led to the addition of charge under Section\n376 IPC at a belated stage. Thus, it would be necessary to take stock of those detailed events and\nthereafter decide as to whether the order of the High Court is sustainable or not. However, in the revision petition filed against that order, the\nSessions Court remanded the case for fresh consideration. Without stating the details, it suffices to mention that the matter was taken by\nall the parties to the Sessions Court and then to the High Cou | Intent: intentional | Outcome: cruelty | IPC: 506, 376, 173, 438, 46, 498, 439, 437, 34, 149",
+      "metadata": {
+        "case_name": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "506",
+          "376",
+          "173",
+          "438",
+          "46",
+          "498",
+          "439",
+          "437",
+          "34",
+          "149"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2015"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "It was pointed out that\nthe move on the part of the appellant in filing criminal cases against the husband of\nthe prosecutrix, in which the prosecutrix husband was acquitted, is treated by the\nHigh Court as tampering with the evidence by disturbing the witnesses and on that\nbasis, it is observed by the High Court that the appellant was not entitled to the\nbenefit of anticipatory bail. Section 438 is a procedural provision which is concerned with the personal liberty of\nthe individual, who is entitled to the benefit of the presumption of innocence since he\nis not, on the date of his application for anticipatory bail, convicted of the offence in\nrespect of which he seeks bail. The discretion of grant or cancellation of bail can be exercised either at the instance of the accused,\nthe Public Prosecutor or the complainant, on finding new material or circumstances at any point of\ntime. It is\nunnecessary to travel beyond it and subject the wide power and discretion conferred by the\nlegislature to a rigorous code of self-imposed limitations. (x) We shall also reproduce para 112 of the judgment wherein the Court delineated the following\nfactors and parameters that need to be taken into consideration while dealing with anticipatory bail:\n(a) The nature and gravity of the accusation and the exact role of the accused must be\nproperly comprehended before arrest is made;\n(b) The antecedents of the applicant including the fact as to whether the accused has\npreviously undergone imprisonment on conviction by a court in respect of any\ncognizable offence;\n(c) The possibility of the applicant to flee from justice;\n(d) The possibility of the accused's likelihood to repeat similar or other offences;\n(e) Where the accusations have been made only with the object of injuring or\nhumiliating the applicant by arresting him or her;\n(f) Impact of grant of anticipatory bail particularly in cases of large magnitude\naffecting a very large number of people;\n(g) The courts must evaluate the entire available material against the accused very\ncarefully.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1 | Final judgment: It was pointed out that\nthe move on the part of the appellant in filing criminal cases against the husband of\nthe prosecutrix, in which the prosecutrix husband was acquitted, is treated by the\nHigh Court as tampering with the evidence by disturbing the witnesses and on that\nbasis, it is observed by the High Court that the appellant was not entitled to the\nbenefit of anticipatory bail. Section 438 is a procedural provision which is concerned with the personal liberty of\nthe individual, who is entitled to the benefit of the presumption of innocence since he\nis not, on the date of his application for anticipatory bail, convicted of the offence in\nrespect of which he seeks bail. The discretion of grant or cancellation of bail can be exercised either at the instance of the accused,\nthe Public Prosecutor or the complainant, on finding new material or circumstances at any point of\ntime. It is\nunnecessary to travel beyond it and subject the wide power and discretion conferred by the\nlegislatur | Judgment: convicted | IPC: 506, 376, 173, 438, 46, 498, 439, 437, 34, 149",
+      "metadata": {
+        "case_name": "Bhadresh Bipinbhai Sheth vs State Of Gujarat & Anr on 1",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "506",
+          "376",
+          "173",
+          "438",
+          "46",
+          "498",
+          "439",
+          "437",
+          "34",
+          "149"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2015"
+      }
+    }
+  ]
+}

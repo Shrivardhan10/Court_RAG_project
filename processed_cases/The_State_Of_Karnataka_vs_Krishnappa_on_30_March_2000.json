@@ -1,0 +1,142 @@
+{
+  "case_id": "The_State_Of_Karnataka_vs_Krishnappa_on_30_March_2000",
+  "case_name": "The State Of Karnataka vs Krishnappa on 30 March, 2000",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Lahoti, S.N. Variava\nJUDGMENT\nA.S. Anand, C.J. 1. A brief reference to the facts of the case is\nnecessary to answer the question,\n2. The victim of rape is a little girl, who was about 8 years of age at the relevant time. She appeared\nas PW-1 at the trial. She was living with her parents Honnaiah, PW-4 (father) and Parvathi, PW-5\n(mother) in village Kenjige. Both the accused and the prosecutrix belong to Scheduled Caste. On 5th\nof May, 1991, between 8.00 and 9.00 p.m. PW-4\nfather of the prosecutrix. \" Parvathi, PW-5 was at that time preparing chapattis in the kitchen. She\nanswered back to say that her husband was not in the house. She protested. Parvathi, PW-5 managed to somehow escape and ran\nout of the house and went towards the house of her mother in law, Ramaji. Both the prosecutrix and\nher brother, after observing the incident also made an attempt to run away. 3 of houses\nin collie line. She sustained bleeding injuries on her\nprivate parts also and was exhausted. PW-4, father of the prosecutrix, had in the mean while returned home. He learnt that the\nwas assaulted and threatened with dire consequences in case he disclosed about the occurrence to\nanyone. In the early house of the morning, PW-4 and 5 went to room No. 3 in the coolie line and\nrescued the prosecutrix. The matter was thereafter reported to the police. The prosecutrix was sent\nfor medical examination to the hospital where she was treated. 3. The learned Sessions Judge after a critical examination of evidence on the record found that the\nthe first place misbehaved with the mother of the prosecutrix in the manner deposed to by her and\nhad also committed rape on the prosecutrix, a little child of 7/8 years of age. On the question of sentence for the offence under\nSection 376 IPC (With which alone we are concerned in this appeal). All these facts to go\nclearly say and establish that this accused had gone to get his sex satisfied with\nwhomsoever available.",
+      "embedding_text": "FACT_CHUNK | Case: The State Of Karnataka vs Krishnappa on 30 March, 2000 | Facts: Lahoti, S.N. Variava\nJUDGMENT\nA.S. Anand, C.J. 1. A brief reference to the facts of the case is\nnecessary to answer the question,\n2. The victim of rape is a little girl, who was about 8 years of age at the relevant time. She appeared\nas PW-1 at the trial. She was living with her parents Honnaiah, PW-4 (father) and Parvathi, PW-5\n(mother) in village Kenjige. Both the accused and the prosecutrix belong to Scheduled Caste. On 5th\nof May, 1991, between 8.00 and 9.00 p.m. PW-4\nfather of the prosecutrix. \" Parvathi, PW-5 was at that time preparing chapattis in the kitchen. She\nanswered back to say that her husband was not in the house. She protested. Parvathi, PW-5 managed to somehow escape and ran\nout of the house and went towards the house of her mother in law, Ramaji. Both the prosecutrix and\nher brother, after observing the incident also made an attempt to run away. 3 of houses\nin collie line. She sustained bleeding injuries on her\nprivate parts also and was exhausted. PW-4, father of th | Actions: assaulted, attacked, threatened | Weapon: unknown | Outcome: death | IPC: 376, 254, 323, 341, 363",
+      "metadata": {
+        "case_name": "The State Of Karnataka vs Krishnappa on 30 March, 2000",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "376",
+          "254",
+          "323",
+          "341",
+          "363"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "It is common knowledge that when a man goes in a state of intoxication\nwhether voluntarily or involuntarily, his reason would be unseated. Whether there exist any \"special and adequate reason\" would depend upon a variety\nof factors and the peculiar facts and circumstances of each case. We maintain the sentence of fine together with the default clause\nas imposed by the Courts below also Necessary warrant shall be issued to take the respondent into\ncustody to undergo the remaining period of his sentence.The State Of Karnataka vs Krishnappa on 30 March, 2000\nIndian Kanoon - http://indiankanoon.org/doc/635584/ 7 The State Of Karnataka vs Krishnappa on 30 March, 2000\nEquivalent citations: 2000CRILJ1793, JT2000(3)SC516, 2000(2)SCALE610,\nCOURT 1470, 2000 AIR SCW 1040, 2000 (2) UJ (SC) 919, 2000 (2) SCALE 610,\n2000 ALL MR(CRI) 1051, 2000 CALCRILR 433, 2000 CRIAPPR(SC) 279, 2000\n(2) CHANDCRIC 90, 2000 (3) LRI 998, 2000 (4) SCC 75, 2000 SCC(CRI) 755,\n2000 (4) SRJ 506, 2000 UJ(SC) 2 919, (2000) 3 JT 516 (SC), (2000) 2 ALLCRILR\n456, (1999) 2 EFR 400, 1999 CRILR(SC&MP) 142, (2000) 1 CURCRIR 338,\n(2000) 27 ALLCRIR 937, (2000) 3 PAT LJR 199, (2000) 2 CRIMES 50, (2000) SC\nCR R 671, (2000) 2 EASTCRIC 625, (2000) 2 RECCRIR 459, (2000) 2 SUPREME\n611, (2000) 2 SCALE 610, (2000) 40 ALLCRIC 903, 2000 (2) ANDHLT(CRI) 1 SC\nBench: Chief Justice, R.C.",
+      "embedding_text": "ISSUE_CHUNK | Case: The State Of Karnataka vs Krishnappa on 30 March, 2000 | Legal issues: It is common knowledge that when a man goes in a state of intoxication\nwhether voluntarily or involuntarily, his reason would be unseated. Whether there exist any \"special and adequate reason\" would depend upon a variety\nof factors and the peculiar facts and circumstances of each case. We maintain the sentence of fine together with the default clause\nas imposed by the Courts below also Necessary warrant shall be issued to take the respondent into\ncustody to undergo the remaining period of his sentence.The State Of Karnataka vs Krishnappa on 30 March, 2000\nIndian Kanoon - http://indiankanoon.org/doc/635584/ 7 The State Of Karnataka vs Krishnappa on 30 March, 2000\nEquivalent citations: 2000CRILJ1793, JT2000(3)SC516, 2000(2)SCALE610,\nCOURT 1470, 2000 AIR SCW 1040, 2000 (2) UJ (SC) 919, 2000 (2) SCALE 610,\n2000 ALL MR(CRI) 1051, 2000 CALCRILR 433, 2000 CRIAPPR(SC) 279, 2000\n(2) CHANDCRIC 90, 2000 (3) LRI 998, 2000 (4) SCC 75, 2000 SCC(CRI) 755,\n2000 (4) SRJ 506, 2000 UJ(SC) 2 919, (2000) 3 | IPC: 376, 254, 323, 341, 363",
+      "metadata": {
+        "case_name": "The State Of Karnataka vs Krishnappa on 30 March, 2000",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "376",
+          "254",
+          "323",
+          "341",
+          "363"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "The State Of Karnataka vs Krishnappa on 30 March, 2000\nEquivalent citations: 2000CRILJ1793, JT2000(3)SC516, 2000(2)SCALE610,\nCOURT 1470, 2000 AIR SCW 1040, 2000 (2) UJ (SC) 919, 2000 (2) SCALE 610,\n2000 ALL MR(CRI) 1051, 2000 CALCRILR 433, 2000 CRIAPPR(SC) 279, 2000\n(2) CHANDCRIC 90, 2000 (3) LRI 998, 2000 (4) SCC 75, 2000 SCC(CRI) 755,\n2000 (4) SRJ 506, 2000 UJ(SC) 2 919, (2000) 3 JT 516 (SC), (2000) 2 ALLCRILR\n456, (1999) 2 EFR 400, 1999 CRILR(SC&MP) 142, (2000) 1 CURCRIR 338,\n(2000) 27 ALLCRIR 937, (2000) 3 PAT LJR 199, (2000) 2 CRIMES 50, (2000) SC\nCR R 671, (2000) 2 EASTCRIC 625, (2000) 2 RECCRIR 459, (2000) 2 SUPREME\n611, (2000) 2 SCALE 610, (2000) 40 ALLCRIC 903, 2000 (2) ANDHLT(CRI) 1 SC\nBench: Chief Justice, R.C. while the prosecutrix and her brother, Ramesh were\nplaying in the Chavani of their house, the respondent went there and called out for Honnaiah. On hearing this, the respondent went\ninside the house and asked Parvathi, PW-5 to sleep with him, since her husband was not present in\nthe house. The respondent made obscene gestures and pulled her breasts and on her\nfurther protest, the respondent beat her up. The respondent,\nhowever, caught hold of the prosecutrix by her right hand and dragged her to room no. The respondent closed the door and forcibly made prosecutrix to lie on the floor. TheThe State Of Karnataka vs Krishnappa on 30 March, 2000\nIndian Kanoon - http://indiankanoon.org/doc/635584/ 1\nprotest of the prosecutrix and her effort to free herself from the hold of the respondent led to the\nThe respondent had forcible sexual intercourse with her. The respondent then left the room and locked it from outside. After completion of investigation,\nchallan was filed and the respondent prosecuted for various offences. The appellant filed on appeal against his conviction and sentence. The Division Bench of the High\nCourt accepted all the findings recorded by the Trial Court with regard to the guilt of the respondent\nand the manner in which he had made obscene gestures to the mother of the prosecutrix.inviting\nher to satisfy his sexual lust, pulled her breasts and beat her and after she had escaped to haveThe State Of Karnataka vs Krishnappa on 30 March, 2000\nIndian Kanoon - http://indiankanoon.org/doc/635584/ 2\ncaught hold of the prosecutrix and taking her to room no.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: The State Of Karnataka vs Krishnappa on 30 March, 2000 | Arguments: The State Of Karnataka vs Krishnappa on 30 March, 2000\nEquivalent citations: 2000CRILJ1793, JT2000(3)SC516, 2000(2)SCALE610,\nCOURT 1470, 2000 AIR SCW 1040, 2000 (2) UJ (SC) 919, 2000 (2) SCALE 610,\n2000 ALL MR(CRI) 1051, 2000 CALCRILR 433, 2000 CRIAPPR(SC) 279, 2000\n(2) CHANDCRIC 90, 2000 (3) LRI 998, 2000 (4) SCC 75, 2000 SCC(CRI) 755,\n2000 (4) SRJ 506, 2000 UJ(SC) 2 919, (2000) 3 JT 516 (SC), (2000) 2 ALLCRILR\n456, (1999) 2 EFR 400, 1999 CRILR(SC&MP) 142, (2000) 1 CURCRIR 338,\n(2000) 27 ALLCRIR 937, (2000) 3 PAT LJR 199, (2000) 2 CRIMES 50, (2000) SC\nCR R 671, (2000) 2 EASTCRIC 625, (2000) 2 RECCRIR 459, (2000) 2 SUPREME\n611, (2000) 2 SCALE 610, (2000) 40 ALLCRIC 903, 2000 (2) ANDHLT(CRI) 1 SC\nBench: Chief Justice, R.C. while the prosecutrix and her brother, Ramesh were\nplaying in the Chavani of their house, the respondent went there and called out for Honnaiah. On hearing this, the respondent went\ninside the house and asked Parvathi, PW-5 to sleep with him, since her husband was not | Intent: unknown | IPC: 376, 254, 323, 341, 363 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "The State Of Karnataka vs Krishnappa on 30 March, 2000",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "376",
+          "254",
+          "323",
+          "341",
+          "363"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The Trial Court also\nobserved on the basis of evidence on the record that the respondent used to misbehave and create\ngal ate under the influence of liquor, quite often in the village. The Trial Court observed:\nIt may also be noted that as discussed above in the main part of the judgment first he\nhas tried to get his lascivious feeling satisfied by going to Parvthi after knowing that\nher husband was not in the house and when she escaped he had also attacked her\nhusband and then when he saw the daughter of said Parvathi, he dragged her and\nthen committed rape on that young girl aged about 7 or 8 years. The Trial Court, accordingly imposed a sentence of 10 years R.L. We find the convictions sound and well founded. 6.The Division Bench of the High Court, however, interfered with the sentence imposed by the Trial\nCourt. The Division Bench while commenting upon the imposition of sentence by the Trial Court\nobserved:\n...reading that part of the judgment in which the learned Trial Judge has examined\nthe question as to what would be the proper sentence we find that the learned Trial\nJudge, while considering the proper sentences to be imposed on the accused for the\noffence of rape was swayed and moved by the fact that rape was committed on the\nyoung girl aged about 7 or 8 years and the conduct attributed and proved against the\naccused, both before during and after the commission of the offences. For reducing the sentence, the High Court observed:\nOf Course the question of sentence is a matter within the sound discretion of the Trial\nJudge, But when the discretion is not properly exercised or is exercised without\ntaking into consideration the relevant factors or when the discretion is shown to have\nbeen exercised to express sense of disapprobation intensively, there will be a case for\ninterference when the facts brought on record require alteration in the sentence by\nreduction. In this case, we find facts warranting interference. The Division Bench took note of the fact that when\nquestioned by the learned Trial Judge on the question of sentence, he had stated that he was deaf by\none year, that all the members of his family were depending on him for their livelihood and that if he\nwas sent to jail, his family would be ruined and observed:The State Of Karnataka vs Krishnappa on 30 March, 2000\nIndian Kanoon - http://indiankanoon.org/doc/635584/ 3\nHere is a case of an unsophisticated and illiterate citizen belonging to a weaker\nsection of the society, having committed various offences while in a state of\nintoxication.",
+      "embedding_text": "REASONING_CHUNK | Case: The State Of Karnataka vs Krishnappa on 30 March, 2000 | Judicial reasoning: The Trial Court also\nobserved on the basis of evidence on the record that the respondent used to misbehave and create\ngal ate under the influence of liquor, quite often in the village. The Trial Court observed:\nIt may also be noted that as discussed above in the main part of the judgment first he\nhas tried to get his lascivious feeling satisfied by going to Parvthi after knowing that\nher husband was not in the house and when she escaped he had also attacked her\nhusband and then when he saw the daughter of said Parvathi, he dragged her and\nthen committed rape on that young girl aged about 7 or 8 years. The Trial Court, accordingly imposed a sentence of 10 years R.L. We find the convictions sound and well founded. 6.The Division Bench of the High Court, however, interfered with the sentence imposed by the Trial\nCourt. The Division Bench while commenting upon the imposition of sentence by the Trial Court\nobserved:\n...reading that part of the judgment in which the learned Trial Judge has e | Intent: unknown | Outcome: death | IPC: 376, 254, 323, 341, 363",
+      "metadata": {
+        "case_name": "The State Of Karnataka vs Krishnappa on 30 March, 2000",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "376",
+          "254",
+          "323",
+          "341",
+          "363"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2000"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Was the High Court justified, in the facts and circumstances of the case, to reduce the sentence of\n10 years rigorous imprisonment imposed by the Trial Court on the respondent for an offence under\nSection 376 IPC to 4 years rigorous imprisonment, while maintaining his conviction and sentence\nfor offences punishable under Sections 254, 323, 341, 363 448 and 506 of Indian Penal Code, is the\nonly question involved in this appeal by special leave? The Trial Court found that the\nprosecution had successfully established that respondent had committed various offences alleged\nagainst him and convicted him accordingly. In our considered view having regard to the age of the accused his social status,\npersona] circumstances and financial condition the fact alleged by the prosecution\nitself that the accused was a chronic addict to drinking there is a case for a substantial\nreduction in the extent of the sentence of imprisonment. punishment for rape,-\n(2) whoever,-\n(f) commits rape on a woman when she is under twelve years of age; Shall be punished with rigorous\nimprisonment for a terms which shall not be less than ten years but which may be for life and shall\nalso be liable to fine:\nProvided that the Court may, for adequate and special reasons to be mentioned in the\njudgment, impose a sentence of imprisonment of either description for a term of less\nthan ten years. The proviso to Section 376(2) IPC, of course, lays down that\nthe Court may, for adequate and special reasons to be mentioned in the judgment, impose sentence\nof imprisonment of either description for a term of less than 10 years. These\nfactors, in our opinion did not justify recourse to the proviso to Section 376(2) IPC to impose a\nsentence less than the prescribed minimum. These reasons are neither special nor adequate. The\nmeasure of punishment in a case of rape cannot depend upon the social status of the victim or the\naccused. Crimes of violence upon women need to be severely dealt\nwith. Socio-economic status religion race caste or creed of the accused or the victim are irrelevant\nconsiderations in sentencing policy.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: The State Of Karnataka vs Krishnappa on 30 March, 2000 | Final judgment: Was the High Court justified, in the facts and circumstances of the case, to reduce the sentence of\n10 years rigorous imprisonment imposed by the Trial Court on the respondent for an offence under\nSection 376 IPC to 4 years rigorous imprisonment, while maintaining his conviction and sentence\nfor offences punishable under Sections 254, 323, 341, 363 448 and 506 of Indian Penal Code, is the\nonly question involved in this appeal by special leave? The Trial Court found that the\nprosecution had successfully established that respondent had committed various offences alleged\nagainst him and convicted him accordingly. In our considered view having regard to the age of the accused his social status,\npersona] circumstances and financial condition the fact alleged by the prosecution\nitself that the accused was a chronic addict to drinking there is a case for a substantial\nreduction in the extent of the sentence of imprisonment. punishment for rape,-\n(2) whoever,-\n(f) commits rape on a woman when  | Judgment: convicted | IPC: 376, 254, 323, 341, 363",
+      "metadata": {
+        "case_name": "The State Of Karnataka vs Krishnappa on 30 March, 2000",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "376",
+          "254",
+          "323",
+          "341",
+          "363"
+        ],
+        "actions": [
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2000"
+      }
+    }
+  ]
+}

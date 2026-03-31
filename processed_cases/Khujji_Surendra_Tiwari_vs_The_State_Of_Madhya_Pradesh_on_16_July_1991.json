@@ -1,0 +1,167 @@
+{
+  "case_id": "Khujji_Surendra_Tiwari_vs_The_State_Of_Madhya_Pradesh_on_16_July_1991",
+  "case_name": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Ahmadi\nBench: A.M. Ahmadi, K. Ramaswamy\nKHUJJI @ SURENDRA TIWARI\nVs. (J)\nBENCH:\nAHMADI, A.M. (J)\nRAMASWAMI, V. (J) II\nRAMASWAMY, K. CITATION:\n1991 SCALE (2)80\nACT:\nEvidence Act,1872. It was alleged that when the deceased and\nhis companion, PW-4 were proceeding in a rickshaw, pulled by\nPW-3, the appellant and his five companions launched an\nattack on them. While PW-4 received an injury by a cycle\nchain, the deceased received stab injuries, to which the\nsuccumbed on the spot. PW-I,\nan on-looker and PWs 3 and 4 recorded during the course of\ninvestigation, and the evidence regarding discovery of\nincriminating articles and find of human blood on them, the\nmurder of the deceased. 2\nDuring the trial, two of the eye-witnesses, viz. PWs 3\nand 4 were declared hostile, since they expressed their\ninability to identify the accused persons as assailants of\nthe deceased. While ignoring the\nevidence of PWs 3 and 4, the High Court relied on the evi-\ndence of PW-1 holding that his subsequent attempt to create\na doubt regarding the identity of the appellant was of no\nconsequence, since there was intrinsic material in his\nevidence to establish the presence of the appellant amongst\nthe assailants of deceased. It also relied on the discovery\nevidence and find of human blood on the weapon and on the\npant he was wearing at the time of his arrest. The State didKhujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 July, 1991\nIndian Kanoon - http://indiankanoon.org/doc/1120373/ 2\nnot prefer an appeal against the five companions of the\nIn the appeal before this Court on behalf of the appel-\nlant it was contended that (1) the prosecution version\nregarding the incident, particularly, the involvement of the\nFirst Information Report, purported to have been lodged by\nPW4 was itself doubtful since he had disowned it; (2) the\npresence of PW1 at the scene of offence and at the time of\noccurrence was highly doubtful and the High Court committed\nan error in placing reliance on his testimony in examina-\ntion-in-chief, while brushing aside his statement in cross-\nexamination; (3) same set of Panch witnesses had been em-\nployed for all the discovery panchnamas as well as the\nattachment of clothes of the appellant and others and since\nPW5, Panch witness was closely associated with the family\nand was a stock witness for the prosecution, no reliance\ncould be placed on the evidence of such a highly interested\nand chosen witness and consequently find of human blood on\nthe weapon and the pant lost its probative value; (4) the\ntwo circumstances, viz.",
+      "embedding_text": "FACT_CHUNK | Case: Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 | Facts: Ahmadi\nBench: A.M. Ahmadi, K. Ramaswamy\nKHUJJI @ SURENDRA TIWARI\nVs. (J)\nBENCH:\nAHMADI, A.M. (J)\nRAMASWAMI, V. (J) II\nRAMASWAMY, K. CITATION:\n1991 SCALE (2)80\nACT:\nEvidence Act,1872. It was alleged that when the deceased and\nhis companion, PW-4 were proceeding in a rickshaw, pulled by\nPW-3, the appellant and his five companions launched an\nattack on them. While PW-4 received an injury by a cycle\nchain, the deceased received stab injuries, to which the\nsuccumbed on the spot. PW-I,\nan on-looker and PWs 3 and 4 recorded during the course of\ninvestigation, and the evidence regarding discovery of\nincriminating articles and find of human blood on them, the\nmurder of the deceased. 2\nDuring the trial, two of the eye-witnesses, viz. PWs 3\nand 4 were declared hostile, since they expressed their\ninability to identify the accused persons as assailants of\nthe deceased. While ignoring the\nevidence of PWs 3 and 4, the High Court relied on the evi-\ndence of PW-1 holding that his subsequent attempt to  | Actions: stabbed, assaulted, attacked, killed | Weapon: knife | Outcome: death | IPC: 174, 386, 302, 34, 149, 313, 27, 324, 3",
+      "metadata": {
+        "case_name": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "174",
+          "386",
+          "302",
+          "34",
+          "149",
+          "313",
+          "27",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1991"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Hostile witness- evi-\ndence of--Whether to be treated as wholly effaced from\nrecord or could be accepted to the extent dependable--Prose-\ncution witness expressing doubt in crossexamination regard-\ning indentity of some of the asssailants--Whether evidence\nin examination-in-chief acceptable--Presence of same set of\nPanch witnesses for all discoveries and attachments--Whether\npermissible-Evidence of interested party--Whether could be\noverlooked. Criminal Procedure Code, 1973 : Section 174---Object and\nscope of--Inquest report--Whether should contain names ofKhujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 July, 1991\nIndian Kanoon - http://indiankanoon.org/doc/1120373/ 1\nwitnesses. Section 386(1)(b)--Evidence of witnesses--Reappraisal by\nappellate court--Whether permissible. [16D]\n3.2 A perusal of Section 174 of the Criminal Procedure\nCode would clearly show that the object of the proceedings\nunder this Section is merely to ascertain whether a person\nhas died under suspicious circumstances or an unnatural\ndeath and if so what is the apparent cause of the death. Once these facts are accepted as proved, the only question which really survives for\nconsideration is whether the appellant was an assailant of the deceased. In this backdrop the\nquestion for considera- tion was whether the first and the second circumstances were sufficient to\nconvict the appellant. That brings us to the last contention whether the con- viction of the appellant for the substantive\noffence of murder can be sustained in the absence of a finding that the fatal injury No.",
+      "embedding_text": "ISSUE_CHUNK | Case: Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 | Legal issues: Hostile witness- evi-\ndence of--Whether to be treated as wholly effaced from\nrecord or could be accepted to the extent dependable--Prose-\ncution witness expressing doubt in crossexamination regard-\ning indentity of some of the asssailants--Whether evidence\nin examination-in-chief acceptable--Presence of same set of\nPanch witnesses for all discoveries and attachments--Whether\npermissible-Evidence of interested party--Whether could be\noverlooked. Criminal Procedure Code, 1973 : Section 174---Object and\nscope of--Inquest report--Whether should contain names ofKhujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 July, 1991\nIndian Kanoon - http://indiankanoon.org/doc/1120373/ 1\nwitnesses. Section 386(1)(b)--Evidence of witnesses--Reappraisal by\nappellate court--Whether permissible. [16D]\n3.2 A perusal of Section 174 of the Criminal Procedure\nCode would clearly show that the object of the proceedings\nunder this Section is merely to ascertain whether a person\nhas died under suspiciou | IPC: 174, 386, 302, 34, 149, 313, 27, 324, 3",
+      "metadata": {
+        "case_name": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "174",
+          "386",
+          "302",
+          "34",
+          "149",
+          "313",
+          "27",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1991"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16\nJuly, 1991\nCOURT 1853, 1991 (3) SCC 627, 1991 AIR SCW 2038, (1992) 1 CURCRIR 161,\nCHANDLR(CIV&CRI) 519, (1991) 3 CRIMES 82, (1991) IJR 415 (SC), (1992) SC\nAuthor: A.M. THE STATE OF MADHYA PRADESH\nDATE OF JUDGMENT16/07/1991\nBENCH:\nAHMADI, A.M. On the First Information Report\nlodged by PW-4, statements of three eye witnesses viz. Though PW 1 supported the prosecution in\nexamination-in-chief, he expressed some doubt regarding the\nidentity of the appellant and one other assailant in the\ncross-examination. that the appellant was not found for\ntwo days, and human blood was present on the weapon and his\npant constituted extremely thin and weak evidence to record\na finding of guilt, particularly, when the trial court had\ndiscarded all the eye-witnesses' evidence and doubted the\ncontents of the FIR, and when the Serologist did not deter-\nmine the blood group of the stains on the weapon and pant of\nthe\n3\nfatal injury' No. On behalf of the State it was contended that (1) evi-\ndence of PWs 3 and 4 could not be treated as effaced from\nthe record, merely because the prosecution chose to treat\nthem as hostile on the limited question of identity of\nassailants;(2) PW-I was neither a chance witness nor was he\nfaking his presence at the scene of occurrence at the mate-\nrial time; (3) it was not necessary in law to mention names\nof witnesses in the inquest report as the purpose of prepar-\ning the report was merely to make a note of the physical\ncondition of the body and the marks of injury thereon no-\nticed at that point of time; (4) nothing was alleged against\nPW-5. Panch witness, nor the appellant had given any expla-\nnation regarding existence of human blood on the weapon andKhujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 July, 1991\nIndian Kanoon - http://indiankanoon.org/doc/1120373/ 3\nhis pant in his statement recorded under section 313 of the\nCr. State of Haryana, [1976] 2 S.C.R.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 | Arguments: Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16\nJuly, 1991\nCOURT 1853, 1991 (3) SCC 627, 1991 AIR SCW 2038, (1992) 1 CURCRIR 161,\nCHANDLR(CIV&CRI) 519, (1991) 3 CRIMES 82, (1991) IJR 415 (SC), (1992) SC\nAuthor: A.M. THE STATE OF MADHYA PRADESH\nDATE OF JUDGMENT16/07/1991\nBENCH:\nAHMADI, A.M. On the First Information Report\nlodged by PW-4, statements of three eye witnesses viz. Though PW 1 supported the prosecution in\nexamination-in-chief, he expressed some doubt regarding the\nidentity of the appellant and one other assailant in the\ncross-examination. that the appellant was not found for\ntwo days, and human blood was present on the weapon and his\npant constituted extremely thin and weak evidence to record\na finding of guilt, particularly, when the trial court had\ndiscarded all the eye-witnesses' evidence and doubted the\ncontents of the FIR, and when the Serologist did not deter-\nmine the blood group of the stains on the weapon and pant of\nthe\n3\nfatal injury' No. On behalf of | Intent: intentional | IPC: 174, 386, 302, 34, 149, 313, 27, 324, 3 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "174",
+          "386",
+          "302",
+          "34",
+          "149",
+          "313",
+          "27",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1991"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Practice and Procedure Per incuriam--Omission to refer\ndecision of larger Bench in the Court's decision--Effect of. Dismissing the appeal, this Court,\nHELD: 1.1 The evidence of a prosecution witness cannot\nbe rejected in toto merely because the prosecution chose to\ntreat him as hostile and cross-examined him. This approach of\nthe trial court is legally unacceptable. The Trial Court has not accepted PW-I's evidence on\nthe ground that he was not a natural witness, and was only a\nchance witness. However, on a reading of the entire evidence\nof PW-I it is clear that his statement in cross-examination\non the question of identity of the appellant and one of his\ncompanions is a clear attempt to wriggle out of what he had\nstated earlier in his examination-in-chief. Hence PW\n5's evidence cannot be rejected on the specious plea of\nbeing an interested witness. In the circumstances, hi,\nevidence was rightly accepted by both the courts below. On the other\nhand, from the evidence of PW 1, it is clear that some of\nthe accused participated in the commission of the crime. 1982 of the Madhya Pradesh High Court in Criminal\nAppeal No. The Judgment of the Court was delivered by AHMADI, J. The trial court came to\nthe conclusion that not only was this witness a chance witness but his presence at the scene of\noccurrence was extremely doubtful as it was difficult to believe that he had come out at that hour to\npurchase vegetables. Thus the trial court refused to place reliance on the evidence of the three eye-\nwitnesses. The\nHigh Court noticed that the examination-in-chief of this witness was recorded on November 16,\n1976 whereas his cross-examination commenced on December 15, 1976 i.e. The High Court, therefore, took the view that the subsequent attempt of PW 1\nKomal Chand to create a doubt regarding the identity of the appellant was of no consequence since\nthere was intrinsic material in his evidence to establish the presence of the appellant amongst the\nassailants of deceased Gulab. Since the prosecution had declared both PW 3 Kishan Lal and PW 4 Ramesh as\nhostile to the prosecution the trial court was justified in refusing to rely on their evidence.",
+      "embedding_text": "REASONING_CHUNK | Case: Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 | Judicial reasoning: Practice and Procedure Per incuriam--Omission to refer\ndecision of larger Bench in the Court's decision--Effect of. Dismissing the appeal, this Court,\nHELD: 1.1 The evidence of a prosecution witness cannot\nbe rejected in toto merely because the prosecution chose to\ntreat him as hostile and cross-examined him. This approach of\nthe trial court is legally unacceptable. The Trial Court has not accepted PW-I's evidence on\nthe ground that he was not a natural witness, and was only a\nchance witness. However, on a reading of the entire evidence\nof PW-I it is clear that his statement in cross-examination\non the question of identity of the appellant and one of his\ncompanions is a clear attempt to wriggle out of what he had\nstated earlier in his examination-in-chief. Hence PW\n5's evidence cannot be rejected on the specious plea of\nbeing an interested witness. In the circumstances, hi,\nevidence was rightly accepted by both the courts below. On the other\nhand, from the evidence of PW 1, it is clear | Intent: intentional | Outcome: death | IPC: 174, 386, 302, 34, 149, 313, 27, 324, 3",
+      "metadata": {
+        "case_name": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "174",
+          "386",
+          "302",
+          "34",
+          "149",
+          "313",
+          "27",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1991"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Indian Penal Code, 1860: Sections 302, 34 and\n149--Offence of murder--Several persons charged--All accused\nexcept one acquitted-No appeal by State against\nacquittal--Whether appellate court can reappreciate evidence\nto determine persons committing the offence and record\nconviction notwithstanding acquittal of co-accused. HEADNOTE:\nThe appellant was convicted by the courts below under\nSection 302 IPC and sentenced to life imprisonment for the\nmurder of one G. The trial court refused to place reliance\non the evidence of the three eye-witnesses and acquitted\nall, except the appellant. It convicted the appellant under\nSection 302 IPC and sentenced him to life imprisonment on\nthe evidence that the appellant was absconding, that he had\ndiscovered the weapon which was found to be stained with\nhuman blood and the factum of find of human blood on the\npant worn by him at the time of his arrest- The appellant's\nappeal was dismissed by the High Court. I was caused by the appellant only, his\nconviction substantively under Section 302 IPC could not be\nsustained; (6) since appellant's companion were acquitted,\nand the State had not preferred any appeal against their\nacquittal, he could not be convicted with the aid of Section\n34 or 149 IPC, since the acquittal of the co-accused created\na legal bar against his conviction, which could not be got\nover by reappreciation of evidence; and (7) the eye-witness-\nes' evidence could not be relied upon as their names did not\nfigure in the inquest report prepared at the earliest time. P.C.; (5) even if the appellant could not be substan-\ntively convicted under Section 302 II'C, he could still be\nconvicted with the aid of Section 34 or 149 II'C, if the\nCourt came to the conclusion that more than one person\nlaunched the attack and notwithstanding the acquittal of\nothers by the trial court, this Court could reach its own\nconclusion as the higher court was not bound by the appreci-\nation of evidence by the trial court or even the High Court. This appeal by special leave is preferred by\nthe appellant Khujji @ Surender Tiwari who has been convicted by both the courts below under\nsection 302 IPC for the murder of one Gulab.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16 | Final judgment: Indian Penal Code, 1860: Sections 302, 34 and\n149--Offence of murder--Several persons charged--All accused\nexcept one acquitted-No appeal by State against\nacquittal--Whether appellate court can reappreciate evidence\nto determine persons committing the offence and record\nconviction notwithstanding acquittal of co-accused. HEADNOTE:\nThe appellant was convicted by the courts below under\nSection 302 IPC and sentenced to life imprisonment for the\nmurder of one G. The trial court refused to place reliance\non the evidence of the three eye-witnesses and acquitted\nall, except the appellant. It convicted the appellant under\nSection 302 IPC and sentenced him to life imprisonment on\nthe evidence that the appellant was absconding, that he had\ndiscovered the weapon which was found to be stained with\nhuman blood and the factum of find of human blood on the\npant worn by him at the time of his arrest- The appellant's\nappeal was dismissed by the High Court. I was caused by the appellant only, his\nconvic | Judgment: convicted | IPC: 174, 386, 302, 34, 149, 313, 27, 324, 3",
+      "metadata": {
+        "case_name": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh on 16",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "174",
+          "386",
+          "302",
+          "34",
+          "149",
+          "313",
+          "27",
+          "324",
+          "3"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1991"
+      }
+    }
+  ]
+}

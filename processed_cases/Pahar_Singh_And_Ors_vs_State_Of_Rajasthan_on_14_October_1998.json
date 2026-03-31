@@ -1,0 +1,202 @@
+{
+  "case_id": "Pahar_Singh_And_Ors_vs_State_Of_Rajasthan_on_14_October_1998",
+  "case_name": "Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Pahar Singh And Ors. Yadav\nBench: R.R. Yadav\nJUDGMENT\nA.S. Godara, J. 1. This appeal is directed against the judgment and order dated 23/24-7-1981 passed by learned\nSessions Judge, Jalore in Sessions Case No. 58/80. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-\nment and fine of Rs. 100 and in\ndefault of payment of fine toPahar Singh And Ors. Under Section 325/149 IPC Three years' rigorous imprison-\nment and a fine of Rs. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-Pahar Singh And Ors. 4) Chandan Singh Under Section 307 IPC Five years RI and fine of Rs. Under Section 325 IPC Three years' RI and fine of\nRs. Under Section 325/149 IPC Three years' rigorous imprison-\nment and a fine of Rs. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-\nment and fine of Rs. (5) Asu Singh Under Section 307/149 IPC Five years' R.I. and fine of\nRs. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. 6) Man Singh Under Section 325 IPC Three years' rigorous imprison-\nment and a fine of Rupees 300/-\nand in default of payment of\nfine to further undergo four\nmonths' R.I. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-\nment and fine of Rs.",
+      "embedding_text": "FACT_CHUNK | Case: Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998 | Facts: Pahar Singh And Ors. Yadav\nBench: R.R. Yadav\nJUDGMENT\nA.S. Godara, J. 1. This appeal is directed against the judgment and order dated 23/24-7-1981 passed by learned\nSessions Judge, Jalore in Sessions Case No. 58/80. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-\nment and fine of Rs. 100 and in\ndefault of payment of fine toPahar Singh And Ors. Under Section 325/149 IPC Three years' rigorous imprison-\nment and a fine of Rs. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 323/149 IPC Three months' simple imprison-\nment and fine of Rs. Under Section 147 IPC Three months' simple imprison-Pahar Singh And Ors. 4) Chandan Singh Under Section 307 IPC  | Actions: assaulted | Weapon: lathi | Outcome: death | IPC: 302, 149, 325, 323, 307, 147, 148, 313, 141, 251, 441, 425, 99, 300, 34, 304, 5, 421, 422",
+      "metadata": {
+        "case_name": "Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "149",
+          "325",
+          "323",
+          "307",
+          "147",
+          "148",
+          "313",
+          "141",
+          "251",
+          "441",
+          "425",
+          "99",
+          "300",
+          "34",
+          "304",
+          "5",
+          "421",
+          "422"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1998"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Lastly, we are faced with the controversy whether the learned trial Judge has rightly and legally\nheld Pahar Singh and Bhav Singh liable for commission of offence under Section 302, I.P.C. Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998\nEquivalent citations: 1999CRILJ1150\nAuthor: R.R. Yadav\nBench: R.R. Yadav\nJUDGMENT\nA.S. Godara, J. 1. This appeal is directed against the judgment and order dated 23/24-7-1981 passed by learned\nSessions Judge, Jalore in Sessions Case No. 58/80. The learned Sessions Judge, after completion of\ntrial, vide his impugned judgment and order convicted and sentenced the accused-appellants Nos. 1\nto 7 as under:\n1) Pahar Singh Under Section 302 IPC Sentenced to life imprisonment\nand, fine of Rs. 1000/- and, in\ndefault of payment of fine, to\nfurther undergo one year's\nrigorous imprisonment.",
+      "embedding_text": "ISSUE_CHUNK | Case: Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998 | Legal issues: Lastly, we are faced with the controversy whether the learned trial Judge has rightly and legally\nheld Pahar Singh and Bhav Singh liable for commission of offence under Section 302, I.P.C. Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998\nEquivalent citations: 1999CRILJ1150\nAuthor: R.R. Yadav\nBench: R.R. Yadav\nJUDGMENT\nA.S. Godara, J. 1. This appeal is directed against the judgment and order dated 23/24-7-1981 passed by learned\nSessions Judge, Jalore in Sessions Case No. 58/80. The learned Sessions Judge, after completion of\ntrial, vide his impugned judgment and order convicted and sentenced the accused-appellants Nos. 1\nto 7 as under:\n1) Pahar Singh Under Section 302 IPC Sentenced to life imprisonment\nand, fine of Rs. 1000/- and, in\ndefault of payment of fine, to\nfurther undergo one year's\nrigorous imprisonment. | IPC: 302, 149, 325, 323, 307, 147, 148, 313, 141, 251, 441, 425, 99, 300, 34, 304, 5, 421, 422",
+      "metadata": {
+        "case_name": "Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "149",
+          "325",
+          "323",
+          "307",
+          "147",
+          "148",
+          "313",
+          "141",
+          "251",
+          "441",
+          "425",
+          "99",
+          "300",
+          "34",
+          "304",
+          "5",
+          "421",
+          "422"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1998"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Rajasthan on 14 October, 1998\nEquivalent citations: 1999CRILJ1150\nAuthor: R.R. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 2\nment and fine of Rs. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 3\nUnder Section 147 Three months' simple imprison-\nment and fine of Rs. Substantive sentences of all the appellants were ordered to run concurrently. As regards appellants Nos. However, the appellants being aggrieved by the aforesaid judgment and order have preferred this\nappeal as above. The appellants are residents of village Nagani of Distt. P/2) with Bakhtawar Singh, Station House Officer, Police Station, Bagra on\n12-8-80 at 5.00 PM alleging therein that a public way from village Deegaon to their fields situated in\nvillage Bhetala passes through the fields of appellants Pahar Singh, Bhav Singh, Balwant Singh, Vad\nSingh, Punama Ghanchi etc. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 5\n7. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 6\n9. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 7\n4. Accused Jhepa, Bhik Singh, Pahar Singh, Bhav Singh and Maud Singh pleaded alibi and they\nexamined DW 1 Ganga Singh, DW 2 Shav Singh, PW 3 Dhonkal Singh and also Dhan Singh\nrespectively in support of their defence plea. DW 5 Kanjeet Singh was examined in defence to show\nthat there was no way as claimed by the prosecution witnesses. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 8\n21. We have heard learned counsel for the appellants as well as learned Public Prosecutor for the\nState at length and have also gone through the evidence on record of trial Court as well as impugned\njudgment and we have given our considerate thought to the rival contentions. Besides in case there was any obstruction on the way passing from the fields of accused\npersons, only legal course left for the alleged injured witnesses was to have approached the public\nauthorities for legal remedy, if any, but the learned trial Judge failed to give benefit of exercise of\nright of defence of property to the accused persons and the view of learned trial Judge in regard to\nthe prosecution evidence is erroneous resulting in perverse finding of guilt of accused persons\nwarranting its reversal.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998 | Arguments: vs State Of Rajasthan on 14 October, 1998\nEquivalent citations: 1999CRILJ1150\nAuthor: R.R. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 2\nment and fine of Rs. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 3\nUnder Section 147 Three months' simple imprison-\nment and fine of Rs. Substantive sentences of all the appellants were ordered to run concurrently. As regards appellants Nos. However, the appellants being aggrieved by the aforesaid judgment and order have preferred this\nappeal as above. The appellants are residents of village Nagani of Distt. P/2) with Bakhtawar Singh, Station House Officer, Police Station, Bagra on\n12-8-80 at 5.00 PM alleging therein that a public way from village Deegaon to their fields situated in\nvillage Bhetala passes through the fields of appellants Pahar Singh, Bhav Singh, Balwant Singh, Vad\nSingh, Punama Ghanchi etc. vs State Of Rajasthan on 14 October, 1998\nIn | Intent: intentional | IPC: 302, 149, 325, 323, 307, 147, 148, 313, 141, 251, 441, 425, 99, 300, 34, 304, 5, 421, 422 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "149",
+          "325",
+          "323",
+          "307",
+          "147",
+          "148",
+          "313",
+          "141",
+          "251",
+          "441",
+          "425",
+          "99",
+          "300",
+          "34",
+          "304",
+          "5",
+          "421",
+          "422"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1998"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "However, after covering a distance of 3-4\nfields, Kheta succumbed to his injuries and hence the cart on which the dead body was lying, was left\nin the village Deegaon and another bullock cart was procured on which all the injured person were\nseated and they headed towards the police station Bagra whereat the report was lodged by Varda\nRam. P-2 report as well as against Oma alias Umpaid Singh in the Court of Judl. Magistrate, who in turn,\ncommitted the case to the Court of Sessions Judge. Hence the trial was\ncompleted. 1 to 7, as above, while extended\nbenefit of probation of Offenders Act to the appellants 8 to 21, acquitting other accused persons and\nhence this appeal by the appellants as referred to hereinbefore. It may also be mentioned that State has not preferred any appeal against the order of acquittal of\naccused persons who were tried along with the appellants and hence their order of acquittal has\nacquired finality.Pahar Singh And Ors. The revenue Tehsildar (PW 15) Doongar Singh had no\njurisdiction to have inquired into and ordered for opening the way as claimed by Kheta and his\nassociates and hence the villagers of Deegaon were not vested with any legal right to pass through\nthe fields of the Khatedars of village Nagani through which the villagers of Deegaon claimed their\nright of way. Lastly, it has been contended that there\nwas no intention on the part of any appellant either to kill Kheta or to cause the grievous injury nor\nthere was any unlawful assembly formed with the common object of causing death or grievous\ninjuries to any person and, therefore, at any rate, the liability of the accused persons whose\ninvolvement in the alleged incident is proved beyond reasonable doubt, does not travel beyond thePahar Singh And Ors. and hence conviction of appellants under Sections 302, 302/149,\n307, and 307/149, I.P.C. Resultantly, he was assaulted and, as a result of injuries received\nby him, he fell and, as a result of injuries received at the hands of the assailants, he died while he\nwas being transported on bullock-cart from the scene of the occurrence to the Police Station, Bagara\nalter coverage of two to three fields from there and hence the bullock-cart with his dead body was\nleft at the outskirts of the village Deegaon.",
+      "embedding_text": "REASONING_CHUNK | Case: Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998 | Judicial reasoning: However, after covering a distance of 3-4\nfields, Kheta succumbed to his injuries and hence the cart on which the dead body was lying, was left\nin the village Deegaon and another bullock cart was procured on which all the injured person were\nseated and they headed towards the police station Bagra whereat the report was lodged by Varda\nRam. P-2 report as well as against Oma alias Umpaid Singh in the Court of Judl. Magistrate, who in turn,\ncommitted the case to the Court of Sessions Judge. Hence the trial was\ncompleted. 1 to 7, as above, while extended\nbenefit of probation of Offenders Act to the appellants 8 to 21, acquitting other accused persons and\nhence this appeal by the appellants as referred to hereinbefore. It may also be mentioned that State has not preferred any appeal against the order of acquittal of\naccused persons who were tried along with the appellants and hence their order of acquittal has\nacquired finality.Pahar Singh And Ors. The revenue Tehsildar (PW 15) Doongar Sing | Intent: intentional | Outcome: death | IPC: 302, 149, 325, 323, 307, 147, 148, 313, 141, 251, 441, 425, 99, 300, 34, 304, 5, 421, 422",
+      "metadata": {
+        "case_name": "Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "149",
+          "325",
+          "323",
+          "307",
+          "147",
+          "148",
+          "313",
+          "141",
+          "251",
+          "441",
+          "425",
+          "99",
+          "300",
+          "34",
+          "304",
+          "5",
+          "421",
+          "422"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1998"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The learned Sessions Judge, after completion of\ntrial, vide his impugned judgment and order convicted and sentenced the accused-appellants Nos. 1\nto 7 as under:\n1) Pahar Singh Under Section 302 IPC Sentenced to life imprisonment\nand, fine of Rs. 1000/- and, in\ndefault of payment of fine, to\nfurther undergo one year's\nrigorous imprisonment. Under Section 302/149 IPC Life imprisonment of and fine\nRupees 1000/- and, in\ndefault of payment of fine, to\nfurther undergo one year's\nrigorous imprisonment. Under Section 325/149 IPC Three years' rigorous\nimprisonment and a fine of\nRs. 300/-and, in default of\npayment of fine to further\nundergo four months' rigorous\nimprisonment. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs, 100/-and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment. 100/- and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankanoon.org/doc/1852063/ 1\nfurther undergo 15 days' simple\nimprisonment. 2) Bhav Singh Under Section 302 IPC Sentenced to life imprisonment\nand fine of Rs. 1000/- and in\ndefault of payment of fine to\nfurther undergo one year's\nrigorous imprisonment. Under Section 302/149 IPC Life imprisonment and fine of\nRupees 1000/- and in default of\npayment of fine to further\nundergo one year's rigorous\nimprisonment. 300/-\nand in default of payment of\nfine to further undergo four\nmonths,' rigorous imprisonment. 100/-and\nin default of payment of fine\nto further undergo 15 days\nsimple imprisonment. 100/- and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment. 100/- and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment. 3) Jog Singh Under Section 302/149 IPC Life imprisonment and fine of\nRupees 1000/- and in default of\npayment of fine to further\nundergo one year's rigorous\nimprisonment. Under Section 325/149 IPC Three years' rigorous imprison-\nment and a fine of Rupees 300/-\nand in default of payment of\nfine to further undergo four\nmonths' rigorous imprisonment. 100/- and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998 | Final judgment: The learned Sessions Judge, after completion of\ntrial, vide his impugned judgment and order convicted and sentenced the accused-appellants Nos. 1\nto 7 as under:\n1) Pahar Singh Under Section 302 IPC Sentenced to life imprisonment\nand, fine of Rs. 1000/- and, in\ndefault of payment of fine, to\nfurther undergo one year's\nrigorous imprisonment. Under Section 302/149 IPC Life imprisonment of and fine\nRupees 1000/- and, in\ndefault of payment of fine, to\nfurther undergo one year's\nrigorous imprisonment. Under Section 325/149 IPC Three years' rigorous\nimprisonment and a fine of\nRs. 300/-and, in default of\npayment of fine to further\nundergo four months' rigorous\nimprisonment. Under Section 323 IPC Three months' simple imprison-\nment and fine of Rs, 100/-and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment. 100/- and\nin default of payment of fine\nto further undergo 15 days'\nsimple imprisonment. vs State Of Rajasthan on 14 October, 1998\nIndian Kanoon - http://indiankan | Judgment: convicted | IPC: 302, 149, 325, 323, 307, 147, 148, 313, 141, 251, 441, 425, 99, 300, 34, 304, 5, 421, 422",
+      "metadata": {
+        "case_name": "Pahar Singh And Ors. vs State Of Rajasthan on 14 October, 1998",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "149",
+          "325",
+          "323",
+          "307",
+          "147",
+          "148",
+          "313",
+          "141",
+          "251",
+          "441",
+          "425",
+          "99",
+          "300",
+          "34",
+          "304",
+          "5",
+          "421",
+          "422"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "1998"
+      }
+    }
+  ]
+}

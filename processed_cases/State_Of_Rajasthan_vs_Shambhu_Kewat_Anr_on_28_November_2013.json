@@ -1,0 +1,137 @@
+{
+  "case_id": "State_Of_Rajasthan_vs_Shambhu_Kewat_Anr_on_28_November_2013",
+  "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "L. J. ALLMR(CRI) 386, (2014) 2 MH LJ (CRI) 640, (2013) 14 SCALE 235, (2013) 4\nCRIMES 616, 2014 CRILR(SC MAH GUJ) 1 98, (2014) 1 ALLCRILR 236, (2014)\n133 ALLINDCAS 15 (SC), (2014) 84 ALLCRIC 400, (2014) 1 ALLCRIR 939,\n(2013) 4 CURCRIR 526, (2014) 1 RECCRIR 199, (2014) 1 CRILR(RAJ) 98, 2014\nCRILR(SC&MP) 98\nAuthor: K. S. Radhakrishnan\nBench: A. K. Sikri, K. S. 2018 OF 2013\n[Arising out of SLP (Crl.) No. S. Radhakrishnan, J. 1. Leave granted. 2. 1, Kota, Rajasthan. From the side of the prosecution, PWs 1 to 5 were examined and\nExh. P1- P12 were produced. Further, it was pointed out that they are poor labourers married and\nhave children. Further, it was also pointed out that the injuries were caused due to sudden\nprovocation, and were not pre-meditated. On the basis of the above arguments, perused the case file. Though no criminal record has been produced by the Prosecution against the\naccused, nor has any arguments about the habitual criminal, however, from the\nevidence came on file, this fact has been established that accused Banwari and\nShambhu had been taking the goods on credit from the complainant Abdul Rashid,\nalso on the day of incident, had come to take goods on credit and due to arrears of\nmoney, he had refused to give the goods on credit. Then they again came back at the\nplace of incident. Thereafter about 10 minutes both came with iron rod and a strip of\niron like sword in a planned manner, and both together made a murderous attack on\nAbdul Rashid. By causing fatal injury on the head after fracture of piece of bone of\nhead of Abdul Rashid, went inside the brain. The doctor performed the surgery and\ntaken out. Thereafter it cannot be said that the accused has injured in ignorance,\nsuddenly on instigation and cause the said injury to Abdul Rashid and for committing\nthe act by them, they have no intention or purpose for committing such act. Case\nunder Section 307 IPC has been proved against the accused beyond doubt.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Rajasthan vs Shambhu Kewat & Anr on 28 November, | Facts: L. J. ALLMR(CRI) 386, (2014) 2 MH LJ (CRI) 640, (2013) 14 SCALE 235, (2013) 4\nCRIMES 616, 2014 CRILR(SC MAH GUJ) 1 98, (2014) 1 ALLCRILR 236, (2014)\n133 ALLINDCAS 15 (SC), (2014) 84 ALLCRIC 400, (2014) 1 ALLCRIR 939,\n(2013) 4 CURCRIR 526, (2014) 1 RECCRIR 199, (2014) 1 CRILR(RAJ) 98, 2014\nCRILR(SC&MP) 98\nAuthor: K. S. Radhakrishnan\nBench: A. K. Sikri, K. S. 2018 OF 2013\n[Arising out of SLP (Crl.) No. S. Radhakrishnan, J. 1. Leave granted. 2. 1, Kota, Rajasthan. From the side of the prosecution, PWs 1 to 5 were examined and\nExh. P1- P12 were produced. Further, it was pointed out that they are poor labourers married and\nhave children. Further, it was also pointed out that the injuries were caused due to sudden\nprovocation, and were not pre-meditated. On the basis of the above arguments, perused the case file. Though no criminal record has been produced by the Prosecution against the\naccused, nor has any arguments about the habitual criminal, however, from the\nevidence came on file, this  | Actions: none | Weapon: sword | Outcome: death | IPC: 307, 323, 325, 427, 34, 428, 482, 320",
+      "metadata": {
+        "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "307",
+          "323",
+          "325",
+          "427",
+          "34",
+          "428",
+          "482",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In\ncompounding of offences, power of a criminal court is circumscribed by the provisions contained in\nSection 320 CrPC and the Court is guided solely and squarely thereby, while, on the other hand, the\nformation of opinion by the High Court for quashing a criminal proceeding or criminal complaint\nunder Section 482 CrPC is guided by the material on record as to whether the ends of justice would\njustify such exercise of power, although the ultimate consequence may be acquittal or dismissal of\nindictment. State of Maharashtra and another , this Court had an occasion to consider the question whether an offence under Section 307 IPC\ncould be compounded in terms of the compromise reached at between the parties. State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,\n2013\nEquivalent citations: 2013 AIR SCW 6853, 2014 (4) SCC 149, 2014 CRI.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Rajasthan vs Shambhu Kewat & Anr on 28 November, | Legal issues: In\ncompounding of offences, power of a criminal court is circumscribed by the provisions contained in\nSection 320 CrPC and the Court is guided solely and squarely thereby, while, on the other hand, the\nformation of opinion by the High Court for quashing a criminal proceeding or criminal complaint\nunder Section 482 CrPC is guided by the material on record as to whether the ends of justice would\njustify such exercise of power, although the ultimate consequence may be acquittal or dismissal of\nindictment. State of Maharashtra and another , this Court had an occasion to consider the question whether an offence under Section 307 IPC\ncould be compounded in terms of the compromise reached at between the parties. State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,\n2013\nEquivalent citations: 2013 AIR SCW 6853, 2014 (4) SCC 149, 2014 CRI. | IPC: 307, 323, 325, 427, 34, 428, 482, 320",
+      "metadata": {
+        "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "307",
+          "323",
+          "325",
+          "427",
+          "34",
+          "428",
+          "482",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,\n2013\nEquivalent citations: 2013 AIR SCW 6853, 2014 (4) SCC 149, 2014 CRI. 9278 of 2012]\nState of Rajasthan .. Appellant\nVersus\nShambhu Kewat and Another .. Respondents\nJ U D G M E N T\nK. Respondents herein were charge-sheeted for the offences punishable under Sections 307, 323,\n325, 427 read with Section 34 IPC. From the side of defence, second accused was examined as DW1. Later, the accused\npersons were heard on sentence, and they stated that they are not habitual criminals and are aged\n26 and 28 years, respectively. After hearing the accused and the prosecution, the trialState Of Rajasthan vs Shambhu Kewat & Anr on 28 November, 2013\nIndian Kanoon - http://indiankanoon.org/doc/193433171/ 1\nCourt, on sentence, passed the following order:\n“Heard both the parties. When the appeal came up for hearing, onState Of Rajasthan vs Shambhu Kewat & Anr on 28 November, 2013\nIndian Kanoon - http://indiankanoon.org/doc/193433171/ 2\n16.11.2011, the complainant, Abdul Rashid who was present in the court, stated that he and the\naccused persons had entered into a compromise and, based on that compromise, he had received\nthe compensation amount from the accused persons for the injuries caused to him. Learned counsel appearing for the\ncomplainant submitted before the High Court that since the parties had buried the differences and\nsince offence committed was ‘against an individual’, rather than ‘against the State’, no fruitful\npurpose would be served by keeping the accused persons behind the bars, and hence, it was\nrequested that the case be compounded and the appeal be allowed. We have examined the reasons stated by the High Court for acceding to that request. According to the prosecution, both the sides were verbally fighting when\nalleged, the appellants struck Abdul Rashid (PW-3). State of Punjab\nand another (2012) 10 SCC regarding the scope and ambit of Sections 482 and 320 CrPC as well as\nthe powers conferred on the criminal Court to quash criminal proceedings involved in a\nnon-compoundable offence, in view of the compromise arrived at between the parties.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Rajasthan vs Shambhu Kewat & Anr on 28 November, | Arguments: State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,\n2013\nEquivalent citations: 2013 AIR SCW 6853, 2014 (4) SCC 149, 2014 CRI. 9278 of 2012]\nState of Rajasthan .. Appellant\nVersus\nShambhu Kewat and Another .. Respondents\nJ U D G M E N T\nK. Respondents herein were charge-sheeted for the offences punishable under Sections 307, 323,\n325, 427 read with Section 34 IPC. From the side of defence, second accused was examined as DW1. Later, the accused\npersons were heard on sentence, and they stated that they are not habitual criminals and are aged\n26 and 28 years, respectively. After hearing the accused and the prosecution, the trialState Of Rajasthan vs Shambhu Kewat & Anr on 28 November, 2013\nIndian Kanoon - http://indiankanoon.org/doc/193433171/ 1\nCourt, on sentence, passed the following order:\n“Heard both the parties. When the appeal came up for hearing, onState Of Rajasthan vs Shambhu Kewat & Anr on 28 November, 2013\nIndian Kanoon - http://indiankanoon.org/doc/193433171/ 2\n16.11.2011 | Intent: intentional | IPC: 307, 323, 325, 427, 34, 428, 482, 320 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "307",
+          "323",
+          "325",
+          "427",
+          "34",
+          "428",
+          "482",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Radhakrishnan\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. They were tried before the Court of Additional Sessions Judge,\nFast Track No. Therefore\nin this situation lenient view cannot be adopted against the accused. The Hon’ble Supreme Court has shown this intent in several cases that if the leniency is given to the\naccused, then the criminal people in the society will be encouraged. Aggrieved by the order of conviction and sentence, the accused persons approached the High\nCourt by filing S.B. The High\nCourt examined the scope of Sections 482 and 320 CrPC and expressed the view that there are\ncertain similarities and differences between compounding and quashing a case on the basis of\ncompromise and hence, quashing of a criminal proceeding upon a compromise is well within the\ndiscretionary power of the Court. The High Court held as follows:\n“In the present case, the fight occurred at the spur of the moment in the heat of the\nmoment. Thus, it would\nbe in the interest of justice to allow the appeal.”\n5. The High Court felt that since the parties had entered into a compromise and resolved their\ndisputes and differences, it would be in the interest of justice to allow the appeal. and misunderstood the various principles laid down by this Court in Gian Singh v. We may point out that in Gian Singh (supra), this Court has held that quashing of offence or\ncriminal proceedings on the ground of settlement between an offender and the victim is not the\nsame thing as compounding of offences. This Court also held that the power of compounding of\noffences conferred on a Court under Section 320 CrPC is materially different from the power\nconferred under Section 482 for quashing of criminal proceedings by the High Court. This Court further opined\nthat the inherent power is of wide plentitude with no statutory limitation but it has to be exercised in\naccordance with the guidelines engrafted in such power, namely, (i) to secure the ends of justice, or\n(ii) to prevent abuse of the process of any court.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Rajasthan vs Shambhu Kewat & Anr on 28 November, | Judicial reasoning: Radhakrishnan\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. They were tried before the Court of Additional Sessions Judge,\nFast Track No. Therefore\nin this situation lenient view cannot be adopted against the accused. The Hon’ble Supreme Court has shown this intent in several cases that if the leniency is given to the\naccused, then the criminal people in the society will be encouraged. Aggrieved by the order of conviction and sentence, the accused persons approached the High\nCourt by filing S.B. The High\nCourt examined the scope of Sections 482 and 320 CrPC and expressed the view that there are\ncertain similarities and differences between compounding and quashing a case on the basis of\ncompromise and hence, quashing of a criminal proceeding upon a compromise is well within the\ndiscretionary power of the Court. The High Court held as follows:\n“In the present case, the fight occurred at the spur of the moment in the heat of the\nmoment. Thus, | Intent: intentional | Outcome: death | IPC: 307, 323, 325, 427, 34, 428, 482, 320",
+      "metadata": {
+        "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "307",
+          "323",
+          "325",
+          "427",
+          "34",
+          "428",
+          "482",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The\nSessions Court, after hearing the parties and considering the oral and documentary evidence, found\nthe accused persons guilty of the offence punishable under Section 307 read with Section 34 IPC,\nbut acquitted them of the rest of the charges, vide its order dated 9.7.2009. In such situation, as per the direction given by the Hon’ble Supreme\nCourt, the accused are punished as under:\nORDER OF SENTENCE:\nTherefore accused Shambhu son of Babu Lal and accused Banwari lal son of Babu Lal\nKevat, residents of Iqbal Chowk, Sakatpura, Kota are declared acquitted from the\ncharge under Section 427 IPC and both the accused are convicted and are sentenced\nfor 10-10 (Ten-Ten) years rigorous imprisonment and fine of Rs.5000-5000/-\n(Rupees five thousand only) for the charge under Section 307 read with Section 34\nIPC. In the event of committing default in the payment of fine will face additional\nsimple imprisonment of 3-3 months. Consequently, the\nappeal was allowed and the accused persons were acquitted of the offence under Sections 307 read\nwith 34 IPC. The various\nHigh Court has also committed an error in holding that the offence which has been proved was\nthat the Sessions Court had correctly noticed the nature of injuries and rightly came to the\nconclusion that the accused had committed injuries not due to sudden provocation, but it was a\npremeditated incident and that the trial Court has rightly awarded the sentence of 10 years rigorous\nimprisonment for the offence punishable under Section 307 IPC.State Of Rajasthan vs Shambhu Kewat & Anr on 28 November, 2013\nIndian Kanoon - http://indiankanoon.org/doc/193433171/ 3\n7. Further, it was also\nnoticed that a cross case was registered against the complainant also in which he was convicted and\nsentenced. We notice that the gravity of the injuries was taken note of by the Sessions Court and it had\nawarded the sentence of 10 years rigorous imprisonment for the offence punishable under Section\n307 IPC, but not by the High Court. Why Section 307 IPC is held to be\nnon-compoundable, because the Code has identified which conduct should be brought within the\nambit of non-compoundable offences.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Rajasthan vs Shambhu Kewat & Anr on 28 November, | Final judgment: The\nSessions Court, after hearing the parties and considering the oral and documentary evidence, found\nthe accused persons guilty of the offence punishable under Section 307 read with Section 34 IPC,\nbut acquitted them of the rest of the charges, vide its order dated 9.7.2009. In such situation, as per the direction given by the Hon’ble Supreme\nCourt, the accused are punished as under:\nORDER OF SENTENCE:\nTherefore accused Shambhu son of Babu Lal and accused Banwari lal son of Babu Lal\nKevat, residents of Iqbal Chowk, Sakatpura, Kota are declared acquitted from the\ncharge under Section 427 IPC and both the accused are convicted and are sentenced\nfor 10-10 (Ten-Ten) years rigorous imprisonment and fine of Rs.5000-5000/-\n(Rupees five thousand only) for the charge under Section 307 read with Section 34\nIPC. In the event of committing default in the payment of fine will face additional\nsimple imprisonment of 3-3 months. Consequently, the\nappeal was allowed and the accused persons were acqui | Judgment: convicted | IPC: 307, 323, 325, 427, 34, 428, 482, 320",
+      "metadata": {
+        "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr on 28 November,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "307",
+          "323",
+          "325",
+          "427",
+          "34",
+          "428",
+          "482",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "sword",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "case_id": "Rekha_vs_Abdul_Wahaf_on_30_September_2010",
+  "case_name": "Rekha vs Abdul Wahaf on 30 September, 2010",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Rekha\n2. Prakash Kumar .. Petitioners\nVs. 1. Abdul Wahaf\n2. under Section 482 Cr.P.C. !For Petitioners ... 2. The petitioners have come forward with this Crl.O.P. to quash the said private complaint given by\nthe respondents in C.C.No.47 of 2010 under Sections 190(1)(c) read with Section 200 Cr.P.C. 3. Due to death of the father of the firstRekha vs Abdul Wahaf on 30 September, 2010\nIndian Kanoon - http://indiankanoon.org/doc/1916389/ 1\n13.07.2000 to March 2001. Even though, the\nso, the respondents earlier preferred a complaint before the learned Judicial Magistrate,\nKuzhithurai, which was forwarded to District Crime Branch for enquiry and stated to have been\nreferred to as \"mistake of fact\". 4. It is the contention of the petitioners that they have no nexus with the allegations mentioned in\nthe private complaint. Originally, the first petitioner's mother nominated the father of the first\nloan from her. The allegations in the present complaint are only civil in nature and no action could be initiated\nagainst the petitioners. Since it is time barred, the amount cannot be legally recovered, and so\nindirectly, the respondents have filed the present private complaint to recover the amount. After\ninvestigation, the District Crime Branch, in respect of the earlier complaint, referred the case as\n'mistake of fact', and the same was suppressed by the respondents before the trial Court. Further,\nthe ingredients of Section 415 IPC are not made out and so, absolutely, there is no scope for taking\ncognizance of the offence under Section 420 IPC, as there is also no intention of cheating. It is the further contention of\nthe petitioners that the learned Chief Judicial Magistrate, Kanyakumari, at Nagercoil, while taking\ncognizance of the present private complaint, by order dated 6.5.2010 in Crl.M.P.No.748 of 2010,\nfailed to analyse the earlier private complaint alleged to have been filed by the second respondent\nbefore the Judicial Magistrate, Kuzhithurai. 6. The chit transactions took place between 01.05.1999 and 13.07.2000. 7. The case has been taken on file against the first petitioner/A.1 for the offences registered under\nSections 420 r/w.",
+      "embedding_text": "FACT_CHUNK | Case: Rekha vs Abdul Wahaf on 30 September, 2010 | Facts: Rekha\n2. Prakash Kumar .. Petitioners\nVs. 1. Abdul Wahaf\n2. under Section 482 Cr.P.C. !For Petitioners ... 2. The petitioners have come forward with this Crl.O.P. to quash the said private complaint given by\nthe respondents in C.C.No.47 of 2010 under Sections 190(1)(c) read with Section 200 Cr.P.C. 3. Due to death of the father of the firstRekha vs Abdul Wahaf on 30 September, 2010\nIndian Kanoon - http://indiankanoon.org/doc/1916389/ 1\n13.07.2000 to March 2001. Even though, the\nso, the respondents earlier preferred a complaint before the learned Judicial Magistrate,\nKuzhithurai, which was forwarded to District Crime Branch for enquiry and stated to have been\nreferred to as \"mistake of fact\". 4. It is the contention of the petitioners that they have no nexus with the allegations mentioned in\nthe private complaint. Originally, the first petitioner's mother nominated the father of the first\nloan from her. The allegations in the present complaint are only civil in nature and no action coul | Actions: cheated, threatened | Weapon: unknown | Outcome: death | IPC: 415, 420, 482, 190, 200, 506, 406, 204",
+      "metadata": {
+        "case_name": "Rekha vs Abdul Wahaf on 30 September, 2010",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "415",
+          "420",
+          "482",
+          "190",
+          "200",
+          "506",
+          "406",
+          "204"
+        ],
+        "actions": [
+          "cheated",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The accused was running a Finance Company and collected money in monthly\ninstalments from parties and issued acknowledgement receipts duly signed by the\naccused and by Roselet mother of accused and Rajesh brother of the accused, on\nbehalf of the accused. The total payment deposit is Rs.1,20,670/- with written acknowledgement receipt\nissued by the accused Rekha and others. In a case, where a previous complaint is dismissed without assigning any\nreason, the Magistrate under Section 204 CrPC may take cognizance of an offence\nand issue process if there is sufficient ground for proceeding. It was laid down in the said decision that it is impermissible for the\nMagistrate to reconsider this decision to issue process in the absence of any specific\nprovision to recall such order. Except the common witnesses, no witness had been shown to examine to prove as to whether the\ningredients of the offence under Section 506 (Part 1) IPC had been made out or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: Rekha vs Abdul Wahaf on 30 September, 2010 | Legal issues: The accused was running a Finance Company and collected money in monthly\ninstalments from parties and issued acknowledgement receipts duly signed by the\naccused and by Roselet mother of accused and Rajesh brother of the accused, on\nbehalf of the accused. The total payment deposit is Rs.1,20,670/- with written acknowledgement receipt\nissued by the accused Rekha and others. In a case, where a previous complaint is dismissed without assigning any\nreason, the Magistrate under Section 204 CrPC may take cognizance of an offence\nand issue process if there is sufficient ground for proceeding. It was laid down in the said decision that it is impermissible for the\nMagistrate to reconsider this decision to issue process in the absence of any specific\nprovision to recall such order. Except the common witnesses, no witness had been shown to examine to prove as to whether the\ningredients of the offence under Section 506 (Part 1) IPC had been made out or not. | IPC: 415, 420, 482, 190, 200, 506, 406, 204",
+      "metadata": {
+        "case_name": "Rekha vs Abdul Wahaf on 30 September, 2010",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "415",
+          "420",
+          "482",
+          "190",
+          "200",
+          "506",
+          "406",
+          "204"
+        ],
+        "actions": [
+          "cheated",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Mohammed Ali (Power Agent of first respondent) .. Respondents\nCrl.O.P. for the relief as stated therein. Mr.K.P.Narayanakumar\n^For Respondents ... It is the case of the first respondent that himself and his father had chit transactions with the first\nRs.1,20,670/- by calculating both of their transactions. Though the first respondent made an attempt to pay back the balance\namount in the year 2001, the same was rejected by the petitioners by saying that the said transaction\nwas concluded and the respondents were denied to pay the amount and the petitioners along with\ngoondas threatened the respondents and chased them upto 1-1/2 kms. It is\nfurther contended by the petitioners that with regard to the allegation of criminal intimidation,\nthere is no evidence adduced by the respondents to prove the same. in Crl.M.P.No.1085 of 2009, which has been stated to\nhave been referred to as \"mistake of fact\" by the District Crime Branch on being forwarded for\nenquiry. The learned counsel for the petitioners contended that the first petitioner is the daughter of\nRoselet Rani and the second petitioner is the first petitioner's husband and to prove the same, their\nMarriage Certificate had been placed in Page No.1 of the typed set of papers filed along with the\nlearned Judicial Magistrate No.I, Kuzhithurai and that has been forwarded to Police authority and it\nwas referred to as \"mistake of fact\". The first petitioner/A.1 and her mother conducted the chit\ntransactions and the father of the first respondent was one of the subscribers to those chit\ntransactions. The father of theRekha vs Abdul Wahaf on 30 September, 2010\nIndian Kanoon - http://indiankanoon.org/doc/1916389/ 2\nfirst respondent died subsequently. It is further submitted by the petitioners that in the year 2008,\nthe first respondent demanded money, and that at that time there was no criminal intimidation by\nthe petitioners and so, the case has been taken foisted against the petitioners. The learned counsel for the petitioners submitted that there is no evidence to show\nthat the petitioners received money from the public and did not repay the amount and hence, he\nsubmitted that the ingredients of Sections 420 and 506 IPC, are not made out, since the District\nupon the decision of the Supreme Court reported in 2005 SCC (Crl.) 190 (Poonam Chand Jain Vs.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Rekha vs Abdul Wahaf on 30 September, 2010 | Arguments: Mohammed Ali (Power Agent of first respondent) .. Respondents\nCrl.O.P. for the relief as stated therein. Mr.K.P.Narayanakumar\n^For Respondents ... It is the case of the first respondent that himself and his father had chit transactions with the first\nRs.1,20,670/- by calculating both of their transactions. Though the first respondent made an attempt to pay back the balance\namount in the year 2001, the same was rejected by the petitioners by saying that the said transaction\nwas concluded and the respondents were denied to pay the amount and the petitioners along with\ngoondas threatened the respondents and chased them upto 1-1/2 kms. It is\nfurther contended by the petitioners that with regard to the allegation of criminal intimidation,\nthere is no evidence adduced by the respondents to prove the same. in Crl.M.P.No.1085 of 2009, which has been stated to\nhave been referred to as \"mistake of fact\" by the District Crime Branch on being forwarded for\nenquiry. The learned counsel for the peti | Intent: intentional | IPC: 415, 420, 482, 190, 200, 506, 406, 204 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Rekha vs Abdul Wahaf on 30 September, 2010",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "415",
+          "420",
+          "482",
+          "190",
+          "200",
+          "506",
+          "406",
+          "204"
+        ],
+        "actions": [
+          "cheated",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Rekha vs Abdul Wahaf on 30 September, 2010\nAuthor: R.Mala\nBench: R.Mala\nBEFORE THE MADURAI BENCH OF MADRAS HIGH COURT\nDATED: 30/09/2010\nCORAM\nTHE HONOURABLE MS.JUSTICE R.MALA\nCriminal Original Petition (MD) No.7734 Of 2010\nand\nM.P.(MD) Nos.1 and 2 of 2010\n1. Mr.S.Palanivelayutham\n:ORDER\nThe petitioners have approached this Court with a prayer to call for the records pertaining to\nC.C.No.47 of 2010 on the file of the learned Chief Judicial Magistrate, Nagercoil and quash the\nsame. Hence, the respondents have preferred the present private\ncomplaint before the learned Chief Judicial Magistrate, Nagercoil. After the demise of the first respondent's father, the mother of the first petitioner\ndemanded back the amount from the first respondent, but he only failed to pay back the amount due\nto the death of his father and hence, the respondents have come forward with the private complaint. Hence, the petitioners pray for quashing the private complaint filed by the respondents. Fazru) and stated that the second application is not maintainable and hence, he prayed for quashing\nthe private complaint. instalments, but it was not repaid back to him and the investigation is going on, and it is in\npremature stage and hence, he prayed for dismissal of this Crl.O.P. On 15.09.2008, when the first\nmurder them and hence, the respondents have given a complaint. While perusing the order dated 6.5.2010 in Crl.M.P.No.748 of 2010, passed by the learned Chief\nJudicial Magistrate, Kanyakumari District at Nagercoil, while taking cognizance of the private\ncomplaint in respect of the alleged offences, observed in paragraphs Nos.5 and 6, that without\nobtaining any proper licence, the petitioners/accused have conducted the chit transactions and\nreceived the amounts and refused to repay the amounts and made criminal intimidation against the\nsame at their request and engaged the goondas and threatened the respondents/complainants. Gopi Singh\" reported in\n2006 (2) SCC (Crl.) 430, in which, the Supreme Court held as follows:\n\"6. Having taken into consideration all the\nmaterial made available on record by the parties and after hearing the learned\nthe process of the Court and the proceedings are, therefore, liable to be quashed.",
+      "embedding_text": "REASONING_CHUNK | Case: Rekha vs Abdul Wahaf on 30 September, 2010 | Judicial reasoning: Rekha vs Abdul Wahaf on 30 September, 2010\nAuthor: R.Mala\nBench: R.Mala\nBEFORE THE MADURAI BENCH OF MADRAS HIGH COURT\nDATED: 30/09/2010\nCORAM\nTHE HONOURABLE MS.JUSTICE R.MALA\nCriminal Original Petition (MD) No.7734 Of 2010\nand\nM.P.(MD) Nos.1 and 2 of 2010\n1. Mr.S.Palanivelayutham\n:ORDER\nThe petitioners have approached this Court with a prayer to call for the records pertaining to\nC.C.No.47 of 2010 on the file of the learned Chief Judicial Magistrate, Nagercoil and quash the\nsame. Hence, the respondents have preferred the present private\ncomplaint before the learned Chief Judicial Magistrate, Nagercoil. After the demise of the first respondent's father, the mother of the first petitioner\ndemanded back the amount from the first respondent, but he only failed to pay back the amount due\nto the death of his father and hence, the respondents have come forward with the private complaint. Hence, the petitioners pray for quashing the private complaint filed by the respondents. Fazru) and stated | Intent: intentional | Outcome: death | IPC: 415, 420, 482, 190, 200, 506, 406, 204",
+      "metadata": {
+        "case_name": "Rekha vs Abdul Wahaf on 30 September, 2010",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "415",
+          "420",
+          "482",
+          "190",
+          "200",
+          "506",
+          "406",
+          "204"
+        ],
+        "actions": [
+          "cheated",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "21. In such circumstances, I am of the opinion that the learned Chief Judicial Magistrate,\nKanyakumari, at Nagercoil, by order dated 6.5.2010, in Crl.M.P.No.748 of 2010, has\ncommitted an error in taking cognizance of the offence under Section 420 IPC. 22. Insofar as the offence under Section 506 (Part 1) I.P.C. is concerned, it is\nworthwhile to quote the ingredients of Section 506 (Part 1) IPC:\n\"Section 506: Punishment for criminal intimidation.--Whoever, commits the offence\nof criminal intimidation shall be punished with imprisonment of either description\nfor a term which may extend to two years, or with fine, or with both.\"\n23. 24. 25. Accordingly:\n(a) This Criminal Original Petition is allowed. cse / cs To The Chief Judicial Magistrate, Kanyakumari, at Nagercoil.\u001aRekha vs Abdul Wahaf on 30 September, 2010\nIndian Kanoon - http://indiankanoon.org/doc/1916389/ 9",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Rekha vs Abdul Wahaf on 30 September, 2010 | Final judgment: 21. In such circumstances, I am of the opinion that the learned Chief Judicial Magistrate,\nKanyakumari, at Nagercoil, by order dated 6.5.2010, in Crl.M.P.No.748 of 2010, has\ncommitted an error in taking cognizance of the offence under Section 420 IPC. 22. Insofar as the offence under Section 506 (Part 1) I.P.C. is concerned, it is\nworthwhile to quote the ingredients of Section 506 (Part 1) IPC:\n\"Section 506: Punishment for criminal intimidation.--Whoever, commits the offence\nof criminal intimidation shall be punished with imprisonment of either description\nfor a term which may extend to two years, or with fine, or with both.\"\n23. 24. 25. Accordingly:\n(a) This Criminal Original Petition is allowed. cse / cs To The Chief Judicial Magistrate, Kanyakumari, at Nagercoil.\u001aRekha vs Abdul Wahaf on 30 September, 2010\nIndian Kanoon - http://indiankanoon.org/doc/1916389/ 9 | Judgment: sentenced | IPC: 415, 420, 482, 190, 200, 506, 406, 204",
+      "metadata": {
+        "case_name": "Rekha vs Abdul Wahaf on 30 September, 2010",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "415",
+          "420",
+          "482",
+          "190",
+          "200",
+          "506",
+          "406",
+          "204"
+        ],
+        "actions": [
+          "cheated",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "case_id": "State_Of_H_P_vs_Nirmala_Devi_on_10_April_2017",
+  "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+  "chunk_count": 6,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Sikri\nBench: Ashok Bhushan, A.K. OF 2017\n[Arising out of SLP (Crl.) No. SIKRI, J. Leave granted. the Indian Penal Code (IPC) alongwith co-accused Krishan Lal Sharma. When the trial was\nunderway, both the accused persons were released on bail, pending trial. 12 prosecution witnesses\n(PWs) were examined and some more were yet to be examined. 6,000/- was directed to be paid to the complainant, Ramesh Kumar as compensation. A\nsum of Rs. 30,000/-. On deposit of such fine, it shall be paid to the\ncomplainant. The case\noriginated on the basis of complaint filed by the complainant, Ramesh Kumar\n(PW-13), resulting into registration of the FIR (Exh. PL). in the morning to withdraw a sum of Rs. 27,000/- from his Bank account from\nthe Bank Satbari for the purposes of purchasing an auto-tempo which he wanted to\nuse for transporting children studying in his school. On way to the bank, he met\nKrishan Lal accused, who was driving Maruti Van No. JK-02M-4392, an old\nacquaintance of the complainant. He asked the complainant as to where he was going\nwhereupon he disclosed that he was going to withdraw a sum of Rs. 27,000/- for\npurchasing an auto-tempo from Pathankot. 4,000/- in his pocket. Accused Krishan Lal told him that he would\nget him a discount from an authorized auto-tempo dealer at Pathankot and that he\nwas willing to drive him to that place. Both went to the bank where the complainant\nwithdrew a sum of Rs. 27,000/-. Thereafter, accused Krishan Lal took him to his\nhouse where he was offered a cup of tea. He informed the complainant that this lady would also\ngo to Pathankot and they would go there together. The accused offered a glass of\nwater and thereafter a cup of tea after which the complainant, Ramesh Kumar,\nsuspected that he had been made to ingest some intoxicant. They boarded the Van\nwhere after the complainant lost consciousness. He regained his\nsenses/consciousness in the Civil Hospital at Dalhousie in the early hours of 24th\nAugust, 2000. He had lost all the currency.",
+      "embedding_text": "FACT_CHUNK | Case: State Of H.P vs Nirmala Devi on 10 April, 2017 | Facts: Sikri\nBench: Ashok Bhushan, A.K. OF 2017\n[Arising out of SLP (Crl.) No. SIKRI, J. Leave granted. the Indian Penal Code (IPC) alongwith co-accused Krishan Lal Sharma. When the trial was\nunderway, both the accused persons were released on bail, pending trial. 12 prosecution witnesses\n(PWs) were examined and some more were yet to be examined. 6,000/- was directed to be paid to the complainant, Ramesh Kumar as compensation. A\nsum of Rs. 30,000/-. On deposit of such fine, it shall be paid to the\ncomplainant. The case\noriginated on the basis of complaint filed by the complainant, Ramesh Kumar\n(PW-13), resulting into registration of the FIR (Exh. PL). in the morning to withdraw a sum of Rs. 27,000/- from his Bank account from\nthe Bank Satbari for the purposes of purchasing an auto-tempo which he wanted to\nuse for transporting children studying in his school. On way to the bank, he met\nKrishan Lal accused, who was driving Maruti Van No. JK-02M-4392, an old\nacquaintance of the complainant. He a | Actions: robbed | Weapon: poison | Outcome: death | IPC: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423",
+      "metadata": {
+        "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "307",
+          "114",
+          "328",
+          "392",
+          "34",
+          "386",
+          "154",
+          "397",
+          "377",
+          "378",
+          "53",
+          "309",
+          "390",
+          "4",
+          "16",
+          "33A",
+          "18",
+          "27",
+          "28",
+          "325",
+          "63",
+          "329",
+          "302",
+          "423"
+        ],
+        "actions": [
+          "robbed"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "A direction is issued to the learned Sessions Judge, Chamba to comply\nwith this judgment.” Respondent has not challenged the order against that part of the\njudgment whereby her conviction has been upheld by the High Court. Whether the circumstances pleaded by the respondent were so mitigating that\npunishment of fine alone could be justified? The second question is as to whether the circumstances pleaded by the respondent\njustify taking a lenient view in the matter. The prevalence of such guidelines may not\nonly aim at achieving consistencies in awarding sentences in different cases, such\nguidelines normally prescribe the sentencing policy as well, namely, whether the\npurpose of awarding punishment in a particular case is more of a deterrence or\nretribution or rehabilitation, etc. In this backdrop, the question is as to whether the respondent being a\nlady and having three minor children will be extenuating reasons? I may add that it would\ndepend upon the facts of each case, whether it should be treated as a relevant\nconsideration and no hard and fast rule can be laid down. Looking to the importance of issues involved in this appeal, I have\nalso penned my reasons. The brief facts necessary to be noted for deciding the issues raised in the appeal\nare:\na. Whether in altering the sentence, the\nHigh Court is empowered to alter the sentence to an extent which could not have\nbeen awarded by the trial court after recording the finding of the guilt? A notice was also issued by the High Court why sentence should not be enhanced or\notherwise altered. (c) manufacture for sale, or sell, or stock or exhibit for sale or distribute any drug or\ncosmetic, except under, and in accordance with the conditions of, a licence issued....",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of H.P vs Nirmala Devi on 10 April, 2017 | Legal issues: A direction is issued to the learned Sessions Judge, Chamba to comply\nwith this judgment.” Respondent has not challenged the order against that part of the\njudgment whereby her conviction has been upheld by the High Court. Whether the circumstances pleaded by the respondent were so mitigating that\npunishment of fine alone could be justified? The second question is as to whether the circumstances pleaded by the respondent\njustify taking a lenient view in the matter. The prevalence of such guidelines may not\nonly aim at achieving consistencies in awarding sentences in different cases, such\nguidelines normally prescribe the sentencing policy as well, namely, whether the\npurpose of awarding punishment in a particular case is more of a deterrence or\nretribution or rehabilitation, etc. In this backdrop, the question is as to whether the respondent being a\nlady and having three minor children will be extenuating reasons? I may add that it would\ndepend upon the facts of each case, whether it s | IPC: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423",
+      "metadata": {
+        "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "307",
+          "114",
+          "328",
+          "392",
+          "34",
+          "386",
+          "154",
+          "397",
+          "377",
+          "378",
+          "53",
+          "309",
+          "390",
+          "4",
+          "16",
+          "33A",
+          "18",
+          "27",
+          "28",
+          "325",
+          "63",
+          "329",
+          "302",
+          "423"
+        ],
+        "actions": [
+          "robbed"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of H.P vs Nirmala Devi on 10 April, 2017\n(2017) 6 MH LJ (CRI) 356, (2017) 6 MH LJ (CRI) 356\nAuthor: A.K. 8983 of 2012]\n|STATE OF HIMACHAL PRADESH |.....APPELLANT(S) |\n| | |\n|VERSUS | |\n|NIRMALA DEVI |.....RESPONDENT(S) |\nJ U D G M E N T\nA.K. At that stage, respondent absented\nfrom court and was declared a proclaimed offender. Later on, the respondent was apprehended and\nbrought to trial and testimony of remaining prosecution witnesses were recorded in her case. 12,000/- was recovered from the respondent which was also ordered to be released to the\ncomplainant. The respondent filed an appeal against the judgment dated 5th March, 2003 passed by the Sessions\nJudge in the High Court. Concluding paragraph of the impugned\njudgment giving reasons for taking this course of action is reproduced below:\nappearing for the appellant, who submits that the appellant is a lady and looking after\nher three minor sons out of them two are mentally unsound and in these\ncircumstances, the Court should take a lenient view. What I find further\nis that the appellant has also absconded during the trial and cannot be considered to\nbe such an innocent person. He stated therein that on\n22nd August, 2000, he left his house situated at Preet Nagar, Jammu at around 8.40\nA.M. At that point of time, the complainantState Of H.P vs Nirmala Devi on 10 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/36490022/ 2\nhad a sum of Rs. Then, Krishan Lal took him to the house of\none lady (respondent herein). It is on the aforesaid allegations that the respondent\nalong with Krishan Lal were fasten with the charges under Sections 328, 392, 307\nread with Section 34 of the IPC. As pointed above, prosecution was able to\nsubstantiate the aforesaid allegations resulting into the conviction of the respondent. To put it in nutshell, the prosecution succeeded in proving, beyond reasonable doubt,\nthat respondent in furtherance of common intention with her co-accused had\nadministered stupefying intoxicating substance to the complainant with intent to\ncommission of offence, that is, theft of currency notes of the complainant and in the\nprocess attempted to kill the complainant as well.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of H.P vs Nirmala Devi on 10 April, 2017 | Arguments: State Of H.P vs Nirmala Devi on 10 April, 2017\n(2017) 6 MH LJ (CRI) 356, (2017) 6 MH LJ (CRI) 356\nAuthor: A.K. 8983 of 2012]\n|STATE OF HIMACHAL PRADESH |.....APPELLANT(S) |\n| | |\n|VERSUS | |\n|NIRMALA DEVI |.....RESPONDENT(S) |\nJ U D G M E N T\nA.K. At that stage, respondent absented\nfrom court and was declared a proclaimed offender. Later on, the respondent was apprehended and\nbrought to trial and testimony of remaining prosecution witnesses were recorded in her case. 12,000/- was recovered from the respondent which was also ordered to be released to the\ncomplainant. The respondent filed an appeal against the judgment dated 5th March, 2003 passed by the Sessions\nJudge in the High Court. Concluding paragraph of the impugned\njudgment giving reasons for taking this course of action is reproduced below:\nappearing for the appellant, who submits that the appellant is a lady and looking after\nher three minor sons out of them two are mentally unsound and in these\ncircumstances, the Court should | Intent: intentional | IPC: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "307",
+          "114",
+          "328",
+          "392",
+          "34",
+          "386",
+          "154",
+          "397",
+          "377",
+          "378",
+          "53",
+          "309",
+          "390",
+          "4",
+          "16",
+          "33A",
+          "18",
+          "27",
+          "28",
+          "325",
+          "63",
+          "329",
+          "302",
+          "423"
+        ],
+        "actions": [
+          "robbed"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sikri\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. The High Court has affirmed the conviction. This fact was also urged before\nthe learned trial court which has taken a lenient view of the case. To that extent,\nthe judgment of the High Court has attained finality. The record shows that it was pleaded before the trial court that\npersuaded the trial court to take a lenient view. Union of India & Ors.[1] and the Court explained that in such\ncircumstances, it is imperative to impose both the sentences i.e. Thus, the very\napproach of the High Court in substituting the sentence by fine alone is\nimpermissible in law. Section 386 of the Code of Criminal Procedure enlists the powers of the appellate\ncourt while hearing the appeals from the trial court. In an appeal from conviction, if\nthe conviction is maintained, the appellate court has the power to alter the nature or\nthe extent, or the nature and extent, of the sentence (though it cannot enhance the\nsame). In Zunjarrao Bhikaji Nagarkar’s case, it was impressed upon by this Court that the\npenalty to be imposed has to commensurate with the gravity of the offence. In the absence of such guidelines in India, the\ncourts go by their own perception about the philosophy behind the prescription of\ncertain specified penal consequences for particular nature of crime. Sometimes, it would be a combination of both which would weigh in the mind of the\ncourt in awarding a particular sentence. Therefore, in respect of such offences which are treated against the society, it becomes the duty of\nthe State to punish the offender. Thus, even when there is a settlement between the offender and the\nvictim, their will would not prevail as in such cases the matter is in public domain. We find, in practice and in reality,\nafter recording the conviction and while awarding the sentence/punishment the court is generally\ngoverned by any or all or combination of the aforesaid factors. In such cases, the deterrence as purpose of punishment becomes\nparamount and even if the victim or his relatives have shown the virtue and gentility, agreeing to\nforgive the culprit, compassion of that private party would not move the court in accepting the same\nas larger and more important public policy of showing the iron hand of law to the wrongdoers, to\nreduce the commission of such offences, is more important.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of H.P vs Nirmala Devi on 10 April, 2017 | Judicial reasoning: Sikri\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. The High Court has affirmed the conviction. This fact was also urged before\nthe learned trial court which has taken a lenient view of the case. To that extent,\nthe judgment of the High Court has attained finality. The record shows that it was pleaded before the trial court that\npersuaded the trial court to take a lenient view. Union of India & Ors.[1] and the Court explained that in such\ncircumstances, it is imperative to impose both the sentences i.e. Thus, the very\napproach of the High Court in substituting the sentence by fine alone is\nimpermissible in law. Section 386 of the Code of Criminal Procedure enlists the powers of the appellate\ncourt while hearing the appeals from the trial court. In an appeal from conviction, if\nthe conviction is maintained, the appellate court has the power to alter the nature or\nthe extent, or the nature and extent, of the sentence (though it cannot enhanc | Intent: intentional | Outcome: death | IPC: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423",
+      "metadata": {
+        "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "307",
+          "114",
+          "328",
+          "392",
+          "34",
+          "386",
+          "154",
+          "397",
+          "377",
+          "378",
+          "53",
+          "309",
+          "390",
+          "4",
+          "16",
+          "33A",
+          "18",
+          "27",
+          "28",
+          "325",
+          "63",
+          "329",
+          "302",
+          "423"
+        ],
+        "actions": [
+          "robbed"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Thereafter, trial proceeded against Krishan Lal\nSharma, who was convicted for committing offences under the aforesaid provisions, for which he\nwas charged, vide judgment dated 19th April, 2002. It\nculminated in the judgment dated 27th February, 2003 whereby the Sessions Judge convicted the\nAs a consequence, order of sentence was passed on 5th March, 2003. She was inflicted with the\npunishments of simple imprisonment for a period of two years and fine in the sum of Rs. 2,000/-, in\ndefault of payment of which to undergo imprisonment for a further period of three months, for the\noffence each punishable under Sections 328, 307 and 392 IPC with direction that all the substantive\nsentences were to run concurrently.State Of H.P vs Nirmala Devi on 10 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/36490022/ 1\nFine of Rs. However, insofar as award of\nsentence is concerned, it is drastically modified by removing imprisonment part of the sentence and\nsubstituting the same with fine simplicitor of Rs. However, on the conspectus of the material on record, it\nwould be in the fitness of things in the case the sentence of imprisonment under each\nhead is set aside and instead a fine of Rs. 30,0/- is imposed upon the appellant with a\ndirection that the amount be deposited in the Court of learned Sessions Judge,\nChamba, Division Chamba within a period of six months from today failing which the\nsentence of imprisonment shall revive. On the contrary, it is the State\nwhich has filed the Special Leave Petition under Article 136 of the Constitution (out\nof which present appeal arises), questioning the validity, propriety and justification of\nthe impugned order whereby the sentence of imprisonment is set aside and\nconfined their submissions on this aspect alone. Before examining the issue raised, it would be apposite to take note of the\nprosecution case against the respondent for which she stands convicted. At this juncture, I would like to reproduce the provisions under which the respondent\nhas been convicted. with intent to commit an offence:\nWhoever administers to or causes to be taken by any person any poison or any\nstupefying, intoxicating or unwholesome drug, or other thing with intent to cause\nhurt to such person, or with intent to commit or to facilitate the commission of an\noffence or knowing it to be likely that he will thereby cause hurt, shall be punished\nwith imprisonment of either description for a term which may extend to ten years,\nand shall also be liable to fine.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of H.P vs Nirmala Devi on 10 April, 2017 | Final judgment: Thereafter, trial proceeded against Krishan Lal\nSharma, who was convicted for committing offences under the aforesaid provisions, for which he\nwas charged, vide judgment dated 19th April, 2002. It\nculminated in the judgment dated 27th February, 2003 whereby the Sessions Judge convicted the\nAs a consequence, order of sentence was passed on 5th March, 2003. She was inflicted with the\npunishments of simple imprisonment for a period of two years and fine in the sum of Rs. 2,000/-, in\ndefault of payment of which to undergo imprisonment for a further period of three months, for the\noffence each punishable under Sections 328, 307 and 392 IPC with direction that all the substantive\nsentences were to run concurrently.State Of H.P vs Nirmala Devi on 10 April, 2017\nIndian Kanoon - http://indiankanoon.org/doc/36490022/ 1\nFine of Rs. However, insofar as award of\nsentence is concerned, it is drastically modified by removing imprisonment part of the sentence and\nsubstituting the same with fine simpli | Judgment: convicted | IPC: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423",
+      "metadata": {
+        "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "307",
+          "114",
+          "328",
+          "392",
+          "34",
+          "386",
+          "154",
+          "397",
+          "377",
+          "378",
+          "53",
+          "309",
+          "390",
+          "4",
+          "16",
+          "33A",
+          "18",
+          "27",
+          "28",
+          "325",
+          "63",
+          "329",
+          "302",
+          "423"
+        ],
+        "actions": [
+          "robbed"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "ipc_summary",
+      "text": "Applicable IPC Sections: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423. Actions: robbed. Weapon: poison. Outcome: death. Judgment: convicted.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of H.P vs Nirmala Devi on 10 April, 2017 | Final judgment: Applicable IPC Sections: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423. Actions: robbed. Weapon: poison. Outcome: death. Judgment: convicted. | Judgment: convicted | IPC: 307, 114, 328, 392, 34, 386, 154, 397, 377, 378, 53, 309, 390, 4, 16, 33A, 18, 27, 28, 325, 63, 329, 302, 423",
+      "metadata": {
+        "case_name": "State Of H.P vs Nirmala Devi on 10 April, 2017",
+        "chunk_type": "ipc_summary",
+        "ipc_sections": [
+          "307",
+          "114",
+          "328",
+          "392",
+          "34",
+          "386",
+          "154",
+          "397",
+          "377",
+          "378",
+          "53",
+          "309",
+          "390",
+          "4",
+          "16",
+          "33A",
+          "18",
+          "27",
+          "28",
+          "325",
+          "63",
+          "329",
+          "302",
+          "423"
+        ],
+        "actions": [
+          "robbed"
+        ],
+        "weapon": "poison",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    }
+  ]
+}

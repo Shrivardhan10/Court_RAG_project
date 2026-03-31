@@ -1,0 +1,122 @@
+{
+  "case_id": "Satyabrata_Barik_Mithu_vs_The_State_Of_West_Bengal_Anr_on_19_July_2024",
+  "case_name": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "CRAN 1 of 2024\nSatyabrata Barik @ Mithu. Vs. With\nCRR 4188 of 2017\nSujata Dutta\nVs. of 2017 & opposite party no. 2 Mr. Mrityunjoy Halder. Adv. in CRR 1124 of 2018\nOf 2018 & opposite party nos. Mr. Souvik Nandy, Adv. 2 in CRR 4188 of 2017 Mr. Soumya Nag, Adv. A Sinha, Ld.APP. 2018 Mr. Saryati Datta, Adv. :\n1. Prayer for quashment of proceedings in connection with A.C.G.R. No. 715 of 2016 dated 24.12.2016 under Sections 354C/354D of the Indian Penal\nCode (for short IPC) has been sought in this instant revision application being no. CRR 1124 of 2018. 2. Both this revision applications are taken up together for disposal via this common judgement. Factual Backdrop:-\n4. The opposite party no. 2 herein on 24.12.2016 lodged a written complaint to the Haridevpur\nPolice Station which gave rise to Haridevpur PS Case No. 715 of 2016 alleging inter alia that\nwhenever the complainant with her daughter used to go to school or market or for private tuition, it\ncame to her notice that the petitioner used to watch and follow them which disturbed the opposite\nparty no. 2. Since apart, the accused/petitioner captured her photographs/images of the opposite\nparty no. 2 on his camera and mobile phone on different occasions which was duly reported to the\npolice station from time to time. But, lastly on 22.12.2016 at about 3.30 p.m. the petitioner allegedly\ncaptured photographs/images secretly from his residence, while the complainant was standing on\nthe road in front of her residential building. After noticing a flash when the opposite party no. 2\nlooked at the residence of the petitioner, then he fled inside the building. After apprehending that\nthe accused/petitioner might have used photographs of the opposite party no. 2 for any wrongful\npurpose, the opposite party filed the complaint. 5. On receipt of such information Haridevpur P.S. started investigation and after completion of\ninvestigation filed charge sheet against the sole accused/petitioner under Section 354C/354D of the\nIPC. Thereafter, the petitioner surrendered and enlarged on bail.",
+      "embedding_text": "FACT_CHUNK | Case: Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on | Facts: CRAN 1 of 2024\nSatyabrata Barik @ Mithu. Vs. With\nCRR 4188 of 2017\nSujata Dutta\nVs. of 2017 & opposite party no. 2 Mr. Mrityunjoy Halder. Adv. in CRR 1124 of 2018\nOf 2018 & opposite party nos. Mr. Souvik Nandy, Adv. 2 in CRR 4188 of 2017 Mr. Soumya Nag, Adv. A Sinha, Ld.APP. 2018 Mr. Saryati Datta, Adv. :\n1. Prayer for quashment of proceedings in connection with A.C.G.R. No. 715 of 2016 dated 24.12.2016 under Sections 354C/354D of the Indian Penal\nCode (for short IPC) has been sought in this instant revision application being no. CRR 1124 of 2018. 2. Both this revision applications are taken up together for disposal via this common judgement. Factual Backdrop:-\n4. The opposite party no. 2 herein on 24.12.2016 lodged a written complaint to the Haridevpur\nPolice Station which gave rise to Haridevpur PS Case No. 715 of 2016 alleging inter alia that\nwhenever the complainant with her daughter used to go to school or market or for private tuition, it\ncame to her notice that the petitioner us | Actions: assaulted | Weapon: unknown | Outcome: unknown | IPC: 354C, 354D, 482",
+      "metadata": {
+        "case_name": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "354C",
+          "354D",
+          "482"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "While exercising jurisdiction under Section 482 of the Cr.P.C the real test for the High Court is to\nassess whether the allegation made in the complaint discloses a cognizable offence or not. Magistrate is required to apply\nhis judicial mind only with a view to ascertain whether a prima facie case is made out\nfor summoning the accused persons. At this stage, the Magistrate is not required to\nconsider the defence version nor he is required to evaluate the merits of the materials\nor evidence of the complainant, because the Magistrate must not undertake the\nexercise to find out at this stage whether the materials would lead to conviction orSatyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon.org/doc/147755949/ 4\nnot. The real test is whether the\nallegations in the complaint discloses a cognizable offence or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on | Legal issues: While exercising jurisdiction under Section 482 of the Cr.P.C the real test for the High Court is to\nassess whether the allegation made in the complaint discloses a cognizable offence or not. Magistrate is required to apply\nhis judicial mind only with a view to ascertain whether a prima facie case is made out\nfor summoning the accused persons. At this stage, the Magistrate is not required to\nconsider the defence version nor he is required to evaluate the merits of the materials\nor evidence of the complainant, because the Magistrate must not undertake the\nexercise to find out at this stage whether the materials would lead to conviction orSatyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon.org/doc/147755949/ 4\nnot. The real test is whether the\nallegations in the complaint discloses a cognizable offence or not. | IPC: 354C, 354D, 482",
+      "metadata": {
+        "case_name": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "354C",
+          "354D",
+          "482"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on\n19 July, 2024\n1\nIN THE HIGH COURT AT CALCUTTA\nCRIMINAL REVISIONAL JURISDICTION\nAPPELLATE SIDE\nCRR 1124 of 2018\nIA No. The State of West Bengal & Anr. State of West Bengal & Ors. For the State in CRR 1124 of :Mr. Heard On : :22.08.2023,01.09.2023,\n26.09.2023, 07.12.2023,\n2\n07.12.2023, 11.12.2023,\n21.12.2023, 25.01.2024,\n01.03.2024, 01.05.2024,\n13.05.2024, 21.05.2024,\n24.06.2024\nJudgment On : :19.07.2024Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon.org/doc/147755949/ 1\nBibhas Ranjan De, J. Arguments Advanced:-\nWith respect to CRR 1124 of 2018:-\nthat the entire dispute by and between the parties at best relate to disputes which are purely civil in\nnature and no criminal proceeding should be allowed to proceed further in connection with the\ninstant case.Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon.org/doc/147755949/ 2\n9. Chatterjee has further argued that the facts and circumstances of the instant case make it\namply clear that the opposite party no. State of Uttar Pradesh & Ors. State of Uttar\nPradesh & Ors. reported in 2023 SCC OnLine SC 948  State of Haryana & Ors. reported in 1992 Supp (1) SCC 335  Vineet Kumar Goel vs State of\nUttar Pradesh and Anr reported in 2017 (13) SCC 369  Ahmad Ali Quarashi & Anr\nvs. State of Uttar Pradesh and Anr reported in 2020 (13) SCC 435  Raj Kumar\nMondal vs. State of West Bengal reported in 2021 SCC OnLine Cal 2069\n13. Dutta has argued that the High Court should not generally exercise\npower under Section 482 of the Cr.P.C. Dutta relied on a following cases:-Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon.org/doc/147755949/ 3\n Rakhi Mishra vs. State of Bihar reported in   Vijayander Kumar\n& Ors. State of Rajasthan & Anr. State (Delhi Administration) & Anr.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on | Arguments: Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on\n19 July, 2024\n1\nIN THE HIGH COURT AT CALCUTTA\nCRIMINAL REVISIONAL JURISDICTION\nAPPELLATE SIDE\nCRR 1124 of 2018\nIA No. The State of West Bengal & Anr. State of West Bengal & Ors. For the State in CRR 1124 of :Mr. Heard On : :22.08.2023,01.09.2023,\n26.09.2023, 07.12.2023,\n2\n07.12.2023, 11.12.2023,\n21.12.2023, 25.01.2024,\n01.03.2024, 01.05.2024,\n13.05.2024, 21.05.2024,\n24.06.2024\nJudgment On : :19.07.2024Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon.org/doc/147755949/ 1\nBibhas Ranjan De, J. Arguments Advanced:-\nWith respect to CRR 1124 of 2018:-\nthat the entire dispute by and between the parties at best relate to disputes which are purely civil in\nnature and no criminal proceeding should be allowed to proceed further in connection with the\ninstant case.Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on 19 July, 2024\nIndian Kanoon - http://indiankanoon. | Intent: intentional | IPC: 354C, 354D, 482 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "354C",
+          "354D",
+          "482"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "7195 of 2016 presently\npending before the Court of Ld. Judicial Magistrate, 6th Court, Alipore arising out of Haridevpur\nPolice Station Case No. The prayer for speedy disposal of the proceeding in connection with that instant case which is\npending before the Court of Ld. Judicial Magistrate, 6th Court, Alipore has been made by the\n3. Chatterjee has referred the impugned charge sheet wherein it was\nobserved that during the course of investigation no evidence or witness could be found to\nsubstantiate the claim of the complainant. Chatterjee has tried to\nmake this Court understand that no case has been made out against the petitioners under Sections\n354C/354D of the IPC. after order of taking cognizance and issuance of process\nagainst the accused is being given by the Court below. Chatterjee following ratios have come\nup for consideration which can be summarized as follows for brevity of discussion:-\n Inherent power given to the High Court under Section 482 of Cr.P.C is with the\npurpose and object of advancement of justice. In case the process of Court is tried to\nbe abused by any person, the Court has to thwart that attempt at the very threshold.  If the Court is satisfied that the criminal proceeding initiated by the complainant is\nwith an ulterior motive due to private and personal grudge then that proceeding is\nliable to be quashed.  If the petitioner comes before the Court invoking either the inherent powers under\nSection 482 of the Code of Criminal Procedure (CrPC) or extraordinary jurisdiction\nunder Article 226 of the Constitution to get the FIR or the criminal proceedings\nquashed essentially on the ground that such proceedings are manifestly frivolous or\nvexatious or instituted with the ulterior motive for wreaking vengeance, then in such\ncircumstances the Court owes a duty to look into the FIR with care and a little more\nclosely.  In frivolous or vexatious proceedings, the Court owes a duty to look into\nmany other attending circumstances emerging from the record of the case over and\nabove the averments and, if need be, with due care and circumspection try to read in\nbetween the lines in order to exercise jurisdiction under Section 482 of the Cr.P.C.",
+      "embedding_text": "REASONING_CHUNK | Case: Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on | Judicial reasoning: 7195 of 2016 presently\npending before the Court of Ld. Judicial Magistrate, 6th Court, Alipore arising out of Haridevpur\nPolice Station Case No. The prayer for speedy disposal of the proceeding in connection with that instant case which is\npending before the Court of Ld. Judicial Magistrate, 6th Court, Alipore has been made by the\n3. Chatterjee has referred the impugned charge sheet wherein it was\nobserved that during the course of investigation no evidence or witness could be found to\nsubstantiate the claim of the complainant. Chatterjee has tried to\nmake this Court understand that no case has been made out against the petitioners under Sections\n354C/354D of the IPC. after order of taking cognizance and issuance of process\nagainst the accused is being given by the Court below. Chatterjee following ratios have come\nup for consideration which can be summarized as follows for brevity of discussion:-\n Inherent power given to the High Court under Section 482 of Cr.P.C is with the\npurpose  | Intent: intentional | Outcome: unknown | IPC: 354C, 354D, 482",
+      "metadata": {
+        "case_name": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "354C",
+          "354D",
+          "482"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Voyeurism.- Any man who watches, or captures the image of a woman\nengaging in a private act in circumstances where she would usually have the\nexpectation of not being observed either by the perpetrator or by any other person at\nthe behest of the perpetrator or disseminates such image shall be punished on first\nconviction with imprisonment of either description for a term which shall not be less\nthan one year, but which may extend to three years, and shall also be liable to fine,\nand be punished on a second or subsequent conviction, with imprisonment of either\ndescription for a term which shall not be less than three years, but which may extend\nto seven years, and shall also be liable to fine. (2) Whoever commits the offence of stalking shall be punished on first conviction with\nimprisonment of either description for a term which may extend to three years, and shall also be\nliable to fine; and be punished on a second or subsequent conviction, with imprisonment of either\ndescription for a term which may extend to five years, and shall also be liable to fine.\"\n21. 29. The discussions made in the foregoing paragraphs, in my humble view, leads to a position that\nthe aforesaid parameters squarely attracts to the case at hand. As a result, the proceeding in\nconnection with Haridevpur Police Station Case No. 31. As a sequel, the revision application being no. CRR 1124 of 2018 stands allowed. With respect to CRR 4188 of 2017:-\n32. Pursuant to the decisions in CRR 1124 of 2018, question of speedy disposal of the proceeding in\nconnection with Haridevpur Police Station Case No. 715 of 2016 dated 24.12.2016 does not arise. 33. CRR 4188 of 2017 stands dismissed being infractuous. 34. Interim order, if there be any, stands vacated. 35. Connected applications, if there be any, stand disposed of accordingly. 36. 37. Urgent Photostat certified copy of this order, if applied for, be supplied to the parties upon\ncompliance with all requisite formalities.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on | Final judgment: Voyeurism.- Any man who watches, or captures the image of a woman\nengaging in a private act in circumstances where she would usually have the\nexpectation of not being observed either by the perpetrator or by any other person at\nthe behest of the perpetrator or disseminates such image shall be punished on first\nconviction with imprisonment of either description for a term which shall not be less\nthan one year, but which may extend to three years, and shall also be liable to fine,\nand be punished on a second or subsequent conviction, with imprisonment of either\ndescription for a term which shall not be less than three years, but which may extend\nto seven years, and shall also be liable to fine. (2) Whoever commits the offence of stalking shall be punished on first conviction with\nimprisonment of either description for a term which may extend to three years, and shall also be\nliable to fine; and be punished on a second or subsequent conviction, with imprisonment of either\ndescription for  | Judgment: sentenced | IPC: 354C, 354D, 482",
+      "metadata": {
+        "case_name": "Satyabrata Barik @ Mithu vs The State Of West Bengal & Anr on",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "354C",
+          "354D",
+          "482"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    }
+  ]
+}

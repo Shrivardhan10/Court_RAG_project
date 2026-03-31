@@ -1,0 +1,142 @@
+{
+  "case_id": "Anurag_Soni_vs_The_State_Of_Chhattisgarh_on_9_April_2019",
+  "case_name": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Shah\nBench: M. R. Shah, L. SHAH, J. The application for impleadment of the prosecutrix is allowed, in terms of the prayer made. 1.1 Leave granted. 2. 3. The prosecution case in brief was that the prosecutrix was the resident of Koni, Bilaspur, District\nBilaspur. Prosecutrix was familiar with the accused since 2009 and there was love affair between\nthem. At the time of incident, accused was posted as Junior Doctor in the\ngovernment hospital of Maalkharoda and at that time the prosecutrix was doing her studies of\nPharmacy in Bhilai. On 28.4.2013 the accused expressed his desire to the prosecutrix that he wanted\nto meet her and accordingly on 29.4.2013 at 7.25 a.m. the prosecutrix boarded Durg Danapur\nExpress train and reached Sakti railway station from where the accused took her on a motorcycle to\nhis house situated at Maalkharoda and there she stayed from 2 pm of 29.4.2013 to 3 p.m. of\n30.4.2013 and during this period despite refusal of the prosecutrix the accused established physical\nrelation with her on the pretext of marrying her. On 30.4.2013 the accused asked the prosecutrix to\nleave by saying that on 1st or 2nd May he will talk to his parents about their marriage and he will\nsoon marry with her. On 30.4.2013 at about 6 in the evening accused Anurag Soni and the\nprosecutrix reached Bilaspur by train and from where their friend namely Umashankar took them\non a motorcycle to the house of Mallika Humne, friend of prosecutrix, where the accused dropped\nher and went back. Next morning accused dropped the prosecutrix at Railway Station, Bilaspur from\nwhere she boarded train for Bhilai (Durg). Accused asked the prosecutrix not to tell about the\nincident to anyone and as a result of which the prosecutrix did not disclose the incident to anyone,\nbut from 2.5.2013 to 5.5.2013 the prosecutrix had repeatedly asked from the accused about the\nmarriage and when she did not receive any reply from the accused, on 6.5.2013, she informed her\nfamily members about the incident and then the family members of the prosecutrix had gone to the\nhouse of accused at village Kharod and informed his family members about the incident whereupon\nthe family members of accused had said that now marriage of accused and prosecutrix was the only\noption available.",
+      "embedding_text": "FACT_CHUNK | Case: Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019 | Facts: Shah\nBench: M. R. Shah, L. SHAH, J. The application for impleadment of the prosecutrix is allowed, in terms of the prayer made. 1.1 Leave granted. 2. 3. The prosecution case in brief was that the prosecutrix was the resident of Koni, Bilaspur, District\nBilaspur. Prosecutrix was familiar with the accused since 2009 and there was love affair between\nthem. At the time of incident, accused was posted as Junior Doctor in the\ngovernment hospital of Maalkharoda and at that time the prosecutrix was doing her studies of\nPharmacy in Bhilai. On 28.4.2013 the accused expressed his desire to the prosecutrix that he wanted\nto meet her and accordingly on 29.4.2013 at 7.25 a.m. the prosecutrix boarded Durg Danapur\nExpress train and reached Sakti railway station from where the accused took her on a motorcycle to\nhis house situated at Maalkharoda and there she stayed from 2 pm of 29.4.2013 to 3 p.m. of\n30.4.2013 and during this period despite refusal of the prosecutrix the accused established physical\nr | Actions: raped | Weapon: unknown | Outcome: death | IPC: 376, 313, 375, 90, 114, 417, 506",
+      "metadata": {
+        "case_name": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "376",
+          "313",
+          "375",
+          "90",
+          "114",
+          "417",
+          "506"
+        ],
+        "actions": [
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether there was consent or not, is to be ascertained only on a careful study of all\nrelevant circumstances. There is a clear distinction\nbetween rape and consensual sex and in a case like this, the court must very carefully\nexamine whether the accused had actually wanted to marry the victim, or had mala\nfide motives, and had made a false promise to this effect only to satisfy his lust, as the\nlatter falls within the ambit of cheating or deception. The question in the present case is whether this conduct of the accused apparently\nfalls under any of the six descriptions of Section 375 IPC as mentioned above. Presumption as to absence of consent in certain prosecutions for rape.—In a\nprosecution for rape under clause (a) or clause (b) or clause\n(c) or clause (d) or clause (e) or clause (g) of sub− section (2) of Section 376 of the\nIndian Penal Code (45 of 1860), where sexual intercourse by the accused is proved\nand the question is whether it was without the consent of the woman alleged to have\nbeen raped and she states in her evidence before the court that she did not consent,\nthe court shall presume that she did not consent.”\n16. We\nhave to examine as to whether in the present case, the accused is guilty of the act of\nsexual intercourse with the prosecutrix “against her consent”. The court, in\nsuch cases, must very carefully examine whether the complainant had actually\nwanted to marry the victim or had mala fide motives and had made a false promise to\nthis effect only to satisfy his lust, as the later falls within the ambit of cheating or\ndeception. Whether consent given\nby the prosecutrix to sexual intercourse is voluntary or whether it is given under\n\"misconception of fact\" depends on the facts of each case.",
+      "embedding_text": "ISSUE_CHUNK | Case: Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019 | Legal issues: Whether there was consent or not, is to be ascertained only on a careful study of all\nrelevant circumstances. There is a clear distinction\nbetween rape and consensual sex and in a case like this, the court must very carefully\nexamine whether the accused had actually wanted to marry the victim, or had mala\nfide motives, and had made a false promise to this effect only to satisfy his lust, as the\nlatter falls within the ambit of cheating or deception. The question in the present case is whether this conduct of the accused apparently\nfalls under any of the six descriptions of Section 375 IPC as mentioned above. Presumption as to absence of consent in certain prosecutions for rape.—In a\nprosecution for rape under clause (a) or clause (b) or clause\n(c) or clause (d) or clause (e) or clause (g) of sub− section (2) of Section 376 of the\nIndian Penal Code (45 of 1860), where sexual intercourse by the accused is proved\nand the question is whether it was without the consent of the woman alleged  | IPC: 376, 313, 375, 90, 114, 417, 506",
+      "metadata": {
+        "case_name": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "376",
+          "313",
+          "375",
+          "90",
+          "114",
+          "417",
+          "506"
+        ],
+        "actions": [
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\n303, 2019 CRI LJ 2508, ILR 2019 SC 1046, (2019) 200 ALLINDCAS 116 (SC),\n(2019) 108 ALLCRIC 931, 2019 (13) SCC 1, (2019) 200 ALLINDCAS 116, (2019)\n2 ALD(CRL) 404, (2019) 2 ALLCRILR 744, (2019) 2 ALLCRIR 1952, (2019) 2\nCRILR(RAJ) 620, (2019) 2 CRIMES 162, (2019) 2 PAT LJR 371, (2019) 2\nRECCRIR 852, (2019) 2 UC 939, 2019 (4) KCCR SN 240 (SC), (2019) 6 SCALE\n211, (2019) 74 OCR 570, 2019 CRILR(SC MAH GUJ) 620, AIR 2019 SC( CRI)\n1093\nAuthor: M.R. 629 OF 2019\n(Arising out of SLP(Criminal) No.618/2019)\nAnurag Soni …Appellant\nVersus\nState of Chhattisgarh …Respondent\nJUDGMENT\nM.R. The appellant had even proposed her for marriage and this fact was within the knowledge of\ntheir respective family members. 3.1 That\nduring the course of investigation, the investigating officer recorded the statement of concerned\nwitnesses including the prosecutrix. Srimati Priyanka Soni PW13 3.4 After the closing pursis were submitted by the\nprosecution, three witnesses were examined on behalf of the accused in defence. The\nstatement of appellant−accused was recorded under Section 313 of the Cr.P.C. Nagamuthu, learned Senior Advocate has appeared on behalf of the accused and Shri\nPranav Sachdeva and Shri Praveen Chaturvedi, learned advocates have appeared on behalf of the\nState as well as the original complainant – prosecutrix respectively. It is submitted that it was the specific case on behalf of the accused, so stated in his 313\nstatement, that as such the prosecutrix and her family members were in the knowledge that the\nmarriage of the appellant is already fixed with Priyanka Soni and even then the prosecutrix and her\nfamily members continued to pressurise the accused to marry the prosecutrix. The State of\nMaharashtra (2019) SCC Online 3100; Tilak Raj v. State of Himachal Pradesh ;\nDeepak Gulati v. State of Haryana ; Uday v. State of Karnataka ;\nDeelip Singh v. State of Bihar ; and Shivashankar alias Shiva v. State of Karnataka\nsubmitted that in fact thereafter the accused has married one Priyanka Soni and even the\nprosecutrix also got married.Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 4\n6.7 Making the above submissions and relying upon the above decisions, it is prayed to allow the\nthe offence under Section 376 of the IPC.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019 | Arguments: Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\n303, 2019 CRI LJ 2508, ILR 2019 SC 1046, (2019) 200 ALLINDCAS 116 (SC),\n(2019) 108 ALLCRIC 931, 2019 (13) SCC 1, (2019) 200 ALLINDCAS 116, (2019)\n2 ALD(CRL) 404, (2019) 2 ALLCRILR 744, (2019) 2 ALLCRIR 1952, (2019) 2\nCRILR(RAJ) 620, (2019) 2 CRIMES 162, (2019) 2 PAT LJR 371, (2019) 2\nRECCRIR 852, (2019) 2 UC 939, 2019 (4) KCCR SN 240 (SC), (2019) 6 SCALE\n211, (2019) 74 OCR 570, 2019 CRILR(SC MAH GUJ) 620, AIR 2019 SC( CRI)\n1093\nAuthor: M.R. 629 OF 2019\n(Arising out of SLP(Criminal) No.618/2019)\nAnurag Soni …Appellant\nVersus\nState of Chhattisgarh …Respondent\nJUDGMENT\nM.R. The appellant had even proposed her for marriage and this fact was within the knowledge of\ntheir respective family members. 3.1 That\nduring the course of investigation, the investigating officer recorded the statement of concerned\nwitnesses including the prosecutrix. Srimati Priyanka Soni PW13 3.4 After the closing pursis were submitted by the\nprosecution, three | Intent: intentional | IPC: 376, 313, 375, 90, 114, 417, 506 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "376",
+          "313",
+          "375",
+          "90",
+          "114",
+          "417",
+          "506"
+        ],
+        "actions": [
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Nageswara Rao\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Feeling aggrieved and dissatisfied with the impugned judgment and order dated 10.10.2018\npassed by the High Court of Chhattisgarh at Bilaspur in Criminal Appeal No. 3.2 That the learned magistrate committed the case to the learned Sessions Court, which was\nnumbered as Sessions Trial No. That the learned Sessions Court framed the charge\nagainst the accused for the offence under Section 376 of the IPC. The accused denied the charge so\nframed and claimed trial, and therefore he came to be tried by the learned Sessions Court for the\naforesaid offence.Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 2\n3.3 The prosecution in support of its case examined as many as 13 witnesses including the\nprosecutrix (PW3) as under:\n1. Therefore, it was the case on behalf of the accused that a false FIR was lodged against him. That on appreciation of evidence, the learned Sessions Court observed and held that the\nprosecutrix gave consent for sexual intercourse on a misrepresentation of fact and the promise by\nthe accused that he would marry the prosecutrix and therefore the said consent cannot be said to be\na consent and therefore the accused committed the offence under Section 376 of the IPC. Feeling aggrieved and dissatisfied with the judgment and order of conviction and sentence passed\nby the learned Sessions Court, the accused preferred appeal before the High Court. By the impugned\njudgment and order, the High Court has dismissed the appeal and has confirmed the judgment and\norder passed by the learned Sessions Court convicting the accused for the offence under Section 376\nof the IPC. Feeling aggrieved and dissatisfied with the impugned judgment and order passed by the High\nCourt dismissing the appeal and confirming the conviction and sentence of the accused for the\noffence under Section 376 of the IPC, the original accused has preferred the present appeal. It is further submitted\nthat while convicting the accused for the offence under Section 376 of the IPC and while holding that\nthe accused committed the rape under Section 375 of the IPC, the courts below have not at all\nconsidered Section 90 of the IPC and Section 114−A of the Evidence Act in its true perspective.",
+      "embedding_text": "REASONING_CHUNK | Case: Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019 | Judicial reasoning: Nageswara Rao\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Feeling aggrieved and dissatisfied with the impugned judgment and order dated 10.10.2018\npassed by the High Court of Chhattisgarh at Bilaspur in Criminal Appeal No. 3.2 That the learned magistrate committed the case to the learned Sessions Court, which was\nnumbered as Sessions Trial No. That the learned Sessions Court framed the charge\nagainst the accused for the offence under Section 376 of the IPC. The accused denied the charge so\nframed and claimed trial, and therefore he came to be tried by the learned Sessions Court for the\naforesaid offence.Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 2\n3.3 The prosecution in support of its case examined as many as 13 witnesses including the\nprosecutrix (PW3) as under:\n1. Therefore, it was the case on behalf of the accused that a false FIR was lodged against him. That on app | Intent: intentional | Outcome: death | IPC: 376, 313, 375, 90, 114, 417, 506",
+      "metadata": {
+        "case_name": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "376",
+          "313",
+          "375",
+          "90",
+          "114",
+          "417",
+          "506"
+        ],
+        "actions": [
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "1270/2014, by which\nthe High Court has dismissed the said appeal preferred by the appellant herein – the original\naccused and has confirmed the judgment and order of conviction passed by the learned trial Court\nconvicting the original accused for the offence under Section 376(1) of the IPC and sentencing himAnurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 1\nto undergo rigorous imprisonment for 10 years and to pay a fine of Rs.50,000/−, in default of\npayment of fine, to further undergo additional rigorous imprisonment for six months, the original\naccused has preferred the present appeal. Thereupon, the learned Sessions Court convicted the accused for the offence under Section 376 of\nthe IPC and sentenced him to undergo 10 years rigorous imprisonment.Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 3\n5. In the present case, the accused has been convicted for the offence under Section 376 of the IPC. An accused can be\nconvicted for rape only if the court reaches a conclusion that the intention of the\naccused was mala fide, and that he had clandestine motives. Considering the\naforesaid facts and after considering Section 90 of the IPC, this Court convicted the accused for the\noffence under Section 376 of the IPC. Naushad ,\nin the similar facts and circumstances of the case, this Court reversed the acquittal by the High\nCourt and convicted the accused for the offence under Section 376 of the IPC. It is required\nto be noted that before this Court the accused was acquitted for the offence under Section 376 of the\nIPC, however, the High Court convicted him under Sections 417 and 506 of the IPC. 11.1 Even in\nthe case of Deepak Gulati (supra) it was observed that the accused can be convicted for rape if the\ncourt reaches the conclusion that the intention of the accused was mala fide, and that he had\nclandestine motives.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019 | Final judgment: 1270/2014, by which\nthe High Court has dismissed the said appeal preferred by the appellant herein – the original\naccused and has confirmed the judgment and order of conviction passed by the learned trial Court\nconvicting the original accused for the offence under Section 376(1) of the IPC and sentencing himAnurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 1\nto undergo rigorous imprisonment for 10 years and to pay a fine of Rs.50,000/−, in default of\npayment of fine, to further undergo additional rigorous imprisonment for six months, the original\naccused has preferred the present appeal. Thereupon, the learned Sessions Court convicted the accused for the offence under Section 376 of\nthe IPC and sentenced him to undergo 10 years rigorous imprisonment.Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019\nIndian Kanoon - http://indiankanoon.org/doc/110473731/ 3\n5. In the present case, the accused has been convicted for the | Judgment: convicted | IPC: 376, 313, 375, 90, 114, 417, 506",
+      "metadata": {
+        "case_name": "Anurag Soni vs The State Of Chhattisgarh on 9 April, 2019",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "376",
+          "313",
+          "375",
+          "90",
+          "114",
+          "417",
+          "506"
+        ],
+        "actions": [
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2019"
+      }
+    }
+  ]
+}

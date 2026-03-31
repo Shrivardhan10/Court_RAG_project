@@ -1,0 +1,111 @@
+{
+  "case_id": "Pardeep_Kumar_vs_Union_Administration_Chandigarh_on_18_August_2006",
+  "case_name": "Pardeep Kumar vs Union Administration, Chandigarh on 18",
+  "chunk_count": 4,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Pardeep Kumar vs Union Administration, Chandigarh on 18\nAugust, 2006\n2006 AIR SCW 4126, 2006 (5) AIR KANT HCR 570, 2007 (1) CALCRILR 357,\n2007 (1) SCC(CRI) 41, 2006 (8) SCALE 68, 2006 ALL MR(CRI) 3214, (2006) 46\nALLINDCAS 636 (SC), 2007 CALCRILR 1 357, (2007) 1 JCR 73 (SC), 2006 (46)\nALLINDCAS 636, 2006 CRILR(SC MAH GUJ) 727, 2006 (9) SRJ 194, (2006) 3\nALLCRIR 2873, (2006) 4 ALLCRILR 685, (2006) 3 RAJ CRI C 757, (2007) 1 RAJ\nLW 285, (2006) 4 RECCRIR 34, (2006) 6 SUPREME 379, (2006) 8 SCALE 68,\n(2006) 3 CHANDCRIC 129, (2006) 3 CRIMES 266, (2006) 2 CURLJ(CCR) 191,\n(2006) 2 ORISSA LR 636, (2006) 3 CURCRIR 230, 2007 CHANDLR(CIV&CRI)\n365, (2005) 2 KER LJ 151, (2005) 2 KER LT 998, 2005 FAJ 321, 2006\nCRILR(SC&MP) 727, (2007) 1 KER LJ 824, (2007) 1 MADLW(CRI) 354, (2006)\n35 OCR 312, (2006) 56 ALLCRIC 502, 2007 (2) ANDHLT(CRI) 56 SC, 2006 (2)\nALD(CRL) 600, (2007) 2 ANDHLT(CRI) 56, 2006 CHANDLR(CIV&CRI) 453\nAuthor: P.P. Naolekar\nBench: B.N. Agrawal, P.P. Naolekar\nCASE NO.:\nAppeal (crl.) 434 of 2005\nPARDEEP KUMAR\nUNION ADMINISTRATION, CHANDIGARH\nDATE OF JUDGMENT: 18/08/2006\nBENCH:\nB.N. AGRAWAL & P.P. NAOLEKAR\nJUDGMENT:\nJUDGMENT P.P. Naolekar, J. :\nAccused Lalit Gupta, Ashok Kumar alias Babbu, Pardeep Kumar and Karam Chand\nwere tried under Sections 366, 376, whereas accused-Inderjit Singh was tried under\nSection 376 read with Section 109 and Section 368 of the Indian Penal Code, 1860\n(for short \"IPC\"). Against the impugned judgment, accused- Pardeep\nKumar has preferred this appeal by special leave. The prosecution case as set out in the First\nInformation Report (FIR) is that the prosecutrix was living in House No. 3359, Sector 19D,\nChandigarh with her brother and mother. Accused-Lalit Gupta was after her and also promised to\nmarry her. On 2nd February, 1987 at about 6.30 p.m., the prosecutrix had gone to the market of\nSector 19. Accused- Lalit Gupta met her in the market and invited her to the house of his cousin so\nthat the proposal regarding marriage could be discussed with his relations.",
+      "embedding_text": "FACT_CHUNK | Case: Pardeep Kumar vs Union Administration, Chandigarh on 18 | Facts: Pardeep Kumar vs Union Administration, Chandigarh on 18\nAugust, 2006\n2006 AIR SCW 4126, 2006 (5) AIR KANT HCR 570, 2007 (1) CALCRILR 357,\n2007 (1) SCC(CRI) 41, 2006 (8) SCALE 68, 2006 ALL MR(CRI) 3214, (2006) 46\nALLINDCAS 636 (SC), 2007 CALCRILR 1 357, (2007) 1 JCR 73 (SC), 2006 (46)\nALLINDCAS 636, 2006 CRILR(SC MAH GUJ) 727, 2006 (9) SRJ 194, (2006) 3\nALLCRIR 2873, (2006) 4 ALLCRILR 685, (2006) 3 RAJ CRI C 757, (2007) 1 RAJ\nLW 285, (2006) 4 RECCRIR 34, (2006) 6 SUPREME 379, (2006) 8 SCALE 68,\n(2006) 3 CHANDCRIC 129, (2006) 3 CRIMES 266, (2006) 2 CURLJ(CCR) 191,\n(2006) 2 ORISSA LR 636, (2006) 3 CURCRIR 230, 2007 CHANDLR(CIV&CRI)\n365, (2005) 2 KER LJ 151, (2005) 2 KER LT 998, 2005 FAJ 321, 2006\nCRILR(SC&MP) 727, (2007) 1 KER LJ 824, (2007) 1 MADLW(CRI) 354, (2006)\n35 OCR 312, (2006) 56 ALLCRIC 502, 2007 (2) ANDHLT(CRI) 56 SC, 2006 (2)\nALD(CRL) 600, (2007) 2 ANDHLT(CRI) 56, 2006 CHANDLR(CIV&CRI) 453\nAuthor: P.P. Naolekar\nBench: B.N. Agrawal, P.P. Naolekar\nCASE NO.:\nAppeal (crl.) 434 of 2 | Actions: raped, threatened | Weapon: unknown | Outcome: death | IPC: 366, 376, 109, 368, 34",
+      "metadata": {
+        "case_name": "Pardeep Kumar vs Union Administration, Chandigarh on 18",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "366",
+          "376",
+          "109",
+          "368",
+          "34"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Tulsi, learned senior counsel for the appellant that the High\nCourt committed an error in convicting the accused-appellant under Section 376, IPC when the\nstatement of the prosecutrix before the court completely exonerated him from the commission of\noffence of rape by deposing that only two accused persons, namely, Karam Chand and AshokPardeep Kumar vs Union Administration, Chandigarh on 18 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/129278/ 2\nKumar, defiled her against her wish and consent; and that she had further stated that the other\naccused could not have sexual intercourse with her because getting a chance she opened the bolt of\nthe room and ran away from the house. Thus, the submission of the learned counsel for the State is that by\nvirtue of Explanation 1 to Section 376(2)(g), IPC, all members of a group would be liable for the acts\ncommitted by other members of that group when the act is committed in furtherance of their\ncommon intention, namely, intention to commit rape. In order to appreciate the arguments advanced by the learned counsel appearing on both sides, it\nwould be appropriate for us to extract the relevant provisions of Section 376, IPC, as under:\n\"376. State of Himachal Pradesh, , the observations made by an\nearlier Bench in Pramod Mahto and Others v. State of Bihar, 1989 Supp. State of M.P. In the\nlight of the principles enumerated in the above- mentioned cases, we have to analyse the factual\nmatrix of the present case with regard to the accused-appellant's conduct and role played by him in\nthe commission of offence. The prosecutrix while lodging the FIR had stated that the accused-\nin her statement before the court she deposed that on reaching House No. She stated that Pardeep, Lalit and one other\nperson Bitu were taking liquor in the kitchen. If we believe the case of the prosecution that the\naccused-appellant (Pardeep Kumar) was present at the spot right from the very beginning along\nwith other accused persons, Explanation 1 to Section 376(2) would be attracted as it can be safely\ninferred that all the accused persons acted in concert with a common intention to commit rape even\nif all the accused person have not actually committed rape.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Pardeep Kumar vs Union Administration, Chandigarh on 18 | Arguments: Tulsi, learned senior counsel for the appellant that the High\nCourt committed an error in convicting the accused-appellant under Section 376, IPC when the\nstatement of the prosecutrix before the court completely exonerated him from the commission of\noffence of rape by deposing that only two accused persons, namely, Karam Chand and AshokPardeep Kumar vs Union Administration, Chandigarh on 18 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/129278/ 2\nKumar, defiled her against her wish and consent; and that she had further stated that the other\naccused could not have sexual intercourse with her because getting a chance she opened the bolt of\nthe room and ran away from the house. Thus, the submission of the learned counsel for the State is that by\nvirtue of Explanation 1 to Section 376(2)(g), IPC, all members of a group would be liable for the acts\ncommitted by other members of that group when the act is committed in furtherance of their\ncommon intention, namely, intention to comm | Intent: intentional | IPC: 366, 376, 109, 368, 34 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Pardeep Kumar vs Union Administration, Chandigarh on 18",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "366",
+          "376",
+          "109",
+          "368",
+          "34"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The accused\npreferred appeals before the High Court of Punjab & Haryana at Chandigarh. The High Court has observed that the presence of the\naccused-appellant on the spot where the rape was committed by other accused persons, was further\ncorroborated by the fact that he was apprehended from that house itself by CRPF jawans. State of Haryana, , this Court observed :\n\"8. (2) SCC 672, were\nreiterated by this Court as follows:\n\"14. and Anr., JT 2006(6) SC 303, this Court has\nobserved as follows:\n\"8. Direct proof of\ncommon intention is seldom available and, therefore, such intention can only be inferred from the\ncircumstances appearing from the proved facts of the case and the proved circumstances. Pardeep Kumar vs Union Administration, Chandigarh on 18\nAugust, 2006\n2006 AIR SCW 4126, 2006 (5) AIR KANT HCR 570, 2007 (1) CALCRILR 357,\n2007 (1) SCC(CRI) 41, 2006 (8) SCALE 68, 2006 ALL MR(CRI) 3214, (2006) 46\nALLINDCAS 636 (SC), 2007 CALCRILR 1 357, (2007) 1 JCR 73 (SC), 2006 (46)\nALLINDCAS 636, 2006 CRILR(SC MAH GUJ) 727, 2006 (9) SRJ 194, (2006) 3\nALLCRIR 2873, (2006) 4 ALLCRILR 685, (2006) 3 RAJ CRI C 757, (2007) 1 RAJ\nLW 285, (2006) 4 RECCRIR 34, (2006) 6 SUPREME 379, (2006) 8 SCALE 68,\n(2006) 3 CHANDCRIC 129, (2006) 3 CRIMES 266, (2006) 2 CURLJ(CCR) 191,\n(2006) 2 ORISSA LR 636, (2006) 3 CURCRIR 230, 2007 CHANDLR(CIV&CRI)\n365, (2005) 2 KER LJ 151, (2005) 2 KER LT 998, 2005 FAJ 321, 2006\nCRILR(SC&MP) 727, (2007) 1 KER LJ 824, (2007) 1 MADLW(CRI) 354, (2006)\n35 OCR 312, (2006) 56 ALLCRIC 502, 2007 (2) ANDHLT(CRI) 56 SC, 2006 (2)\nALD(CRL) 600, (2007) 2 ANDHLT(CRI) 56, 2006 CHANDLR(CIV&CRI) 453\nAuthor: P.P.",
+      "embedding_text": "REASONING_CHUNK | Case: Pardeep Kumar vs Union Administration, Chandigarh on 18 | Judicial reasoning: The accused\npreferred appeals before the High Court of Punjab & Haryana at Chandigarh. The High Court has observed that the presence of the\naccused-appellant on the spot where the rape was committed by other accused persons, was further\ncorroborated by the fact that he was apprehended from that house itself by CRPF jawans. State of Haryana, , this Court observed :\n\"8. (2) SCC 672, were\nreiterated by this Court as follows:\n\"14. and Anr., JT 2006(6) SC 303, this Court has\nobserved as follows:\n\"8. Direct proof of\ncommon intention is seldom available and, therefore, such intention can only be inferred from the\ncircumstances appearing from the proved facts of the case and the proved circumstances. Pardeep Kumar vs Union Administration, Chandigarh on 18\nAugust, 2006\n2006 AIR SCW 4126, 2006 (5) AIR KANT HCR 570, 2007 (1) CALCRILR 357,\n2007 (1) SCC(CRI) 41, 2006 (8) SCALE 68, 2006 ALL MR(CRI) 3214, (2006) 46\nALLINDCAS 636 (SC), 2007 CALCRILR 1 357, (2007) 1 JCR 73 (SC), 2006 (46)\nALLINDCAS 636 | Intent: intentional | Outcome: death | IPC: 366, 376, 109, 368, 34",
+      "metadata": {
+        "case_name": "Pardeep Kumar vs Union Administration, Chandigarh on 18",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "366",
+          "376",
+          "109",
+          "368",
+          "34"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "All the five accused were held guilty under Section 376, IPC by thePardeep Kumar vs Union Administration, Chandigarh on 18 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/129278/ 1\nAdditional Sessions Judge, Chandigarh and sentenced to undergo rigorous\nimprisonment for 10 years and to pay fine of Rs.500/- each and in default of payment\nof fine to undergo further rigorous imprisonment of two months. Ashok Kumar and Karam Chand died during pendency of proceedings; Inderjit Singh was acquitted\nof the charge under Section 376, IPC, while the conviction of Lalit Gupta and Pardeep Kumar under\nSection 376, IPC was upheld by the High Court. When the prosecutrix, Lalit Gupta and Ashok Kumar entered the house, another accused-Inderjit\nSingh, who was acquitted by the High Court, met them there. It was submitted that on the face of the above statements of\nthe prosecutrix, the accused-appellant Pardeep Kumar could not have been convicted. On the other\nalthough had not actually committed rape on the prosecutrix, was rightly convicted under Section\n376, IPC, as it was amply proved by the prosecution that the appellant was a member of the group\nwhich acted in concert to commit rape on the prosecutrix and in furtherance of the common\nintention, rape was committed. Punishment for rape.-\nxxx xxx xxx\n(2) Whoever, -\nxx xx xx\n(g) commits gang rape,\nshall be punished with rigorous imprisonment for a term which shall not be less than\nten years but which may be for life and shall also be liable to fine:\nProvided \u0005\u0005 Explanation 1.- Where a woman is raped by one or more in a group of\npersons acting in furtherance of their common intention, each of the persons shall be\ndeemed to have committed gang rape within the meaning of this sub-section.\"\nIn Ashok Kumar v. The prosecutrix had\nchanged her version from time to time. Hence, in the light of above discussion, we set aside the order of the\nSession Court as also that of the High Court convicting the accused-appellant under Section 376,\nIPC. The appeal is, accordingly, allowed.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Pardeep Kumar vs Union Administration, Chandigarh on 18 | Final judgment: All the five accused were held guilty under Section 376, IPC by thePardeep Kumar vs Union Administration, Chandigarh on 18 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/129278/ 1\nAdditional Sessions Judge, Chandigarh and sentenced to undergo rigorous\nimprisonment for 10 years and to pay fine of Rs.500/- each and in default of payment\nof fine to undergo further rigorous imprisonment of two months. Ashok Kumar and Karam Chand died during pendency of proceedings; Inderjit Singh was acquitted\nof the charge under Section 376, IPC, while the conviction of Lalit Gupta and Pardeep Kumar under\nSection 376, IPC was upheld by the High Court. When the prosecutrix, Lalit Gupta and Ashok Kumar entered the house, another accused-Inderjit\nSingh, who was acquitted by the High Court, met them there. It was submitted that on the face of the above statements of\nthe prosecutrix, the accused-appellant Pardeep Kumar could not have been convicted. On the other\nalthough had not actually committed ra | Judgment: convicted | IPC: 366, 376, 109, 368, 34",
+      "metadata": {
+        "case_name": "Pardeep Kumar vs Union Administration, Chandigarh on 18",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "366",
+          "376",
+          "109",
+          "368",
+          "34"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

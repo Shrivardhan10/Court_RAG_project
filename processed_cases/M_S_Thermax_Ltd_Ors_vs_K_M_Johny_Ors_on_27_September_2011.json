@@ -1,0 +1,202 @@
+{
+  "case_id": "M_S_Thermax_Ltd_Ors_vs_K_M_Johny_Ors_on_27_September_2011",
+  "case_name": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,\n2011\n2012 (1) AIR BOM R 99, (2012) 1 MADLW(CRI) 367, (2011) 2 CRILR(RAJ) 869,\n(2012) 1 MAD LJ(CRI) 393, 2011 CRILR(SC MAH GUJ) 869, (2012) 2 CGLJ 541,\n(2012) 1 ALD(CRL) 655, (2012) 76 ALLCRIC 774, 2011 CRILR(SC&MP) 869,\n(2011) 4 RECCRIR 409, 2011 (13) SCC 412, (2011) 11 SCALE 128, 2011\nALLMR(CRI) 3603, (2011) 4 DLT(CRL) 843, (2011) 4 CURCRIR 381, (2012) 1\nALLCRIR 399, (2011) 4 CHANDCRIC 151, (2011) 3 UC 2049, (2011) 50 OCR\n616, (2011) 4 CRIMES 179, 2012 (2) SCC (CRI) 650, 2011 (4) KLT SN 96 (SC)\nAuthor: P. Sathasivam\nBench: B.S. Chauhan, P. 1868 OF 2011\n(Arising out of SLP (Crl.) No. 590 of 2008\nM/s Thermax Ltd. & Ors. .... Johny & Ors. .... Sathasivam, J. 1) Leave granted. 3) Brief Facts:\n(a) M/s Thermax Ltd.-the appellant-Company, is a Public\nLimited Company having its registered office at Chinchwad, Pune and is engaged in the field of\nenergy and environment management. Mr. K.M. 260062 for designing and manufacturing two numbers of stationary L.P.G. Storage Tanks\nand Order Nos. 260063 and 260064 were for the supply of consumables and other accessories to\nthe said Tanks. 1 and in their opinion even though they have not made any static bullets and have made quite a few\nmobile L.P.G. Tanks, however, they were capable of manufacturing the same, but needed design\nhelp. 1 was provided with the necessary steel of the technical\nspecification. 1 had not ordered for consumables and no rectification and\ndrawings had been carried out. 1 was not\ninterested in executing the assignment. 1 agreed to complete the job by all means by\n22.09.1995. 1 failed to carry out the work as per the Schedule, the\neffective from 26.05.1995 i.e., from the date when the order was placed. 1 filed a complaint with the Crime Branch, Pune alleging that\nthey had carried out several fabrication job works for the appellant-Company and huge amount of\nRs. 91,95,054/- was outstanding till date despite several requests.",
+      "embedding_text": "FACT_CHUNK | Case: M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, | Facts: M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,\n2011\n2012 (1) AIR BOM R 99, (2012) 1 MADLW(CRI) 367, (2011) 2 CRILR(RAJ) 869,\n(2012) 1 MAD LJ(CRI) 393, 2011 CRILR(SC MAH GUJ) 869, (2012) 2 CGLJ 541,\n(2012) 1 ALD(CRL) 655, (2012) 76 ALLCRIC 774, 2011 CRILR(SC&MP) 869,\n(2011) 4 RECCRIR 409, 2011 (13) SCC 412, (2011) 11 SCALE 128, 2011\nALLMR(CRI) 3603, (2011) 4 DLT(CRL) 843, (2011) 4 CURCRIR 381, (2012) 1\nALLCRIR 399, (2011) 4 CHANDCRIC 151, (2011) 3 UC 2049, (2011) 50 OCR\n616, (2011) 4 CRIMES 179, 2012 (2) SCC (CRI) 650, 2011 (4) KLT SN 96 (SC)\nAuthor: P. Sathasivam\nBench: B.S. Chauhan, P. 1868 OF 2011\n(Arising out of SLP (Crl.) No. 590 of 2008\nM/s Thermax Ltd. & Ors. .... Johny & Ors. .... Sathasivam, J. 1) Leave granted. 3) Brief Facts:\n(a) M/s Thermax Ltd.-the appellant-Company, is a Public\nLimited Company having its registered office at Chinchwad, Pune and is engaged in the field of\nenergy and environment management. Mr. K.M. 260062 for designing and manufacturing two numbe | Actions: cheated | Weapon: unknown | Outcome: injury | IPC: 156, 91, 405, 420, 482, 406, 34, 200, 190, 423, 120, 93, 424, 467, 415, 418, 141, 138, 32",
+      "metadata": {
+        "case_name": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "156",
+          "91",
+          "405",
+          "420",
+          "482",
+          "406",
+          "34",
+          "200",
+          "190",
+          "423",
+          "120",
+          "93",
+          "424",
+          "467",
+          "415",
+          "418",
+          "141",
+          "138",
+          "32"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "allowed",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "12 of 2002 and by order dated 30.05.2002,\nthe Judicial Magistrate issued a direction under Section 156(3) of the Code of Criminal Procedure,\n1973 (in short `the Code') and referred the same to Crime Branch, Pune, Respondent No. The High Court, vide order dated 18.10.2006, issued rule and interim relief by directing the\nAssistant Commissioner of Police, Crime Branch-II, Pune city to produce the documents within six\nweeks in the Court of Judicial Magistrate, Pimpri. The Company issued material after receipt of pay order, vide excise gate Pass No. The\ncomplainant requested the accused to take the scrap material back and issue genuine material. 9) Now, we have to find out whether the ingredients of Sections 405, 420 read with Section 34 have\nbeen made out from the complaint and whether the Magistrate is justified in calling for a report\nunder Section 156(3) of the Code from the Crime Branch, Pune. Simultaneously, we have to see\nwhether the High Court is justified in confirming the action of the Magistrate and failed to exercise\nits power and jurisdiction under Section 482 of the Code. A legal notice was issued to the appellant therein on 11.07.1996 calling upon\nhim to execute the sale deed in respect of the premises in question. A charge-sheet was filed on 04.08.2000 by the police against the\nthe alleged offence under Section 190(1)(b) of the Code and issued summons to the\naccused-appellant therein. Despite this, the Magistrate issued process against Accused Nos. In that proceeding, the appellant-Company moved an\napplication under Section 93 of the Code to issue a search warrant to seize the property in dispute\nand also to hand over these items to the complainant. The Magistrate took cognizance of the alleged\ncomplaint and issued summons to the respondents and passed an order on the application filed\nunder Section 93 of the Code to have a search at the premises of the respondents and to take\npossession of the properties involved in the case. The learned Single Judge was pleased to quash the entire proceedings and\ndirected the appellant-Company to return all the properties seized by the police pursuant to the\nwarrant issued by the Magistrate.",
+      "embedding_text": "ISSUE_CHUNK | Case: M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, | Legal issues: 12 of 2002 and by order dated 30.05.2002,\nthe Judicial Magistrate issued a direction under Section 156(3) of the Code of Criminal Procedure,\n1973 (in short `the Code') and referred the same to Crime Branch, Pune, Respondent No. The High Court, vide order dated 18.10.2006, issued rule and interim relief by directing the\nAssistant Commissioner of Police, Crime Branch-II, Pune city to produce the documents within six\nweeks in the Court of Judicial Magistrate, Pimpri. The Company issued material after receipt of pay order, vide excise gate Pass No. The\ncomplainant requested the accused to take the scrap material back and issue genuine material. 9) Now, we have to find out whether the ingredients of Sections 405, 420 read with Section 34 have\nbeen made out from the complaint and whether the Magistrate is justified in calling for a report\nunder Section 156(3) of the Code from the Crime Branch, Pune. Simultaneously, we have to see\nwhether the High Court is justified in confirming the action o | IPC: 156, 91, 405, 420, 482, 406, 34, 200, 190, 423, 120, 93, 424, 467, 415, 418, 141, 138, 32",
+      "metadata": {
+        "case_name": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "156",
+          "91",
+          "405",
+          "420",
+          "482",
+          "406",
+          "34",
+          "200",
+          "190",
+          "423",
+          "120",
+          "93",
+          "424",
+          "467",
+          "415",
+          "418",
+          "141",
+          "138",
+          "32"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "allowed",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Appellant(s)\nVersus\nK.M. Respondent(s)M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1081911/ 1\nJ U D G M E N T\nP. 1622 of 2007 wherein the Division Bench of the High Court dismissed the writ petition filed by\nthe appellants herein as misconceived. Johny-the original complainant, Respondent No. 1\nherein, is the proprietor of M/s Rini Engineers and M/s Sherly Engineers, which are small-scale\nindustries undertaking fabrication job work for the appellant Company for the past several years. (b) On 26.05.1995, the appellant-Company placed three Purchase Orders on Respondent No.1 being\nOrder No. On 01.06.1995, M/s Unique Engineering Services, the Consultants of the appellant\nCompany addressed a letter specifying that they had assessed the companies of the Respondent No. (c) On 20.06.1995, Respondent No. 1 informed the appellant-Company their inability to procure the\nmaterial (steel) and requested to supply the same and to deduct the material cost from the final bill. On 04.08.1995, the Respondent No. On 06.08.1995, an Engineer of the appellant-Company visited the company of the\nusing the material purchased from the appellant-Company. It was also pointed out in the report that\nIndian Kanoon - http://indiankanoon.org/doc/1081911/ 2\nreport also stated that Respondent No. In pursuance of the same, a meeting was held between the\nofficials of both the Companies and the Respondent No. Since Respondent No. (e) On 06.05.2000, Respondent No. 8,00,000/-\nfor fabrication and erection of Tower Support Structural etc., for the Mehasana District Taluka\nSanstha (Gujarat) Project and also represented that they will hire the machinery of the Respondent\nNo. 2,400/- per day and believing the same the Respondent No. Respondent No. 1\ncompleted the said job according to schedule and to the satisfaction of the appellant-\nCompany and also carried out additional work at the site as per their request. It was alleged that\nbalance outstanding for the said work of Rs.2,47,570/- was still receivable from the\nto be paid by the appellant-Company. Pursuant to the same, Respondent No. 91/2002 and initiated proceedings thereunder against the appellant-Company.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, | Arguments: Appellant(s)\nVersus\nK.M. Respondent(s)M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1081911/ 1\nJ U D G M E N T\nP. 1622 of 2007 wherein the Division Bench of the High Court dismissed the writ petition filed by\nthe appellants herein as misconceived. Johny-the original complainant, Respondent No. 1\nherein, is the proprietor of M/s Rini Engineers and M/s Sherly Engineers, which are small-scale\nindustries undertaking fabrication job work for the appellant Company for the past several years. (b) On 26.05.1995, the appellant-Company placed three Purchase Orders on Respondent No.1 being\nOrder No. On 01.06.1995, M/s Unique Engineering Services, the Consultants of the appellant\nCompany addressed a letter specifying that they had assessed the companies of the Respondent No. (c) On 20.06.1995, Respondent No. 1 informed the appellant-Company their inability to procure the\nmaterial (steel) and requested to supply the same and to deduct the | Intent: intentional | IPC: 156, 91, 405, 420, 482, 406, 34, 200, 190, 423, 120, 93, 424, 467, 415, 418, 141, 138, 32 | Judgment context: allowed",
+      "metadata": {
+        "case_name": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "156",
+          "91",
+          "405",
+          "420",
+          "482",
+          "406",
+          "34",
+          "200",
+          "190",
+          "423",
+          "120",
+          "93",
+          "424",
+          "467",
+          "415",
+          "418",
+          "141",
+          "138",
+          "32"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "allowed",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sathasivam\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 2) This appeal is directed against the final judgment and\norder dated 11.01.2008 passed by the High Court of Judicature at Bombay in Criminal Writ Petition\nNo. (d) By letter dated 10.08.1995, the Consultants informed the appellant-Company that there was no\nprogress in the work status for the last 45 days and it was observed that Respondent No. Therefore, a total sum of Rs.68,79,750/-\nbecame due from the appellant-Company to respondent No.1 and the same was not paid till date. 209 and 443 of 2003 before the Bombay High Court for quashing and setting aside the\norder dated 30.05.2002 passed by the Judicial Magistrate, First Class, Pimpri. 3666 of 2003\nbefore the High Court. 1622 of\n2007 before the High Court. The High Court, vide order dated 11.01.2008, dismissed the writ\npetition as misconceived on the ground that the Magistrate has adhered to the directions and has\ngiven reasons for coming to his conclusion. 12 of 2002 and the impugned order of the\nHigh Court dated 11.01.2008, at the outset, submitted that the courts below ought to\nhave considered that the dispute arose out of a contract and a constituted remedy is\nonly before a civil court. He further\nsubmitted that the High Court ought to have intervened and quashed the same. According to him,\nthe complaint and the allegations made therein do not disclose any offence and, therefore, the\ndirection under Section 156(3) of the Code is untenable. 1/complainant submitted that interference by the court at the stage of passing orders under Section\n156 (3) of the Code is not warranted. He further pointed out that the accused has no right to address\nat this stage and the High Court is right in refusing to entertain the petition filed under Section 482\nof the Code. Therefore, the complainant requested the Accused for the supply of material for the said order and\nto debit the material cost from the final bill. Therefore, complainant paid Rs. Thus, the accused\nhave cheated the complainant and there by caused wrongful loss to the complainant.",
+      "embedding_text": "REASONING_CHUNK | Case: M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, | Judicial reasoning: Sathasivam\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 2) This appeal is directed against the final judgment and\norder dated 11.01.2008 passed by the High Court of Judicature at Bombay in Criminal Writ Petition\nNo. (d) By letter dated 10.08.1995, the Consultants informed the appellant-Company that there was no\nprogress in the work status for the last 45 days and it was observed that Respondent No. Therefore, a total sum of Rs.68,79,750/-\nbecame due from the appellant-Company to respondent No.1 and the same was not paid till date. 209 and 443 of 2003 before the Bombay High Court for quashing and setting aside the\norder dated 30.05.2002 passed by the Judicial Magistrate, First Class, Pimpri. 3666 of 2003\nbefore the High Court. 1622 of\n2007 before the High Court. The High Court, vide order dated 11.01.2008, dismissed the writ\npetition as misconceived on the ground that the Magistrate has adhered to the directions and has\ngiven reasons for c | Intent: intentional | Outcome: injury | IPC: 156, 91, 405, 420, 482, 406, 34, 200, 190, 423, 120, 93, 424, 467, 415, 418, 141, 138, 32",
+      "metadata": {
+        "case_name": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "156",
+          "91",
+          "405",
+          "420",
+          "482",
+          "406",
+          "34",
+          "200",
+          "190",
+          "423",
+          "120",
+          "93",
+          "424",
+          "467",
+          "415",
+          "418",
+          "141",
+          "138",
+          "32"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "allowed",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Vide order dated\n10.06.2003, the High Court set aside the order dated 30.05.2002 and remitted the matter back to\nthe Judicial Magistrate for reconsideration of the entire prayer and to decide the case afresh, after\ngiving adequate opportunity of hearing to both the sides. Punishment for criminal breach of trust.- Whoever commits criminal breach of trust shall be\npunished with imprisonment of either description for a term which may extend to three years, or\nwith fine, or with both. Cheating and dishonestly inducing delivery of property.- Whoever cheats and thereby\ndishonestly induces the person deceived to deliver any property to any person, or to make, alter or\ndestroy the whole or any part of a valuable security, or anything which is signed or sealed, and which\nis capable of being converted into a valuable security, shall be punished with imprisonment of either\ndescription for a term which may extend to seven years, and shall also be liable to fine.\"\n34. Mahadevappa Shivappa Danannava & Anr., , this\nCourt, on the ground of delay/laches in filing the complaint and the dispute relates to civil natureM/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1081911/ 7\nfinding absence of ingredients of alleged offence of cheating under Section 420 IPC, set aside the\norder of the Magistrate and that of the High Court. Regarding the delay, this Court pointed out that the complaint was\nfiled on 17.05.1999, after a lapse of 10= years and, therefore, the private complaint filed by\nthat it is also not clearly proved that to hold a person guilty of cheating, it is necessary to show that\nhe had a fraudulent or dishonest intention at the time of making the promise and finding that the\norder of the Magistrate and of the High Court requiring Accused No.1/appellant therein to face trial\nwould not be in the interest of justice, set aside the order of the High Court and of the Magistrate. Thus, the order of the Magistrate taking cognizance and issuing\nprocess to the respondents as well as the order of search and the direction for restoration of the\nproperty to the appellant Company were set aside.M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1081911/ 9\nAggrieved by the same, the appellant-Company preferred appeal before this Court.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September, | Final judgment: Vide order dated\n10.06.2003, the High Court set aside the order dated 30.05.2002 and remitted the matter back to\nthe Judicial Magistrate for reconsideration of the entire prayer and to decide the case afresh, after\ngiving adequate opportunity of hearing to both the sides. Punishment for criminal breach of trust.- Whoever commits criminal breach of trust shall be\npunished with imprisonment of either description for a term which may extend to three years, or\nwith fine, or with both. Cheating and dishonestly inducing delivery of property.- Whoever cheats and thereby\ndishonestly induces the person deceived to deliver any property to any person, or to make, alter or\ndestroy the whole or any part of a valuable security, or anything which is signed or sealed, and which\nis capable of being converted into a valuable security, shall be punished with imprisonment of either\ndescription for a term which may extend to seven years, and shall also be liable to fine.\"\n34. Mahadevappa Shivappa Danannava | Judgment: allowed | IPC: 156, 91, 405, 420, 482, 406, 34, 200, 190, 423, 120, 93, 424, 467, 415, 418, 141, 138, 32",
+      "metadata": {
+        "case_name": "M/S Thermax Ltd.& Ors vs K.M.Johny & Ors on 27 September,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "156",
+          "91",
+          "405",
+          "420",
+          "482",
+          "406",
+          "34",
+          "200",
+          "190",
+          "423",
+          "120",
+          "93",
+          "424",
+          "467",
+          "415",
+          "418",
+          "141",
+          "138",
+          "32"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "allowed",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    }
+  ]
+}

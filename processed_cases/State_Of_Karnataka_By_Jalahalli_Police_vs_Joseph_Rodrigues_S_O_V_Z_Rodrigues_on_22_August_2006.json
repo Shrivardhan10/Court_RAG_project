@@ -1,0 +1,152 @@
+{
+  "case_id": "State_Of_Karnataka_By_Jalahalli_Police_vs_Joseph_Rodrigues_S_O_V_Z_Rodrigues_on_22_August_2006",
+  "case_name": "State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "vs Joseph Rodrigues\nS/O V.Z. Rodrigues on 22 August, 2006\nBench: S.R. Bannurmath, Subhash B. Adi\nJUDGMENT\n1. 2. Being aggrieved by the judgment and sentence dated 6.5.2005 holding the accused guilty of the\noffence under Section 326 of IPC, and sentencing him to undergo R.I. for 5 years and 3 months with\na fine, the accused has filed Criminal Appeal No. 1066/2004 under Section 377 of Cr.P.C, praying for\nenhancement of the sentence under Section 326 of IPC. on the ground that the sentence is\ninadequate. Since we have to consider same evidence and same judgment to decide these three\nappeals, all are taken up together for consideration and being disposed of by this common\njudgment. 3. The case of the prosecution in brief is as follows:\nHaseena a young girl hardly aged 20 years, who had finished computer course while\nstudying B.Com., I Year, was working in a computer office called Neha Computers of\nwhich the accused was the proprietor. Similarly P.W.8 - Bindu was also working\nthere. After about one year eight months as the said office incurred a loss, Haseena\nleft the same and started working at Satish Industries situated at H.M.T, Layout. It is\nalleged that the accused started pestering her to leave the new job and start working\nin the house for which he would provide a computer. This offer was rejected by\nHaseena. It is alleged that on a number of occasions the accused came to her house\nand repeated his offer. For which Haseena informed him that as she is working in\nSatish Industry comfortably, she does not want to leave the job. Enraged by the same,\nit is alleged that about 20 days prior to the incident the accused threatened her with\ndire consequences for not accepting his offer. 4. According to prosecution on 20.4.1999, as usual Haseena left her house at about 8 a.m, to attend\nthe work at Satish Industry. On that day she took a lift from one Krishna an elderly neighbour who\nhad his Industry called Mahaveer Industries near Satish Industry.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues | Facts: vs Joseph Rodrigues\nS/O V.Z. Rodrigues on 22 August, 2006\nBench: S.R. Bannurmath, Subhash B. Adi\nJUDGMENT\n1. 2. Being aggrieved by the judgment and sentence dated 6.5.2005 holding the accused guilty of the\noffence under Section 326 of IPC, and sentencing him to undergo R.I. for 5 years and 3 months with\na fine, the accused has filed Criminal Appeal No. 1066/2004 under Section 377 of Cr.P.C, praying for\nenhancement of the sentence under Section 326 of IPC. on the ground that the sentence is\ninadequate. Since we have to consider same evidence and same judgment to decide these three\nappeals, all are taken up together for consideration and being disposed of by this common\njudgment. 3. The case of the prosecution in brief is as follows:\nHaseena a young girl hardly aged 20 years, who had finished computer course while\nstudying B.Com., I Year, was working in a computer office called Neha Computers of\nwhich the accused was the proprietor. Similarly P.W.8 - Bindu was also working\nthere. After a | Actions: threatened | Weapon: acid | Outcome: death | IPC: 326, 307, 377, 120, 34, 313, 233, 201, 300",
+      "metadata": {
+        "case_name": "State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "326",
+          "307",
+          "377",
+          "120",
+          "34",
+          "313",
+          "233",
+          "201",
+          "300"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Even\nno suggestions have been made to this witness as to whether this witness has any personal enmity\nwith the accused, so as to even create doubt about his independent testimony. Unless the defence\nelicits some positive or negative answer in this regard from the witness, we cannot speculate as to\nwhether PW. That is to\nsay whether the offence is punishable under Section 326 of IPC as a held by the Trial Court or under\nSection 307 of IPC as contended by the State in its appeal? Depending upon the finding as to the offence committed, we are also required to consider\nwhether the punishment awarded to the accused by the Trial Court is just and proper or requires\nreconsideration. The truth is that some crimes are so outrageous that\nsociety insists on adequate punishment because the wrong doer deserves it,\nirrespective of whether it is deterrent or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues | Legal issues: Even\nno suggestions have been made to this witness as to whether this witness has any personal enmity\nwith the accused, so as to even create doubt about his independent testimony. Unless the defence\nelicits some positive or negative answer in this regard from the witness, we cannot speculate as to\nwhether PW. That is to\nsay whether the offence is punishable under Section 326 of IPC as a held by the Trial Court or under\nSection 307 of IPC as contended by the State in its appeal? Depending upon the finding as to the offence committed, we are also required to consider\nwhether the punishment awarded to the accused by the Trial Court is just and proper or requires\nreconsideration. The truth is that some crimes are so outrageous that\nsociety insists on adequate punishment because the wrong doer deserves it,\nirrespective of whether it is deterrent or not. | IPC: 326, 307, 377, 120, 34, 313, 233, 201, 300",
+      "metadata": {
+        "case_name": "State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "326",
+          "307",
+          "377",
+          "120",
+          "34",
+          "313",
+          "233",
+          "201",
+          "300"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Karnataka By Jalahalli Police ... In this nation where great tradition and culture exists, where right from ancient times, it is stated\nl= iwT;ars ukjh jears r= nsor A (where woman is given respect, only in that place God resides) yet\nanother brutal inhuman attack with acid on a young girl of hardly 20 years of age, has given rise to\nthe present appeals. 1239/2004, whereas the State aggrieved by\nacquittal of the accused for offence under Section 307 of IPC, has filed Criminal Appeal 1065/2004. The State has also filed Criminal Appeal No. when she was near the gate of Satish Industry, the accused came on a motorcycle holdingState Of Karnataka By Jalahalli Police ... of Jalahalli Police Station goes to Victoria Hospital and records the statement\nof injured Haseena as per Ex. However, the trial Court has given benefit of doubt to them and since the State has not filed any\nappeal against their acquittal, we are not concerned with their role and acquittal. Be that as it may during the investigation, statements of witnesses including another injured - eye\nwitness P.W. Since Haseena had\nrevealed the name of the accused/appellant as her assailant, search for him is carried out. 1 to 28, Apart from denying the prosecution case in toto as\nseen from the answers given by the accused under Section 313 Cr.P.C, the appellant/accused No. 1\nhas filed his detailed statement under Section 233 of Cr.P.C., inter alia contending that he is\ninnocent and has been falsely implicated by the police creating baseless evidence against him. The trial Court further held that\nthough the prosecution has proved that it is the accused/appellant who threw acid on Haseena\nresulting in severe acid burn injuries on her person, the offence does not fall under Section 307 IPC,\nas putforth by the prosecution but one punishable under Sections 326 and 201 IPC. Accordingly, heState Of Karnataka By Jalahalli Police ... 1 has challenged his conviction and sentence, whereas the State has\nchallenged the acquittal of accused No.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues | Arguments: State Of Karnataka By Jalahalli Police ... In this nation where great tradition and culture exists, where right from ancient times, it is stated\nl= iwT;ars ukjh jears r= nsor A (where woman is given respect, only in that place God resides) yet\nanother brutal inhuman attack with acid on a young girl of hardly 20 years of age, has given rise to\nthe present appeals. 1239/2004, whereas the State aggrieved by\nacquittal of the accused for offence under Section 307 of IPC, has filed Criminal Appeal 1065/2004. The State has also filed Criminal Appeal No. when she was near the gate of Satish Industry, the accused came on a motorcycle holdingState Of Karnataka By Jalahalli Police ... of Jalahalli Police Station goes to Victoria Hospital and records the statement\nof injured Haseena as per Ex. However, the trial Court has given benefit of doubt to them and since the State has not filed any\nappeal against their acquittal, we are not concerned with their role and acquittal. Be that as it may during  | Intent: intentional | IPC: 326, 307, 377, 120, 34, 313, 233, 201, 300 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "326",
+          "307",
+          "377",
+          "120",
+          "34",
+          "313",
+          "233",
+          "201",
+          "300"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Hence the probabilities of the accused committing\nthe crime is very remote. As\nsuch, the Trial Court committed an error in not considering this aspect, especially when it is the\nspecific case of the accused that the police have created evidence including acid burns against him. In this regard it is also contended that as neither P.W1 nor P.W7 have disclosed the name\nof the accused at the earliest before the doctor P.W4, no evidentiary value can be attached to the\nidentification said to have been done in the Court. Hence taking into consideration the mitigating factors that accused is a young person,State Of Karnataka By Jalahalli Police ... Hence, the moot question before us is as to who caused the injuries on Haseena with sulphuric\nacid and more importantly we have to see whether prosecution has succeeded in proving that it is\nthe accused and accused alone, who did it. It is also\ncontended that since this witness has admittedly not seen the accused earlier, in the absence of Test\nIdentification Parade held during investigation, evidence of this witness should not have been\naccepted by the Trial Court. In this regard, it is now well settled that holding of identification parade by the police during the\ninvestigation is only to help the police to assure them that their investigation is proceeding in proper\ndirection and this test identification has no substantive evidentiary value, The substantive evidence\nis the identification in the Court. As such, in our view no great importance to be attached for not holding the test\nidentification parade. Hence,\nwe hold that PW. This evidence in our view clearly corroborates not only evidence of PW. Hence, we find absolutely no material to discard theState Of Karnataka By Jalahalli Police ... It is to be noted here itself that due to the acid burns, Haseena has become blind in both the eyes\nand as noted by the Trial Court itself she is not in a position to identify her LTM. We find absolutely no material to hold that she is falsely implicating the\naccused and for what reason.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues | Judicial reasoning: Hence the probabilities of the accused committing\nthe crime is very remote. As\nsuch, the Trial Court committed an error in not considering this aspect, especially when it is the\nspecific case of the accused that the police have created evidence including acid burns against him. In this regard it is also contended that as neither P.W1 nor P.W7 have disclosed the name\nof the accused at the earliest before the doctor P.W4, no evidentiary value can be attached to the\nidentification said to have been done in the Court. Hence taking into consideration the mitigating factors that accused is a young person,State Of Karnataka By Jalahalli Police ... Hence, the moot question before us is as to who caused the injuries on Haseena with sulphuric\nacid and more importantly we have to see whether prosecution has succeeded in proving that it is\nthe accused and accused alone, who did it. It is also\ncontended that since this witness has admittedly not seen the accused earlier, in the absence of Test\nIden | Intent: intentional | Outcome: death | IPC: 326, 307, 377, 120, 34, 313, 233, 201, 300",
+      "metadata": {
+        "case_name": "State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "326",
+          "307",
+          "377",
+          "120",
+          "34",
+          "313",
+          "233",
+          "201",
+          "300"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "On considering and appreciating the entire evidence and after hearing arguments on both the\nsides, as already noted, though the trial Court acquitted accused Nos.2 to 4 giving benefit of doubt to\nthem, held so far as the appellant/accused No. Rodrigues on 22 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/73735/ 2\nsentenced the appellant/accused to undergo R.I., for five years and 3 months (the period already\nundergone by the accused during trial) and also imposed a fine of Rs. He also sentenced the appellant to undergo R.I. Hence it is submitted that the entire approach of the Trial Court was not only perfunctory but\nperverse one and as such, the impugned judgment of conviction and sentence passed are liable to be\nset aside. On these among other grounds it is submitted\nthat the judgment of conviction and sentence are liable to be set aside and accused is entitled for\nacquittal on the ground of benefit of doubt.State Of Karnataka By Jalahalli Police ... So far as sentence is concerned it is submitted on behalf of\nthe accused that at the time of commission of the offence the accused was a young man and in fact\nhad served imprisonment for a period of five years and three months during the trial which is an\nadequate sentence. It is well settled that in the offence under Section 307 of IPC, all the ingredients of offence of\nmurder are present, except the death of the victim, As such, where the ingredients of Section 300 of\nIPC are lacking in the case, accused cannot be convicted under Section 307 of IPC. 51. 52. It is true that reformation as a theory of punishment had become the trend but that theory is\napplicable to such crimes, in which the damage is repairable or even if the damage cannot be\nrepaired, salvation by other mode is possible. That theory is inapplicable in offences where damage\nis immense irreparable and cannot be retractable and as such, severe punishment is the only mode. 53. 54. As can be seen from the photographs of the unfortunate victim (which we\nare reproducing here as a part of the judgment).",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues | Final judgment: On considering and appreciating the entire evidence and after hearing arguments on both the\nsides, as already noted, though the trial Court acquitted accused Nos.2 to 4 giving benefit of doubt to\nthem, held so far as the appellant/accused No. Rodrigues on 22 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/73735/ 2\nsentenced the appellant/accused to undergo R.I., for five years and 3 months (the period already\nundergone by the accused during trial) and also imposed a fine of Rs. He also sentenced the appellant to undergo R.I. Hence it is submitted that the entire approach of the Trial Court was not only perfunctory but\nperverse one and as such, the impugned judgment of conviction and sentence passed are liable to be\nset aside. On these among other grounds it is submitted\nthat the judgment of conviction and sentence are liable to be set aside and accused is entitled for\nacquittal on the ground of benefit of doubt.State Of Karnataka By Jalahalli Police ... So far as sentence is c | Judgment: convicted | IPC: 326, 307, 377, 120, 34, 313, 233, 201, 300",
+      "metadata": {
+        "case_name": "State Of Karnataka By Jalahalli Police ... vs Joseph Rodrigues",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "326",
+          "307",
+          "377",
+          "120",
+          "34",
+          "313",
+          "233",
+          "201",
+          "300"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "case_id": "Gurmukh_Singh_vs_State_Of_Haryana_on_25_August_2009 (1)",
+  "case_name": "Gurmukh Singh vs State Of Haryana on 25 August, 2009",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "1609 OF 2009\n[Arising out of SLP (Crl.) No.7898 of 2008]\nGurmukh Singh .. 1. Leave granted. 2. 163-DB of 1999. 3. Brief facts which are necessary to dispose of the appeal are in nutshell as under:-\nThe appellant Gurmukh Singh in this appeal has challenged his conviction and\nsentence for the murder of Hazoor Singh.Gurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 1\n4. According to the prosecution version, on 8.1.1997 in the morning, deceased Hazoor Singh had\nborrowed the tractor of Lal Singh and tiller of Gurbachan Singh. Gurmej Singh P.W.5, son of Hazoor\nSingh (deceased) was going along with Lal Singh to return the tractor at the Dera of Gurbachan\nSingh. On the way, accused Gurmukh Singh, son of Dayal Singh, accompanied by the co-accused\nNiranjan Singh, Harbhajan Singh and Manjit Singh armed with lathis, whose Dera was nearby came\nand stopped the tractor. Hazoor Singh\nwas following the tractor. Jagtar Singh, P.W.4 brother of the deceased, witnessed the\nincident and reached the spot. Gurdip Singh and Puran Singh also reached there. Jagtar Singh had\ncaught Gurmukh Singh. In the process, Gurmej Singh P.W.5 was also given lathi blow by Niranjan\nSingh. Gurmej Singh also caused injuries to Harbhajan Singh and Niranjan Singh. The deceased was\ntaken to the hospital and on receiving the message, the Assistant Sub-Inspector of Police Jagdish\nChander reached there and recorded the statement of Jagtar Singh at 7.15 p.m., leading to the\nregistration of the First Information Report. He went to the place of occurrence, prepared rough site\nplan and took other steps of investigation. Injured Hazoor Singh was removed to PGI Hospital at\nChandigarh, where he died on 14.1.1997 after three days on account of the head injury sustained by\nhim. 5. The prosecution examined Dr. Rajinder Kumar P.W.1 who examined Hazoor Singh at 4.55 p.m. on 8.1.1997 and referred him to the Civil Hospital, Karnal, Dr. R. M. Singh P.W.2 who conducted the\npost-mortem examination on 15.1.1997, Balkar Singh Patwari P.W.3 who prepared the site plan,\nJagtar Singh, P.W.4 author of the FIR and eye witness, Gurmej Singh, P.W.5 another eye witness\nand ASI Jarnail Singh P.W.6 who proved the investigation.",
+      "embedding_text": "FACT_CHUNK | Case: Gurmukh Singh vs State Of Haryana on 25 August, 2009 | Facts: 1609 OF 2009\n[Arising out of SLP (Crl.) No.7898 of 2008]\nGurmukh Singh .. 1. Leave granted. 2. 163-DB of 1999. 3. Brief facts which are necessary to dispose of the appeal are in nutshell as under:-\nThe appellant Gurmukh Singh in this appeal has challenged his conviction and\nsentence for the murder of Hazoor Singh.Gurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 1\n4. According to the prosecution version, on 8.1.1997 in the morning, deceased Hazoor Singh had\nborrowed the tractor of Lal Singh and tiller of Gurbachan Singh. Gurmej Singh P.W.5, son of Hazoor\nSingh (deceased) was going along with Lal Singh to return the tractor at the Dera of Gurbachan\nSingh. On the way, accused Gurmukh Singh, son of Dayal Singh, accompanied by the co-accused\nNiranjan Singh, Harbhajan Singh and Manjit Singh armed with lathis, whose Dera was nearby came\nand stopped the tractor. Hazoor Singh\nwas following the tractor. Jagtar Singh, P.W.4 brother of the d | Actions: killed | Weapon: knife | Outcome: death | IPC: 302, 304, 300, 34, 428",
+      "metadata": {
+        "case_name": "Gurmukh Singh vs State Of Haryana on 25 August, 2009",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "304",
+          "300",
+          "34",
+          "428"
+        ],
+        "actions": [
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The short question which falls for consideration of this court is whether, on consideration of the\npeculiar facts and circumstances of the case, the conviction of the appellant under section 302 IPC\nshould be upheld or the conviction be converted to one under section 304 Part II IPC? The question is whether the appellant could be said to have caused that\nparticular injury with the intention of causing death of the deceased. A fight is a combat between two and more persons\nwhether with or without weapons. It is a question of fact and whether a\nquarrel is sudden or not must necessarily depend upon the proved facts of each case. The relevant factors are as under:\na) Motive or previous enmity;\nb) Whether the incident had taken place on the spur of the moment;Gurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 6\nc) The intention/knowledge of the accused while inflicting the blow or injury;\nd) Whether the death ensued instantaneously or the victim died after several days;\ne) The gravity, dimension and nature of injury;\nf) The age and general health condition of the accused;\ng) Whether the injury was caused without pre-\nmeditation in a sudden fight;\nh) The nature and size of weapon used for inflicting the injury and the force with which the blow was\ninflicted;\ni) The criminal background and adverse history of the accused;\nj) Whether the injury inflicted was not sufficient in the ordinary course of nature to cause death but\nthe death was because of shock;\nk) Number of other criminal cases pending against the accused;\nl) Incident occurred within the family members or close relations;\nm) The conduct and behaviour of the accused after the incident. Whether the accused had taken the\ninjured/the deceased to the hospital immediately to ensure that he/she gets proper medical\ntreatment?",
+      "embedding_text": "ISSUE_CHUNK | Case: Gurmukh Singh vs State Of Haryana on 25 August, 2009 | Legal issues: The short question which falls for consideration of this court is whether, on consideration of the\npeculiar facts and circumstances of the case, the conviction of the appellant under section 302 IPC\nshould be upheld or the conviction be converted to one under section 304 Part II IPC? The question is whether the appellant could be said to have caused that\nparticular injury with the intention of causing death of the deceased. A fight is a combat between two and more persons\nwhether with or without weapons. It is a question of fact and whether a\nquarrel is sudden or not must necessarily depend upon the proved facts of each case. The relevant factors are as under:\na) Motive or previous enmity;\nb) Whether the incident had taken place on the spur of the moment;Gurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 6\nc) The intention/knowledge of the accused while inflicting the blow or injury;\nd) Whether the death ensued instantaneously or t | IPC: 302, 304, 300, 34, 428",
+      "metadata": {
+        "case_name": "Gurmukh Singh vs State Of Haryana on 25 August, 2009",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "304",
+          "300",
+          "34",
+          "428"
+        ],
+        "actions": [
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Gurmukh Singh vs State Of Haryana on 25 August, 2009\n2009 SC (SUPP) 2922, (2009) 4 RECCRIR 220, (2009) 4 CHANDCRIC 172,\n(2009) 4 ALLCRILR 1, (2009) 4 CURCRIR 364, (2009) 11 SCALE 688, 2009 (15)\nSCC 635, (2010) 68 ALLCRIC 222, 2010 (2) SCC (CRI) 711, (2009) 4 MAD\nLJ(CRI) 993\nAuthor: Dalveer Bhandari\nBench: Dalveer Bhandari, Mukundakam Sharma\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Appellant\nVersus\nState of Haryana .. Respondent\nJUDGMENT\nDalveer Bhandari, J. The appellant raised a lalkara that Hazoor Singh and his son should not be\nallowed to pass through the passage of which there was a dispute between the parties. He advised the appellant to desist from stopping the tractor on which the\nresulting in his fall on the ground. It may be pertinent to mention here that the appellant Gurmukh Singh was accompanied by\nco-accused Niranjan Singh, Harbhajan Singh and Manjit Singh. The High Court in the impugned judgment has upheld the judgment of the trial court and\nmaintained the conviction and sentence awarded to the appellant Gurmukh Singh.Gurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 2\n10. The appellant aggrieved by the judgment of the High Court preferred this appeal. State of Punjab , the accused, without any prior enmity or\npre-meditation, on a short quarrel gave a single blow with a dagger which later proved to be fatal. In these circumstances, it is a permissible\ninference that the appellant at least could be imputed with a knowledge that he was likely to cause\nan injury which was likely to cause death. State (Delhi Administration) (1990) Supp. State of M.P. Heat ofGurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 5\npassion requires that there must be no time for the passions to cool down and in this\ncase, the parties have worked themselves into a fury on account of the verbal\naltercation in the beginning. Only the appellant\nGurmukh Singh inflicted a single lathi blow.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Gurmukh Singh vs State Of Haryana on 25 August, 2009 | Arguments: Gurmukh Singh vs State Of Haryana on 25 August, 2009\n2009 SC (SUPP) 2922, (2009) 4 RECCRIR 220, (2009) 4 CHANDCRIC 172,\n(2009) 4 ALLCRILR 1, (2009) 4 CURCRIR 364, (2009) 11 SCALE 688, 2009 (15)\nSCC 635, (2010) 68 ALLCRIC 222, 2010 (2) SCC (CRI) 711, (2009) 4 MAD\nLJ(CRI) 993\nAuthor: Dalveer Bhandari\nBench: Dalveer Bhandari, Mukundakam Sharma\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Appellant\nVersus\nState of Haryana .. Respondent\nJUDGMENT\nDalveer Bhandari, J. The appellant raised a lalkara that Hazoor Singh and his son should not be\nallowed to pass through the passage of which there was a dispute between the parties. He advised the appellant to desist from stopping the tractor on which the\nresulting in his fall on the ground. It may be pertinent to mention here that the appellant Gurmukh Singh was accompanied by\nco-accused Niranjan Singh, Harbhajan Singh and Manjit Singh. The High Court in the impugned judgment has upheld the judgment o | Intent: intentional | IPC: 302, 304, 300, 34, 428 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Gurmukh Singh vs State Of Haryana on 25 August, 2009",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "304",
+          "300",
+          "34",
+          "428"
+        ],
+        "actions": [
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "This appeal is directed against the judgment of the Punjab & Haryana High Court dated 4.4.2008\ndelivered in Criminal Appeal No. We have\ncarefully perused the judgments of the trial court and the High Court as also the evidence of\nwitnesses. Appropriate\nsentencing is a very vital function and obligation of the court. Therefore, it is abundantly clear that there was no pre- arranged plan or that the incident had taken\nplace in furtherance of the common intention of the accused persons. This Court had an occasion to deal with cases of similar nature. But, according to this Court, the intention to cause such an injury was likely to cause death\nhad not been made out. The High Court affirmed the same. This Court observed that since there was no pre-meditation, Part 3 of section 300 of the Indian\nPenal Code could not be attracted because it cannot be said that the accused intended to inflict that\nparticular injury which was ultimately found to have been inflicted. This Court observed\nthat the quarrel was of a trivial nature and even in such a trivial quarrel the appellant wielded a\nweapon like a knife and landed a blow in the chest. This Court observed as under:Gurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 4\n\"14. State of Tripura , this Court, in somewhat\nsimilar circumstances, while converting the sentence from section 302 IPC to one under section 304\nPart II IPC observed as under:\n\"This leads us to consider as to under what Section of law A-1 Abani K. The fine amount imposed by the trial court and Page 2091 affirmed by the High\nCourt is maintained. , this Court observed as under:\n\"......The help of Exception 4 can be invoked if death is caused (a) without\npremeditation, (b) in a sudden fight; (c) without the offender's having taken undue\nadvantage or acted in a cruel or unusual manner; and (d) the fight must have been\nwith the person killed. In our considered view, proper and appropriate sentence to the accused is the bounded\nobligation and duty of the court.",
+      "embedding_text": "REASONING_CHUNK | Case: Gurmukh Singh vs State Of Haryana on 25 August, 2009 | Judicial reasoning: This appeal is directed against the judgment of the Punjab & Haryana High Court dated 4.4.2008\ndelivered in Criminal Appeal No. We have\ncarefully perused the judgments of the trial court and the High Court as also the evidence of\nwitnesses. Appropriate\nsentencing is a very vital function and obligation of the court. Therefore, it is abundantly clear that there was no pre- arranged plan or that the incident had taken\nplace in furtherance of the common intention of the accused persons. This Court had an occasion to deal with cases of similar nature. But, according to this Court, the intention to cause such an injury was likely to cause death\nhad not been made out. The High Court affirmed the same. This Court observed that since there was no pre-meditation, Part 3 of section 300 of the Indian\nPenal Code could not be attracted because it cannot be said that the accused intended to inflict that\nparticular injury which was ultimately found to have been inflicted. This Court observed\nthat the | Intent: intentional | Outcome: death | IPC: 302, 304, 300, 34, 428",
+      "metadata": {
+        "case_name": "Gurmukh Singh vs State Of Haryana on 25 August, 2009",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "304",
+          "300",
+          "34",
+          "428"
+        ],
+        "actions": [
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Except the appellant Gurmukh\nSingh, all other accused were acquitted by the trial court, whereas the appellant Gurmukh Singh was\nconvicted under section 302 of the Indian Penal Code and sentenced to imprisonment for life and a\nfine of Rs.1,000/-, in default of payment of which, to further under rigorous imprisonment for six\nmonths. (3) The appellant gave a single lathi blow on the head of the deceased which proved\nfatal;\n(4) The other accused did not indulge in overt act therefore, except the appellant, the\nother co-accused namely Niranjan Singh, Harbhajan Singh and Manjit Singh have\nbeen acquitted by the trial court;\n(5) The incident took place on 8.1.1997 and the deceased remained hospitalized and\nultimately died on 14.1.1997;\n(6) The trial court observed that there was no previous enmity between the parties. Punishment for culpable homicide not amounting to murder.- Whoever\ncommits culpable homicide not amounting to murder shall be punished with\nimprisonment for life, or imprisonment of either description for a term which may\nextend to ten years, and shall also be liable to fine, if the act by which the death is\ncaused is done with the intention of causing death, or of causing such bodily injury as\nis likely to cause death, or with imprisonment of either description for a term which\nmay extend to ten years, or with fine, or with both, if the act is done with theGurmukh Singh vs State Of Haryana on 25 August, 2009\nIndian Kanoon - http://indiankanoon.org/doc/1740937/ 3\nknowledge that it is likely to cause death, but without any intention to cause death, or\nto cause such bodily injury as is likely to cause death.\"\n14. This Court altered the conviction of the accused from section 302 IPC to\nsection 304 Part II IPC and the accused was directed to suffer rigorous imprisonment for a period of\nseven years. The Sessions Judge convicted the accused under section\n302 IPC and sentenced him to rigorous imprisonment for life. This Court, while taking into consideration the age of the accused and other circumstances,\nconverted the conviction from section 302 IPC to one under section 304 Part II IPC and sentenced\nhim to suffer rigorous imprisonment for five years and a fine of Rs.500/-, in default to suffer\nrigorous imprisonment for six months.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Gurmukh Singh vs State Of Haryana on 25 August, 2009 | Final judgment: Except the appellant Gurmukh\nSingh, all other accused were acquitted by the trial court, whereas the appellant Gurmukh Singh was\nconvicted under section 302 of the Indian Penal Code and sentenced to imprisonment for life and a\nfine of Rs.1,000/-, in default of payment of which, to further under rigorous imprisonment for six\nmonths. (3) The appellant gave a single lathi blow on the head of the deceased which proved\nfatal;\n(4) The other accused did not indulge in overt act therefore, except the appellant, the\nother co-accused namely Niranjan Singh, Harbhajan Singh and Manjit Singh have\nbeen acquitted by the trial court;\n(5) The incident took place on 8.1.1997 and the deceased remained hospitalized and\nultimately died on 14.1.1997;\n(6) The trial court observed that there was no previous enmity between the parties. Punishment for culpable homicide not amounting to murder.- Whoever\ncommits culpable homicide not amounting to murder shall be punished with\nimprisonment for life, or imprisonmen | Judgment: convicted | IPC: 302, 304, 300, 34, 428",
+      "metadata": {
+        "case_name": "Gurmukh Singh vs State Of Haryana on 25 August, 2009",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "304",
+          "300",
+          "34",
+          "428"
+        ],
+        "actions": [
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "case_id": "Lachman_Singh_vs_State_Of_Haryana_on_28_July_2006",
+  "case_name": "Lachman Singh vs State Of Haryana on 28 July, 2006",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "350 of 2005 and 351 of 2005] ARIJIT PASAYAT, J. These appeals have been filed by Lachman Singh, Dev Singh and Randhir Singh (accused numbers\n1, 2 and 3 respectively) who faced trial for alleged commission of offences punishable under Sections\n302 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC'). Additionally, Dev Singh\nwas tried for alleged commission of offence punishable under Section 307 IPC, while other two were\ncharged for alleged commission of offence punishable under Section 307 read with Section 34 IPC. Flittering unnecessary details, the prosecution version as unfolded during trial is as follows:\nOn 3.3.1994 at 11.40 p.m. Rain water of the residential\nChobara of accused Dev Singh flows to the roof of the kitchen of Pritam Singh and\nthey wanted to use the water for bathing on the roof of the kitchen of Pritam Singh by\nmaking a hole inside their Chobara. Pritam Singh did not allow the flow of water\nthrough the roof of the kitchen. It was alleged that on the fateful day i.e. on\n3.3.1994 at about 8.30 a.m. he (Jai Singh) had gone to the house of Surmukh Singh,\nneighbour of Pritam Singh for some personal work. It was alleged that accused Dev Singh was\nchallenging that they would pass the flow of water from there in any case. Accused Dev Singh got\ninfuriated and all of a sudden asked his son Lachman Singh to bring revolver from inside as the\nother side members were always harassing them. It was alleged that thereupon accused Lachman\nSingh brought a revolver from inside and thereafter, accused Dev Singh stated \"shoot them\",\nwhereupon accused Lachman Singh fired and the shot hit the deceased, and on receipt of the said\nshot deceased fell down. Thereafter, accused Dev Singh took revolver from accused Lachman Singh\nand started firing shots, which, hit Jaswant Singh and Angrez Singh who were injured. Accused\nRandhir Singh exhorted that they had harassed them a lot and that nobody should be allowed to go\nScot free and thereupon he started pelting brick bats after picking the same from the roof.",
+      "embedding_text": "FACT_CHUNK | Case: Lachman Singh vs State Of Haryana on 28 July, 2006 | Facts: 350 of 2005 and 351 of 2005] ARIJIT PASAYAT, J. These appeals have been filed by Lachman Singh, Dev Singh and Randhir Singh (accused numbers\n1, 2 and 3 respectively) who faced trial for alleged commission of offences punishable under Sections\n302 read with Section 34 of the Indian Penal Code, 1860 (in short 'IPC'). Additionally, Dev Singh\nwas tried for alleged commission of offence punishable under Section 307 IPC, while other two were\ncharged for alleged commission of offence punishable under Section 307 read with Section 34 IPC. Flittering unnecessary details, the prosecution version as unfolded during trial is as follows:\nOn 3.3.1994 at 11.40 p.m. Rain water of the residential\nChobara of accused Dev Singh flows to the roof of the kitchen of Pritam Singh and\nthey wanted to use the water for bathing on the roof of the kitchen of Pritam Singh by\nmaking a hole inside their Chobara. Pritam Singh did not allow the flow of water\nthrough the roof of the kitchen. It was alleged that on the f | Actions: shot, fired, killed, harassed | Weapon: gun | Outcome: death | IPC: 302, 307, 34, 27, 300, 304",
+      "metadata": {
+        "case_name": "Lachman Singh vs State Of Haryana on 28 July, 2006",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "307",
+          "34",
+          "27",
+          "300",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "harassed"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Previously also there was an\naltercation between Dev Singh and Pritam Singh on the issue of flow of water, but the\nwell-wishers got the matter settled. When he was having a talk with the son of Surmukh Singh while standing on the roof, he noticed\nthat there was exchange of abuses between accused Lachman Singh and Randhir Singh, who were\nstanding on the roof of their house on one hand, and Naib Singh (hereinafter referred to as the\n'deceased'), Jaswant Singh, Angrez Singh and Vikram Singh, who were standing on the roof of their\nkitchen on the other hand, over the issue of flow of water. A fight is a combat between two and more persons whether with or without weapons. It\nis a question of fact and whether a quarrel is sudden or not must necessarily depend upon the\nproved facts of each case. The Court has to see whether the act, irrespective of its result, was done with\nthe intention or knowledge and under circumstances mentioned in the Section.",
+      "embedding_text": "ISSUE_CHUNK | Case: Lachman Singh vs State Of Haryana on 28 July, 2006 | Legal issues: Previously also there was an\naltercation between Dev Singh and Pritam Singh on the issue of flow of water, but the\nwell-wishers got the matter settled. When he was having a talk with the son of Surmukh Singh while standing on the roof, he noticed\nthat there was exchange of abuses between accused Lachman Singh and Randhir Singh, who were\nstanding on the roof of their house on one hand, and Naib Singh (hereinafter referred to as the\n'deceased'), Jaswant Singh, Angrez Singh and Vikram Singh, who were standing on the roof of their\nkitchen on the other hand, over the issue of flow of water. A fight is a combat between two and more persons whether with or without weapons. It\nis a question of fact and whether a quarrel is sudden or not must necessarily depend upon the\nproved facts of each case. The Court has to see whether the act, irrespective of its result, was done with\nthe intention or knowledge and under circumstances mentioned in the Section. | IPC: 302, 307, 34, 27, 300, 304",
+      "metadata": {
+        "case_name": "Lachman Singh vs State Of Haryana on 28 July, 2006",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "307",
+          "34",
+          "27",
+          "300",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "harassed"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Lachman Singh vs State Of Haryana on 28 July, 2006\n2006 AIR SCW 3860, 2006 CRI LJ (NOC) 509, 2007 (1) SCC(CRI) 123, 2006 (5)\nKANTLJ 926, 2006 (7) SCALE 423, 2006 (8) SRJ 586, (2006) 45 ALLINDCAS 99\n(SC), 2006 CRILR(SC MAH GUJ) 683, 2006 CRILR(SC&MP) 683, (2006) 5\nSUPREME 926, (2006) 4 EASTCRIC 45, (2006) 46 ALLINDCAS 525 (PAT),\n(2006) 3 RAJ CRI C 538, (2006) 3 RECCRIR 904, (2006) 3 CURCRIR 179, (2006)\n3 ALLCRIR 2437, (2006) 7 SCALE 423, (2006) 3 CHANDCRIC 163, (2006) 4\nALLCRILR 351, (2006) 3 CRIMES 164, (2006) 35 OCR 159,\nMANU/SC/3395/2006, (2006) SC CR R 1326, 2006 CHANDLR(CIV&CRI) 418,\n(2007) 1 RAJ LW 196, 2007 (1) ANDHLT(CRI) 220 SC, 2007 (1) ALD(CRL) 248\nAuthor: Arijit Pasayat\nBench: Arijit Pasayat, Lokeshwar Singh Panta\nCASE NO.:\nAppeal (crl.) 349 of 2005\nLachman Singh\nState of Haryana\nDATE OF JUDGMENT: 28/07/2006\nBENCH:\nARIJIT PASAYAT & LOKESHWAR SINGH PANTA\nJUDGMENT:\nJ U D G M E N T [With Criminal Appeal Nos. Jai Singh (PW-5) made statement (Exhibit PA) before ASI\nRaj Kumar (PW-21) in Civil Hospital, Shahabad to the effect that he was a resident of\nvillage Charunni Jattan and was doing cultivation. After arranging a vehicle,\nhe (Jai Singh) brought Jaswant Singh, Naib Singh and Angrez Singh, who had received fire armLachman Singh vs State Of Haryana on 28 July, 2006\nIndian Kanoon - http://indiankanoon.org/doc/541304/ 2\ninjuries, to Civil Hospital, Shahabad for their treatment and the Doctor referred Angrez Singh and\nJaswant Singh to PGI, Chandigarh, while Naib Singh was declared dead on account of the fire arm\ninjury received by him on his waist. ASI Raj Kumar (PW-21), after recording statement (Exhibit PA)\nmade by Jai Singh (PW-5) before him, sent the same to the Police Station with his endorsement\n(Exhibit PA/1) on the basis of which formal FIR relating to alleged commission of offences under\nSections 302/307/34 IPC and Section 27 of the Arms Act, 1959 (in short 'Arms Act') was registered\nin Police Station Shahabad at 11.50 p.m. ASI Raj Kumar (PW-21) had recorded the aforesaid statement Exhibit PA of Jai Singh (PW-5).",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Lachman Singh vs State Of Haryana on 28 July, 2006 | Arguments: Lachman Singh vs State Of Haryana on 28 July, 2006\n2006 AIR SCW 3860, 2006 CRI LJ (NOC) 509, 2007 (1) SCC(CRI) 123, 2006 (5)\nKANTLJ 926, 2006 (7) SCALE 423, 2006 (8) SRJ 586, (2006) 45 ALLINDCAS 99\n(SC), 2006 CRILR(SC MAH GUJ) 683, 2006 CRILR(SC&MP) 683, (2006) 5\nSUPREME 926, (2006) 4 EASTCRIC 45, (2006) 46 ALLINDCAS 525 (PAT),\n(2006) 3 RAJ CRI C 538, (2006) 3 RECCRIR 904, (2006) 3 CURCRIR 179, (2006)\n3 ALLCRIR 2437, (2006) 7 SCALE 423, (2006) 3 CHANDCRIC 163, (2006) 4\nALLCRILR 351, (2006) 3 CRIMES 164, (2006) 35 OCR 159,\nMANU/SC/3395/2006, (2006) SC CR R 1326, 2006 CHANDLR(CIV&CRI) 418,\n(2007) 1 RAJ LW 196, 2007 (1) ANDHLT(CRI) 220 SC, 2007 (1) ALD(CRL) 248\nAuthor: Arijit Pasayat\nBench: Arijit Pasayat, Lokeshwar Singh Panta\nCASE NO.:\nAppeal (crl.) 349 of 2005\nLachman Singh\nState of Haryana\nDATE OF JUDGMENT: 28/07/2006\nBENCH:\nARIJIT PASAYAT & LOKESHWAR SINGH PANTA\nJUDGMENT:\nJ U D G M E N T [With Criminal Appeal Nos. Jai Singh (PW-5) made statement (Exhibit PA) before ASI\nRaj Kumar (PW- | Intent: intentional | IPC: 302, 307, 34, 27, 300, 304 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Lachman Singh vs State Of Haryana on 28 July, 2006",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "307",
+          "34",
+          "27",
+          "300",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "harassed"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Appeal No.206-DB of 1996 before the\nPunjab and Haryana High Court. The Division Bench of the High Court dismissed the appeal. When Pritam Singh and his family members tried to\nconstruct a room on the roof of the kitchen, accused Dev Singh used to restrain them\nfrom constructing a room on the roof of their kitchen by obtaining stay order from\nthe Civil Court against Pritam Singh and others. Trial\nCourt on consideration of materials placed before it recorded conviction and imposed sentences as\naforenoted. Before the High Court it was urged that there was no motive established and in any event the\nmedical evidence runs contrary to the version of the alleged eye-witnesses. In any event, it was submitted that the occurrence took place in\ncourse of a sudden quarrel and, therefore, Section 302 IPC has no application. Merely because of some minor discrepancies in the\ntestimony, the evidence of injured eye- witnesses could not be discarded, and has been rightly relied\nupon by the Trial Court. We find that the evidence of the witnesses, more particularly, injured witnesses have\nbeen carefully analysed by the Trial Court and the High Court. So far as the bullets not matching the seized gun is concerned, the trial Court and High Court\nherring he pointed out to a different gun, so that the plea as presently urged can be taken. Therefore, conviction so far as he is concerned, cannot be sustained in the\nappeal filed by him i.e. State of Bihar (AIR 1965 SC 843), it was observed that the mere fact that the\ninjury actually inflicted by the accused did not cut any vital organ of the victim is not itself sufficient\nto take the act out of the purview of Section 307 IPC. The conviction of Dev\nSingh under Section 307 IPC and that of Lachman Singh under Section 307 read with Section 34\nIPC has been rightly upheld by the High Court, with the corresponding sentence as imposed.",
+      "embedding_text": "REASONING_CHUNK | Case: Lachman Singh vs State Of Haryana on 28 July, 2006 | Judicial reasoning: Appeal No.206-DB of 1996 before the\nPunjab and Haryana High Court. The Division Bench of the High Court dismissed the appeal. When Pritam Singh and his family members tried to\nconstruct a room on the roof of the kitchen, accused Dev Singh used to restrain them\nfrom constructing a room on the roof of their kitchen by obtaining stay order from\nthe Civil Court against Pritam Singh and others. Trial\nCourt on consideration of materials placed before it recorded conviction and imposed sentences as\naforenoted. Before the High Court it was urged that there was no motive established and in any event the\nmedical evidence runs contrary to the version of the alleged eye-witnesses. In any event, it was submitted that the occurrence took place in\ncourse of a sudden quarrel and, therefore, Section 302 IPC has no application. Merely because of some minor discrepancies in the\ntestimony, the evidence of injured eye- witnesses could not be discarded, and has been rightly relied\nupon by the Trial Court. W | Intent: intentional | Outcome: death | IPC: 302, 307, 34, 27, 300, 304",
+      "metadata": {
+        "case_name": "Lachman Singh vs State Of Haryana on 28 July, 2006",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "307",
+          "34",
+          "27",
+          "300",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "harassed"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "While accused Lachman Singh was convicted for offence punishable under Section 302 IPC and was\nsentenced to imprisonment for life and to pay a fine of Rs.2,000/- with default stipulation, Dev\nSingh and Randhir Singh were convicted under Section 302 read with Section 34 IPC. Similarly,\naccused Dev Singh was found guilty for offence punishable under Section 307 IPC while otherLachman Singh vs State Of Haryana on 28 July, 2006\nIndian Kanoon - http://indiankanoon.org/doc/541304/ 1\naccused Lachman Singh and Randhir Singh were convicted for offence punishable under Section\n307 read with Section 34 IPC and they were sentenced to undergo 5 years RI and to pay a fine of\nRs.500/- each with default stipulation, as was the case with accused Dev Singh. The conviction as\nrecorded and sentenced as imposed were challenged in Crl. Section 307 IPC reads:\n\"Attempt to murder - Whoever does any act with such intention or knowledge, and\nunder such circumstances that, if he by that act caused death, he would be guilty of\nmurder, shall be punished with imprisonment of either description for a term which\nmay extend to ten years, and shall also be liable to fine; and if hurt is caused to any\nperson by such act, the offender shall be liable either to imprisonment for life, or to\nsuch punishment as is hereinbefore mentioned.\"\nIt is sufficient to justify a conviction under Section 307 if there is present an intent coupled with\nsome overact in execution thereof. (JT 2004 (2) SC 140), Vasant Vithu Jadhav v. v. Saleem (2005 (5) SCC 554). He is also to be convicted under Section 307 read with Section 34 IPC. Accused Dev\nSingh has to be convicted under Section 304 Part I read with Section 34 IPC. Custodial sentence\nwould be 10 years RI with fine of Rs.2,000/- with default stipulation of three months. He is also\nconvicted under Section 307 IPC for causing injury on Angrez Singh (PW-6). We\nfind no reason to interfere with either the conviction or the sentence. However, the sentences shall\nrun concurrently.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Lachman Singh vs State Of Haryana on 28 July, 2006 | Final judgment: While accused Lachman Singh was convicted for offence punishable under Section 302 IPC and was\nsentenced to imprisonment for life and to pay a fine of Rs.2,000/- with default stipulation, Dev\nSingh and Randhir Singh were convicted under Section 302 read with Section 34 IPC. Similarly,\naccused Dev Singh was found guilty for offence punishable under Section 307 IPC while otherLachman Singh vs State Of Haryana on 28 July, 2006\nIndian Kanoon - http://indiankanoon.org/doc/541304/ 1\naccused Lachman Singh and Randhir Singh were convicted for offence punishable under Section\n307 read with Section 34 IPC and they were sentenced to undergo 5 years RI and to pay a fine of\nRs.500/- each with default stipulation, as was the case with accused Dev Singh. The conviction as\nrecorded and sentenced as imposed were challenged in Crl. Section 307 IPC reads:\n\"Attempt to murder - Whoever does any act with such intention or knowledge, and\nunder such circumstances that, if he by that act caused death, he would | Judgment: convicted | IPC: 302, 307, 34, 27, 300, 304",
+      "metadata": {
+        "case_name": "Lachman Singh vs State Of Haryana on 28 July, 2006",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "307",
+          "34",
+          "27",
+          "300",
+          "304"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "harassed"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

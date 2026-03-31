@@ -1,0 +1,177 @@
+{
+  "case_id": "State_Of_Nct_Of_Delhi_vs_Shiv_Charan_Bansal_Others_on_29_May_2009",
+  "case_name": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "No. Petitioner\nversus\nSHIV CHARAN BANSAL & ORS. ..... R.K. Naseem with Mr. Nitin\nTittal, Mr. Manish Kumar, Mr. Sachin Dev\nSharma and Mr. Dinesh Sharma, Advocates\nfor R-1. Ms. D.Puja Anand with Ms. Pusshp Gupta,\nAdvocates for R-2. G.S.Raghav and Mr. Pankaj Jain, Advocates\nfor Narender Mann\nSodhi. WITH\nCRL.REV.P. No. 405 of 2008\nSACHIN BANSAL ..... Petitioner\nThrough: Ms. D.Puja Anand with Ms. Pawan Bahl, APP. WITH\nCRL.REV.P. No. 335 of 2008 page 1 of 45\nCRL.REV.P. No. 342 of 2008\nNARENDER MANN ..... Petitioner\nwith Mr. G.S.Raghav and Mr. Pankaj Jain,\nAdvocates. 191/2008\nKANTA DEVI ..... R.K. Naseem with Mr. Nitin\nTittal, Mr. Manish Kumar, Mr. Sachin Dev\nfor Shiv Charan Bansal and Shailender\nSingh. Ms. D. Puja Anand with Ms. Pusshp Gupta,\nMr. Singh Sodhi. CRL.REV.P. 430/2008\nSHAILENDER SINGH ..... Petitioner\nThrough Pt. R.K Naseem with Mr. Pawan K. Bahl, APP\nCRL.REV.P. No. No. 516 of 2009\nNARENDER MANN ..... Petitioner\nwith Mr. G.S.Raghav and Mr. Pankaj Jain,\nAdvocates. Pawan Bahl, APP. CORAM:\nHON'BLE DR. JUSTICE S. MURALIDHAR\n1. No\n2. To be referred to the Reporter or not? Yes\n3. JUDGEMENT\n1.1 The order dated 17th March 2008 passed by the learned Additional Sessions Judge („ASJ) in\nSessions Case No. 6 of 2007 arising out of FIR No.200 of 2006 registered at Police Station Mangol\nPuri, concerning the murder of deceased S.N.Gupta on 21st March 2006, has given rise to this batch\nof petitions. Rajbir\nMalik, Lalit Mann and Shiv Charan Bansal have been discharged and to the extent that accused\nShailender and Sachin Bansal have been charged only for CRL.REV.P. No. 335 of 2008 page 3 of 45\nthe offence under Section 25 of the Arms Act. The complainant Kanta Devi, the wife of the deceased S.N. The revision\npetition by the accused Shailender Singh and Sachin Bansal have challenged the said order to the\nextent that they have been charged with the offence under Section 25 of the Arms Act. According to\nthem they ought to have been discharged. Narender Mann has filed a criminal revision petition\nchallenging the order on charge claiming that he too should have been discharged.",
+      "embedding_text": "FACT_CHUNK | Case: State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 | Facts: No. Petitioner\nversus\nSHIV CHARAN BANSAL & ORS. ..... R.K. Naseem with Mr. Nitin\nTittal, Mr. Manish Kumar, Mr. Sachin Dev\nSharma and Mr. Dinesh Sharma, Advocates\nfor R-1. Ms. D.Puja Anand with Ms. Pusshp Gupta,\nAdvocates for R-2. G.S.Raghav and Mr. Pankaj Jain, Advocates\nfor Narender Mann\nSodhi. WITH\nCRL.REV.P. No. 405 of 2008\nSACHIN BANSAL ..... Petitioner\nThrough: Ms. D.Puja Anand with Ms. Pawan Bahl, APP. WITH\nCRL.REV.P. No. 335 of 2008 page 1 of 45\nCRL.REV.P. No. 342 of 2008\nNARENDER MANN ..... Petitioner\nwith Mr. G.S.Raghav and Mr. Pankaj Jain,\nAdvocates. 191/2008\nKANTA DEVI ..... R.K. Naseem with Mr. Nitin\nTittal, Mr. Manish Kumar, Mr. Sachin Dev\nfor Shiv Charan Bansal and Shailender\nSingh. Ms. D. Puja Anand with Ms. Pusshp Gupta,\nMr. Singh Sodhi. CRL.REV.P. 430/2008\nSHAILENDER SINGH ..... Petitioner\nThrough Pt. R.K Naseem with Mr. Pawan K. Bahl, APP\nCRL.REV.P. No. No. 516 of 2009\nNARENDER MANN ..... Petitioner\nwith Mr. G.S.Raghav and Mr. Pankaj Jain,\nAdvocates. Pawan Bahl, APP.  | Actions: shot, fired, killed, threatened | Weapon: gun | Outcome: death | IPC: 120B, 34, 302, 25, 201, 161, 164, 10, 27, 162, 227",
+      "metadata": {
+        "case_name": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "120B",
+          "34",
+          "302",
+          "25",
+          "201",
+          "161",
+          "164",
+          "10",
+          "27",
+          "162",
+          "227"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether Reporters of local papers may be\nallowed to see the judgment? Whether the judgment should be reported Yes\nin Digest? Whether a particular accused had ceased to be a conspirator or not, at any point\nof time, is a matter which can be decided on the facts of that particular case. Whether a confession is voluntary or not is\nessentially a question of fact. 140-\n141):\n\"Section 27 only lets in so much of the statements, whether they amount to a\nconfession or not, as relates distinctly to the fact thereby discovered. Later when the learned ASJ\nconsidered the evidence against each of the accused, he kept aside the disclosure statements and the\ntelephone records wholly and then considered whether the remaining evidence justified the framing\nof charge. But\nthe court must enquire whether the two persons are independently pursuing the\nsame end or they have come together in the pursuit of the unlawful object. Keeping the above principles in view, this Court proceeds to examine whether the evidence on\nrecord vis-a-vis each of the accused justifies the framing of charge. Whether in fact in the running of such committees it is a\npractice to keep or preserve the written record or not would be a matter of evidence. It is clarified that the discussion of the materials on record in the present order is only for\ndetermining whether the framing of charges against the accused is justified or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 | Legal issues: Whether Reporters of local papers may be\nallowed to see the judgment? Whether the judgment should be reported Yes\nin Digest? Whether a particular accused had ceased to be a conspirator or not, at any point\nof time, is a matter which can be decided on the facts of that particular case. Whether a confession is voluntary or not is\nessentially a question of fact. 140-\n141):\n\"Section 27 only lets in so much of the statements, whether they amount to a\nconfession or not, as relates distinctly to the fact thereby discovered. Later when the learned ASJ\nconsidered the evidence against each of the accused, he kept aside the disclosure statements and the\ntelephone records wholly and then considered whether the remaining evidence justified the framing\nof charge. But\nthe court must enquire whether the two persons are independently pursuing the\nsame end or they have come together in the pursuit of the unlawful object. Keeping the above principles in view, this Court proceeds to examine whether the ev | IPC: 120B, 34, 302, 25, 201, 161, 164, 10, 27, 162, 227",
+      "metadata": {
+        "case_name": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "120B",
+          "34",
+          "302",
+          "25",
+          "201",
+          "161",
+          "164",
+          "10",
+          "27",
+          "162",
+          "227"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29\nMay, 2009\nAuthor: S.Muralidhar\nBench: S. 335 of 2008\nSTATE OF NCT OF DELHI ..... Respondents\nThrough: Mr. Pusshp Gupta, Advocates\nversus\nSTATE ..... RespondentState Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 May, 2009\nIndian Kanoon - http://indiankanoon.org/doc/198509181/ 1\nThrough: Mr. versus\nSTATE ..... Respondent\nCRL.REV.P. Petitioner\nversus\nSTATE & ORS ..... Respondents\nThrough Mr. Pawan Bahl, APP for State. Nitin\nversus\nSTATE OF DELHI ..... Respondent\nThrough Mr. 335 of 2008 page 2 of 45\nANDState Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 May, 2009\nIndian Kanoon - http://indiankanoon.org/doc/198509181/ 2\nBAIL APPLN. versus\nTHE STATE (NCT OF DELHI) ..... Respondents\nThrough: Mr. The State is aggrieved by the order to the extent that some of the accused i.e. The State is also aggrieved to the extent that Narender\nMann and Jogender Singh Sodhi have not been charged for the offence under Section 120B IPC but\nonly with Section 302 read with 34 IPC. Gupta, has filed a separate revision petition praying for the same reliefs as the State. 1.2 At the outset this Court allows an application by\nthe State (Crl.M.A.No. Both were represented by counsel and heard in the revision petition by the\nState. Case of the ProsecutionState Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 May, 2009\nIndian Kanoon - http://indiankanoon.org/doc/198509181/ 3\n2. 335 of 2008 page 5 of 45 statements to the police\nunder Section 161 CrPC. Gupta also made a statement under Section 161 CrPC to the police on 21 st\nMarch 2006. Naveen Gupta @ Cheenu, the son of Suresh Gupta also made a statement to the police. One Ashok Kumar Aggarwal son of Shri Sunder Lal also gave a statement under Section 161 CrPC\nto the police on 7 th April 2006 stating that Sachin Bansal and Shiv Charan Bansal were in the\nbusiness of running 60 to 70 committees and each committee had sums ranging in between 5 to 20\nlakhs.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 | Arguments: State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29\nMay, 2009\nAuthor: S.Muralidhar\nBench: S. 335 of 2008\nSTATE OF NCT OF DELHI ..... Respondents\nThrough: Mr. Pusshp Gupta, Advocates\nversus\nSTATE ..... RespondentState Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 May, 2009\nIndian Kanoon - http://indiankanoon.org/doc/198509181/ 1\nThrough: Mr. versus\nSTATE ..... Respondent\nCRL.REV.P. Petitioner\nversus\nSTATE & ORS ..... Respondents\nThrough Mr. Pawan Bahl, APP for State. Nitin\nversus\nSTATE OF DELHI ..... Respondent\nThrough Mr. 335 of 2008 page 2 of 45\nANDState Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 May, 2009\nIndian Kanoon - http://indiankanoon.org/doc/198509181/ 2\nBAIL APPLN. versus\nTHE STATE (NCT OF DELHI) ..... Respondents\nThrough: Mr. The State is aggrieved by the order to the extent that some of the accused i.e. The State is also aggrieved to the extent that Narender\nMann and Jogender Singh Sodhi have not been charged for the offence under Section 120B IPC bu | Intent: intentional | IPC: 120B, 34, 302, 25, 201, 161, 164, 10, 27, 162, 227 | Judgment context: unknown",
+      "metadata": {
+        "case_name": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "120B",
+          "34",
+          "302",
+          "25",
+          "201",
+          "161",
+          "164",
+          "10",
+          "27",
+          "162",
+          "227"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Muralidhar\nIN THE HIGH COURT OF DELHI AT NEW DELHI\nReserved on: April 29, 2009\nDate of decision: May 29, 2009\nCRL.REV.P. On 30th March 2006 the accused persons were produced in the court of the learned MM at\nRohini. It was\nsubmitted that the disclosure statements made by the accused were admissible under Section 10 of\nthe Indian Evidence Act, 1872 („EA) as all the accused were being tried together in the same case\nand therefore the statement made by one accused would be relevant against the other accused as\nwell. It was submitted\nthat, therefore, the accused were liable to be discharged. The\nevidence which had come to the knowledge of the investigating agency after the arrest of the accused\npersons was not legally admissible material which could give rise to a grave suspicion against the\naccused persons and therefore none of them could be charged with the offence of criminal\nconspiracy under Section 120B IPC. It was for Narender Mann to explain therefore the circumstances in which he had kept\nthe weapon of offence at the office of Shailender. Sud submitted that there was no\nindependent witness to any of the recoveries and therefore they should not be relied upon. Therefore, those moneys were not\nbound to automatically come to Sachin Bansal or Shiv Charan Bansal. He\ncriticized the failure of the prosecution to draw the attention of the trial court to either the\nsupplementary charge sheet or the above statement of Ramesh and submitted that therefore those\ncould not relied upon in the present revision petitions. In fact the\ndeceased S.N.Gupta had not attended the marriage of Sachin Bansal and therefore there was no\nphotograph of his in the album. Even\nthe story of the attempt by the accused to retain the factory at Bahadurgarh as providing the motive\nfor the crime was unbelievable since it was his son Rajesh Gupta who was the Director of ASPL and\ntherefore there was no gain to the accused by eliminating S.N.Gupta. the murder of the deceased and that therefore such statement would be inadmissible as\nevidence against the accused in terms of Section 10 EA.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 | Judicial reasoning: Muralidhar\nIN THE HIGH COURT OF DELHI AT NEW DELHI\nReserved on: April 29, 2009\nDate of decision: May 29, 2009\nCRL.REV.P. On 30th March 2006 the accused persons were produced in the court of the learned MM at\nRohini. It was\nsubmitted that the disclosure statements made by the accused were admissible under Section 10 of\nthe Indian Evidence Act, 1872 („EA) as all the accused were being tried together in the same case\nand therefore the statement made by one accused would be relevant against the other accused as\nwell. It was submitted\nthat, therefore, the accused were liable to be discharged. The\nevidence which had come to the knowledge of the investigating agency after the arrest of the accused\npersons was not legally admissible material which could give rise to a grave suspicion against the\naccused persons and therefore none of them could be charged with the offence of criminal\nconspiracy under Section 120B IPC. It was for Narender Mann to explain therefore the circumstances in which he  | Intent: intentional | Outcome: death | IPC: 120B, 34, 302, 25, 201, 161, 164, 10, 27, 162, 227",
+      "metadata": {
+        "case_name": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "120B",
+          "34",
+          "302",
+          "25",
+          "201",
+          "161",
+          "164",
+          "10",
+          "27",
+          "162",
+          "227"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "It was preceded by careful planning. 51. The evidence of Shailender Singh being in possession of the premises\nfrom where the said weapon was recovered also creates only a suspicion at the highest and not a\ngrave suspicion. The mere fact that he\ngave this address in an application form for grant of a mobile connection is too weak a piece of\nevidence to rope him in. The so called disclosure by CRL.REV.P. No. 335 of 2008 page 40 of 45\nShailender after his arrest leading to the same open table draw where the weapon was kept is to no\neffect as by that time Narender Mann had already led the police there and the weapon already stood\nrecovered. The petition by Shailender Singh is entitled\nto succeed because the prosecution has not been able to prove the offence against him even under\nSection 25 of the Arms Act. 52. In any event, at best it would supply the motive for the commission of the offence\nbut not show the involvement of Shiv Charan Bansal himself in the commission of the offence. Conclusions regarding charge\n53. The net result of the above discussion is as under. CRL.REV.P. No. 335 of 2008 page 41 of 45\n(a) There is sufficient evidence to form a grave suspicion against Narender Mann, Sachin Bansal and\nJoginder Singh Sodhi for the offences under Section 120B IPC read with 302/34 IPC and Section\n120B IPC read with Sections 25/27 of the Arms Act and substantively for the offence under Section\n120B IPC. The charges against each of them would accordingly stand modified. (b) As regards Shiv Charan Bansal, Rajbir Malik and Lalit Mann there may be evidence to form a\nsuspicion about their involvement but not a grave suspicion to justify the framing of charges. (c) As regards Shailender Singh, the evidence on record does not justify the formation of a grave\nsuspicion against him for the offence even under Section 25 of the Arms Act. (d) The revision petition of the complainant Kanta Devi is also CRL.REV.P.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29 | Final judgment: It was preceded by careful planning. 51. The evidence of Shailender Singh being in possession of the premises\nfrom where the said weapon was recovered also creates only a suspicion at the highest and not a\ngrave suspicion. The mere fact that he\ngave this address in an application form for grant of a mobile connection is too weak a piece of\nevidence to rope him in. The so called disclosure by CRL.REV.P. No. 335 of 2008 page 40 of 45\nShailender after his arrest leading to the same open table draw where the weapon was kept is to no\neffect as by that time Narender Mann had already led the police there and the weapon already stood\nrecovered. The petition by Shailender Singh is entitled\nto succeed because the prosecution has not been able to prove the offence against him even under\nSection 25 of the Arms Act. 52. In any event, at best it would supply the motive for the commission of the offence\nbut not show the involvement of Shiv Charan Bansal himself in the commission of the offence. Concl | Judgment: unknown | IPC: 120B, 34, 302, 25, 201, 161, 164, 10, 27, 162, 227",
+      "metadata": {
+        "case_name": "State Of Nct Of Delhi vs Shiv Charan Bansal & Others on 29",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "120B",
+          "34",
+          "302",
+          "25",
+          "201",
+          "161",
+          "164",
+          "10",
+          "27",
+          "162",
+          "227"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "killed",
+          "threatened"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "HIGH COURT",
+        "year": "2009"
+      }
+    }
+  ]
+}

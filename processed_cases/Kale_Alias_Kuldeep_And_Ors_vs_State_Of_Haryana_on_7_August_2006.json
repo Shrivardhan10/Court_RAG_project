@@ -1,0 +1,157 @@
+{
+  "case_id": "Kale_Alias_Kuldeep_And_Ors_vs_State_Of_Haryana_on_7_August_2006",
+  "case_name": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Kale Alias Kuldeep And Ors. Jindal\nJUDGMENT\nVirender Singh, J. 1. Vide this judgment we shall be disposing of Criminal Appeal No. 521-DB/1998 filed by Kale @\nKuldeep & five others and Criminal Appeal No. 2. 1,000/-, in default thereof to further undergo RI for six months. Section 325\nread with Section 34 IPC RI for three years each and to pay a fine of Rs. 300/- each,\nin default thereof to undergo further RI for two months. Section 323 read with\nSection 34 IPC RI for six months. 3. Umed Singh, Raghunath, Naresh and Smt. 4. All the substantives sentences have been ordered to run concurrently. 5. As depicted in the charge sheet, Kale alias Kuldeep was aged 18 years, Naresh 25 years, Braham\nParkash 22 years, Umed Singh 19 years, Raghunath 70 years and Smt. Mukat Lado was 65 years old\nat the time of occurrence. 6. Mr. 549-DBA of 2005) against Umed Singh,\nRaghunath and Smt. 8. Record reveals that no formal order for grant of leave to appeal on the miscellaneous application\n(Criminal Misc. No. 521. 9. Record further reveals that Criminal Revision No. FACTS IN BRIEF:\n10. Mahabir is the deceased in this case. He is son of Mehar alias Mehar Singh ( PW-8), the\ncomplainant/FIR lodger. The occurrence is dated 17-5-1990 at 5-00 PM in village Garoli Khurd,\npolice station Sadar Gurgaon. The distance between the police station and the place of occurrence is\n5 kilometers. His son Mahabir was\nemployed in the office of Deputy Commissioner. On 17-5-1990 at about 5-00 PM he and his son\nMahabir came out of their house on the street after taking tea. Thereafter Kale gave a pipe blow lathi-wise on the head of Mahabir and Parkash gave a lathi blow on\nhis ( Ram Mehar's) head followed by another lathi blow on the little finger of the complainant's left\nhand and third lathi blow on the left side of his hips. At that moment his son-Balbir and brother\nKhema reached the spot. Umed son of Raghunath and Naresh son of Bhoop Singh also reached from\nthe other side.",
+      "embedding_text": "FACT_CHUNK | Case: Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, | Facts: Kale Alias Kuldeep And Ors. Jindal\nJUDGMENT\nVirender Singh, J. 1. Vide this judgment we shall be disposing of Criminal Appeal No. 521-DB/1998 filed by Kale @\nKuldeep & five others and Criminal Appeal No. 2. 1,000/-, in default thereof to further undergo RI for six months. Section 325\nread with Section 34 IPC RI for three years each and to pay a fine of Rs. 300/- each,\nin default thereof to undergo further RI for two months. Section 323 read with\nSection 34 IPC RI for six months. 3. Umed Singh, Raghunath, Naresh and Smt. 4. All the substantives sentences have been ordered to run concurrently. 5. As depicted in the charge sheet, Kale alias Kuldeep was aged 18 years, Naresh 25 years, Braham\nParkash 22 years, Umed Singh 19 years, Raghunath 70 years and Smt. Mukat Lado was 65 years old\nat the time of occurrence. 6. Mr. 549-DBA of 2005) against Umed Singh,\nRaghunath and Smt. 8. Record reveals that no formal order for grant of leave to appeal on the miscellaneous application\n(Criminal Misc. N | Actions: assaulted | Weapon: lathi | Outcome: death | IPC: 308, 323, 34, 302, 325, 149, 304, 148, 300, 299",
+      "metadata": {
+        "case_name": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "308",
+          "323",
+          "34",
+          "302",
+          "325",
+          "149",
+          "304",
+          "148",
+          "300",
+          "299"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,\n2006\nAuthor: Virender Singh\nBench: Virender Singh, A.N. Jindal\nJUDGMENT\nVirender Singh, J. 1. Vide this judgment we shall be disposing of Criminal Appeal No. 521-DB/1998 filed by Kale @\nKuldeep & five others and Criminal Appeal No. 549-DBA of 2005 filed by the State of Haryana\nagainst Umed Singh and two others as both are arising out of one and the same impugned judgment\npassed by learned Additional Sessions Judge, Gurgaon dated 30- 10-1998. 2. Kale alias Kuldeep (to be referred to as Kale) and Parkash alias Braham Parkash (to be referred to\nas Parkash) appellants in Appeal No. 521 have been convicted under Sections 302 read with Section\n34 IPC, 325 read with Section 34 IPC and 323 read with Section 34 IPC.",
+      "embedding_text": "ISSUE_CHUNK | Case: Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, | Legal issues: Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,\n2006\nAuthor: Virender Singh\nBench: Virender Singh, A.N. Jindal\nJUDGMENT\nVirender Singh, J. 1. Vide this judgment we shall be disposing of Criminal Appeal No. 521-DB/1998 filed by Kale @\nKuldeep & five others and Criminal Appeal No. 549-DBA of 2005 filed by the State of Haryana\nagainst Umed Singh and two others as both are arising out of one and the same impugned judgment\npassed by learned Additional Sessions Judge, Gurgaon dated 30- 10-1998. 2. Kale alias Kuldeep (to be referred to as Kale) and Parkash alias Braham Parkash (to be referred to\nas Parkash) appellants in Appeal No. 521 have been convicted under Sections 302 read with Section\n34 IPC, 325 read with Section 34 IPC and 323 read with Section 34 IPC. | IPC: 308, 323, 34, 302, 325, 149, 304, 148, 300, 299",
+      "metadata": {
+        "case_name": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "308",
+          "323",
+          "34",
+          "302",
+          "325",
+          "149",
+          "304",
+          "148",
+          "300",
+          "299"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Haryana on 7 August,\n2006\nAuthor: Virender Singh\nBench: Virender Singh, A.N. 549-DBA of 2005 filed by the State of Haryana\nagainst Umed Singh and two others as both are arising out of one and the same impugned judgment\npassed by learned Additional Sessions Judge, Gurgaon dated 30- 10-1998. Kale alias Kuldeep (to be referred to as Kale) and Parkash alias Braham Parkash (to be referred to\nas Parkash) appellants in Appeal No. Cheema learned Senior Advocate states that Naresh appellant has since expired, which fact is\nnot disputed by the learned State counsel.Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/811565/ 1\n7. The State of Haryana also filed an appeal ( No. 245-MA of 1999) filed by the State against acquittal of aforesaid three\nNo. Subsequently, vide formal order dated July 12, 2005, the State appeal stands admitted. On the same day at 11-55PM statement Ex. Kale alias Kuldeep (appellant) having\na pipe in his hand and Parkash ( appellant) armed with a lathi came there and started hurling\nabuses at them, proclaiming that they would teach them a lesson for filing a civil suit in the courts. It is then stated that they had also given injuries to the\naccused side in their self defence. vs State Of Haryana on 7 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/811565/ 2\n19-5-1990 at 2-00 PM under Sections 308/323/34 IPC . During the course of investigation, iron pipe and lathi were recovered from Kale\nalias Kuldeep and Braham Parkash appellants, but the same have not been exhibited during trial. 17-5-1990, at the instance of\nRaghunath appellant, a DDR No. He then states that they had also caused\ninjuries to the other side in their self defence. vs State Of Haryana on 7 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/811565/ 3\nAll the injuries were kept under observation. vs State Of Haryana on 7 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/811565/ 4\ni) A diffused reddish swelling on the dorsal aspect of the right hand at the metacarpal\nof the index and middle and the base of index finger.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, | Arguments: vs State Of Haryana on 7 August,\n2006\nAuthor: Virender Singh\nBench: Virender Singh, A.N. 549-DBA of 2005 filed by the State of Haryana\nagainst Umed Singh and two others as both are arising out of one and the same impugned judgment\npassed by learned Additional Sessions Judge, Gurgaon dated 30- 10-1998. Kale alias Kuldeep (to be referred to as Kale) and Parkash alias Braham Parkash (to be referred to\nas Parkash) appellants in Appeal No. Cheema learned Senior Advocate states that Naresh appellant has since expired, which fact is\nnot disputed by the learned State counsel.Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, 2006\nIndian Kanoon - http://indiankanoon.org/doc/811565/ 1\n7. The State of Haryana also filed an appeal ( No. 245-MA of 1999) filed by the State against acquittal of aforesaid three\nNo. Subsequently, vide formal order dated July 12, 2005, the State appeal stands admitted. On the same day at 11-55PM statement Ex. Kale alias Kuldeep (appellant) having\na pipe in his | Intent: intentional | IPC: 308, 323, 34, 302, 325, 149, 304, 148, 300, 299 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "308",
+          "323",
+          "34",
+          "302",
+          "325",
+          "149",
+          "304",
+          "148",
+          "300",
+          "299"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "1327 of 1998 filed by the complainant was\ndismissed by this Court vide order dated January 22, 1999. DF of aforesaid Mehar Singh was recorded\nby HC Bhim Singh in General Hospital, Gurgaon where-in he alleges that some of the land of his\nplot was grabbed by Raghunath Singh son of Ram Sarup etc., for which a civil suit in Civil Courts at\nGurgaon was pending and the next date fixed in the said case was 7-6-1990. We would also like to refer to the finding of the trial court wherein it is observed that the accused\nparty came to the spot in three batches. The learned trial Court\ncame to the conclusion that Section 148 IPC is not made out and similarly Section 149 IPC is not\nattracted. It was then observed that Naresh, Umed Singh, Raghunath and Smt. Kale alias\nKuldeep and Parkash alias Braham Parkash, therefore, they cannot be said to have become members\nof the unlawful assembly (para 49 refers). Cheema contends that no doubt the prosecution is not supposed to\nincrease the quantity of witnesses may be the injured one but it is the quality of the evidence that\nmatters and in the instant case both the aforesaid injured witnesses are not un-folding the true\npicture before the court and have, thus, rendered themselves un-reliable. Cheema submits that the learned trial court in para No. 49 of the impugned\njudgment has observed that the accused came at the spot in three batches and therefore, Section 148\nIPC or Section 149 IPC cannot said to be attracted. Cheema submits that the\nobservation of the learned trial court in para No. The observation of the\nlearned trial court is that the second injury mentioned at Sr. Katyal then submits that when all the facts are taken collectively, Section 149 IPC is attracted\nand therefore, the State appeal filed against the acquittal of Raghunath, his wife Lado and Umed for\nthe main charge deserves to be allowed. After examining the entire evidence and otherwise also as observed by the learned trial court, at\nleast one fact is very clear that the accused had reached in three batches at the spot.",
+      "embedding_text": "REASONING_CHUNK | Case: Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, | Judicial reasoning: 1327 of 1998 filed by the complainant was\ndismissed by this Court vide order dated January 22, 1999. DF of aforesaid Mehar Singh was recorded\nby HC Bhim Singh in General Hospital, Gurgaon where-in he alleges that some of the land of his\nplot was grabbed by Raghunath Singh son of Ram Sarup etc., for which a civil suit in Civil Courts at\nGurgaon was pending and the next date fixed in the said case was 7-6-1990. We would also like to refer to the finding of the trial court wherein it is observed that the accused\nparty came to the spot in three batches. The learned trial Court\ncame to the conclusion that Section 148 IPC is not made out and similarly Section 149 IPC is not\nattracted. It was then observed that Naresh, Umed Singh, Raghunath and Smt. Kale alias\nKuldeep and Parkash alias Braham Parkash, therefore, they cannot be said to have become members\nof the unlawful assembly (para 49 refers). Cheema contends that no doubt the prosecution is not supposed to\nincrease the quantity of witness | Intent: intentional | Outcome: death | IPC: 308, 323, 34, 302, 325, 149, 304, 148, 300, 299",
+      "metadata": {
+        "case_name": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "308",
+          "323",
+          "34",
+          "302",
+          "325",
+          "149",
+          "304",
+          "148",
+          "300",
+          "299"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "521 have been convicted under Sections 302 read with Section\n34 IPC, 325 read with Section 34 IPC and 323 read with Section 34 IPC. They are sentenced as\nunder:\nUnder Section 302 read with Section 34 IPC Imprisonment for life and to pay a fine\nof Rs. Mukat Lado (to be referred to as Lado) have been\nconvicted under Sections 323 read with Section 34 IPC. Naresh has been released on probation\nwhereas the remaining three accused/appellants have been sentenced as under: Section 323 IPC\nread with Section 34 IPC RI for six months each. Mukat Lado on the plea that their case is also on par with the aforesaid Kale\nand Braham Parkash, who have already been convicted under Section 302 read with Section 34 IPC,\ntherefore aforesaid three respondents be also convicted under Section 302 read with Section 149\nIPC, for which all the accused were initially charged with by the learned trial Court. On the basis of the aforesaid finding, the appellants have been convicted and sentenced as\nindicated hereinabove. He then states that so far as Umed Singh\nNaresh, Raghunath and Lado after Mahabir Singh was assaulted by the first batch (batch of Kale\nand Brahm Parkash appellants) and therefore, Umed Singh has been convicted only under Section\n323 IPC read with Section 34 IPC. Sunil Katyal, learned\nwithin a few minutes may be in different batches and have caused injuries to the complainant side\nand therefore, they all are liable to be convicted for the charges framed against them. Katyal not only the conviction of Kale and Parkash deserves to be upheld for the offence\npunishable under Section 302/34 IPC for the death of Mahabir Singh but also even Umed Singh,\nRaghunath and Lado who have been convicted under Section 323/34 IPC are liable to be convicted\nfor the main offences viz Section 302 IPC read with Section 149 IPC for which they were charged. It is settled legal position that once an unlawful assembly is\nestablished then all the accused are of course liable to be convicted on the principle of vicarious\nliability even if no overt act is attributed.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August, | Final judgment: 521 have been convicted under Sections 302 read with Section\n34 IPC, 325 read with Section 34 IPC and 323 read with Section 34 IPC. They are sentenced as\nunder:\nUnder Section 302 read with Section 34 IPC Imprisonment for life and to pay a fine\nof Rs. Mukat Lado (to be referred to as Lado) have been\nconvicted under Sections 323 read with Section 34 IPC. Naresh has been released on probation\nwhereas the remaining three accused/appellants have been sentenced as under: Section 323 IPC\nread with Section 34 IPC RI for six months each. Mukat Lado on the plea that their case is also on par with the aforesaid Kale\nand Braham Parkash, who have already been convicted under Section 302 read with Section 34 IPC,\ntherefore aforesaid three respondents be also convicted under Section 302 read with Section 149\nIPC, for which all the accused were initially charged with by the learned trial Court. On the basis of the aforesaid finding, the appellants have been convicted and sentenced as\nindicated hereina | Judgment: convicted | IPC: 308, 323, 34, 302, 325, 149, 304, 148, 300, 299",
+      "metadata": {
+        "case_name": "Kale Alias Kuldeep And Ors. vs State Of Haryana on 7 August,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "308",
+          "323",
+          "34",
+          "302",
+          "325",
+          "149",
+          "304",
+          "148",
+          "300",
+          "299"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "case_id": "State_vs_Ashok_Kumar_on_26_September_2013",
+  "case_name": "State vs . Ashok Kumar on 26 September, 2013",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "PAWAN KUMAR JAIN\nADDITIONAL SESSIONS JUDGE-01 ( CENTRAL): DELHI\nSC No. 112/13\nID No. : 02401R0262482013\nFIR No. 131/13\nPolice Station : DBG Road\nUnder Section : 354D IPC\nr/w Section 12 POCSO Act. Madhubani, Bihar. accused. SC No. Ashok Kumar on 26 September, 2013\nIndian Kanoon - http://indiankanoon.org/doc/32288367/ 1\n-\n1. Briefly stated facts of prosecution case are that on April 23. It was\nalleged that one day they hired a rickshaw of accused for their school and since then the said\nrickshaw puller i.e. It was alleged that the accused used to see them with bad\nintention and he was following them for the last 4-5 days. Accordingly, complainant asked her friend\nPW3 that they should make complaint to her mother. It was alleged that on April 23, 2013, victim\nand her friend left from their house to their school and when they reached near Shani Mandir,\naccused met them there. It was alleged that accused had blocked their passage by putting his rickshaw in\nfront of their rickshaw. When their rickshaw puller scolded him, accused went away. It was alleged\nthat when they were coming back from the school in a cycle rickshaw, accused again followed them\ntill Shani Mandir and threatened the complainant. Accordingly, complainant narrated the incident\nto her parents. Thereafter, her parents apprehended the rickshaw puller near Braham Kumari\nAshram where he was sleeping in his rickshaw. It was alleged that at that time accused was under\nthe influence of liquor. Police was called. Public persons had beaten the accused. 2. During investigation, documents relating to the date of birth of victim were collected. As per\nschool record, her date of birth is May, 02, 2000. P.C. was also\nrecorded. 3. After completing investigation, challan was filed against the accused Ashok Kumar for the offence\npunishable under Section 354D IPC read with Section 12 of Protection of Children From Sexual\nOffences Act. 4. After complying with the provisions of Section 207 Cr. P.C., a charge for the offence punishable\nunder Section 354D IPC read with Section 12 of Protection of Children From Sexual Offences, Act\nwas framed against the accused to which accused pleaded not guilty and claimed trial.",
+      "embedding_text": "FACT_CHUNK | Case: State vs . Ashok Kumar on 26 September, 2013 | Facts: PAWAN KUMAR JAIN\nADDITIONAL SESSIONS JUDGE-01 ( CENTRAL): DELHI\nSC No. 112/13\nID No. : 02401R0262482013\nFIR No. 131/13\nPolice Station : DBG Road\nUnder Section : 354D IPC\nr/w Section 12 POCSO Act. Madhubani, Bihar. accused. SC No. Ashok Kumar on 26 September, 2013\nIndian Kanoon - http://indiankanoon.org/doc/32288367/ 1\n-\n1. Briefly stated facts of prosecution case are that on April 23. It was\nalleged that one day they hired a rickshaw of accused for their school and since then the said\nrickshaw puller i.e. It was alleged that the accused used to see them with bad\nintention and he was following them for the last 4-5 days. Accordingly, complainant asked her friend\nPW3 that they should make complaint to her mother. It was alleged that on April 23, 2013, victim\nand her friend left from their house to their school and when they reached near Shani Mandir,\naccused met them there. It was alleged that accused had blocked their passage by putting his rickshaw in\nfront of their rickshaw. When thei | Actions: threatened | Weapon: unknown | Outcome: death | IPC: 12, 354D, 164, 207, 313, 11, 30, 428",
+      "metadata": {
+        "case_name": "State vs . Ashok Kumar on 26 September, 2013",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "12",
+          "354D",
+          "164",
+          "207",
+          "313",
+          "11",
+          "30",
+          "428"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "During her cross-examination PW2 admitted that when accused dropped them at their school\nshe asked the accused to come at 2 PM but deposed that she did not remember whether accused\nreached the school or not. State vs . Ashok Kumar on 26 September, 2013\nState Vs. Ashok Kumar\nIN THE COURT OF SH. PAWAN KUMAR JAIN\nADDITIONAL SESSIONS JUDGE-01 ( CENTRAL): DELHI\nSC No. 112/13\nID No. : 02401R0262482013\nFIR No. 131/13\nPolice Station : DBG Road\nUnder Section : 354D IPC\nr/w Section 12 POCSO Act. State\nVersus\nAshok Kumar\nS/o Jag Dev Mehra\nR/o Village Sanpatha,\nPost-Thadi (Sidap)\nPS Nadania,\nDistt. Madhubani, Bihar. .........Accused\nDate of Institution : 24.05.2013\nDate of judgment reserved : 12.09.2013\nDate of judgment : 24.09.2013\nState.",
+      "embedding_text": "ISSUE_CHUNK | Case: State vs . Ashok Kumar on 26 September, 2013 | Legal issues: During her cross-examination PW2 admitted that when accused dropped them at their school\nshe asked the accused to come at 2 PM but deposed that she did not remember whether accused\nreached the school or not. State vs . Ashok Kumar on 26 September, 2013\nState Vs. Ashok Kumar\nIN THE COURT OF SH. PAWAN KUMAR JAIN\nADDITIONAL SESSIONS JUDGE-01 ( CENTRAL): DELHI\nSC No. 112/13\nID No. : 02401R0262482013\nFIR No. 131/13\nPolice Station : DBG Road\nUnder Section : 354D IPC\nr/w Section 12 POCSO Act. State\nVersus\nAshok Kumar\nS/o Jag Dev Mehra\nR/o Village Sanpatha,\nPost-Thadi (Sidap)\nPS Nadania,\nDistt. Madhubani, Bihar. .........Accused\nDate of Institution : 24.05.2013\nDate of judgment reserved : 12.09.2013\nDate of judgment : 24.09.2013\nState. | IPC: 12, 354D, 164, 207, 313, 11, 30, 428",
+      "metadata": {
+        "case_name": "State vs . Ashok Kumar on 26 September, 2013",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "12",
+          "354D",
+          "164",
+          "207",
+          "313",
+          "11",
+          "30",
+          "428"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State vs . Ashok Kumar on 26 September, 2013\nState Vs. State\nVersus\nAshok Kumar\nS/o Jag Dev Mehra\nR/o Village Sanpatha,\nPost-Thadi (Sidap)\nPS Nadania,\nDistt. .........Accused\nDate of Institution : 24.05.2013\nDate of judgment reserved : 12.09.2013\nDate of judgment : 24.09.2013\nState. 112/13 Page 1 of 12\nState Vs. Ashok Kumar\nJ U D G M E N T:State vs . 2013, complainant aged about 12 years\n(since she is the victim of sexual assault, her identity is withheld and hereinafter she is referred to as\nvictim/complainant) had got recorded her statement (Ex.PW2/A) to ASI Pushpa alleging that she\nstudied in 7th standard in Government Girls Senior Secondary School and she used to go to school\nalong with her friend (PW3) and sometimes they used to take rickshaw to go to school. accused used to follow them and asked them to sit in their rickshaw and stated\nthat he would leave them at the school. When they hired another rickshaw for their school, accused followed them\nin his rickshaw and started abusing the complainant in filthy language and also stated that he would\ngive them chocolate. On the State Vs. Ashok Kumar statement of victim, an FIR for the offence punishable under Section 354D IPC read\nwith Section 12 of Protection of Children from Sexual Offences Act was registered. Her statement under Section 164 Cr. 'Y', friend of victim ( in order conceal\nthe identity of victim, her identity is also withheld) PW4 SI Rakesh Kumar, first\ninvestigating officer PW5 HC Brijpal Singh, duty officer, proved the FIR State Vs.State vs . But he refused to lead any evidence in his defence. on the statement of PW2 and PW3 as there are material contradictions between their deposition. It was argued that accused has been\nfalsely implicated in this case. Per contra, learned Additional Public Prosecutor refuted the said contentions by arguing that the\ntestimony of PW2 and PW3 are trustworthy State Vs. PW2 categorically deposed that on April 23, 2013, she along with PW3 was going to her\nschool in another cycle rickshaw and when they reached near Shani Mandir, accused was standing\nthere and he stopped his rickshaw in front of their rickshaw and abused PW2 and stated that he\nwould kidnap her, consequently, the rickshaw puller asked the accused to leave the passage,State vs .",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State vs . Ashok Kumar on 26 September, 2013 | Arguments: State vs . Ashok Kumar on 26 September, 2013\nState Vs. State\nVersus\nAshok Kumar\nS/o Jag Dev Mehra\nR/o Village Sanpatha,\nPost-Thadi (Sidap)\nPS Nadania,\nDistt. .........Accused\nDate of Institution : 24.05.2013\nDate of judgment reserved : 12.09.2013\nDate of judgment : 24.09.2013\nState. 112/13 Page 1 of 12\nState Vs. Ashok Kumar\nJ U D G M E N T:State vs . 2013, complainant aged about 12 years\n(since she is the victim of sexual assault, her identity is withheld and hereinafter she is referred to as\nvictim/complainant) had got recorded her statement (Ex.PW2/A) to ASI Pushpa alleging that she\nstudied in 7th standard in Government Girls Senior Secondary School and she used to go to school\nalong with her friend (PW3) and sometimes they used to take rickshaw to go to school. accused used to follow them and asked them to sit in their rickshaw and stated\nthat he would leave them at the school. When they hired another rickshaw for their school, accused followed them\nin his rickshaw and started abusi | Intent: intentional | IPC: 12, 354D, 164, 207, 313, 11, 30, 428 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State vs . Ashok Kumar on 26 September, 2013",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "12",
+          "354D",
+          "164",
+          "207",
+          "313",
+          "11",
+          "30",
+          "428"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Ashok Kumar\nIN THE COURT OF SH. It was submitted\nthat the presumption is also in favour of the prosecution, thus there is no reason to disbelieve the\ntestimony of witnesses. But to my\nmind the said improvements are not substantial in nature, thus the same do not affect the core of\nprosecution case, hence the said improvements and contradictions are not fatal to the prosecution\ncase in any manner. From the testimony of PW2 and PW3,\nit is clear that on April 23, 2013, accused also followed them while going school as well as while\nreturning from the school. On August 12, 2013, counsel\nfor accused made a submission before the Court that he will not raise any kind of dispute about the\nage of both the victims and submitted that there is no need to examine the principal of the school to\nprove the age of both the victims. Thus, it is clear that the victims were below 18 years old at the\ntime of alleged incident. (2) For the purposes of this section, a fact is said to be proved only when the Special\nCourt believes it to exist beyond reasonable doubt and not merely when its existence\nis established by a preponderance of probability. Similarly, from the testimony of both the witnesses it is also clear that accused had abused PW2\nin filthy language, thus accused is also liable for the offence under Section 11 (i) of Protection of\nChildren from Sexual Offences Act, which is punishable under Section 12 of the Act. Pondering over the ongoing discussion, I am of the considered opinion that prosecution has\nsucceeded to prove the guilt of accused Ashok Kumar for the offence punishable under Section 354D\nIPC and Section 11 (i) and 12 (iv) of Protection of Children from Sexual Offence Act, which are\npunishable under Section 12 of the Act, thus, I hereby hold him guilty thereunder. Announced in the open court On 24th September, 2013. Ashok Kumar IN THE COURT OF SH. It is also\nsurfaced during trial that PW2 asked the accused to reach school in the afternoon but victims did\nnot hire his rickshaw, thus the possibility that due to the said conduct of victims, convict started\nfollowing them and abused them cannot be ruled out.",
+      "embedding_text": "REASONING_CHUNK | Case: State vs . Ashok Kumar on 26 September, 2013 | Judicial reasoning: Ashok Kumar\nIN THE COURT OF SH. It was submitted\nthat the presumption is also in favour of the prosecution, thus there is no reason to disbelieve the\ntestimony of witnesses. But to my\nmind the said improvements are not substantial in nature, thus the same do not affect the core of\nprosecution case, hence the said improvements and contradictions are not fatal to the prosecution\ncase in any manner. From the testimony of PW2 and PW3,\nit is clear that on April 23, 2013, accused also followed them while going school as well as while\nreturning from the school. On August 12, 2013, counsel\nfor accused made a submission before the Court that he will not raise any kind of dispute about the\nage of both the victims and submitted that there is no need to examine the principal of the school to\nprove the age of both the victims. Thus, it is clear that the victims were below 18 years old at the\ntime of alleged incident. (2) For the purposes of this section, a fact is said to be proved only when the Sp | Intent: intentional | Outcome: death | IPC: 12, 354D, 164, 207, 313, 11, 30, 428",
+      "metadata": {
+        "case_name": "State vs . Ashok Kumar on 26 September, 2013",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "12",
+          "354D",
+          "164",
+          "207",
+          "313",
+          "11",
+          "30",
+          "428"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "No doubt, it was not a justifiable ground for\nthe accused either to follow the victims or abused them, but it is one of the mitigating factors to\ndetermine the quantum of sentence. Similarly, there is nothing on record which may show that\naccused has any criminal antecedent, this is another mitigating factor in favour of the accused. Besides that it is evident that convict belongs to low strata of society. 8. Ashok Kumar on 26 September, 2013\nIndian Kanoon - http://indiankanoon.org/doc/32288367/ 6\n9. In the light of the above discussion, I am of the opinion that convict deserves a lenient view, thus,\nI hereby sentence the convict Ashok Kumar for a period of six months rigorous imprisonment and a\nfine of ` 500/- in default for seven days further simple imprisonment for the offence punishable\nunder Section 354D IPC and also sentence him rigorous imprisonment for six months and a fine of `\n200/- in default simple imprisonment for two days for the offence punishable under Section of 12 of\nPOCSO Act. Both sentences shall run concurrently. Benefit of Section 428 Cr. P.C. be given to the\nconvict. 10. Copy of judgment along with the order on the point of the sentence be given to the convict free of\ncost. 11. File be consigned to record room. Ashok Kumar on 26 September, 2013\nIndian Kanoon - http://indiankanoon.org/doc/32288367/ 7",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State vs . Ashok Kumar on 26 September, 2013 | Final judgment: No doubt, it was not a justifiable ground for\nthe accused either to follow the victims or abused them, but it is one of the mitigating factors to\ndetermine the quantum of sentence. Similarly, there is nothing on record which may show that\naccused has any criminal antecedent, this is another mitigating factor in favour of the accused. Besides that it is evident that convict belongs to low strata of society. 8. Ashok Kumar on 26 September, 2013\nIndian Kanoon - http://indiankanoon.org/doc/32288367/ 6\n9. In the light of the above discussion, I am of the opinion that convict deserves a lenient view, thus,\nI hereby sentence the convict Ashok Kumar for a period of six months rigorous imprisonment and a\nfine of ` 500/- in default for seven days further simple imprisonment for the offence punishable\nunder Section 354D IPC and also sentence him rigorous imprisonment for six months and a fine of `\n200/- in default simple imprisonment for two days for the offence punishable under Section of 12 of\n | Judgment: convicted | IPC: 12, 354D, 164, 207, 313, 11, 30, 428",
+      "metadata": {
+        "case_name": "State vs . Ashok Kumar on 26 September, 2013",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "12",
+          "354D",
+          "164",
+          "207",
+          "313",
+          "11",
+          "30",
+          "428"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2013"
+      }
+    }
+  ]
+}

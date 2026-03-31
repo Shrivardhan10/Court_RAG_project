@@ -1,0 +1,182 @@
+{
+  "case_id": "Trimukh_Maroti_Kirkan_vs_State_Of_Maharashtra_on_11_October_2006",
+  "case_name": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "P. Mathur\nBench: G.P. Mathur, R.V. Mathur & R.V. Raveendran\nJUDGMENT:\nJ U D G M E N T G. P. MATHUR, J. 1. The case of the prosecution, in brief, is that the deceased Revata @ Tai daughter of Dattarao\nresident of village Umatwadi was married to the appellant Trimukh Maroti Kirkan (for short\n'Trimukh') nearly seven years before the incident which took place on 4.11.1996 in village Kikki. Whenever, the deceased Revata came to her parental home,\nshe used to disclose to her family members the ill- treatment and harassment meted out to her. She\ncame to her parental home at the time of Panchami festival in the year 1996 and stayed there for\nabout 15 days. She was often beaten and was not provided food. He, however, told them that he is not in a position to fulfil their demand of\nRs.25,000/- on account of his weak financial condition. A few months thereafter, Dattarao received\ninformation from a person of village Kikki that Revata had died due to snake bite. Information was\nalso given by the Police Patil of the village to P.S. Nanded (Rural) that Revata had died due to snake\nbite and on the basis of this information, a case as A.D. No.42 of 1996 was registered in accordance\nwith Section 174 Cr.P.C. at the police station. Devichand, ASI and some police personnel went to the\nvillage, held inquest over the dead body and after preparing the spot panchnama sent the same for\npost-mortem examination. The appellant Trimukh himself showed the place of incident where the\nvictim had been allegedly bitten by snake and had died. The post-mortem examination conducted\non the body of Revata disclosed that she had died due to asphyxia as a result of compression of neck. Dattarao, father of the deceased then lodged an FIR of the incident at 4.30 p.m. on 5.11.1990 at the\npolice station and a case was then registered under Section 302 IPC. After completion of investigation, chargesheet was submitted against three persons, viz., the\n3. The accused pleaded not\nguilty and claimed to be tried.",
+      "embedding_text": "FACT_CHUNK | Case: Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October, | Facts: P. Mathur\nBench: G.P. Mathur, R.V. Mathur & R.V. Raveendran\nJUDGMENT:\nJ U D G M E N T G. P. MATHUR, J. 1. The case of the prosecution, in brief, is that the deceased Revata @ Tai daughter of Dattarao\nresident of village Umatwadi was married to the appellant Trimukh Maroti Kirkan (for short\n'Trimukh') nearly seven years before the incident which took place on 4.11.1996 in village Kikki. Whenever, the deceased Revata came to her parental home,\nshe used to disclose to her family members the ill- treatment and harassment meted out to her. She\ncame to her parental home at the time of Panchami festival in the year 1996 and stayed there for\nabout 15 days. She was often beaten and was not provided food. He, however, told them that he is not in a position to fulfil their demand of\nRs.25,000/- on account of his weak financial condition. A few months thereafter, Dattarao received\ninformation from a person of village Kikki that Revata had died due to snake bite. Information was\nalso given by the P | Actions: killed, murdered, abducted, stole, harassed | Weapon: poison | Outcome: death | IPC: 302, 498, 174, 34, 2, 106, 167, 178, 364, 114, 313",
+      "metadata": {
+        "case_name": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "498",
+          "174",
+          "34",
+          "2",
+          "106",
+          "167",
+          "178",
+          "364",
+          "114",
+          "313"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "abducted",
+          "stole",
+          "harassed"
+        ],
+        "weapon": "poison",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "subcutaneous tissue muscles) showed\ninfiltration of blood (ecchymosed). All that it requires is the establishment of such a degree of probability that a prudent\nman may, on its basis, believe in the existence of the fact in issue. However, this does not mean thatTrimukh Maroti Kirkan vs State Of Maharashtra on 11 October, 2006\nIndian Kanoon - http://indiankanoon.org/doc/845834/ 8\nthe special or peculiar knowledge of the person proceeded against will relieve the prosecution or the\nDepartment altogether of the burden of producing some evidence in respect of that fact in issue. AIR 1997 SC 1830 where a married woman had committed suicide\non account of ill- treatment meted out to her by her husband and in-laws on account of demand of\ndowry and being issueless.",
+      "embedding_text": "ISSUE_CHUNK | Case: Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October, | Legal issues: subcutaneous tissue muscles) showed\ninfiltration of blood (ecchymosed). All that it requires is the establishment of such a degree of probability that a prudent\nman may, on its basis, believe in the existence of the fact in issue. However, this does not mean thatTrimukh Maroti Kirkan vs State Of Maharashtra on 11 October, 2006\nIndian Kanoon - http://indiankanoon.org/doc/845834/ 8\nthe special or peculiar knowledge of the person proceeded against will relieve the prosecution or the\nDepartment altogether of the burden of producing some evidence in respect of that fact in issue. AIR 1997 SC 1830 where a married woman had committed suicide\non account of ill- treatment meted out to her by her husband and in-laws on account of demand of\ndowry and being issueless. | IPC: 302, 498, 174, 34, 2, 106, 167, 178, 364, 114, 313",
+      "metadata": {
+        "case_name": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "498",
+          "174",
+          "34",
+          "2",
+          "106",
+          "167",
+          "178",
+          "364",
+          "114",
+          "313"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "abducted",
+          "stole",
+          "harassed"
+        ],
+        "weapon": "poison",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,\n2006\nEquivalent citations: 2006 AIR SCW 5300, 2006 (10) SCC 681, 2007 (1) AIR\nBOM R 357, 2007 (1) AIR JHAR R 364, (2007) 1 HINDULR 219, (2006) 8 SCJ\n821, (2006) 8 SUPREME 58, (2006) 2 ALD(CRL) 872, (2006) 47 ALLINDCAS 47\n(SC), (2007) 1 GCD 227 (SC), (2007) 1 JCR 293 (SC), (2006) 4 KER LT 638,\n(2006) 4 CURCRIR 169, 2007 CRILR(SC MAH GUJ) 9, (2006) 3 ALLCRIR 3150,\n(2007) 1 BOMCR(CRI) 104, 2007 CRILR(SC&MP) 9, (2006) 2 DMC 757, (2010) 1\nMARRILJ 500, (2007) 36 OCR 21, (2007) 1 EASTCRIC 4, (2006) 10 SCALE 190,\n2006 ALLMR(CRI) 3510, (2007) 57 ALLCRIC 938, (2007) 1 ALLCRILR 514,\n(2006) 4 CRIMES 212, (2007) 1 ANDHLT(CRI) 84, 2007 (1) SCC (CRI) 80\nAuthor: G. Raveendran\nCASE NO.:\nAppeal (crl.) 1341 of 2005\nTrimukh Maroti Kirkan\nState of Maharashtra\nDATE OF JUDGMENT: 11/10/2006\nBENCH:\nG.P. By the same\njudgment and order, the appeal filed by the appellant challenging his conviction under Section\n498-A IPC and the sentence of two years RI and a fine of Rs.1,000/- and in default to undergo RI for\nthree months was dismissed.Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October, 2006\nIndian Kanoon - http://indiankanoon.org/doc/845834/ 1\n2. Maroti Kamaji Kirkan (for short 'Maroti') is the father and Nilawatibai Maroti Kirkan (for short\n'Nilawati') is the mother of the appellant Trimukh and they are residents of village Kikki. The\nused to harass her on account of non- payment of Rs.25,000/- by her parents for the purpose of\npurchasing a tempo for the appellant. During this period also she disclosed that on account of non-fulfilment of demand of\nRs.25,000/- by her father, the appellant and her in-laws (Maroti and Nilawati) used to harass her. After the Panchami festival, the father of Revata\ntook her to the appellant's house in village Kikki and requested the appellant and her in-laws not to\nill- treat her. During the course of\ninvestigation, the police recorded statements of some witnesses. The appellant was arrested and\nwhile in custody he made a disclosure statement on the basis of which some recoveries were made.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October, | Arguments: Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,\n2006\nEquivalent citations: 2006 AIR SCW 5300, 2006 (10) SCC 681, 2007 (1) AIR\nBOM R 357, 2007 (1) AIR JHAR R 364, (2007) 1 HINDULR 219, (2006) 8 SCJ\n821, (2006) 8 SUPREME 58, (2006) 2 ALD(CRL) 872, (2006) 47 ALLINDCAS 47\n(SC), (2007) 1 GCD 227 (SC), (2007) 1 JCR 293 (SC), (2006) 4 KER LT 638,\n(2006) 4 CURCRIR 169, 2007 CRILR(SC MAH GUJ) 9, (2006) 3 ALLCRIR 3150,\n(2007) 1 BOMCR(CRI) 104, 2007 CRILR(SC&MP) 9, (2006) 2 DMC 757, (2010) 1\nMARRILJ 500, (2007) 36 OCR 21, (2007) 1 EASTCRIC 4, (2006) 10 SCALE 190,\n2006 ALLMR(CRI) 3510, (2007) 57 ALLCRIC 938, (2007) 1 ALLCRILR 514,\n(2006) 4 CRIMES 212, (2007) 1 ANDHLT(CRI) 84, 2007 (1) SCC (CRI) 80\nAuthor: G. Raveendran\nCASE NO.:\nAppeal (crl.) 1341 of 2005\nTrimukh Maroti Kirkan\nState of Maharashtra\nDATE OF JUDGMENT: 11/10/2006\nBENCH:\nG.P. By the same\njudgment and order, the appeal filed by the appellant challenging his conviction under Section\n498-A IPC and the sentence of two years RI | Intent: negligent | IPC: 302, 498, 174, 34, 2, 106, 167, 178, 364, 114, 313 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "498",
+          "174",
+          "34",
+          "2",
+          "106",
+          "167",
+          "178",
+          "364",
+          "114",
+          "313"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "abducted",
+          "stole",
+          "harassed"
+        ],
+        "weapon": "poison",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "They have\nfurther deposed that last time the deceased came to their house on the occasion of Panchami festival\nwhen she told them that the appellant wanted to purchase a tempo and, therefore, her in-laws and\nalso the appellant were asking her to get Rs.25,000/- from her parents. Cases are frequently coming before the Courts, where the husband or in-laws have\ngone to the extent of killing the bride if the demand is not met. The neighbours, whose evidence may be of some assistance,\nare generally reluctant to depose in Court as they want to keep aloof and do not want to antagonize a\nneighbourhood family. If an offence takes place inside the privacy of a house and in such circumstances where the\nassailants have all the opportunity to plan and commit the offence at the time and in circumstances\nof their choice, it will be extremely difficult for the prosecution to lead evidence to establish the guilt\nof the accused if the strict principle of circumstantial evidence, as noticed above, is insisted upon by\nthe Courts. A somewhat similar question was examined by this Court in connection with Section 167 and\n178-A of the Sea Customs Act in Collector of Customs, Madras & Ors. Thus, legal proof is not necessarily\nperfect proof; often it is nothing more than a prudent man's estimate as to the probabilities of the\ncase. Thus the burden on the prosecution or the Department may be considerably\nlightened even by such presumption of fact arising in their favour. The learned Sessions\nJudge after referring to the law on circumstantial evidence had observed that there was a missing\nlink in the chain of evidence after the deceased was last seen together with the accused persons and\nthe discovery of the dead body in the hospital and had concluded that the prosecution had failed to\nestablish the charge of murder against the accused persons beyond any reasonable doubt. This\nCourt took note of the provisions of Section 106 of the Evidence Act and laid down the following\nprinciple in paras 31 to 34 of the reports :\n\"31.",
+      "embedding_text": "REASONING_CHUNK | Case: Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October, | Judicial reasoning: They have\nfurther deposed that last time the deceased came to their house on the occasion of Panchami festival\nwhen she told them that the appellant wanted to purchase a tempo and, therefore, her in-laws and\nalso the appellant were asking her to get Rs.25,000/- from her parents. Cases are frequently coming before the Courts, where the husband or in-laws have\ngone to the extent of killing the bride if the demand is not met. The neighbours, whose evidence may be of some assistance,\nare generally reluctant to depose in Court as they want to keep aloof and do not want to antagonize a\nneighbourhood family. If an offence takes place inside the privacy of a house and in such circumstances where the\nassailants have all the opportunity to plan and commit the offence at the time and in circumstances\nof their choice, it will be extremely difficult for the prosecution to lead evidence to establish the guilt\nof the accused if the strict principle of circumstantial evidence, as noticed above, is ins | Intent: negligent | Outcome: death | IPC: 302, 498, 174, 34, 2, 106, 167, 178, 364, 114, 313",
+      "metadata": {
+        "case_name": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "498",
+          "174",
+          "34",
+          "2",
+          "106",
+          "167",
+          "178",
+          "364",
+          "114",
+          "313"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "abducted",
+          "stole",
+          "harassed"
+        ],
+        "weapon": "poison",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Trimukh Maroti Kirkan has filed this appeal against the judgment and order dated 27.7.2005 of\nAurangabad Bench of Bombay High Court by which the appeal filed by State of Maharashtra was\nallowed and the order dated 21.4.1997 passed by the learned Additional Sessions Judge, Nanded was\nset aside and the appellant was convicted under Section 302 IPC and was sentenced to\nimprisonment for life and a fine of Rs.2,000/- and in default to undergo six months RI. The learned Sessions Judge convicted all\nthe three accused under Section 498-A read with Section 34 IPC and sentenced them to two years RI\nand a fine of Rs.1,000/- and in default to undergo RI for three months. The appellant was, however,\nacquitted of the charge under Section 302 IPC. The High Court\nallowed the appeal preferred by Maroti and Nilawati accused and their conviction under Section\n498-A IPC was set aside and the appeal preferred by the appellant was dismissed. The appealTrimukh Maroti Kirkan vs State Of Maharashtra on 11 October, 2006\nIndian Kanoon - http://indiankanoon.org/doc/845834/ 2\npreferred by the State of Maharashtra was allowed and the appellant was convicted under Section\n302 IPC and was sentenced to imprisonment for life and a fine of Rs.2,000/- and in default to\nfurther undergo six months RI. Since the present appeal has been filed under Section 2(a) of the Supreme Court (Enlargement of\nCriminal Appellate Jurisdiction) Act, 1970 and the High Court has reversed the order of acquittal\nand has convicted the appellant under Section 302 IPC, it will be appropriate to briefly consider the\nevidence on record. The trial Court convicted\nthe accused under Section 364 read with Section 34 IPC and sentenced them to 10 years RI. Such inference can be\ndisrupted if the accused would tell the court what else happened to Mahesh at least\nuntil he was in their custody.\"\nApplying the aforesaid principle, this Court while maintaining the conviction under Section 364\nread with Section 34 IPC reversed the order of acquittal under Section 302 read with Section 34 IPC\nand convicted the accused under the said provision and sentenced them to imprisonment for life.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October, | Final judgment: Trimukh Maroti Kirkan has filed this appeal against the judgment and order dated 27.7.2005 of\nAurangabad Bench of Bombay High Court by which the appeal filed by State of Maharashtra was\nallowed and the order dated 21.4.1997 passed by the learned Additional Sessions Judge, Nanded was\nset aside and the appellant was convicted under Section 302 IPC and was sentenced to\nimprisonment for life and a fine of Rs.2,000/- and in default to undergo six months RI. The learned Sessions Judge convicted all\nthe three accused under Section 498-A read with Section 34 IPC and sentenced them to two years RI\nand a fine of Rs.1,000/- and in default to undergo RI for three months. The appellant was, however,\nacquitted of the charge under Section 302 IPC. The High Court\nallowed the appeal preferred by Maroti and Nilawati accused and their conviction under Section\n498-A IPC was set aside and the appeal preferred by the appellant was dismissed. The appealTrimukh Maroti Kirkan vs State Of Maharashtra on 11 Octo | Judgment: convicted | IPC: 302, 498, 174, 34, 2, 106, 167, 178, 364, 114, 313",
+      "metadata": {
+        "case_name": "Trimukh Maroti Kirkan vs State Of Maharashtra on 11 October,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "498",
+          "174",
+          "34",
+          "2",
+          "106",
+          "167",
+          "178",
+          "364",
+          "114",
+          "313"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "abducted",
+          "stole",
+          "harassed"
+        ],
+        "weapon": "poison",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

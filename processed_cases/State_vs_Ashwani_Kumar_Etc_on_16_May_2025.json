@@ -1,0 +1,197 @@
+{
+  "case_id": "State_vs_Ashwani_Kumar_Etc_on_16_May_2025",
+  "case_name": "State vs Ashwani Kumar Etc on 16 May, 2025",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "SHIVALI SHARMA, ADDITIONAL SESSIONS\nJUDGE-03: WEST DISTRICT, THC, DELHI. CNR No. DLWT01-09987-2017\nSC No. Ashwani Kumar @ Kanu & Ors. SHIVALI\nFIR No. 573-2014 SHARMA\nU/s. 394/397/411 IPC Digitally signed by\nPS: Paschim Vihar East SHIVALI SHARMA\nDate: 2025.05.16\n15:35:34 +0530\nJUDGMENT\n1. Sr. No. of the case : 57167-2016\n2. Date of Committal to Sessions : 16.01.2015\n3. Name of the complainant : Jai Parkash S/o Sh. Jai Narain\nR/o C/40-41, J. J. Colony,\nKhyala, New Delhi. 4. Date of Commission of Offence : 05.08.2014\n5. Name and Parentage of Accused : (1) Ashwani Kumar @ Kannu\nS/o Sh. Budh Prakash R/o H. No.H-I/48, Kunwar Singh\nNagar, Ranhola, Nangloi, New\nDelhi. (2) Manoj @ Pramod S/o Sh. Bhoop Singh R/o H. No.H3/18, Kunwar Singh\nNagar, Ranhola, Nangloi, New\nDelhi. (3) Sandeep @ Sunny S/o Sh. Ramesh Chander R/o H. No.H-I/32, Kunwar Singh\nNagar, Ranhola, Nangloi,\nNew Delhi. (4) Rakesh @ Patel S/o Sh. Chander Bhan R/o H. Offence complained of : u/s 394/397/170/34 IPC and\nSection 25 of Arms Act. 7. Offence charged : Accused Ashwani Kumar\ncharged under Section 411 IPC. Accused Manoj @ Pramod,\nSandeep @ Sunny, Rakesh @\nPatel charged under Section\n394/403/170/34 IPC. Accused\nManoj @ Pramod and Rakesh @\nPatel charged under Section 25\nArms Act and 411 IPC. Accused\nRakesh @ Patel charged under\nSection 397 IPC read with\nSection 25/27 Arms Act. 8.Plea of Guilt : Not guilty. 9. 10.Date on which Order Reserved : 02.05.2025\n11. Date on which Order Announced : 16.05.2025\nBRIEF FACTS AND REASONS FOR DECISION:\n1. The case of the prosecution is that on 05.08.2014, at about 12:15 AM at Bhairon Enclave Road, in\nfront of Apartment GH-13, Paschim Vihar, accused Manoj @ Pramod, Sandeep @ Sunny and\nRakesh @ Patel in furtherance of their common intention caused hurt to the complainant Jai\nPrakash in committing robbery. During the incident, they impersonated themselves as police\nofficials. They also misappropriated the mobile phone make Samsung GT-S-7262 belonging to one\nSher Khan. Accused Rakesh @ Patel had used deadly weapon i.e.",
+      "embedding_text": "FACT_CHUNK | Case: State vs Ashwani Kumar Etc on 16 May, 2025 | Facts: SHIVALI SHARMA, ADDITIONAL SESSIONS\nJUDGE-03: WEST DISTRICT, THC, DELHI. CNR No. DLWT01-09987-2017\nSC No. Ashwani Kumar @ Kanu & Ors. SHIVALI\nFIR No. 573-2014 SHARMA\nU/s. 394/397/411 IPC Digitally signed by\nPS: Paschim Vihar East SHIVALI SHARMA\nDate: 2025.05.16\n15:35:34 +0530\nJUDGMENT\n1. Sr. No. of the case : 57167-2016\n2. Date of Committal to Sessions : 16.01.2015\n3. Name of the complainant : Jai Parkash S/o Sh. Jai Narain\nR/o C/40-41, J. J. Colony,\nKhyala, New Delhi. 4. Date of Commission of Offence : 05.08.2014\n5. Name and Parentage of Accused : (1) Ashwani Kumar @ Kannu\nS/o Sh. Budh Prakash R/o H. No.H-I/48, Kunwar Singh\nNagar, Ranhola, Nangloi, New\nDelhi. (2) Manoj @ Pramod S/o Sh. Bhoop Singh R/o H. No.H3/18, Kunwar Singh\nNagar, Ranhola, Nangloi, New\nDelhi. (3) Sandeep @ Sunny S/o Sh. Ramesh Chander R/o H. No.H-I/32, Kunwar Singh\nNagar, Ranhola, Nangloi,\nNew Delhi. (4) Rakesh @ Patel S/o Sh. Chander Bhan R/o H. Offence complained of : u/s 394/397/170/34 IPC and\nSection 25 of Arms | Actions: robbed, stole, misappropriated | Weapon: knife | Outcome: death | IPC: 394, 397, 411, 170, 34, 403, 25, 27, 102, 41, 5B, 65B, 294, 390, 378, 313",
+      "metadata": {
+        "case_name": "State vs Ashwani Kumar Etc on 16 May, 2025",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "394",
+          "397",
+          "411",
+          "170",
+          "34",
+          "403",
+          "25",
+          "27",
+          "102",
+          "41",
+          "5B",
+          "65B",
+          "294",
+          "390",
+          "378",
+          "313"
+        ],
+        "actions": [
+          "robbed",
+          "stole",
+          "misappropriated"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "76.The second question that arises for consideration is whether the prosecution has been able to\nestablish the identity of the accused persons as robbers from the evidence produced on record. Whether or not the said khaki uniforms were recovered or identified by the\ncomplainant is immaterial and does not effect the ingredients of offence under Section 170 IPC. Even if, the statement of PW-3 and PW-7 are considered to be gospel\ntruth at the most they can prove the fact that one Nokia X2 mobile phone colour black and cherry\nhas been recovered from the possession of accused Ashwani, however, whether or not the said\nrecovered mobile phone was the mobile phone of the complainant that was robbed on the date of\nincident is not established on record on account of failure of complainant to identify the said mobile\nphone either during investigation or during evidence.",
+      "embedding_text": "ISSUE_CHUNK | Case: State vs Ashwani Kumar Etc on 16 May, 2025 | Legal issues: 76.The second question that arises for consideration is whether the prosecution has been able to\nestablish the identity of the accused persons as robbers from the evidence produced on record. Whether or not the said khaki uniforms were recovered or identified by the\ncomplainant is immaterial and does not effect the ingredients of offence under Section 170 IPC. Even if, the statement of PW-3 and PW-7 are considered to be gospel\ntruth at the most they can prove the fact that one Nokia X2 mobile phone colour black and cherry\nhas been recovered from the possession of accused Ashwani, however, whether or not the said\nrecovered mobile phone was the mobile phone of the complainant that was robbed on the date of\nincident is not established on record on account of failure of complainant to identify the said mobile\nphone either during investigation or during evidence. | IPC: 394, 397, 411, 170, 34, 403, 25, 27, 102, 41, 5B, 65B, 294, 390, 378, 313",
+      "metadata": {
+        "case_name": "State vs Ashwani Kumar Etc on 16 May, 2025",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "394",
+          "397",
+          "411",
+          "170",
+          "34",
+          "403",
+          "25",
+          "27",
+          "102",
+          "41",
+          "5B",
+          "65B",
+          "294",
+          "390",
+          "378",
+          "313"
+        ],
+        "actions": [
+          "robbed",
+          "stole",
+          "misappropriated"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State vs Ashwani Kumar Etc on 16 May, 2025\nIN THE COURT OF MS. 57167-2016\nState Vs. No.H-\nI/49, Kunwar Singh Nagar,\nRanhola, Nangloi, New Delhi.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 1\n6. PP for the State. For the sake ofState vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 3\nconvenience, statement of witness Jai Prakash shall be read as that of PW-1A. Thereafter, he went to his house.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 4\n8. He also stated that he had\nidentified his chain vide TIP proceedings Mark A and later on got the same released on superdari. He did not identify the recovered SIM of airtel and stated that it is not\nthe same as belonging to him as he was using the bigger Sim and smaller SIM could not be inserted\nin his phone. Additional PP for the State, but after looking at the same, he stated that it was not the knife which\nwas used by the culprits. Police officials from PS Mianwali Nagar alsoState vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 5\nreached there. Accused Ashwani was interrogated and he\nconfessed about his involvement in the present case vide his disclosure statement Ex. PW-5 Chander Shekhar is the Nodal Officer from Bharti Airtel Ltd.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 6\nHe produced the CAF record of mobile number 9717482133 allotted in the name of Jai Prakash\nalong with copy of his voter ID card which is Ex. IO recorded his statement. PW-8/A and stated that the injured had sustained simple injury with some sharp object. He also stated that pullanda of seized gold chain was\nalso sent to the court for TIP proceedings on request of SI Umed Singh but stated that no exhibits\nwere sent for seeking subsequent opinion. He was cross-examined on behalf of the State and in his cross-\nexamination, he admitted that on 18.10.2014, the sealed pullanda of weapon of offence was sent to\nDDU Hospital through Ct.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State vs Ashwani Kumar Etc on 16 May, 2025 | Arguments: State vs Ashwani Kumar Etc on 16 May, 2025\nIN THE COURT OF MS. 57167-2016\nState Vs. No.H-\nI/49, Kunwar Singh Nagar,\nRanhola, Nangloi, New Delhi.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 1\n6. PP for the State. For the sake ofState vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 3\nconvenience, statement of witness Jai Prakash shall be read as that of PW-1A. Thereafter, he went to his house.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 4\n8. He also stated that he had\nidentified his chain vide TIP proceedings Mark A and later on got the same released on superdari. He did not identify the recovered SIM of airtel and stated that it is not\nthe same as belonging to him as he was using the bigger Sim and smaller SIM could not be inserted\nin his phone. Additional PP for the State, but after looking at the same, he stated that it was not the knife | Intent: intentional | IPC: 394, 397, 411, 170, 34, 403, 25, 27, 102, 41, 5B, 65B, 294, 390, 378, 313 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State vs Ashwani Kumar Etc on 16 May, 2025",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "394",
+          "397",
+          "411",
+          "170",
+          "34",
+          "403",
+          "25",
+          "27",
+          "102",
+          "41",
+          "5B",
+          "65B",
+          "294",
+          "390",
+          "378",
+          "313"
+        ],
+        "actions": [
+          "robbed",
+          "stole",
+          "misappropriated"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Once he came to Court where he identified all the accused persons. Accused was produced in the court on the same day and was arrested by IO of the present\ncase. His deposition is in consonance with that of PW-6 HC Surinder and is thus,\nnot repeated herein for the sake of brevity. He went to the court of Ld. MM where accused Ashwani was\nproduced in muffled face and after taking permission from the court, he formally arrested accused\nAshwani Kumar vide memo Ex. Thus, theft is the dishonest removal of movable property out of the possession of\nany person without the consent of that person. The\ncomplainant has also specifically deposed that after refusal of the accused persons to\nparticipate in the TIP proceedings, on one day when he had come to the court he has\nseen the accused persons and identified them. In these circumstances, the identification\nof the accused persons by the victim before court cannot be doubted. Thus, the occurrence of the\nincident in itself has been duly proved on record by the prosecution beyond any reasonable doubt. This is primarily because of the reason that accused persons themselves\nhad refused to participate in the TIP proceedings, thus, giving no opportunity to the investigating\nagency to get their identity established as robbers during investigation. While accused Sandeep stated that he apprehended his\nidentification by the complainant and was thus, refusing to participate in the TIP proceedings,\naccused Manoj stated that his photographs were taken by the police officials at the PS and the sameState vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 17\nhave been shown to the witness. Thus, the accused persons have miserably failed to\nbring on record any justifiable reason for their refusal to participate in the TIP proceedings. Accused\nSandeep is in fact very clear that he was apprehending his identification by the victim and had thus\nrefused to participate in the TIP proceedings. For this reason, Victim Jai Prakash had neither identified him as\na robber in the Court nor identified him during the TIP proceedings dated 26.08.2014.",
+      "embedding_text": "REASONING_CHUNK | Case: State vs Ashwani Kumar Etc on 16 May, 2025 | Judicial reasoning: Once he came to Court where he identified all the accused persons. Accused was produced in the court on the same day and was arrested by IO of the present\ncase. His deposition is in consonance with that of PW-6 HC Surinder and is thus,\nnot repeated herein for the sake of brevity. He went to the court of Ld. MM where accused Ashwani was\nproduced in muffled face and after taking permission from the court, he formally arrested accused\nAshwani Kumar vide memo Ex. Thus, theft is the dishonest removal of movable property out of the possession of\nany person without the consent of that person. The\ncomplainant has also specifically deposed that after refusal of the accused persons to\nparticipate in the TIP proceedings, on one day when he had come to the court he has\nseen the accused persons and identified them. In these circumstances, the identification\nof the accused persons by the victim before court cannot be doubted. Thus, the occurrence of the\nincident in itself has been duly proved on rec | Intent: intentional | Outcome: death | IPC: 394, 397, 411, 170, 34, 403, 25, 27, 102, 41, 5B, 65B, 294, 390, 378, 313",
+      "metadata": {
+        "case_name": "State vs Ashwani Kumar Etc on 16 May, 2025",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "394",
+          "397",
+          "411",
+          "170",
+          "34",
+          "403",
+          "25",
+          "27",
+          "102",
+          "41",
+          "5B",
+          "65B",
+          "294",
+          "390",
+          "378",
+          "313"
+        ],
+        "actions": [
+          "robbed",
+          "stole",
+          "misappropriated"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Final Order : Accused Manoj @ Parmod,\nSandeep @ Sunny and Rakesh\n@ Patel are convicted for the\noffences under Section 394/34\nIPC. Accused Rakesh @ Patel is also\nconvicted for the offence under\nSection 397 IPC read with\nSection 27 Arms Act. Accused Rakesh @ Patel and\nSandeep @ Sunny are also\nconvicted for offences under\nSection 170/34 IPC. Accused Rakesh @ Patel is also\nconvicted for the offence under\nsection 411 IPC for possession\nof robbed gold chain\nbelonging to the complainant. Accused Manoj @ parmod and\nRakesh @ Patel are also\nconvicted for the offence under\nSection 25 Arms Act for\npossession of prohibited arms\nwithout license. Accused Manoj@ Parmod,\nSandeep @ Sunny and Rakesh\n@ Patel are acquitted for the\nIPC. Accused Sandeep @ Sunny is\nacquitted for offence under\nSection 170/34 IPC.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 2\nAccused Manoj @ Parmod is\nacquitted for the offence under\nSection 411 IPC. Accused Ashwani is acquitted\nfor offence under Section 411\nIPC as charged against him. Section 397 IPC provides that if, at the time of committing robbery, the offender uses any deadly\nweapon or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any\nperson, the imprisonment with which such offender shall be punished shall not be less than 7 years. Accordingly, it is\nprayed that the accused Manoj @ Pramod, Sandeep @ Sunny and Rakesh @ Patel be acquitted in\nthe present case. I find no merit in this argument of Ld. It is a well known fact that general public does not feel comfortable to join the official\nduties of police officers as they avoid being involved in police work for fear of harassment and\nwastage of time. However, if public persons are not coming forward to support the police officials by\nbecoming witnesses in recovery proceedings, it in itself is not sufficient to scrap the entire police\nwork. Although it is\ncorrect that the testimonies of the police officials have to be scrutinized carefully when they are not\nsupported by independent public witnesses but this alone cannot be a reason to completely discard\ntheir evidence in this regard.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State vs Ashwani Kumar Etc on 16 May, 2025 | Final judgment: Final Order : Accused Manoj @ Parmod,\nSandeep @ Sunny and Rakesh\n@ Patel are convicted for the\noffences under Section 394/34\nIPC. Accused Rakesh @ Patel is also\nconvicted for the offence under\nSection 397 IPC read with\nSection 27 Arms Act. Accused Rakesh @ Patel and\nSandeep @ Sunny are also\nconvicted for offences under\nSection 170/34 IPC. Accused Rakesh @ Patel is also\nconvicted for the offence under\nsection 411 IPC for possession\nof robbed gold chain\nbelonging to the complainant. Accused Manoj @ parmod and\nRakesh @ Patel are also\nconvicted for the offence under\nSection 25 Arms Act for\npossession of prohibited arms\nwithout license. Accused Manoj@ Parmod,\nSandeep @ Sunny and Rakesh\n@ Patel are acquitted for the\nIPC. Accused Sandeep @ Sunny is\nacquitted for offence under\nSection 170/34 IPC.State vs Ashwani Kumar Etc on 16 May, 2025\nIndian Kanoon - http://indiankanoon.org/doc/114670783/ 2\nAccused Manoj @ Parmod is\nacquitted for the offence under\nSection 411 IPC. Accused Ashwani is acquitt | Judgment: convicted | IPC: 394, 397, 411, 170, 34, 403, 25, 27, 102, 41, 5B, 65B, 294, 390, 378, 313",
+      "metadata": {
+        "case_name": "State vs Ashwani Kumar Etc on 16 May, 2025",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "394",
+          "397",
+          "411",
+          "170",
+          "34",
+          "403",
+          "25",
+          "27",
+          "102",
+          "41",
+          "5B",
+          "65B",
+          "294",
+          "390",
+          "378",
+          "313"
+        ],
+        "actions": [
+          "robbed",
+          "stole",
+          "misappropriated"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2025"
+      }
+    }
+  ]
+}

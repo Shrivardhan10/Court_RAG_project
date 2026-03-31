@@ -1,0 +1,147 @@
+{
+  "case_id": "Joy_vs_State_Of_Kerala",
+  "case_name": "Joy vs State Of Kerala",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "JUSTICE P.UBAID\nFRIDAY, THE 24TH DAY OF JANUARY 2014/4TH MAGHA, 1935\nCrl.Rev.Pet.No. 1451 of 2010 ( )\n---------------------------------\nCRL.A.NO. BY ADV. SRI.K.SHAJ\nTHIS CRIMINAL REVISION PETITION HAVING BEEN FINALLY HEARD\nON 20-01-2014, ALONG WITH RFA.NO. On the allegation that the revision petitioner\nherein assaulted the defacto complainant Babu at about 8.30 pm on 23.10.1999, a crime was\nregistered against the revision petitioner in the Perumpetty Police Station as Crime No.100/1999. The criminal case against the revision petitioner herein ended in\nconviction on trial. Being a connected matter this revision petition was\nbrought before this Bench for hearing and disposal. 2. On the submission that the disputes could be resolved by mediation, the parties were\nreferred to mediation in R.F.A. No.564/2009. In the mediation process the parties amicably settled\nthe whole dispute including the criminal case, and accordingly the revision petitioner herein agreed\nto pay a compensation of Rs.1,70,000/- in instalments. In view of amicable settlement in mediation the\nparties herein filed composition, with request for permission to compound the offences. reported in [2012 Crl.L.J. 4934] and Ashok\nSadarangani V. Union of India [2012 (1) KLT Suppl. 3. On going through the various decisions on the point we\nfound it difficult to allow composition in this case as regards the offence under Section 326 IPC. 4. On facts, there is not much dispute in this case in view of the concurrent findings of the trial court\nand the appellate court, and also in the light of the amicable settlement in mediation. The incident of assault and infliction of injuries alleged by the\nprosecution stands well proved by the consistent and definite evidence given by the defacto\ncomplainant examined as PW3, the independent evidence given by PW7, and also the medical\nevidence including Ext.P5 wound certificate. It was submitted that the injured has lost his eye\nsight in one eye, but such a case stands not proved by any medical evidence. However, it stands\nproved that this is definitely a case of infliction of grievous hurt as defined under the law. 5.",
+      "embedding_text": "FACT_CHUNK | Case: Joy vs State Of Kerala | Facts: JUSTICE P.UBAID\nFRIDAY, THE 24TH DAY OF JANUARY 2014/4TH MAGHA, 1935\nCrl.Rev.Pet.No. 1451 of 2010 ( )\n---------------------------------\nCRL.A.NO. BY ADV. SRI.K.SHAJ\nTHIS CRIMINAL REVISION PETITION HAVING BEEN FINALLY HEARD\nON 20-01-2014, ALONG WITH RFA.NO. On the allegation that the revision petitioner\nherein assaulted the defacto complainant Babu at about 8.30 pm on 23.10.1999, a crime was\nregistered against the revision petitioner in the Perumpetty Police Station as Crime No.100/1999. The criminal case against the revision petitioner herein ended in\nconviction on trial. Being a connected matter this revision petition was\nbrought before this Bench for hearing and disposal. 2. On the submission that the disputes could be resolved by mediation, the parties were\nreferred to mediation in R.F.A. No.564/2009. In the mediation process the parties amicably settled\nthe whole dispute including the criminal case, and accordingly the revision petitioner herein agreed\nto pay a compensation of Rs.1 | Actions: assaulted | Weapon: stone | Outcome: death | IPC: 324, 326, 482, 325, 323, 386, 401, 320",
+      "metadata": {
+        "case_name": "Joy vs State Of Kerala",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "324",
+          "326",
+          "482",
+          "325",
+          "323",
+          "386",
+          "401",
+          "320"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "stone",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "However, we felt it necessary to look into the legal aspect, as to whether a conviction in this case\nunder Section 326 IPC is legally sustainable. But the\nimportant legal question is whether the grievous injuries involved in this case will attract the penal\nprovision under Section 326 IPC. Any way let us see whether the material\nobject alleged or involved in this case will come under of Section 326 or Section 324, dealing with\ninfliction of grievous hurt with a weapon likely to cause death, when used as a weapon of offence.Joy vs State Of Kerala\nIndian Kanoon - http://indiankanoon.org/doc/15123250/ 4\n6. To decide\nwhether a particular stone brought before the Court as material object used for infliction of injury, is\na weapon of offence likely to cause death, there must be some evidence regarding the nature of the\nsaid stone, or the size of the said stone, and also regarding the way in which the stone was used in\nthe process of assault for infliction of injury. as to whether the given weapon is deadly weapon or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: Joy vs State Of Kerala | Legal issues: However, we felt it necessary to look into the legal aspect, as to whether a conviction in this case\nunder Section 326 IPC is legally sustainable. But the\nimportant legal question is whether the grievous injuries involved in this case will attract the penal\nprovision under Section 326 IPC. Any way let us see whether the material\nobject alleged or involved in this case will come under of Section 326 or Section 324, dealing with\ninfliction of grievous hurt with a weapon likely to cause death, when used as a weapon of offence.Joy vs State Of Kerala\nIndian Kanoon - http://indiankanoon.org/doc/15123250/ 4\n6. To decide\nwhether a particular stone brought before the Court as material object used for infliction of injury, is\na weapon of offence likely to cause death, there must be some evidence regarding the nature of the\nsaid stone, or the size of the said stone, and also regarding the way in which the stone was used in\nthe process of assault for infliction of injury. as to whether the given w | IPC: 324, 326, 482, 325, 323, 386, 401, 320",
+      "metadata": {
+        "case_name": "Joy vs State Of Kerala",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "324",
+          "326",
+          "482",
+          "325",
+          "323",
+          "386",
+          "401",
+          "320"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "stone",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Joy vs State Of Kerala\nAuthor: P.Ubaid\nBench: Thottathil B.Radhakrishnan, P.Ubaid\nIN THE HIGH COURT OF KERALA AT ERNAKULAM\nTHE HONOURABLE MR.JUSTICE THOTTATHIL B.RADHAKRISHNAN\n&\nTHE HONOURABLE MR. 193/2001 OF JUDICIAL FIRST CLASS MAGISTRATE COURT, THIRUVALLA\n------------------------------------------\nREVISION PETITIONER/APPELLANT/ACCUSED :\n----------------------------------------------------------------------\nJOY, AGED 36, S/O.THANKACHAN,\nPALLI THAZHEVEETTIL, EZHUMATTOR VILLAGE,\nMALLAPPALLY TALUK, PATHANAMTHITTA DISTRICT. SRI.P.HARIDAS\n---------------------------------------------------------------\nSTATE OF KERALA, REPRESENTED\nTHE PUBLIC PROSECUTOR, HIGH COURT OF KERALA,\nERNAKULAM. *ADDL.R2 IMPLEADED\n*ADDL.R2: BABU.P.A., AGED 39 YEARS,\nS/O.DAMODARAN, PARAYAKUNNIL HOUSE, CHALAPPALLY.P.O.,\nEZHUMATTOOR VILLAGE, PATHANAMTHITTA DISTRICT-689 645Joy vs State Of Kerala\nIndian Kanoon - http://indiankanoon.org/doc/15123250/ 1\n*IS IMPLEADED AS ADDL.2ND RESPONDENT AS PER ORDER DATED 11/4/13\nIN CRL.M.A.NO.2770/2013 IN CRL.R.P.NO.1451/2010\nR1 BY PUBLIC PROSECUTOR SRI.NOBLE MATHEW\nR2 BY ADV. --------------------------------------------------------\nCrl.R.P No.1451 of 2010\n--------------------------------------------------------\nDated this the 24th day of January, 2014.Joy vs State Of Kerala\nIndian Kanoon - http://indiankanoon.org/doc/15123250/ 2\nO R D E R\nP.Ubaid, J. Pending investigation in the crime, the\nsaid Babu, who is the 2nd respondent herein, filed a suit against the revision petitioner before the\nSub Court, Thiruvalla, for damages, in enforcement of his rights under the Law of Torts. Pending the two proceedings the revision petitioner and the 2nd respondent herein settled the\nwhole dispute. State of A.P reported in [], Gian Singh V. State of Punjab and Anr. 65 (SC)], the learned counsel for the revision\nIPC, in view of the amicable settlement of the whole dispute in mediation. It stands well proved by the evidence of PW3 and PW7,\nand also the medical evidence of PW8 that the 2nd respondent herein had sustained fracture of his\nright maxilla, fracture of left zygoma and fracture of nasal bone. The evidence given by these\nmaterial witnesses stands not discredited, and in the present situation nothing was argued on facts\nby the learned counsel for the revision petitioner. When the prosecution allegation\nis that grievous injuries were inflicted by the revision petitioner on the body of the 2nd respondent\nwith a stone, the prosecution does not have any explanation, as to what happened to the stone, or\nwhy it is not produced in court as a material object.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Joy vs State Of Kerala | Arguments: Joy vs State Of Kerala\nAuthor: P.Ubaid\nBench: Thottathil B.Radhakrishnan, P.Ubaid\nIN THE HIGH COURT OF KERALA AT ERNAKULAM\nTHE HONOURABLE MR.JUSTICE THOTTATHIL B.RADHAKRISHNAN\n&\nTHE HONOURABLE MR. 193/2001 OF JUDICIAL FIRST CLASS MAGISTRATE COURT, THIRUVALLA\n------------------------------------------\nREVISION PETITIONER/APPELLANT/ACCUSED :\n----------------------------------------------------------------------\nJOY, AGED 36, S/O.THANKACHAN,\nPALLI THAZHEVEETTIL, EZHUMATTOR VILLAGE,\nMALLAPPALLY TALUK, PATHANAMTHITTA DISTRICT. SRI.P.HARIDAS\n---------------------------------------------------------------\nSTATE OF KERALA, REPRESENTED\nTHE PUBLIC PROSECUTOR, HIGH COURT OF KERALA,\nERNAKULAM. *ADDL.R2 IMPLEADED\n*ADDL.R2: BABU.P.A., AGED 39 YEARS,\nS/O.DAMODARAN, PARAYAKUNNIL HOUSE, CHALAPPALLY.P.O.,\nEZHUMATTOOR VILLAGE, PATHANAMTHITTA DISTRICT-689 645Joy vs State Of Kerala\nIndian Kanoon - http://indiankanoon.org/doc/15123250/ 1\n*IS IMPLEADED AS ADDL.2ND RESPONDENT AS PER ORDER DATED 11/4/13\nIN CRL | Intent: unknown | IPC: 324, 326, 482, 325, 323, 386, 401, 320 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Joy vs State Of Kerala",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "324",
+          "326",
+          "482",
+          "325",
+          "323",
+          "386",
+          "401",
+          "320"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "stone",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "182/2008 OF ADDL.SESSIONS COURT, PATHANAMTHITTA\nCC.NO. 564 OF 2009, THE COURT\nON 24-01-2014 PASSED THE FOLLOWING:\nsts\nCRRP.NO.1451/2010\nAPPENDIX\nANNEX 1 COPY OF THE COMPROMISE PETITION FILED BY THE PARTIES IN RFA\nANNEX 2 COPY OF THE MEMO DATED 03/01/2012\nANNEX 3 COPY OF THE MEMO DATED 22/02/2012\n/TRUE COPY/\nP.S.TO.JUDGE\nsts\nCR\nTHOTTATHIL B.RADHAKRISHNAN &\nP.UBAID, JJ. A judgment of conviction and sentence under Sections 324 and 326 IPC made by the Judicial First\nClass Magistrate Court, Thiruvalla, and confirmed in appeal by the Additional Sessions Judge,\nPathanamthitta, is under challenge in this revision. After investigation the police submitted final report in the Court of the Judicial First Class\nMagistrate, Thiruvalla under Sections 324 and 326 of IPC. By the time\nthe criminal case came up for trial, the learned Sub Judge decreed the said suit in favour of the\nCourt in R.F.A.No.564 of 2009. The revision petitioner failed in his appeal before the Sessions\nCourt, Pathanamthitta, and now he has come before this Court in revision, challenging the legality\nand propriety of the conviction and sentence. The mediation agreement signed by both the\nparties is before this Court in R.F.A No.564 of 2009. Relying on\nthe decisions of the Hon'ble Supreme Court in Y.Suresh Babu V. On a perusal of the judgments of the Hon'ble Supreme Court cited before us, we find that\ncomposition of non- compoundable offences cannot be resorted to in every case or dispute settled\nbetween the parties. Though the Hon'ble Supreme Court granted permission to compound the\noffence under Section 326 IPC in Suresh Babu's (supra) case, the Hon'ble Supreme Court has\ndirected such a course not to be treated as a precedent. In Ashok Sadarangani (supra) the Hon'ble\nSupreme Court held that continuance of a criminal proceeding after a compromise had been arrived\nat between the complainant and the accused would amount to abuse of process of court and an\nexercise in futility since the trial could be prolonged and ultimately may conclude in a decisionJoy vs State Of Kerala\nIndian Kanoon - http://indiankanoon.org/doc/15123250/ 3\nwhich may not be of any consequence to any of the parties.",
+      "embedding_text": "REASONING_CHUNK | Case: Joy vs State Of Kerala | Judicial reasoning: 182/2008 OF ADDL.SESSIONS COURT, PATHANAMTHITTA\nCC.NO. 564 OF 2009, THE COURT\nON 24-01-2014 PASSED THE FOLLOWING:\nsts\nCRRP.NO.1451/2010\nAPPENDIX\nANNEX 1 COPY OF THE COMPROMISE PETITION FILED BY THE PARTIES IN RFA\nANNEX 2 COPY OF THE MEMO DATED 03/01/2012\nANNEX 3 COPY OF THE MEMO DATED 22/02/2012\n/TRUE COPY/\nP.S.TO.JUDGE\nsts\nCR\nTHOTTATHIL B.RADHAKRISHNAN &\nP.UBAID, JJ. A judgment of conviction and sentence under Sections 324 and 326 IPC made by the Judicial First\nClass Magistrate Court, Thiruvalla, and confirmed in appeal by the Additional Sessions Judge,\nPathanamthitta, is under challenge in this revision. After investigation the police submitted final report in the Court of the Judicial First Class\nMagistrate, Thiruvalla under Sections 324 and 326 of IPC. By the time\nthe criminal case came up for trial, the learned Sub Judge decreed the said suit in favour of the\nCourt in R.F.A.No.564 of 2009. The revision petitioner failed in his appeal before the Sessions\nCourt, Pathanamthitta, and  | Intent: unknown | Outcome: death | IPC: 324, 326, 482, 325, 323, 386, 401, 320",
+      "metadata": {
+        "case_name": "Joy vs State Of Kerala",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "324",
+          "326",
+          "482",
+          "325",
+          "323",
+          "386",
+          "401",
+          "320"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "stone",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "On conviction he was sentenced to undergo rigorous imprisonment for one year\nunder Section 324 IPC, and to undergo rigorous imprisonment for two years and also to pay a fine of\nRs.2,000/- under Section 326 IPC. 8. In the light of the above findings, the conviction against the revision petitioner herein under\nSection 326 IPC is altered to one under Section 325 IPC, and consequently the conviction under\nSection 324 IPC is altered to one under Section 323 IPC, in exercise of the powers under Section 386\nIPC r/w Section 401 Cr.P.C. 9. In the above circumstances, we are inclined to grant permission to compound the offences. Consequently, the impugned conviction and sentence\nagainst the revision petitioner are hereunder set aside, and he will stand released on the benefit of\nacquittal under Section 320(8) Cr.P.C.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Joy vs State Of Kerala | Final judgment: On conviction he was sentenced to undergo rigorous imprisonment for one year\nunder Section 324 IPC, and to undergo rigorous imprisonment for two years and also to pay a fine of\nRs.2,000/- under Section 326 IPC. 8. In the light of the above findings, the conviction against the revision petitioner herein under\nSection 326 IPC is altered to one under Section 325 IPC, and consequently the conviction under\nSection 324 IPC is altered to one under Section 323 IPC, in exercise of the powers under Section 386\nIPC r/w Section 401 Cr.P.C. 9. In the above circumstances, we are inclined to grant permission to compound the offences. Consequently, the impugned conviction and sentence\nagainst the revision petitioner are hereunder set aside, and he will stand released on the benefit of\nacquittal under Section 320(8) Cr.P.C. | Judgment: sentenced | IPC: 324, 326, 482, 325, 323, 386, 401, 320",
+      "metadata": {
+        "case_name": "Joy vs State Of Kerala",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "324",
+          "326",
+          "482",
+          "325",
+          "323",
+          "386",
+          "401",
+          "320"
+        ],
+        "actions": [
+          "assaulted"
+        ],
+        "weapon": "stone",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2014"
+      }
+    }
+  ]
+}

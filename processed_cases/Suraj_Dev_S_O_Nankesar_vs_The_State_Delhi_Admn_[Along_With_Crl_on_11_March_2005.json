@@ -1,0 +1,127 @@
+{
+  "case_id": "Suraj_Dev_S_O_Nankesar_vs_The_State_Delhi_Admn_[Along_With_Crl_on_11_March_2005",
+  "case_name": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "... on 11 March, 2005\nEquivalent citations: 118(2005)DLT507, 2005(81)DRJ4\nAuthor: Mukundakam Sharma\nBench: Mukundakam Sharma, R.S. Sodhi\nJUDGMENT\nMukundakam Sharma, J. 1. 103/1997 and 127/1997. 2. The prosecution case in brief is that on 25th February, 1993 at about 4.30 P.M., when Naval Singh\nwent to the place of occurrence on a cycle rickshaw of Ram Parvesh and as he was entering the said\nplace from where the kabari business was being carried out on partnership basis, Suraj Dev got\nannoyed on seeing Naval Singh and in an angry mood he asked Naval Singh as to why he had come\nto the plot. On that there was exchange of hot words between Naval Singh and Suraj Dev when Suraj\nDev pushed Naval Singh. Naval Singh being a handicapped person fell down on the push of Suraj\nDev whereupon Suraj Dev gave a lathi blow on the back of Naval Singh and on his extortion Raj\nKumar, the other accused, who is also the brother of Suraj Dev, picked up a chaukhat wooden log)\nand hit Naval Singh on his forehead as a result of which Naval Singh started bleeding from his nose\nand mouth. Seeing the said condition of Naval Singh, Ram Parvesh removed injured Naval Singh to\nHindu Rao Hospital where he was declared brought dead. The aforesaid information about the\nincident was given to the police station Samaipur Badli by the duty constable on the basis of which\nDD No. 17-A was recorded. Thereafter, a case was registered under F.I.R. No. 3. The doctor who performed the post mortem\nexamination was examined as PW-1. ... PW-1 is the doctor who performed the post mortem examination. During his post mortem\nexamination he found three external injuries of the following nature:\n1. Bruise 3\" x 1-1/2\" on the back of rt. Arm middle part. 2. Small abrasion 1-1/4\" x -+\" on the left elbow. 3. Haemetoma 2\" x 2\" on the frontal region. 5. PW-2 Ram Parvesh is a witness who was examined as he allegedly accompanied the deceased in\nhis cycle rickshaw to the place of occurrence on the fateful day.",
+      "embedding_text": "FACT_CHUNK | Case: Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With | Facts: ... on 11 March, 2005\nEquivalent citations: 118(2005)DLT507, 2005(81)DRJ4\nAuthor: Mukundakam Sharma\nBench: Mukundakam Sharma, R.S. Sodhi\nJUDGMENT\nMukundakam Sharma, J. 1. 103/1997 and 127/1997. 2. The prosecution case in brief is that on 25th February, 1993 at about 4.30 P.M., when Naval Singh\nwent to the place of occurrence on a cycle rickshaw of Ram Parvesh and as he was entering the said\nplace from where the kabari business was being carried out on partnership basis, Suraj Dev got\nannoyed on seeing Naval Singh and in an angry mood he asked Naval Singh as to why he had come\nto the plot. On that there was exchange of hot words between Naval Singh and Suraj Dev when Suraj\nDev pushed Naval Singh. Naval Singh being a handicapped person fell down on the push of Suraj\nDev whereupon Suraj Dev gave a lathi blow on the back of Naval Singh and on his extortion Raj\nKumar, the other accused, who is also the brother of Suraj Dev, picked up a chaukhat wooden log)\nand hit Naval Singh on his forehea | Actions: none | Weapon: lathi | Outcome: death | IPC: 302, 34, 300, 299, 200, 304",
+      "metadata": {
+        "case_name": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "300",
+          "299",
+          "200",
+          "304"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Since the facts and the issues arising for\nconsideration in both the appeals are the same, we propose to dispose of both these appeals by this\ncommon judgment and order. He, however,\nadmitted that the recovered lathi and wooden log was not sealed and he also could not tell as to\nwhether or not there were blood stains on both the weapons. However, when he was asked whether he was also\nhit by a lathi, he denied the suggestion saying that he himself was not hit by any lathi blow and Suraj\nDev gave only one lathi blow to the deceased. Since the issue started over a trivial quarrel, the accused were attributed only\nknowledge that they were likely to cause death and offence committed by them was held to be one\nunder Section 304 Part-II IPC. The question is whether the appellant could be said to have caused that\nparticular injury with the intention to causing death of the deceased.",
+      "embedding_text": "ISSUE_CHUNK | Case: Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With | Legal issues: Since the facts and the issues arising for\nconsideration in both the appeals are the same, we propose to dispose of both these appeals by this\ncommon judgment and order. He, however,\nadmitted that the recovered lathi and wooden log was not sealed and he also could not tell as to\nwhether or not there were blood stains on both the weapons. However, when he was asked whether he was also\nhit by a lathi, he denied the suggestion saying that he himself was not hit by any lathi blow and Suraj\nDev gave only one lathi blow to the deceased. Since the issue started over a trivial quarrel, the accused were attributed only\nknowledge that they were likely to cause death and offence committed by them was held to be one\nunder Section 304 Part-II IPC. The question is whether the appellant could be said to have caused that\nparticular injury with the intention to causing death of the deceased. | IPC: 302, 34, 300, 299, 200, 304",
+      "metadata": {
+        "case_name": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "300",
+          "299",
+          "200",
+          "304"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With\nCrl. As against the judgment of conviction and sentence dated 30th October, 1996 passed by the\nlearned Additional Sessions Judge convicting Suraj Dev and Raj Kumar under section 302/34\nIndian Penal Code, two appeals were filed in this court by the accused appellants which are\nregistered as Criminal Appeal Nos. 81/93 against both the\npolice arrested both the appellants on the next date, i.e., 26th February, 1993, and after completion\nof the investigation submitted a charge sheet as against both the accused persons. Charge was\nframed against both the appellants under sections 302 and 34 I.P.C. During the trial the prosecution examined as many as twelve witnesses in support of its case,\nwhereas the defense examined two witnesses. After completion of the trial, the learned Additional SessionsSuraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With Crl. In his statement he has given his opinion that injuries were ante mortem and were caused with\nblunt weapon. He has also stated in his opinion that injury to skull was sufficient to cause death. In\ncross-examination he has stated that injury on the frontal area of the skull could have resulted from\na fall. In his deposition he has stated that\non 25th February, 1993 he was going in his rickshaw with Naval Singh to the place of occurrence and\nwhen they reached near the plot, Naval Singh went inside the plot which was purchased by Naval in\npartnership with Suraj Dev and Ram Chander. The witness also stated that he went with him inside\nthe plot and Suraj Dev on seeing Naval entering into the plot asked him in an angry mood as to why\nhe had come there and asked Naval to go away. On being stated so Naval told Suraj Dev that he was\nalso a partner in the plot and had a right to come there, and at that here was exchange of hot words\nbetween Naval Singh and Suraj Dev whereupon Suraj Dev pushed Naval who being handicapped fell\ndown on the ground due to push and then Suraj Dev hit him with a lathi blow and exhorted his\nbrother Raj Kumar to kill Naval.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With | Arguments: Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With\nCrl. As against the judgment of conviction and sentence dated 30th October, 1996 passed by the\nlearned Additional Sessions Judge convicting Suraj Dev and Raj Kumar under section 302/34\nIndian Penal Code, two appeals were filed in this court by the accused appellants which are\nregistered as Criminal Appeal Nos. 81/93 against both the\npolice arrested both the appellants on the next date, i.e., 26th February, 1993, and after completion\nof the investigation submitted a charge sheet as against both the accused persons. Charge was\nframed against both the appellants under sections 302 and 34 I.P.C. During the trial the prosecution examined as many as twelve witnesses in support of its case,\nwhereas the defense examined two witnesses. After completion of the trial, the learned Additional SessionsSuraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With Crl. In his statement he has given his opinion that injuries were ante mortem a | Intent: intentional | IPC: 302, 34, 300, 299, 200, 304 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "300",
+          "299",
+          "200",
+          "304"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "on 11 March, 2005\nIndian Kanoon - http://indiankanoon.org/doc/281011/ 1\nJudge passed the impugned order of conviction and sentence on 30th October, 1996 which is under\nchallenge in this court in these appeals. He also submitted that the weapons are allegedly a lathi and a chokhat which are blunt weapons\nand, therefore, there was no intention at all on the part of the accused persons to kill the deceased. The learned Additional Public Prosecutor appearing for the state, however, submitted that there\nwas no injury on the accused persons nor the deceased used any weapon consequent upon the\nexchange of hot words and therefore it cannot be said that any of the exceptions as provided for\nunder section 299 and 300 of the Indian Penal Code is attracted in the present case. It is also, therefore, proved and established on record that there was no premeditation on\nhe part of the accused persons to commit the offence alleged and that there was quarrel and\nexchange of hot words between Naval Singh and Suraj Dev. It is, thus, proved that there was a sudden fight, that there was no premeditation and that the\nact was done in the heat of passion. Therefore, the four requirements of Exception 4 of section 300 I.P.C. After analysing the said provision it was held\nby the Supreme Court that in order to invoke the aforesaid exception, foul requirements must be\nsatisfied, namely, (i) it was a sudden fight; (ii) there was no premeditation; (iii) the act was done in a\nheat of passion; and (iv) the assailant had not taken any undue advantage or acted in a cruel\nmanner. The aforesaid decision was rendered by the Supreme Court on the basis of the earlier\ndecision of the Supreme Court in Surinder Kumar v. We find\nconsiderable force in the submission. The weapon used is not a deadly weapon as\ntrivial incident and in those circumstances the accused dealt two blows on the head\nwith a lathi, therefore, it cannot be stated that he intended to cause the injury which\nis sufficient (sic).",
+      "embedding_text": "REASONING_CHUNK | Case: Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With | Judicial reasoning: on 11 March, 2005\nIndian Kanoon - http://indiankanoon.org/doc/281011/ 1\nJudge passed the impugned order of conviction and sentence on 30th October, 1996 which is under\nchallenge in this court in these appeals. He also submitted that the weapons are allegedly a lathi and a chokhat which are blunt weapons\nand, therefore, there was no intention at all on the part of the accused persons to kill the deceased. The learned Additional Public Prosecutor appearing for the state, however, submitted that there\nwas no injury on the accused persons nor the deceased used any weapon consequent upon the\nexchange of hot words and therefore it cannot be said that any of the exceptions as provided for\nunder section 299 and 300 of the Indian Penal Code is attracted in the present case. It is also, therefore, proved and established on record that there was no premeditation on\nhe part of the accused persons to commit the offence alleged and that there was quarrel and\nexchange of hot words between Naval Singh | Intent: intentional | Outcome: death | IPC: 302, 34, 300, 299, 200, 304",
+      "metadata": {
+        "case_name": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "300",
+          "299",
+          "200",
+          "304"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "By the aforesaid order both the appellants were sentenced to\nimprisonment for life and also to pay a fine of Rs.1,000/- each and in default of payment of fine to\n4. We accordingly set\naside the conviction of the appellant under Section 302 IPC and the sentence of\nimprisonment for life awarded there under. ... 300 IPC will be attracted. Ramakrishnan Unnithan v. 15. In that view of the matter, we are of the considered opinion that the evidence adduced take the\ncase out of the purview of section 300 IPC punishable under section 302 IPC and would bring the\ncase under section 304 Part-II IPC. The appellant Suraj Dev, as per nominal\nroll available on record, has undergone over seven years and four months of actual imprisonment\nand without calculating the remission that he has earned. Raj Kumar, on the other hand, has\nundergone six years and three months of actual imprisonment. Accordingly, we modify the\nimpugned order of conviction and sentence to one under section 304 Part-II IPC, and sentence both\nthe accused-appellants to the period of imprisonment already undergone.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With | Final judgment: By the aforesaid order both the appellants were sentenced to\nimprisonment for life and also to pay a fine of Rs.1,000/- each and in default of payment of fine to\n4. We accordingly set\naside the conviction of the appellant under Section 302 IPC and the sentence of\nimprisonment for life awarded there under. ... 300 IPC will be attracted. Ramakrishnan Unnithan v. 15. In that view of the matter, we are of the considered opinion that the evidence adduced take the\ncase out of the purview of section 300 IPC punishable under section 302 IPC and would bring the\ncase under section 304 Part-II IPC. The appellant Suraj Dev, as per nominal\nroll available on record, has undergone over seven years and four months of actual imprisonment\nand without calculating the remission that he has earned. Raj Kumar, on the other hand, has\nundergone six years and three months of actual imprisonment. Accordingly, we modify the\nimpugned order of conviction and sentence to one under section 304 Part-II IPC, and sente | Judgment: sentenced | IPC: 302, 34, 300, 299, 200, 304",
+      "metadata": {
+        "case_name": "Suraj Dev S/O Nankesar vs The State (Delhi Admn) [Along With",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "300",
+          "299",
+          "200",
+          "304"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2005"
+      }
+    }
+  ]
+}

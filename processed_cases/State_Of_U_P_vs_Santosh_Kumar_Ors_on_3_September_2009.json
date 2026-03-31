@@ -1,0 +1,162 @@
+{
+  "case_id": "State_Of_U_P_vs_Santosh_Kumar_Ors_on_3_September_2009",
+  "case_name": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": ".. 1. 281 of 1993. 2. 3. The IInd Additional Sessions Judge, Unnao, in Sessions Trial No. 4. 5. aggrieved by the impugned judgment has filed this appeal under\nArticle 136 of the Constitution. 6. has filed this appeal against accused Shiv Pyari, Prem Narain and Santosh\nKumar. against\nthem has abated. 7. Brief facts of the case in nutshell are as under. 8. Deceased Sunita, daughter of Dhani Ram was married to Ram Chandra on 1.5.1987. At the time of\nmarriage, Dhani Ram gave dowry to his daughter beyond his capacity, but unfortunately her in-laws\nwere not satisfied and they harassed her by regularly demanding dowry in the form of articles and\nmoney. Sunita told her parents repeatedly about the demands of dowry. Her father Dhani Ram met\nPrem Narain and Shiv Pyari and assured them that apart from whatever he had already given in\ndowry he would continue giving them throughout his life, but they should not harass his daughter. 9. According to the prosecution, on 15.3.1992 at about 9.00 a.m., Sunita was beaten by Shiv Piyari,\nSantosh Kumar and Prem Narain on account of demand of dowry. Deceased Sunita told them that\nthere was no use of harassing her everyday for dowry and that it would be better if she was finished\nonce for all. Prem Narain exhorted at Santosh Kumar saying that, \"DAAL DO MITTI KA TAIL JALA\nDO SALI KO AUR JO 10-20 HAZAR LAGENGE HUM LAGA DENGE\" - meaning thereby to pour\nkerosene oil and kill her and we would take care of litigation expenses of ten to twenty thousand to\nsave Santosh Kumar. Immediately thereafter, Santosh Kumar brought a container of kerosene oil\nand poured the same on Sunita and lit fire and burnt her alive. Deceased Sunita immediately after\nthe burning episode cried for help and ultimately jumped into a small water pond to save her life. 10. On hearing the hue and cry, Om Prakash, Chotey Yadav and Santosh son of Jagdish arrived there\nand took her out from the pond.",
+      "embedding_text": "FACT_CHUNK | Case: State Of U.P vs Santosh Kumar & Ors on 3 September, 2009 | Facts: .. 1. 281 of 1993. 2. 3. The IInd Additional Sessions Judge, Unnao, in Sessions Trial No. 4. 5. aggrieved by the impugned judgment has filed this appeal under\nArticle 136 of the Constitution. 6. has filed this appeal against accused Shiv Pyari, Prem Narain and Santosh\nKumar. against\nthem has abated. 7. Brief facts of the case in nutshell are as under. 8. Deceased Sunita, daughter of Dhani Ram was married to Ram Chandra on 1.5.1987. At the time of\nmarriage, Dhani Ram gave dowry to his daughter beyond his capacity, but unfortunately her in-laws\nwere not satisfied and they harassed her by regularly demanding dowry in the form of articles and\nmoney. Sunita told her parents repeatedly about the demands of dowry. Her father Dhani Ram met\nPrem Narain and Shiv Pyari and assured them that apart from whatever he had already given in\ndowry he would continue giving them throughout his life, but they should not harass his daughter. 9. According to the prosecution, on 15.3.1992 at about 9.00 a.m., S | Actions: harassed, cruelty | Weapon: unknown | Outcome: death | IPC: 302, 34, 304, 3, 4, 304B, 498A, 161, 498, 2",
+      "metadata": {
+        "case_name": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "304",
+          "3",
+          "4",
+          "304B",
+          "498A",
+          "161",
+          "498",
+          "2"
+        ],
+        "actions": [
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The following are the essential ingredients of Section 498- A IPC:\n\"Essentials\n(i) That there was a married woman;\n(ii) that such woman was subjected to cruelty;\n(iii) that such cruelty consisted of any willful conduct of such nature as was likely to\ndrive such woman - to commit suicide, or to cause grave injury or danger to her life,\nlimb or health, whether mental or physical;\nharassment of such woman where such harassment was - with a view to coercing such woman or\nany person related to her to meet any unlawful demand for any property or valuable security, or on\naccount of failure by such woman, or any person related to her to meet the unlawful demand in able\nand the woman was subjected to such cruelty by - the husband of that woman; or any relative of the\nhusband of that woman.\"\n35.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of U.P vs Santosh Kumar & Ors on 3 September, 2009 | Legal issues: The following are the essential ingredients of Section 498- A IPC:\n\"Essentials\n(i) That there was a married woman;\n(ii) that such woman was subjected to cruelty;\n(iii) that such cruelty consisted of any willful conduct of such nature as was likely to\ndrive such woman - to commit suicide, or to cause grave injury or danger to her life,\nlimb or health, whether mental or physical;\nharassment of such woman where such harassment was - with a view to coercing such woman or\nany person related to her to meet any unlawful demand for any property or valuable security, or on\naccount of failure by such woman, or any person related to her to meet the unlawful demand in able\nand the woman was subjected to such cruelty by - the husband of that woman; or any relative of the\nhusband of that woman.\"\n35. | IPC: 302, 34, 304, 3, 4, 304B, 498A, 161, 498, 2",
+      "metadata": {
+        "case_name": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "304",
+          "3",
+          "4",
+          "304B",
+          "498A",
+          "161",
+          "498",
+          "2"
+        ],
+        "actions": [
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009\nEquivalent citations: 2009 AIR SCW 6177, 2009 (9) SCC 626, 2010 (1) ALL LJ\n180, 2010 (1) AIR JHAR R 661, AIR 2009 SC (SUPP) 2687, (2010) 1 MAD\nLJ(CRI) 679, (2009) 3 ALLCRIR 3040, (2009) 12 SCALE 269, 2009 ALLMR(CRI)\n3116, (2009) 4 ALLCRILR 340, (2009) 3 CRIMES 423, (2010) 68 ALLCRIC 977,\n2010 (1) SCC (CRI) 88, (2010) 1 UC 435, (2009) 4 RECCRIR 294, (2009) 4\nCHANDCRIC 309, (2009) 2 ALD(CRL) 756\nAuthor: Dalveer Bhandari\nBench: Harjit Singh Bedi, Dalveer Bhandari\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 1199 OF 2001\nState of U.P. Appellant\nVersus\nSantosh Kumar .. Respondent\nJUDGMENT\nDalveer Bhandari, J. The respondent and other accused were charged under sections 302/34, 304-B and 498-A of the\nIndian Penal Code, 1860 (for short, `IPC') and sections 3 and 4 of the Dowry Prohibition Act, 1961\n(for short, `the Dowry Act') read with section 34 of the IPC. The appellant State of U.P. The State of U.P. In this appeal, we are concerned with the only surviving accused respondent Santosh Kumar. After completing the necessary\nformalities of the investigation, a charge-sheet was filed against the accused persons under sections\n302/34, 304B and 498A of the IPC and sections 3 and 4 of the Dowry Act.State Of U.P vs Santosh Kumar & Ors on 3 September, 2009\nIndian Kanoon - http://indiankanoon.org/doc/521213/ 2\n11. She also\nstated that before setting her on fire, accused Santosh Kumar and others had beaten her. She further\nstated that accused Prem Narain told, \"Pour kerosene oil and set her on fire. In this dying declaration, it is stated that a day before the occurrence at about 9 a.m. The said Tehsildar clearly stated that she\nwas in a fit condition to give her statement. On\nexhortation of Prem Narain, Santosh Kumar brought a container of kerosene oil and poured theState Of U.P vs Santosh Kumar & Ors on 3 September, 2009\nIndian Kanoon - http://indiankanoon.org/doc/521213/ 3\nsame on her whole body and set her on fire.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of U.P vs Santosh Kumar & Ors on 3 September, 2009 | Arguments: State Of U.P vs Santosh Kumar & Ors on 3 September, 2009\nEquivalent citations: 2009 AIR SCW 6177, 2009 (9) SCC 626, 2010 (1) ALL LJ\n180, 2010 (1) AIR JHAR R 661, AIR 2009 SC (SUPP) 2687, (2010) 1 MAD\nLJ(CRI) 679, (2009) 3 ALLCRIR 3040, (2009) 12 SCALE 269, 2009 ALLMR(CRI)\n3116, (2009) 4 ALLCRILR 340, (2009) 3 CRIMES 423, (2010) 68 ALLCRIC 977,\n2010 (1) SCC (CRI) 88, (2010) 1 UC 435, (2009) 4 RECCRIR 294, (2009) 4\nCHANDCRIC 309, (2009) 2 ALD(CRL) 756\nAuthor: Dalveer Bhandari\nBench: Harjit Singh Bedi, Dalveer Bhandari\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 1199 OF 2001\nState of U.P. Appellant\nVersus\nSantosh Kumar .. Respondent\nJUDGMENT\nDalveer Bhandari, J. The respondent and other accused were charged under sections 302/34, 304-B and 498-A of the\nIndian Penal Code, 1860 (for short, `IPC') and sections 3 and 4 of the Dowry Prohibition Act, 1961\n(for short, `the Dowry Act') read with section 34 of the IPC. The appellant State of U.P. Th | Intent: intentional | IPC: 302, 34, 304, 3, 4, 304B, 498A, 161, 498, 2 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "304",
+          "3",
+          "4",
+          "304B",
+          "498A",
+          "161",
+          "498",
+          "2"
+        ],
+        "actions": [
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "This appeal is directed against the judgment of the High Court of Judicature at Allahabad,\nLucknow Bench, Lucknow dated 2.3.2000 passed in Criminal Appeal No. The other accused Shiv Pyari wife of Deo Krishan and Prem Narain s/o Guru Deen have\nexpired during the pendency of the appeal, therefore, the appeal filed by the State of U.P. The trial court came to a definite finding that it was a clear case of murder and not a case of\naccidental fire. Sunita rushed towards her mother-in-law Shiv Pyari but she did not save her and,\ntherefore, she rushed towards the water pond and jumped into it. The trial court carefully marshalled and analyzed the entire evidence on record. On the basis of\nthe three dying declarations, the trial court found the accused Santosh Kumar guilty of killing Sunita\nby pouring kerosene oil and setting her on fire. The High Court in the impugned judgment observed that when the State has not filed any appeal\nagainst the order of acquittal under section 304-B IPC, the order of acquittal for the charge of\noffence punishable under section 304-B IPC has become final. The High Court while acquitting the respondents herein under all the charges observed as\nunder:\n\"When the charge under section 304-B I.P.C. This finding of the High Court is palpably wrong and unsustainable. This erroneous understanding of law has led to entirely erroneous and unsustainable findings\nby the High Court. The High Court was entitled to re-appreciate the entire evidence in appeal, but in\ndoing so the High Court could not ignore the vital features of the prosecution evidence. The High Court unnecessarily gave undue\nimportance to the minor contradictions in the testimony of witnesses and dying declarations. The High Court ought to have examined this case in the proper perspective. The High Court ought to have appreciated this fact in proper perspective as to why the dying\nperson in all her three dying declarations named only Santosh Kumar and attributed act of pouring\nkerosene oil and setting her on fire to him alone when there were so many members in the family.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of U.P vs Santosh Kumar & Ors on 3 September, 2009 | Judicial reasoning: This appeal is directed against the judgment of the High Court of Judicature at Allahabad,\nLucknow Bench, Lucknow dated 2.3.2000 passed in Criminal Appeal No. The other accused Shiv Pyari wife of Deo Krishan and Prem Narain s/o Guru Deen have\nexpired during the pendency of the appeal, therefore, the appeal filed by the State of U.P. The trial court came to a definite finding that it was a clear case of murder and not a case of\naccidental fire. Sunita rushed towards her mother-in-law Shiv Pyari but she did not save her and,\ntherefore, she rushed towards the water pond and jumped into it. The trial court carefully marshalled and analyzed the entire evidence on record. On the basis of\nthe three dying declarations, the trial court found the accused Santosh Kumar guilty of killing Sunita\nby pouring kerosene oil and setting her on fire. The High Court in the impugned judgment observed that when the State has not filed any appeal\nagainst the order of acquittal under section 304-B IPC, the ord | Intent: intentional | Outcome: death | IPC: 302, 34, 304, 3, 4, 304B, 498A, 161, 498, 2",
+      "metadata": {
+        "case_name": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "304",
+          "3",
+          "4",
+          "304B",
+          "498A",
+          "161",
+          "498",
+          "2"
+        ],
+        "actions": [
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "483 of 1992, convicted\nIndian Kanoon - http://indiankanoon.org/doc/521213/ 1\nwas however acquitted under section 304-B IPC. The IInd Additional Sessions Judge convicted\nDowry Act. They were however acquitted under sections 302/34 and 304-IPC. The High Court allowed the appeal filed by the accused and set aside the conviction and sentence\nof the accused respondents imposed by the trial court for the offences for which they were held\nguilty and convicted. The trial court after analyzing the entire evidence, while acquitting respondent Santosh Kumar\nunder section 304-B IPC, convicted him under sections 302 and 498-A IPC and under sections 3\nand 4 of the Dowry Act. Respondents Shiv Pyari and Prem Narain were convicted by the trial court\nonly under section 498-A IPC and sections 3 and 4 of the Dowry Act. The trial Court ought\nto have acquitted all the appellants for offences punishable under section 498-A IPC\nand 3 and 4 of the Dowry Prohibition Act.\"\n21. The High\nCourt has given no reasons for setting aside a well reasoned judgment of the trial court and\nacquitted the accused under section 302 IPC. The High Court\nerroneously set aside a well reasoned judgment of the trial court and acquitted the respondent and\nother accused. Husband or relative of husband of a woman subjecting her to cruelty.-\nWhoever, being the husband or the relative of the husband of a woman subjects such\nwoman to cruelty, shall be punished with imprisonment for a term which may extend\nto three years and shall also be liable to fine.\"\n34. The legal position is absolutely clear that a person charged and acquitted under section 304-B\ncan be convicted under section 498-A IPC. Sections 3 and 4 of the Dowry Act read as under:\n\"3 - Penalty for giving or taking dowry - (1) If any person, after the commencement of\nthis Act, gives or takes or abets the giving or taking of dowry, he shall be punishable\nwith imprisonment for a term which shall not be less than five years, and with fine\nwhich shall not be less than fifteen thousand rupees or the amount of the value of\nsuch dowry, whichever is more:\nProvided that the Court may, for adequate and special reasons to be recorded in the\njudgment, impose a sentence of imprisonment for a term of less than five years.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of U.P vs Santosh Kumar & Ors on 3 September, 2009 | Final judgment: 483 of 1992, convicted\nIndian Kanoon - http://indiankanoon.org/doc/521213/ 1\nwas however acquitted under section 304-B IPC. The IInd Additional Sessions Judge convicted\nDowry Act. They were however acquitted under sections 302/34 and 304-IPC. The High Court allowed the appeal filed by the accused and set aside the conviction and sentence\nof the accused respondents imposed by the trial court for the offences for which they were held\nguilty and convicted. The trial court after analyzing the entire evidence, while acquitting respondent Santosh Kumar\nunder section 304-B IPC, convicted him under sections 302 and 498-A IPC and under sections 3\nand 4 of the Dowry Act. Respondents Shiv Pyari and Prem Narain were convicted by the trial court\nonly under section 498-A IPC and sections 3 and 4 of the Dowry Act. The trial Court ought\nto have acquitted all the appellants for offences punishable under section 498-A IPC\nand 3 and 4 of the Dowry Prohibition Act.\"\n21. The High\nCourt has given no reasons | Judgment: convicted | IPC: 302, 34, 304, 3, 4, 304B, 498A, 161, 498, 2",
+      "metadata": {
+        "case_name": "State Of U.P vs Santosh Kumar & Ors on 3 September, 2009",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "304",
+          "3",
+          "4",
+          "304B",
+          "498A",
+          "161",
+          "498",
+          "2"
+        ],
+        "actions": [
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2009"
+      }
+    }
+  ]
+}

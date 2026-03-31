@@ -1,0 +1,192 @@
+{
+  "case_id": "Suman_Sood_Kamal_Jeet_Kaur_vs_State_Of_Rajasthan_on_14_May_2007",
+  "case_name": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Thakker\nBench: C.K. Thakker, P.K. THAKKER & P.K. BALASUBRAMANYAN\nJUDGMENT:\nJ U D G M E N T WITH CRIMINAL APPEAL NO. 727 OF 2007 (@ S.L.P. (Criminal) No. Thakker, J. 1. Leave granted in S.L.P. (Crl.) No. 2965 of 2006. 2. Criminal Appeal Nos. 1247 of 2004 and D.B. Criminal Appeal No. 11 of 2005\nrespectively. 3. 26 of 2003. PROSECUTION CASE\n4. To appreciate the controversy raised by the parties, few relevant facts may be stated. 5. It was the case of the prosecution that one Rajendra Mirdha, son of Shri Ram Niwas Mirdha was\nstaying at 81-C, Azad Marg, C-Scheme, Jaipur. He used to regularly wake up at about 6.30/6.45 in\nthe morning and to take walk for about an hour or an hour and a half. According to the prosecution,\non February 17, 1995, as usual, he left his residence for a morning walk at about 7.00 a.m. He had\nhardly completed two or three rounds and when again he reached at the road for further rounds, he\nsaw a white Maruti car and one man came out of it. The said man asked Rajendra Mirdha about the\nlocation of House No. 105 or 106. Before he could reply, he was pushed into the car and was taken\naway. There were three persons in the car having weapons. Rajendra Mirdha did not know why he\nwas kidnapped. After some time, Mr. Mirdha was taken in one house. The kidnappers then told Mr. Mirdha that they were the members of the Khalistan Liberation Force (KLF). One of their members,\nDevendra Pal Singh Bhullar was arrested at the Indira Gandhi International Airport on the night of\nJanuary 18-19, 1995 on his return to India after the German authorities declined to grant him\nasylum and the kidnappers wanted him to be released. It was also the case of the prosecution that at the\nrelevant time, Shri Ram Niwas Mirdha, father of Rajendra Mirdha was heading Joint Parliamentary\nCommittee, being a Chairman of the Committee. According to the prosecution, PW 5 Udai Rani Mirdha, wife of Rajendra Mirdha\nreceived a telephonic call at about 8.40 a.m.",
+      "embedding_text": "FACT_CHUNK | Case: Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 | Facts: Thakker\nBench: C.K. Thakker, P.K. THAKKER & P.K. BALASUBRAMANYAN\nJUDGMENT:\nJ U D G M E N T WITH CRIMINAL APPEAL NO. 727 OF 2007 (@ S.L.P. (Criminal) No. Thakker, J. 1. Leave granted in S.L.P. (Crl.) No. 2965 of 2006. 2. Criminal Appeal Nos. 1247 of 2004 and D.B. Criminal Appeal No. 11 of 2005\nrespectively. 3. 26 of 2003. PROSECUTION CASE\n4. To appreciate the controversy raised by the parties, few relevant facts may be stated. 5. It was the case of the prosecution that one Rajendra Mirdha, son of Shri Ram Niwas Mirdha was\nstaying at 81-C, Azad Marg, C-Scheme, Jaipur. He used to regularly wake up at about 6.30/6.45 in\nthe morning and to take walk for about an hour or an hour and a half. According to the prosecution,\non February 17, 1995, as usual, he left his residence for a morning walk at about 7.00 a.m. He had\nhardly completed two or three rounds and when again he reached at the road for further rounds, he\nsaw a white Maruti car and one man came out of it. The said man asked Rajendra  | Actions: embezzled, kidnapped, abducted | Weapon: explosive | Outcome: death | IPC: 343, 120B, 346, 365, 364A, 353, 420, 468, 471, 120A, 4, 5, 300, 299, 21",
+      "metadata": {
+        "case_name": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "343",
+          "120B",
+          "346",
+          "365",
+          "364A",
+          "353",
+          "420",
+          "468",
+          "471",
+          "120A",
+          "4",
+          "5",
+          "300",
+          "299",
+          "21"
+        ],
+        "actions": [
+          "embezzled",
+          "kidnapped",
+          "abducted"
+        ],
+        "weapon": "explosive",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "and notice was issued, but no leave was granted. But the Court\nmust enquire whether the two persons are independently pursuing the same and or\nthey have come together to the pursuit of the unlawful object. Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14\nMay, 2007\n2007 AIR SCW 5013, 2007 (2) SCC(CRI) 637, 2007 (7) SCALE 312, (2007) 3\nRECCRIR 119, (2007) 2 CURCRIR 479, (2007) 3 ALLCRIR 2963, (2007) 7\nSCALE 312, (2007) SC CR R 1081, 2007 (2) ALD(CRL) 576, 2008 (1)\nANDHLT(CRI) 200 SC\nAuthor: C.K. Thakker\nBench: C.K. Thakker, P.K. Balasubramanyan\nCASE NO.:\nAppeal (crl.) 867 of 2006\nSUMAN SOOD @ KAMAL JEET KAUR\nSTATE OF RAJASTHAN\nDATE OF JUDGMENT: 14/05/2007\nBENCH:\nC.K.",
+      "embedding_text": "ISSUE_CHUNK | Case: Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 | Legal issues: and notice was issued, but no leave was granted. But the Court\nmust enquire whether the two persons are independently pursuing the same and or\nthey have come together to the pursuit of the unlawful object. Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14\nMay, 2007\n2007 AIR SCW 5013, 2007 (2) SCC(CRI) 637, 2007 (7) SCALE 312, (2007) 3\nRECCRIR 119, (2007) 2 CURCRIR 479, (2007) 3 ALLCRIR 2963, (2007) 7\nSCALE 312, (2007) SC CR R 1081, 2007 (2) ALD(CRL) 576, 2008 (1)\nANDHLT(CRI) 200 SC\nAuthor: C.K. Thakker\nBench: C.K. Thakker, P.K. Balasubramanyan\nCASE NO.:\nAppeal (crl.) 867 of 2006\nSUMAN SOOD @ KAMAL JEET KAUR\nSTATE OF RAJASTHAN\nDATE OF JUDGMENT: 14/05/2007\nBENCH:\nC.K. | IPC: 343, 120B, 346, 365, 364A, 353, 420, 468, 471, 120A, 4, 5, 300, 299, 21",
+      "metadata": {
+        "case_name": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "343",
+          "120B",
+          "346",
+          "365",
+          "364A",
+          "353",
+          "420",
+          "468",
+          "471",
+          "120A",
+          "4",
+          "5",
+          "300",
+          "299",
+          "21"
+        ],
+        "actions": [
+          "embezzled",
+          "kidnapped",
+          "abducted"
+        ],
+        "weapon": "explosive",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14\nMay, 2007\n2007 AIR SCW 5013, 2007 (2) SCC(CRI) 637, 2007 (7) SCALE 312, (2007) 3\nRECCRIR 119, (2007) 2 CURCRIR 479, (2007) 3 ALLCRIR 2963, (2007) 7\nSCALE 312, (2007) SC CR R 1081, 2007 (2) ALD(CRL) 576, 2008 (1)\nANDHLT(CRI) 200 SC\nAuthor: C.K. Balasubramanyan\nCASE NO.:\nAppeal (crl.) 867 of 2006\nSUMAN SOOD @ KAMAL JEET KAUR\nSTATE OF RAJASTHAN\nDATE OF JUDGMENT: 14/05/2007\nBENCH:\nC.K. 2965 of\n2006) DAYA SINGH LAHORIYA @ RAJEEV SUDAN @ VINAY KUMAR ..Appellant VERSUS\nSTATE OF RAJASTHAN ..Respondent C.K. The said conviction was recorded by the Additional SessionsSuman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 May, 2007\nIndian Kanoon - http://indiankanoon.org/doc/768514/ 1\nJudge (Fast Track) Category \u0016 1, Jaipur on October 20, 2004 in Sessions Case No. It was also stated that the kidnappers had\nnothing against Rajendra Mirdha personally. from an unknown person who stated that Rajendra\nMirdha had been made hostage and until and unless Devendra Pal Singh Bhullar was freed, they\nwould not release Rajendra Mirdha. He further stated that neither Police should be informed nor\nthe telephone be tapped. The caller also stated that he would again telephone Udai Rani Mirdha. Daya Singh and Suman Sood were arrested from\nMinneapolis Airport, Minnesota, USA on August 3, 1995 while they were illegally trying to crossSuman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 May, 2007\nIndian Kanoon - http://indiankanoon.org/doc/768514/ 2\nover to Canada. The United States District Judge, Northern District of Texas, Fort Worth Division\nallowed the extradition of accused Daya Singh to India inter alia for offences punishable under\nSections 343, 346, 353, 364A, 365, 420, 468, 471, 120A and 120B IPC as also for the offences\npunishable under Sections 4 and 5 of the Explosive Substances Act, 1908. The State was also aggrieved by the order of acquittal of Suman Sood\nfor offence under Section 364A, in the alternative under Section 364A read with Section 120B, IPC\nand preferred an appeal.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 | Arguments: Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14\nMay, 2007\n2007 AIR SCW 5013, 2007 (2) SCC(CRI) 637, 2007 (7) SCALE 312, (2007) 3\nRECCRIR 119, (2007) 2 CURCRIR 479, (2007) 3 ALLCRIR 2963, (2007) 7\nSCALE 312, (2007) SC CR R 1081, 2007 (2) ALD(CRL) 576, 2008 (1)\nANDHLT(CRI) 200 SC\nAuthor: C.K. Balasubramanyan\nCASE NO.:\nAppeal (crl.) 867 of 2006\nSUMAN SOOD @ KAMAL JEET KAUR\nSTATE OF RAJASTHAN\nDATE OF JUDGMENT: 14/05/2007\nBENCH:\nC.K. 2965 of\n2006) DAYA SINGH LAHORIYA @ RAJEEV SUDAN @ VINAY KUMAR ..Appellant VERSUS\nSTATE OF RAJASTHAN ..Respondent C.K. The said conviction was recorded by the Additional SessionsSuman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 May, 2007\nIndian Kanoon - http://indiankanoon.org/doc/768514/ 1\nJudge (Fast Track) Category \u0016 1, Jaipur on October 20, 2004 in Sessions Case No. It was also stated that the kidnappers had\nnothing against Rajendra Mirdha personally. from an unknown person who stated that Rajendra\nMirdha had been made hostage and until and  | Intent: intentional | IPC: 343, 120B, 346, 365, 364A, 353, 420, 468, 471, 120A, 4, 5, 300, 299, 21 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "343",
+          "120B",
+          "346",
+          "365",
+          "364A",
+          "353",
+          "420",
+          "468",
+          "471",
+          "120A",
+          "4",
+          "5",
+          "300",
+          "299",
+          "21"
+        ],
+        "actions": [
+          "embezzled",
+          "kidnapped",
+          "abducted"
+        ],
+        "weapon": "explosive",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Present criminal appeals are filed by Daya Singh Lahoriya @ Rajeev Sudan @ Vinay Kumar and\nSuman Sood @ Kamal Jeet Kaur @ Kanwaljit Kaur, husband and wife respectively against the\njudgment and order passed by the High Court of Judicature for Rajasthan (Jaipur Bench) dated\nMarch 20, 2006 in S.B. By the said order, the High Court confirmed the order of conviction and sentence passed against\nDaya Singh for offences punishable under Sections 364A, 365, 343 read with 120B and 346 read\nwith 120B Indian Penal Code (IPC). Her challenge against conviction and sentence for offences punishable under\nSections 365 read with 120B, 343 read with 120B and 346 read with 120B IPC was negatived by the\nHigh Court. According to the kidnappers, Shri Ram Niwas\nMirdha was thus an influential person and was in a position to get the said act done by the\nGovernment. Necessary steps\nwere, therefore, taken to arrest the accused. Since the order of extradition did not mention trial of\noffences under TADA, Daya Singh filed a Writ Petition in this Court by invoking Article 32 of the\nConstitution contending that the prosecution under TADA was without authority, power and\njurisdiction and no prosecution could have been launched. This Court, considering the relevant\nprovisions of the Extradition Act, 1962, in the light of the order of extradition held the contention\nwell-founded and allowed the petition holding that no prosecution under TADA could have been\ninstituted. After the above decision, prosecution for offences under TADA was dropped,\nthe case was transferred from the Designated Court, Ajmer under TADA to the Court of Sessions\nJudge, Jaipur City which was finally tried and decided by the Additional Sessions Judge (Fast\nTrack), Category No.1, Jaipur and was registered as Sessions Case No. DECISION OF THE TRIAL COURT\n6. The\nparties were heard and finally on October 20, 2004, the trial Court recorded an order of conviction\nas also of sentence. DECISION OF HIGH COURT\n9. Both husband and wife were aggrieved by the order of conviction and sentence and approached\nthe High Court of Rajasthan.",
+      "embedding_text": "REASONING_CHUNK | Case: Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 | Judicial reasoning: Present criminal appeals are filed by Daya Singh Lahoriya @ Rajeev Sudan @ Vinay Kumar and\nSuman Sood @ Kamal Jeet Kaur @ Kanwaljit Kaur, husband and wife respectively against the\njudgment and order passed by the High Court of Judicature for Rajasthan (Jaipur Bench) dated\nMarch 20, 2006 in S.B. By the said order, the High Court confirmed the order of conviction and sentence passed against\nDaya Singh for offences punishable under Sections 364A, 365, 343 read with 120B and 346 read\nwith 120B Indian Penal Code (IPC). Her challenge against conviction and sentence for offences punishable under\nSections 365 read with 120B, 343 read with 120B and 346 read with 120B IPC was negatived by the\nHigh Court. According to the kidnappers, Shri Ram Niwas\nMirdha was thus an influential person and was in a position to get the said act done by the\nGovernment. Necessary steps\nwere, therefore, taken to arrest the accused. Since the order of extradition did not mention trial of\noffences under TADA, Daya Sing | Intent: intentional | Outcome: death | IPC: 343, 120B, 346, 365, 364A, 353, 420, 468, 471, 120A, 4, 5, 300, 299, 21",
+      "metadata": {
+        "case_name": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "343",
+          "120B",
+          "346",
+          "365",
+          "364A",
+          "353",
+          "420",
+          "468",
+          "471",
+          "120A",
+          "4",
+          "5",
+          "300",
+          "299",
+          "21"
+        ],
+        "actions": [
+          "embezzled",
+          "kidnapped",
+          "abducted"
+        ],
+        "weapon": "explosive",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2007"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "So far\nas Suman Sood is concerned, she was convicted by the trial Court for offences punishable under\nSections 365 read with 120B, 343 read with 120B and 346 read with 120B IPC. She was, however,\nacquitted for offences punishable under Section 364A and in the alternative under Sections 364A\nread with 120B IPC. But her acquittal for offences punishable under Sections 364A read with 120B was set\naside by the High Court in an appeal by the State and she was convicted for the said offence and was\nordered to undergo imprisonment for life. So far as Daya Singh is concerned, he was convicted and sentenced as under\u0017 U/s. 364A IPC:\nTo suffer imprisonment for life and fine of Rs.500/- in default to further suffer\nsimple imprisonment for six months. 365 IPC:\nTo suffer imprisonment for seven years and fine of Rs.500/- in default to further\nsuffer simple imprisonment for six months. 343/120B IPC:\nTo suffer imprisonment for three years and fine of Rs.500/- in default to further\nsuffer six months imprisonment. 346/120B IPC:\nTo suffer imprisonment for two years.Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 May, 2007\nIndian Kanoon - http://indiankanoon.org/doc/768514/ 3\nThe substantive sentences were ordered to run concurrently. Accused Suman Sood was convicted as under\u0017 U/s. 365/120B IPC:\nTo suffer imprisonment for seven years and fine of Rs.500/- in default to further\nsuffer simple imprisonment for six months. 343/120B IPC:\nTo suffer imprisonment for three years and fine of Rs.500/- in default to further\nsuffer six months imprisonment. 346/120B IPC:\nTo suffer imprisonment for two years. As already noted earlier, appeals of both the accused were dismissed by the\nHigh Court while the appeal of State of Rajasthan against Suman Sood was allowed and she was\nconvicted for an offence punishable under Section 364A read with Section 120B, IPC. The High\nCourt also ordered that looking to the gravity and dastardly nature of acts and consequences, Daya\nSingh as well as Suman Sood \"shall not be released from the prison unless they served out at least\ntwenty years of imprisonment including the period already undergone by them\".",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14 | Final judgment: So far\nas Suman Sood is concerned, she was convicted by the trial Court for offences punishable under\nSections 365 read with 120B, 343 read with 120B and 346 read with 120B IPC. She was, however,\nacquitted for offences punishable under Section 364A and in the alternative under Sections 364A\nread with 120B IPC. But her acquittal for offences punishable under Sections 364A read with 120B was set\naside by the High Court in an appeal by the State and she was convicted for the said offence and was\nordered to undergo imprisonment for life. So far as Daya Singh is concerned, he was convicted and sentenced as under\u0017 U/s. 364A IPC:\nTo suffer imprisonment for life and fine of Rs.500/- in default to further suffer\nsimple imprisonment for six months. 365 IPC:\nTo suffer imprisonment for seven years and fine of Rs.500/- in default to further\nsuffer simple imprisonment for six months. 343/120B IPC:\nTo suffer imprisonment for three years and fine of Rs.500/- in default to further\nsuffer six months imp | Judgment: convicted | IPC: 343, 120B, 346, 365, 364A, 353, 420, 468, 471, 120A, 4, 5, 300, 299, 21",
+      "metadata": {
+        "case_name": "Suman Sood @ Kamal Jeet Kaur vs State Of Rajasthan on 14",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "343",
+          "120B",
+          "346",
+          "365",
+          "364A",
+          "353",
+          "420",
+          "468",
+          "471",
+          "120A",
+          "4",
+          "5",
+          "300",
+          "299",
+          "21"
+        ],
+        "actions": [
+          "embezzled",
+          "kidnapped",
+          "abducted"
+        ],
+        "weapon": "explosive",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2007"
+      }
+    }
+  ]
+}

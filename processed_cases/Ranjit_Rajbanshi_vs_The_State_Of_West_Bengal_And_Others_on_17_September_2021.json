@@ -1,0 +1,127 @@
+{
+  "case_id": "Ranjit_Rajbanshi_vs_The_State_Of_West_Bengal_And_Others_on_17_September_2021",
+  "case_name": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "No.458 of 2018\nIA No: CRAN 2 of 2020\nRanjit Rajbanshi\nVs. S. G. Mukherjee, ld. PP,\nMs. Faria Hossain,\nMs. Baishali Basu\nHearing concluded on : 10.09.2021\nJudgment on : 17.09.2021\nSabyasachi Bhattacharyya, J:-\n1. 3. The age of the accused was 22 years and that of the victim was 16 ½ at the time of the First\nInformation Report (FIR). 4. Anuva Dey) and PW4 (Dr. Avik\nDas). Moreover, no instance\nof rape was alleged by the victim during medical examination. Pregnancy test yielded negative\nresult. The medical examination only showed that there was an old and healed tear over the hymen. 5. 6. 7. The victim, as PW2, mentioned in her cross-examination that she had \"shouted\" during the\nincident. However, the area was admittedly a crowded one and, as revealed from the sketch map at\npage 3 of the Paper Book, the room (place of occurrence) was situated between two shops - one a\npharmacy and the other a sweet shop. There was also a burial ground and a busy bus stand nearby. It was quite unlikely that none heard the cry of the victim, in the event she had shouted. 8. That apart, the complainant as PW1, in her cross-examination, mentioned about the victim's\nfather and brother having accompanied her during the complaint. However, none of them were\nproduced as witnesses. 9. The victim, as PW2, mentioned the time of occurrence to be 2 p.m. on August 12, 2017, but the\ncomplaint was lodged only on August 16, 2017. The accused and his relatives allegedly had also gone\nat that time. 10. The cross-examination of the victim (PW2) shows that PW2 admitted that she mentioned the\nmatter to her mother around 4 to 5 p.m. and at about 7.30 to 8 p.m. 11. 12. 13. 14. 15. Gyanchand] and submits that all propositions involved in the\nthat conviction of an offence of rape under Section 376 of the IPC can be based on the sole testimony\nof the prosecutrix, corroborated by medical evidence and other circumstances, such as the report of\nmedical examination, etc., if the same is found to be natural, trustworthy and worth being relied on.",
+      "embedding_text": "FACT_CHUNK | Case: Ranjit Rajbanshi vs The State Of West Bengal And Others on 17 | Facts: No.458 of 2018\nIA No: CRAN 2 of 2020\nRanjit Rajbanshi\nVs. S. G. Mukherjee, ld. PP,\nMs. Faria Hossain,\nMs. Baishali Basu\nHearing concluded on : 10.09.2021\nJudgment on : 17.09.2021\nSabyasachi Bhattacharyya, J:-\n1. 3. The age of the accused was 22 years and that of the victim was 16 ½ at the time of the First\nInformation Report (FIR). 4. Anuva Dey) and PW4 (Dr. Avik\nDas). Moreover, no instance\nof rape was alleged by the victim during medical examination. Pregnancy test yielded negative\nresult. The medical examination only showed that there was an old and healed tear over the hymen. 5. 6. 7. The victim, as PW2, mentioned in her cross-examination that she had \"shouted\" during the\nincident. However, the area was admittedly a crowded one and, as revealed from the sketch map at\npage 3 of the Paper Book, the room (place of occurrence) was situated between two shops - one a\npharmacy and the other a sweet shop. There was also a burial ground and a busy bus stand nearby. It was quite unlikely that | Actions: none | Weapon: unknown | Outcome: death | IPC: 376, 4, 29, 154, 3, 2",
+      "metadata": {
+        "case_name": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "376",
+          "4",
+          "29",
+          "154",
+          "3",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "High Court",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Delay, it was held by the Supreme Court, has the effect of putting the court on\nits guard to search if any explanation has been offered for the delay and, if offered, whether it is\nsatisfactory or not. The psyche of the parties and the maturity level of the victim are also relevant\nfactors to be taken into consideration to decide whether the penetration was a unilateral and\npositive act on the part of the male. Ranjit Rajbanshi vs The State Of West Bengal And Others on 17\nSeptember, 2021\nAuthor: Sabyasachi Bhattacharyya\nBench: Sabyasachi Bhattacharyya\nIn the High Court at Calcutta\nCriminal Appellate Jurisdiction\nAppellate Side\nThe Hon'ble Justice Sabyasachi Bhattacharyya\nC.R.A. No.458 of 2018\nIA No: CRAN 2 of 2020\nRanjit Rajbanshi\nVs.",
+      "embedding_text": "ISSUE_CHUNK | Case: Ranjit Rajbanshi vs The State Of West Bengal And Others on 17 | Legal issues: Delay, it was held by the Supreme Court, has the effect of putting the court on\nits guard to search if any explanation has been offered for the delay and, if offered, whether it is\nsatisfactory or not. The psyche of the parties and the maturity level of the victim are also relevant\nfactors to be taken into consideration to decide whether the penetration was a unilateral and\npositive act on the part of the male. Ranjit Rajbanshi vs The State Of West Bengal And Others on 17\nSeptember, 2021\nAuthor: Sabyasachi Bhattacharyya\nBench: Sabyasachi Bhattacharyya\nIn the High Court at Calcutta\nCriminal Appellate Jurisdiction\nAppellate Side\nThe Hon'ble Justice Sabyasachi Bhattacharyya\nC.R.A. No.458 of 2018\nIA No: CRAN 2 of 2020\nRanjit Rajbanshi\nVs. | IPC: 376, 4, 29, 154, 3, 2",
+      "metadata": {
+        "case_name": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "376",
+          "4",
+          "29",
+          "154",
+          "3",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "High Court",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17\nSeptember, 2021\nAuthor: Sabyasachi Bhattacharyya\nBench: Sabyasachi Bhattacharyya\nIn the High Court at Calcutta\nCriminal Appellate Jurisdiction\nAppellate Side\nThe Hon'ble Justice Sabyasachi Bhattacharyya\nC.R.A. The State of West Bengal and others\nMs. Aiswarjya Gupta\nFor the State : Mr. connect the accused with the previous hymen injury of the victim, sufficient to convict the appellant\non either of the charges. It is argued that the time lapse of two days between the date of the\nincident (August 12, 2017) and lodging the FIR (August 14, 2017) also gives rise to a suspicion as\nregards the involvement of the accused. It is further argued by learned counsel for the appellant that the two Doctors' reports do not\nplaces reliance on relevant portions of the depositions of PW3 (Dr. Referring to pages 15 and 16 of the Paper Book, learned counsel contends that PW3 clearly\nstated that the victim had admitted her prior relationship with the accused. At page 17 of the Paper Book, the PW4 stated that there was no injury or mark found on the body\nor private parts of the victim. That apart, it is contended by the appellant that there were several discrepancies in the\ndepositions of the prosecution witnesses. that same day, the victim'sRanjit Rajbanshi vs The State Of West Bengal And Others on 17 September, 2021\nIndian Kanoon - http://indiankanoon.org/doc/3832717/ 2\nbrother, mother and father allegedly asked the accused to marry the victim. However, such\nstatements were not corroborated by PW1. As such, learned counsel for the appellant argues that none of the ingredients required to be\nproved for either of the charges were established beyond reasonable doubt in the present case, even\nsufficient to raise a presumption under Section 29 of the POCSO Act. Learned counsel for the State, at the outset, submits that the victim was proved to be a minor at\nthe time of the offence and, even if the victim had consented to the offence, the same is not material\nat all.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Ranjit Rajbanshi vs The State Of West Bengal And Others on 17 | Arguments: Ranjit Rajbanshi vs The State Of West Bengal And Others on 17\nSeptember, 2021\nAuthor: Sabyasachi Bhattacharyya\nBench: Sabyasachi Bhattacharyya\nIn the High Court at Calcutta\nCriminal Appellate Jurisdiction\nAppellate Side\nThe Hon'ble Justice Sabyasachi Bhattacharyya\nC.R.A. The State of West Bengal and others\nMs. Aiswarjya Gupta\nFor the State : Mr. connect the accused with the previous hymen injury of the victim, sufficient to convict the appellant\non either of the charges. It is argued that the time lapse of two days between the date of the\nincident (August 12, 2017) and lodging the FIR (August 14, 2017) also gives rise to a suspicion as\nregards the involvement of the accused. It is further argued by learned counsel for the appellant that the two Doctors' reports do not\nplaces reliance on relevant portions of the depositions of PW3 (Dr. Referring to pages 15 and 16 of the Paper Book, learned counsel contends that PW3 clearly\nstated that the victim had admitted her prior relationship with | Intent: unknown | IPC: 376, 4, 29, 154, 3, 2 | Judgment context: acquitted",
+      "metadata": {
+        "case_name": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "376",
+          "4",
+          "29",
+          "154",
+          "3",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "High Court",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "It is further contended that, as per the law, there is no option before the Court than either to\nuphold the punishment for the entire term of seven years, which was the minimum sentence for\nSection 376 of the IPC, or total acquittal, the latter being improbable in the circumstances of the\ncase. If the evidence of the prosecutrix inspires confidence, the Supreme Court held, it must be relied\nupon without seeking corroboration of a statement in material particulars. However, if the delay is explained to the satisfaction of the court, by itself, the delay\ncannot be as a ground for disbelieving and discarding the entire prosecution case. Hence, during the occurrence of the alleged incident as per the victim's version, the\nshop ought to have been open at 1-1:30 pm, which is the alleged time of occurrence. Hence, the version of the PW1 and PW2 regarding the timings of the chain of events do\nnot tally at all. Thus, sufficient doubt, as regards any offence\nhaving been committed under Section 376(1), IPC, is raised, although a minor's consent is of noRanjit Rajbanshi vs The State Of West Bengal And Others on 17 September, 2021\nIndian Kanoon - http://indiankanoon.org/doc/3832717/ 5\nsignificance. The court's interpretation of a statute cannot be with eyes closed to practical realities and have\nto be construed in proper perspective, keeping in view the objects and reasons of the Act. Hence, seen in proper perspective, the act alleged, even if\nproved, could not tantamount to penetration sufficient to attract Section 3 of the POCSO Act,\nkeeping in view the admitted several prior occasions of physical union between the accused and the\nvictim and the maturity of the victim.Ranjit Rajbanshi vs The State Of West Bengal And Others on 17 September, 2021\nIndian Kanoon - http://indiankanoon.org/doc/3832717/ 7\n48. Although not directly relevant to the offence, the Court cannot be blind to the practical realities\nof life. As such, the Court ought to be doubly cautious in putting a stigma on either the\naccused or the victim. Hence, the judgments of conviction and sentence impugned in the present appeal are vitiated by\nerrors of law as well as fact and based upon an erroneous interpretation of the provisions of the\nPOCSO Act as well as the IPC.",
+      "embedding_text": "REASONING_CHUNK | Case: Ranjit Rajbanshi vs The State Of West Bengal And Others on 17 | Judicial reasoning: It is further contended that, as per the law, there is no option before the Court than either to\nuphold the punishment for the entire term of seven years, which was the minimum sentence for\nSection 376 of the IPC, or total acquittal, the latter being improbable in the circumstances of the\ncase. If the evidence of the prosecutrix inspires confidence, the Supreme Court held, it must be relied\nupon without seeking corroboration of a statement in material particulars. However, if the delay is explained to the satisfaction of the court, by itself, the delay\ncannot be as a ground for disbelieving and discarding the entire prosecution case. Hence, during the occurrence of the alleged incident as per the victim's version, the\nshop ought to have been open at 1-1:30 pm, which is the alleged time of occurrence. Hence, the version of the PW1 and PW2 regarding the timings of the chain of events do\nnot tally at all. Thus, sufficient doubt, as regards any offence\nhaving been committed under Section 3 | Intent: unknown | Outcome: death | IPC: 376, 4, 29, 154, 3, 2",
+      "metadata": {
+        "case_name": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "376",
+          "4",
+          "29",
+          "154",
+          "3",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "High Court",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The present appeal has been preferred against a conviction under Section 376(1) of the Indian Penal\nCode, 1860 (for short \"the IPC\") and under Section 4 of the Protection of Children from SexualRanjit Rajbanshi vs The State Of West Bengal And Others on 17 September, 2021\nIndian Kanoon - http://indiankanoon.org/doc/3832717/ 1\nOffences Act, 2012 (hereinafter referred to as \"the POCSO Act\") and sentence awarded under\nSection 376(1) of the IPC, since the quantum of punishment in the said Section was higher, to suffer\nrigorous imprisonment for seven years and to pay a fine of Rs. 50,000/- (fifty thousand), in default,\nto suffer rigorous imprisonment for one year for the offences punishable on both counts. The POCSO Act defines anyone under eighteen years of age as a 'child', but to convict a person\nfor penetrative sexual assault, the psyche, maturity and previous conduct of the victim vis-à-vis the\naccused also acquires relevance. On a contextual interpretation of the expression 'penetration' as used in Section 3 of the POCSO\nAct and Section 376(1) of the IPC, no unilateral forcible act of penetration, solely on the part of the\naccused, was established on the basis of the evidence on record. 57. Such, attempt, in any event, has become redundant at least in view of the present\nmarital status of both the victim and the accused. 58. 59. Although several judgments have been cited by counsel in support of the proposition that the\nconviction can be based solely on the oral evidence of the prosecutrix and her subsequent conduct,\nsuch qualification of subsequent conduct and the credibility of the prosecution case are necessary\ningredients which are to accompany the evidence of the victim to attach sufficient weight to such\nevidence, which is missing in the present case in view of the several contradictions as well as the\nexistence of several missing links in the chain of events sought to be made out by the prosecution. 60. 61. Accordingly, CRA No.458 of 2018 is allowed, thereby setting aside the judgment and orders of\nconviction and sentence dated July 25, 2018 and July 26, 2018 passed by the Additional Sessions\nJudge at Kandi, District-Murshidabad in Sessions Trial No.04(04)/2018 arising out of C.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Ranjit Rajbanshi vs The State Of West Bengal And Others on 17 | Final judgment: The present appeal has been preferred against a conviction under Section 376(1) of the Indian Penal\nCode, 1860 (for short \"the IPC\") and under Section 4 of the Protection of Children from SexualRanjit Rajbanshi vs The State Of West Bengal And Others on 17 September, 2021\nIndian Kanoon - http://indiankanoon.org/doc/3832717/ 1\nOffences Act, 2012 (hereinafter referred to as \"the POCSO Act\") and sentence awarded under\nSection 376(1) of the IPC, since the quantum of punishment in the said Section was higher, to suffer\nrigorous imprisonment for seven years and to pay a fine of Rs. 50,000/- (fifty thousand), in default,\nto suffer rigorous imprisonment for one year for the offences punishable on both counts. The POCSO Act defines anyone under eighteen years of age as a 'child', but to convict a person\nfor penetrative sexual assault, the psyche, maturity and previous conduct of the victim vis-à-vis the\naccused also acquires relevance. On a contextual interpretation of the expression 'penetratio | Judgment: acquitted | IPC: 376, 4, 29, 154, 3, 2",
+      "metadata": {
+        "case_name": "Ranjit Rajbanshi vs The State Of West Bengal And Others on 17",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "376",
+          "4",
+          "29",
+          "154",
+          "3",
+          "2"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "acquitted",
+        "court": "High Court",
+        "year": "2021"
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "case_id": "Charu_Chandra_Ghose_And_Ors_vs_King_Emperor_on_27_July_1923",
+  "case_name": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,\n1923\nJUDGMENT\n1. In appeal No. The above named seven persons, along with six\nothers, were tried under Section 120-B, read with Section 420, read with Section 109 of the Indian\nPenal Code, before the Additional Sessions Judge of Burdwan and a jury. 2. The facts connected with these two-appeals, shortly stated, are as follows : On the 17th July, 1919,\none Jiten Das (P.W. Ten persons were named in Jiten Das's petition, which\nhas been tendered as an exhibit in this-case and which is Exhibit 190. The District Magistrate\nforwarded the petition to-the Superintendent of Police in Burdwan for necessary action. The latter\non receipt of the petition passed an order on the 16th August, 1919, for arresting the ten persons\nmentioned in Jiten Das's petition and for starting a case against them under Section 110, Cr.P.C. A\nPolice enquiry followed, but although the case under Section 110, Cr.P.C. was started on the 18th of\nAugust, 1919,. the Police did not submit a final report-even up to March, 1920. On the 3rd March,\n1920, the Magistrate, before whom the proceedings under Section 110, Cr.P.C. were pending, being\nof opinion that inasmuch as the Police report had not been, submitted for a period of nearly\neight-months, directed the discharge of the said ten persons. On the 17th of March, 1920, a first\ninformation was lodged against the said persons, charging them with having, committed offences\npunishable under Section 420 read with Section 120-B of the Indian Penal Code. On the 21st June,\n1920, the. vs King-Emperor on 27 July, 1923\nIndian Kanoon - http://indiankanoon.org/doc/1676875/ 1\nwith other person or persons unknown, were members-of a criminal conspiracy for the purpose of,\namongst others, fraudulently obtaining moneys or properties from innocent persons or depriving\nthem of their lawful rights by instituting false and fraudulent suits against such persons on the basis\nof forged documents and by committing other offences punishable in law or by doing illegal acts\nwith illegal means in connection with those false claims.",
+      "embedding_text": "FACT_CHUNK | Case: Charu Chandra Ghose And Ors. vs King-Emperor on 27 July, | Facts: Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,\n1923\nJUDGMENT\n1. In appeal No. The above named seven persons, along with six\nothers, were tried under Section 120-B, read with Section 420, read with Section 109 of the Indian\nPenal Code, before the Additional Sessions Judge of Burdwan and a jury. 2. The facts connected with these two-appeals, shortly stated, are as follows : On the 17th July, 1919,\none Jiten Das (P.W. Ten persons were named in Jiten Das's petition, which\nhas been tendered as an exhibit in this-case and which is Exhibit 190. The District Magistrate\nforwarded the petition to-the Superintendent of Police in Burdwan for necessary action. The latter\non receipt of the petition passed an order on the 16th August, 1919, for arresting the ten persons\nmentioned in Jiten Das's petition and for starting a case against them under Section 110, Cr.P.C. A\nPolice enquiry followed, but although the case under Section 110, Cr.P.C. was started on the 18th of\nAugust, 1919,. the Poli | Actions: forged, forged | Weapon: unknown | Outcome: death | IPC: 120, 420, 109, 110, 193, 209, 467, 114, 471, 210, 195, 415, 30",
+      "metadata": {
+        "case_name": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "120",
+          "420",
+          "109",
+          "110",
+          "193",
+          "209",
+          "467",
+          "114",
+          "471",
+          "210",
+          "195",
+          "415",
+          "30"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1923"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "it\nwould have to be seen in the first instance whether the ingredients required by\nSection 415, I.P.C., are present in the facts alleged against the accused. This has been scrutinized on behalf of the appellants for the purpose of showing\nthat the learned Judge misdirected the jury in that he did not draw the attention of the jury to the\nquestion as to whether the ingredients required by Section 415, I.P.C. In the view we take as\nregards the learned Additional Sessions Judge's charge on the question as to whether the\ningredients required by Section 415, I.P.C., are or are not present in the case on behalf of the\nprosecution. vs King-Emperor on 27 July, 1923\nIndian Kanoon - http://indiankanoon.org/doc/1676875/ 6\nlearned Additional Sessions Judge's charge to the jury can or cannot be assailed on the ground that\nhe had not put before the jury whether on the evidence adduced by the prosecution the ingredients\nrequired by Section 415, I.P.C., were satisfied.",
+      "embedding_text": "ISSUE_CHUNK | Case: Charu Chandra Ghose And Ors. vs King-Emperor on 27 July, | Legal issues: it\nwould have to be seen in the first instance whether the ingredients required by\nSection 415, I.P.C., are present in the facts alleged against the accused. This has been scrutinized on behalf of the appellants for the purpose of showing\nthat the learned Judge misdirected the jury in that he did not draw the attention of the jury to the\nquestion as to whether the ingredients required by Section 415, I.P.C. In the view we take as\nregards the learned Additional Sessions Judge's charge on the question as to whether the\ningredients required by Section 415, I.P.C., are or are not present in the case on behalf of the\nprosecution. vs King-Emperor on 27 July, 1923\nIndian Kanoon - http://indiankanoon.org/doc/1676875/ 6\nlearned Additional Sessions Judge's charge to the jury can or cannot be assailed on the ground that\nhe had not put before the jury whether on the evidence adduced by the prosecution the ingredients\nrequired by Section 415, I.P.C., were satisfied. | IPC: 120, 420, 109, 110, 193, 209, 467, 114, 471, 210, 195, 415, 30",
+      "metadata": {
+        "case_name": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "120",
+          "420",
+          "109",
+          "110",
+          "193",
+          "209",
+          "467",
+          "114",
+          "471",
+          "210",
+          "195",
+          "415",
+          "30"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1923"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "The appellants in appeal No. 408 were four persons named Charu Chandra Ghose, Akhoy Kumar\nRooj, Akhoy Kumar Pal and Jiban Chandra Roy alias Jiban Krishna Ray; the latter died after the\nappeal had been filed and at the present moment the appellants are the three first named persons. 409, the appellants are three in number, namely, Ganpat Pandey, Rajani Kant Samui\nand Charitar Muchi alias Ram Charitar Muchi. In his petition, the District Magistrate\nstatedi that Prabhu Ram Pandey was a veteran-litigant and a proclaimed \" tout\" in the District of\nBurdwan, and the said other four persons were his creatures and associates, and that all of themCharu Chandra Ghose And Ors. Judges to order execution of the decrees, so transmitted, (on the representation of\none or more of your party that the decree-holder was entitled to enforce his decrees with the\nassistance of the Court) in the execution cases aforesaid, to attach or seize or cause to be attached or\nseized the bodies or properties of the victim of the said conspiracy viz., the judgment-debtors\nconcerned in the said execution cases respectively or to sell or cause to be sold properties so\nattached or seized, by Court sale to one or more of your party, and thereby dishonestly induced them\nrespectively to deliver or to cause to be delivered possession of the properties so sold to one or more\nof your party as auction-purchasers at such sales or to deliver or cause to be delivered moneys\nrealised in such execution cases to one or more of your party as decree-holders, or to consent to the\nretention of properties so sold or moneys so delivered by one or more of your party as\ndecree-holders and you also deceived the Judges of Civil Courts who had decided the suits\nmentioned in Schedule C attached hereto and thereby dishonestly induced them or attempted to\ninduce them (respectively to give effect to the false defence set up knowingly by one of your party,\nand to make valuable securities (to wit decrees in such suits declaring that the plaintiff's in such\nsuits were not entitled to their respective lawful claims or part thereof) and there by committed an\noffence punishable under Sections 120-B, 420 of the Indian Penal Code, and within the cognizance\nof the Court of Sessions.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Charu Chandra Ghose And Ors. vs King-Emperor on 27 July, | Arguments: The appellants in appeal No. 408 were four persons named Charu Chandra Ghose, Akhoy Kumar\nRooj, Akhoy Kumar Pal and Jiban Chandra Roy alias Jiban Krishna Ray; the latter died after the\nappeal had been filed and at the present moment the appellants are the three first named persons. 409, the appellants are three in number, namely, Ganpat Pandey, Rajani Kant Samui\nand Charitar Muchi alias Ram Charitar Muchi. In his petition, the District Magistrate\nstatedi that Prabhu Ram Pandey was a veteran-litigant and a proclaimed \" tout\" in the District of\nBurdwan, and the said other four persons were his creatures and associates, and that all of themCharu Chandra Ghose And Ors. Judges to order execution of the decrees, so transmitted, (on the representation of\none or more of your party that the decree-holder was entitled to enforce his decrees with the\nassistance of the Court) in the execution cases aforesaid, to attach or seize or cause to be attached or\nseized the bodies or properties of the vict | Intent: intentional | IPC: 120, 420, 109, 110, 193, 209, 467, 114, 471, 210, 195, 415, 30 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "120",
+          "420",
+          "109",
+          "110",
+          "193",
+          "209",
+          "467",
+          "114",
+          "471",
+          "210",
+          "195",
+          "415",
+          "30"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1923"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "67) made an application before the District Magistrate of Burdwan, asking the\nlatter to take action against a number of persons who were in the habit of instituting false cases in\nthe Civil Courts against innocent persons. District Magistrate of Burdwan applied before the Munsif, first Court, at Burdwan,, for\nsanction to prosecute five persons named, Prabhu Ram Pandey, Charu Chandra Ghose, Akhay\nKumar Pal, Amrita Lal Samui and Upendra Nath Naik for offences under Sections 193, 209, 467/114\nand 471 and also under some of these sections read with Section 109 and also-under some of these\nsections read with Section 114 of the Indian Penal Code. On the 27th of January,\n1911, the accused Charu Chandra Ghose, instituted a Small Cause Court Suit No. 45 of 1911, in the\nCourt of the Subordinate Judge of Burdwan against Ram Dhyan on an alleged note of hand, dated\nthe 28th October, 1908. It is alleged, however, that\nNarain had left a daughter and, therefore, Eajani Kant Samui could on no account get the house of\nNarain. Eajani Kant Samui's case, however, was that Narain had died child-lass and that the house\nwas the stridhan property of Narain's mother, and therefore, in the usual course of things Narain's\nsister, Probhat Kumari, would be entitled to got the house.",
+      "embedding_text": "REASONING_CHUNK | Case: Charu Chandra Ghose And Ors. vs King-Emperor on 27 July, | Judicial reasoning: 67) made an application before the District Magistrate of Burdwan, asking the\nlatter to take action against a number of persons who were in the habit of instituting false cases in\nthe Civil Courts against innocent persons. District Magistrate of Burdwan applied before the Munsif, first Court, at Burdwan,, for\nsanction to prosecute five persons named, Prabhu Ram Pandey, Charu Chandra Ghose, Akhay\nKumar Pal, Amrita Lal Samui and Upendra Nath Naik for offences under Sections 193, 209, 467/114\nand 471 and also under some of these sections read with Section 109 and also-under some of these\nsections read with Section 114 of the Indian Penal Code. On the 27th of January,\n1911, the accused Charu Chandra Ghose, instituted a Small Cause Court Suit No. 45 of 1911, in the\nCourt of the Subordinate Judge of Burdwan against Ram Dhyan on an alleged note of hand, dated\nthe 28th October, 1908. It is alleged, however, that\nNarain had left a daughter and, therefore, Eajani Kant Samui could on no account g | Intent: intentional | Outcome: death | IPC: 120, 420, 109, 110, 193, 209, 467, 114, 471, 210, 195, 415, 30",
+      "metadata": {
+        "case_name": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "120",
+          "420",
+          "109",
+          "110",
+          "193",
+          "209",
+          "467",
+          "114",
+          "471",
+          "210",
+          "195",
+          "415",
+          "30"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1923"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The jury convicted the said\nseven persons and the learned Judge agreeing with the verdict of the jury, sentenced the said seven\npersons to various terms of imprisonment as under, viz., the accused Charu Chandra Ghose to three\nyears' rigorous imprisonment; the accused Akhoy Kumar Rooj and Jiban Chandra Roy to two years'\nrigorous imprisonment; the accused Akhoy Kumar Pal to one year's rigorous imprisonment; and ea\noh of the accused, Ganpat Pandey, Rajani Kant Samui and Charitar Muchi, to-one year's rigorous\nimprisonment. Section 420 of the Indian Penal Code runs as follows:\nWhoever cheats and thereby dishonestly induces the person deceived to deliver any\nproperty to any person or to make, alter or destroy the whole or any part of a valuable\nsecurity or anything which is signed or sealed and which is capable of being\nconverted into a valuable security shall be punishable with imprisonment of either\ndescription for a term which may extend to seven years, and shall also be liable to a\nfine. 14. As has been slated above, the prosecution made it clear before us that they did not rely upon the\nsecond part of Section 415, I.P.C. vs King-Emperor on 27 July, 1923\nIndian Kanoon - http://indiankanoon.org/doc/1676875/ 7\n415, I.P.C. If it were necessary to do so, we might point out that the charge as framed does not cover\na case coming within the second part of Section 415, I.P.C. an ok that the evidence adduced does not\nsatisfy the ingredients of the second part of Section 415, I.P.C. 15. The learned Additional Sessions Judge's charge to the jury is defective in that it omitted to point\nout to the jury the matters to which we have drawn attention; there was, therefore, misdirection of a\nvery, grave character, and in the circumstances, we are constrained to set aside the verdict of the\njury. We are satisfied that on no conceivable view of the matter could the case of the prosecution be\nbrought within the four corners of Section 415, I.P.C. It is\nnot to be understood, however, that the other grounds of Mr.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Charu Chandra Ghose And Ors. vs King-Emperor on 27 July, | Final judgment: The jury convicted the said\nseven persons and the learned Judge agreeing with the verdict of the jury, sentenced the said seven\npersons to various terms of imprisonment as under, viz., the accused Charu Chandra Ghose to three\nyears' rigorous imprisonment; the accused Akhoy Kumar Rooj and Jiban Chandra Roy to two years'\nrigorous imprisonment; the accused Akhoy Kumar Pal to one year's rigorous imprisonment; and ea\noh of the accused, Ganpat Pandey, Rajani Kant Samui and Charitar Muchi, to-one year's rigorous\nimprisonment. Section 420 of the Indian Penal Code runs as follows:\nWhoever cheats and thereby dishonestly induces the person deceived to deliver any\nproperty to any person or to make, alter or destroy the whole or any part of a valuable\nsecurity or anything which is signed or sealed and which is capable of being\nconverted into a valuable security shall be punishable with imprisonment of either\ndescription for a term which may extend to seven years, and shall also be liable to a\nfine. | Judgment: convicted | IPC: 120, 420, 109, 110, 193, 209, 467, 114, 471, 210, 195, 415, 30",
+      "metadata": {
+        "case_name": "Charu Chandra Ghose And Ors. vs King-Emperor on 27 July,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "120",
+          "420",
+          "109",
+          "110",
+          "193",
+          "209",
+          "467",
+          "114",
+          "471",
+          "210",
+          "195",
+          "415",
+          "30"
+        ],
+        "actions": [
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1923"
+      }
+    }
+  ]
+}

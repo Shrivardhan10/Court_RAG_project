@@ -1,0 +1,157 @@
+{
+  "case_id": "Hanumanram_And_Ors_vs_State_Of_Rajasthan_on_12_April_2001",
+  "case_name": "Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Hanumanram And Ors. 1. Mithu 304(1) IPC Seven years SI and a fine of Rs. 5.000/-, in default of payment of\nfine, to further undergo SI for one year. 325/1491PC Three years SI and a fine of Rs. 2.000/-, In default of payment of fine, to further\nundergo SI for one month, 323/149 IPC Six months SI and a fine of Rs. 500/-, in default of payment\nof fine, to further undergo 15 days SI. 148 IPC One year SI and a fine of Rs. 500/-, in default of payment of fine, to further undergo one\nmonth SI. 2,Likhmaram 304(1)/149 IPC Seven years SI and a fine of Rs. 5,000/-, in default of payment of fine,\nto further undergo one year Si. 325 IPC Three years SI and a fine Of Rs. 2,000/-, In default of payment of fine, to further undergo\none month SI. 323/149 IPC Six months SI and a Tine of Rs. 500/-, in default of payment of fine, lo further undergo\n15 days SI. 148 IPC One year SI and a Tine of Rs. 500/-, in default of payment of fine, to further undergo one\nmonth SI. 3. Hanumanram 304 CO/149 IPC Seven years SI and a fine of Rs. 5,000/-, in default of payment of\nfine, to further undergo one year SI. 4. Shravan\n5. ManguramHanumanram And Ors. Premaram 325/149 IPC Three years SI and a fine of Rs. 2,000/-, in default of payment of fine, to\nfurther undergo one month SI. 323/149 IPC Six months SI and a fine of Rs,500A, in default of payment of fine, to further undergo\n15 days S!. 148 IPC One year SI and fine of Rs. 500A, in default of payment of fine, lo further undergo one\nmonth SI. All the above substantive sentences were ordered to run concurrently. (2). The facts giving rise to this appeal, in short, are as follows:-\nOn 23.6.1992 at about 1.30 PM, PW1 Todaram lodged a written report Ex.P/1 before\nPW 17 Hanuman Singh, SHO, Police Station Maroth slating inter-alia that on that\nday at about 1.00 PM, he and other members of his family were sitting on the roof of\nhis house and were talking.",
+      "embedding_text": "FACT_CHUNK | Case: Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001 | Facts: Hanumanram And Ors. 1. Mithu 304(1) IPC Seven years SI and a fine of Rs. 5.000/-, in default of payment of\nfine, to further undergo SI for one year. 325/1491PC Three years SI and a fine of Rs. 2.000/-, In default of payment of fine, to further\nundergo SI for one month, 323/149 IPC Six months SI and a fine of Rs. 500/-, in default of payment\nof fine, to further undergo 15 days SI. 148 IPC One year SI and a fine of Rs. 500/-, in default of payment of fine, to further undergo one\nmonth SI. 2,Likhmaram 304(1)/149 IPC Seven years SI and a fine of Rs. 5,000/-, in default of payment of fine,\nto further undergo one year Si. 325 IPC Three years SI and a fine Of Rs. 2,000/-, In default of payment of fine, to further undergo\none month SI. 323/149 IPC Six months SI and a Tine of Rs. 500/-, in default of payment of fine, lo further undergo\n15 days SI. 148 IPC One year SI and a Tine of Rs. 500/-, in default of payment of fine, to further undergo one\nmonth SI. 3. Hanumanram 304 CO/149 IPC Seven years | Actions: none | Weapon: lathi | Outcome: death | IPC: 323, 149, 325, 326, 147, 148, 302, 304, 319, 141, 299, 300",
+      "metadata": {
+        "case_name": "Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "149",
+          "325",
+          "326",
+          "147",
+          "148",
+          "302",
+          "304",
+          "319",
+          "141",
+          "299",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2001"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Keeping the above principles in mind, it is to be seen whether conviction in the\nwhether Section 149 IPC has been rightly applied by the learned Addl. Now it is to be seen whether the present case is covered by Seclion 304 Part II IPC or not, as\n(76). Whenever, a Court is confronted with the question whether the offence is 'murder' or 'culpable\nhomicide not amounting to murder' on the facts of a case, it will be convenient for it to approach the\nproblems in three stages. The question to be considered at the first stage would be whether the\naccused has done an act by doing which he has caused the death of another. Proof of such casual\nconnection between the act of the accused and the death, lends to the second stage for considering\nwhether the act of the accused amounts to 'culpable homicide' as defined in Section 299. This is the stage at which the Court should determine\nwhether the facts proved by the prosecution bring the case within the ambit of any of the four\nclauses of the definition of 'murder' contained in Section 300. If the answer to this question is in the\nnegative the offence would be 'culpable homicide not amounting to murder', punishable under the\nfirst or the second part of Section 304, depending, respectively, on whether the second or the third\nclause of Section 299 is applicable.",
+      "embedding_text": "ISSUE_CHUNK | Case: Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001 | Legal issues: Keeping the above principles in mind, it is to be seen whether conviction in the\nwhether Section 149 IPC has been rightly applied by the learned Addl. Now it is to be seen whether the present case is covered by Seclion 304 Part II IPC or not, as\n(76). Whenever, a Court is confronted with the question whether the offence is 'murder' or 'culpable\nhomicide not amounting to murder' on the facts of a case, it will be convenient for it to approach the\nproblems in three stages. The question to be considered at the first stage would be whether the\naccused has done an act by doing which he has caused the death of another. Proof of such casual\nconnection between the act of the accused and the death, lends to the second stage for considering\nwhether the act of the accused amounts to 'culpable homicide' as defined in Section 299. This is the stage at which the Court should determine\nwhether the facts proved by the prosecution bring the case within the ambit of any of the four\nclauses of the defini | IPC: 323, 149, 325, 326, 147, 148, 302, 304, 319, 141, 299, 300",
+      "metadata": {
+        "case_name": "Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "149",
+          "325",
+          "326",
+          "147",
+          "148",
+          "302",
+          "304",
+          "319",
+          "141",
+          "299",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2001"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Rajasthan on 12 April, 2001\nEquivalent citations: 2000WLC(RAJ)UC376\nJUDGMENT\nGarg, J. This appeal has been preferred by the accused appellants against the judgment and order dated\n1.9.1998 passed by the learned Addl. vs State Of Rajasthan on 12 April, 2001\nIndian Kanoon - http://indiankanoon.org/doc/692856/ 1\n6. It is further stated in the report that PW9 Dularam and PW\n11 Ganeshram were sitting alongwith them, but they did not speak anything because\nof seeing so many accused persons. The accused appellants\nwere arrested on 4.7.1992 through arrest memos Ex.P/28 to Ex.P/32. After usual investigation, the police submitted challan against the accused appellants\nin the Court of Magistrate, from where the case was committed to the Court of\nSessions, MertaCity.Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001\nIndian Kanoon - http://indiankanoon.org/doc/692856/ 2\nOn 15.12.1992, the learned Sessions Judge framed charges for the offence under\nSections 147, 148, 302, 323/149, 325/149 and 325 or 326 1PC against accused\n325/149 or 326/1491PC against accused appellants Hanumanram, Shravan,\nManguram, Premaram and Likhmaram and charge for the offence under Section 325\nIPC was also framed against accused appellant Likhmaram. The charges were read\nover and explained to the accused appellants, who pleaded not guilty and claimed\ntrial. Thereafter, the statement of the accused\nproduced and many documents were got exhibited by the accused appellants. That the prosecution has proved its case beyond reasonable doubt for the offence\nunder Sections 304 Part-1, 325/149, 323/149 and 148 IPC against the accused\n148 IPC against accused appellant Likhmaram and for the offence under Sections\n304(1)/149, 325/149, 323/149 and 148 IPC against accused appellants Hanumanram,\nShravan Manguram and Premaram. Sessions\nJudge, Parbatsar, this appeal has been filed by the accused appellants. In this appeal, the following submissions have been raised by the learned counsel for the\naccused appellants:\n1. vs State Of Rajasthan on 12 April, 2001\nIndian Kanoon - http://indiankanoon.org/doc/692856/ 3\naccused appellants have a right of private defence both of properly and person. That complainant party has implicated in the report Ex.P/1, as many as 15 persons\nand police filed challan against only six accused appellants and, thereafter, the\ncomplainant party presented an application under Section 319 Cr.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001 | Arguments: vs State Of Rajasthan on 12 April, 2001\nEquivalent citations: 2000WLC(RAJ)UC376\nJUDGMENT\nGarg, J. This appeal has been preferred by the accused appellants against the judgment and order dated\n1.9.1998 passed by the learned Addl. vs State Of Rajasthan on 12 April, 2001\nIndian Kanoon - http://indiankanoon.org/doc/692856/ 1\n6. It is further stated in the report that PW9 Dularam and PW\n11 Ganeshram were sitting alongwith them, but they did not speak anything because\nof seeing so many accused persons. The accused appellants\nwere arrested on 4.7.1992 through arrest memos Ex.P/28 to Ex.P/32. After usual investigation, the police submitted challan against the accused appellants\nin the Court of Magistrate, from where the case was committed to the Court of\nSessions, MertaCity.Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001\nIndian Kanoon - http://indiankanoon.org/doc/692856/ 2\nOn 15.12.1992, the learned Sessions Judge framed charges for the offence under\nSections 147, 148, 302, 323/14 | Intent: intentional | IPC: 323, 149, 325, 326, 147, 148, 302, 304, 319, 141, 299, 300 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "149",
+          "325",
+          "326",
+          "147",
+          "148",
+          "302",
+          "304",
+          "319",
+          "141",
+          "299",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2001"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Thereafter, me case was transferred to the Court of Addl. That accused appellants have been falsely implicated by the complainant party as\nthere was a dispute over the property as complainant party had illegally taken the\npossession of the property belonging to the accused appellant Hanuman and when\naccused parly tried to take the possession, this incident took place and thus, allHanumanram And Ors. for\nimplicating rest accused persons, but this Court quashed the order of the trial court,\nby which cognizance was taken against other accused persons. Furthermore, since out of six accused appellants, three accused appellants,\nnamely, Shravam, Likhmaram and Mithu also received injuries and there is a cross\nFIR also and on the basis of which, challan was also filed against the complainant\nparty, thus, it cannot be said that accused appellant were members of unlawful\nassembly and it is at the most a case of free fight and thus, Section 149 IPC is not\napplicable in the present case. That since it is a case of free fight, therefore, at the most, each accused appellant\nwould be liable for the individual injury caused by him and not for the injuries caused\nby others. Thus, from Ex.P/6 post mortem report, it appears that the cause of death of deceased\nHardevaram was coma as a result of ante mortem head injury and therefore, his death was\nhomicidal in nature and he has received injuries and injury No.3 was sufficient in the ordinary\ncourse of nature to cause death. Hence, the findings of the learned Addl. Thus, it is clear that Sitaram, PW 6 received as many as five injuries, which were found to be\nsimple in nature and caused by blunt object. Thus, it is clear that injured Bholki, PW2 received three injuries, which were found to be simple\nin nature and caused by blunt object. Thus, it is clear that injured Sarju, PW3 received three injuries, which were found to be simple\nin nature and caused by blunt object. Thus, it is clear that injured Todaram, PW 1 received four injuries, out of which, injury No.2\nwas found to be grevious one and remaining injuries were found to be simple in nature and they, all\nwere caused by blunt object.",
+      "embedding_text": "REASONING_CHUNK | Case: Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001 | Judicial reasoning: Thereafter, me case was transferred to the Court of Addl. That accused appellants have been falsely implicated by the complainant party as\nthere was a dispute over the property as complainant party had illegally taken the\npossession of the property belonging to the accused appellant Hanuman and when\naccused parly tried to take the possession, this incident took place and thus, allHanumanram And Ors. for\nimplicating rest accused persons, but this Court quashed the order of the trial court,\nby which cognizance was taken against other accused persons. Furthermore, since out of six accused appellants, three accused appellants,\nnamely, Shravam, Likhmaram and Mithu also received injuries and there is a cross\nFIR also and on the basis of which, challan was also filed against the complainant\nparty, thus, it cannot be said that accused appellant were members of unlawful\nassembly and it is at the most a case of free fight and thus, Section 149 IPC is not\napplicable in the present case. That sinc | Intent: intentional | Outcome: death | IPC: 323, 149, 325, 326, 147, 148, 302, 304, 319, 141, 299, 300",
+      "metadata": {
+        "case_name": "Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "149",
+          "325",
+          "326",
+          "147",
+          "148",
+          "302",
+          "304",
+          "319",
+          "141",
+          "299",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2001"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Sessions Judge, Parbatsar by which he convicted and\nsentenced the accused appellants in the following manner:-\nName of accused appellants Convicted under/Section Sentence awarded\n1. Sessions Judge, Parbatsar through his\njudgment and order dated 1.9.1998 convicted and sentenced the accused appellants\nin the manner as stated above holding inter-alia:-\n1. Sessions Judge came to the conclusion that injury on the\nhead of the deceased was caused by accused appellant Mithuram and, therefore, he\nconvicted him under Section 304 Part-1 IPC and rest accused appellants were\nconvicted with the aid of Section 149 IPC for the death of the deceased. Hence, it is prayed that this appeal be allowed and the accused appellants be acquitted of the\ncharges framed against them. The accused in\nsuch a case can be convicted only for the injuries caused by him by his individual\nacts. That order of the learned Sessions Judge was set aside by this Court vide order datedHanumanram And Ors. (2) That there can be no question of invoking the provisions of Section 148 IPC and\naid of Section 149 IPC for the purpose of imposing constructive criminal liability on\naccused and each accused has to be convicted for the injuries caused by him by his\nindividual acts. Sessions Judge\nconvicting the accused appellants for the offence under Section 148 IPC and with the\naid of Seclion 149 IPC are liable to be set aside and each accused appellant would be\nconvicled for the injuries caused by him by his individual acts. For causing that\nhead injury to deceased, the accused appellant Mithuram has been convicted under Section 304\nPart-I IPC by the learned Addl. Sessions Judge has rightly convicted the accused appellant Mithuram for\nthe offence under Section 304 Part-I IPC. For causing this grevious injury to PW1 Todaram, the accused appellant Mithuram is\nliable to be convicted for the offence under Section 325 IPC. For the reasons stated above, the accused appellant Mithuram was rightly, convicted by the\nlearned Addl. Sessions Judge for the offence under Section 304 Part-I IPC for causing death of the\ndeceased Hardevaram and he is also liable to be convicted for the offence under Section 325 IPC forHanumanram And Ors.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001 | Final judgment: Sessions Judge, Parbatsar by which he convicted and\nsentenced the accused appellants in the following manner:-\nName of accused appellants Convicted under/Section Sentence awarded\n1. Sessions Judge, Parbatsar through his\njudgment and order dated 1.9.1998 convicted and sentenced the accused appellants\nin the manner as stated above holding inter-alia:-\n1. Sessions Judge came to the conclusion that injury on the\nhead of the deceased was caused by accused appellant Mithuram and, therefore, he\nconvicted him under Section 304 Part-1 IPC and rest accused appellants were\nconvicted with the aid of Section 149 IPC for the death of the deceased. Hence, it is prayed that this appeal be allowed and the accused appellants be acquitted of the\ncharges framed against them. The accused in\nsuch a case can be convicted only for the injuries caused by him by his individual\nacts. That order of the learned Sessions Judge was set aside by this Court vide order datedHanumanram And Ors. (2) That there can be no  | Judgment: convicted | IPC: 323, 149, 325, 326, 147, 148, 302, 304, 319, 141, 299, 300",
+      "metadata": {
+        "case_name": "Hanumanram And Ors. vs State Of Rajasthan on 12 April, 2001",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "149",
+          "325",
+          "326",
+          "147",
+          "148",
+          "302",
+          "304",
+          "319",
+          "141",
+          "299",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "lathi",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Supreme Court",
+        "year": "2001"
+      }
+    }
+  ]
+}

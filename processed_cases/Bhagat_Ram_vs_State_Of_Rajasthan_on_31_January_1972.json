@@ -1,0 +1,177 @@
+{
+  "case_id": "Bhagat_Ram_vs_State_Of_Rajasthan_on_31_January_1972",
+  "case_name": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Shelat\nBHAGAT RAM\nVs. upheld-\nDifference of opinion with respect to offence under s. 161\nI.P.C.-Reference to third Judge-Jurisdiction of third Judge\nto reopen entire matter. HEADNOTE:\nAn Inspector of Police was charged with offenses under ss. 120B, 161, 218, 347 and 389 I.P.C. and also under s. 5(1)\n(a) read with s. 120B and 165A, I.P.C. 120B, 218, 349 and 389, I.P.C., but with respect to\noffenses under s. 161, I.P.C. and s. 5(1) (a) of the\nPrevention of Corruption Act, the two Judges differed and\nthe matter was referred to a third Judge. The third Judge\nheld that the Inspector was guilty of the offenses under s. 161 and also under ss. 120B. 218 and 347 I.P.C. 1310 H]\n(2) It was not permissible for the third Judge to reopen the\nmatter and. convict the Inspector for offenses under ss. 120B, 347 and 389 I.P.C., because it was not a case where\nthe entire matter had been left open for the opinion of the\nthird Judge. The difference of opinion between the two\nJudges was only with respect to the offenses under s. 161\nI.P.C. and s. 5(1)(a) of the Prevention of Corruption Act\nand the third Judge could only go into that aspect of the\nmatter. [309 B-D]\nThe Division Bench had upheld the acquittal of the Inspector\nof Police for offenses under ss. That order. The principle of res\njudicata is also applicable to criminal proceedings and it\nis not permissible in the subsequent stage of the same\nproceedings or in some other subsequent proceedings to\nconvict a person for an offence in respect of which an order\nfor his acquittal has already been recorded. [309 F-H]\nPritam Singh v. A.I.R. 415,\nfollowed. 120B I.P.C. the basis of the charge against the\nInspector for conspiracy 7-LS879-jp. Cl/72\n304\nbetween him and the second accused disappeared. It was not\nthe case ,of the prosecution that he had conspired with\nsome other person whose identity had not been established. [310 E-F]\nIn view of the acquittal of the second accused it is also\nnot possible to maintain the conviction of the Inspector\nunder s.",
+      "embedding_text": "FACT_CHUNK | Case: Bhagat Ram vs State Of Rajasthan on 31 January, 1972 | Facts: Shelat\nBHAGAT RAM\nVs. upheld-\nDifference of opinion with respect to offence under s. 161\nI.P.C.-Reference to third Judge-Jurisdiction of third Judge\nto reopen entire matter. HEADNOTE:\nAn Inspector of Police was charged with offenses under ss. 120B, 161, 218, 347 and 389 I.P.C. and also under s. 5(1)\n(a) read with s. 120B and 165A, I.P.C. 120B, 218, 349 and 389, I.P.C., but with respect to\noffenses under s. 161, I.P.C. and s. 5(1) (a) of the\nPrevention of Corruption Act, the two Judges differed and\nthe matter was referred to a third Judge. The third Judge\nheld that the Inspector was guilty of the offenses under s. 161 and also under ss. 120B. 218 and 347 I.P.C. 1310 H]\n(2) It was not permissible for the third Judge to reopen the\nmatter and. convict the Inspector for offenses under ss. 120B, 347 and 389 I.P.C., because it was not a case where\nthe entire matter had been left open for the opinion of the\nthird Judge. The difference of opinion between the two\nJudges was only with respect to  | Actions: embezzled, misappropriated | Weapon: unknown | Outcome: death | IPC: 120B, 161, 218, 347, 389, 5, 165A, 429, 120A, 408, 420, 342, 403",
+      "metadata": {
+        "case_name": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "120B",
+          "161",
+          "218",
+          "347",
+          "389",
+          "5",
+          "165A",
+          "429",
+          "120A",
+          "408",
+          "420",
+          "342",
+          "403"
+        ],
+        "actions": [
+          "embezzled",
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1972"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "There was, however, a difference of opinion between the\ntwo learned judges on the point as to whether the acquittal of Bhagat Rain for offenses under section\n161 IPC and 5(1) (a) of Prevention of Corruption Act should be maintained. The telegram had been addressed by Bhagat Ram to Ram Swaroop and it was stated therein that\nRam Swaroop should ask Niranjan Dass to see Bhagat Ram and that otherwise , warrants of arrest\nwould be issued against him.This telegram too was kept by Niranjan Dass, with himself. Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nCOURT 1502, 1974 (1) SCJ 47, 1974 MADLJ(CRI) 48, 1972 3 SCR 303\nAuthor: Hans Raj Khanna\nBench: Hans Raj Khanna, J.M.",
+      "embedding_text": "ISSUE_CHUNK | Case: Bhagat Ram vs State Of Rajasthan on 31 January, 1972 | Legal issues: There was, however, a difference of opinion between the\ntwo learned judges on the point as to whether the acquittal of Bhagat Rain for offenses under section\n161 IPC and 5(1) (a) of Prevention of Corruption Act should be maintained. The telegram had been addressed by Bhagat Ram to Ram Swaroop and it was stated therein that\nRam Swaroop should ask Niranjan Dass to see Bhagat Ram and that otherwise , warrants of arrest\nwould be issued against him.This telegram too was kept by Niranjan Dass, with himself. Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nCOURT 1502, 1974 (1) SCJ 47, 1974 MADLJ(CRI) 48, 1972 3 SCR 303\nAuthor: Hans Raj Khanna\nBench: Hans Raj Khanna, J.M. | IPC: 120B, 161, 218, 347, 389, 5, 165A, 429, 120A, 408, 420, 342, 403",
+      "metadata": {
+        "case_name": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "120B",
+          "161",
+          "218",
+          "347",
+          "389",
+          "5",
+          "165A",
+          "429",
+          "120A",
+          "408",
+          "420",
+          "342",
+          "403"
+        ],
+        "actions": [
+          "embezzled",
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1972"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nCOURT 1502, 1974 (1) SCJ 47, 1974 MADLJ(CRI) 48, 1972 3 SCR 303\nAuthor: Hans Raj Khanna\nBench: Hans Raj Khanna, J.M. STATE OF RAJASTHAN\nDATE OF JUDGMENT31/01/1972\nBENCH:\nKHANNA, HANS RAJ\nBENCH:\nKHANNA, HANS RAJ\nSHELAT, J.M. 5(2) of the Prevention of Corruption Act.Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nIndian Kanoon - http://indiankanoon.org/doc/1287844/ 1\nAnother accused was charged along with him for offenses\nunder ss. In appeal to this Court by the Inspector and by the State\nagainst the acquittal of the second accused,\nHELD : (1) As regards the second accused there was nothing\nto justify an interference with his acquittal. 120B, 347 and 389 and the\nState appeal in that respect had been dismissed by the\nDivision Bench. State of Punjab, 1956 S.C. [311 B-C]Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nIndian Kanoon - http://indiankanoon.org/doc/1287844/ 2\nJUDGMENT:\nCRIMINAL APPELLATE JURISDICTION: Criminal Appeals Nos. Chari and Sobhagmal Jain, for the appellant (in, Cr. Mehta for the respondent (in Cr. Parekh, for the respondent (in Cr. State of Rajasthan and criminal appeal No. 262 of 1970 State\nof Rajasthan v. The State of Rajasthan filed an appeal against the acquittal\nof the two accused. The appeal of\nthe State against Bhagat Ram in so far as it related to his acquittal for offenses under sections 347,\n218, 389 and 120B IPC was also dismissed. According to Tyagi, J.,\nthe case against Bhagat Ram for the above mentioned two offenses had not been proved and the\nState appeal in that respect also was liable to be dismissed. came to the conclusion that the material on record showed that Ram SwaroopBhagat Ram vs State Of Rajasthan on 31 January, 1972\nIndian Kanoon - http://indiankanoon.org/doc/1287844/ 3\nand Bhagat Ram had entered into an agreement to extort bribe, from Niranjan Dass and, as such,\nwere guilty of an offence under section 120A punishable under section 120B of Indian Penal Code. 36 of 1969 against his conviction and sentence,\nwhile the State of Rajasthan has filed appeal No.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Bhagat Ram vs State Of Rajasthan on 31 January, 1972 | Arguments: Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nCOURT 1502, 1974 (1) SCJ 47, 1974 MADLJ(CRI) 48, 1972 3 SCR 303\nAuthor: Hans Raj Khanna\nBench: Hans Raj Khanna, J.M. STATE OF RAJASTHAN\nDATE OF JUDGMENT31/01/1972\nBENCH:\nKHANNA, HANS RAJ\nBENCH:\nKHANNA, HANS RAJ\nSHELAT, J.M. 5(2) of the Prevention of Corruption Act.Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nIndian Kanoon - http://indiankanoon.org/doc/1287844/ 1\nAnother accused was charged along with him for offenses\nunder ss. In appeal to this Court by the Inspector and by the State\nagainst the acquittal of the second accused,\nHELD : (1) As regards the second accused there was nothing\nto justify an interference with his acquittal. 120B, 347 and 389 and the\nState appeal in that respect had been dismissed by the\nDivision Bench. State of Punjab, 1956 S.C. [311 B-C]Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nIndian Kanoon - http://indiankanoon.org/doc/1287844/ 2\nJUDGMENT:\nCRIMINAL APPELLATE JURISDICTION: Criminal Appeal | Intent: unknown | IPC: 120B, 161, 218, 347, 389, 5, 165A, 429, 120A, 408, 420, 342, 403 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "120B",
+          "161",
+          "218",
+          "347",
+          "389",
+          "5",
+          "165A",
+          "429",
+          "120A",
+          "408",
+          "420",
+          "342",
+          "403"
+        ],
+        "actions": [
+          "embezzled",
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1972"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "in appeal to the High Court a Bench of two\njudges confirmed the acquittal of the second accused and the\nacquittal of the Inspector with respect to offenses under\nss. Appeal from the judgment and order dated January 17, 1969 of the Rajasthan High Court in D.B. The Judgment of the Court was delivered by Khanna, J. Both the appeals have been filed on certificate granted by the\nRajasthan High Court. Both Bhagat Ram and Ram Swaroop were tried in the court of special judge, Ganga-\nnagar for offenses under section 120B IPC for conspiring to ,extort bribe of Rs. Bhagat Ram, therefore. We are, therefore, of the opinion that the\njudgment of Jagat Narayan, J. So far as the State appeal against the\nacquittal of Rain Swaroop is concerned, we find that there are concurrent findings of\nthe trial court and the High Court that the evidence on record had failed to prove that\nhe was guilty of offenses under sections 120B and 165A IPC. We are, therefore, of the view that the State appeal against the\nacquittal of Ram Swaroop is liable to be dismissed. As regards the conviction of Bhagat Ram for the offence under section 161 IPC, we find that it is not\nthe prosecution case that Bhagat Ram had made any demand directly to Niranjan Dass for payment\nof illegal gratification. On the contrary, the High Court found that Bhagat Ram had not demanded\nbribe directly from Niranjan Dass.",
+      "embedding_text": "REASONING_CHUNK | Case: Bhagat Ram vs State Of Rajasthan on 31 January, 1972 | Judicial reasoning: in appeal to the High Court a Bench of two\njudges confirmed the acquittal of the second accused and the\nacquittal of the Inspector with respect to offenses under\nss. Appeal from the judgment and order dated January 17, 1969 of the Rajasthan High Court in D.B. The Judgment of the Court was delivered by Khanna, J. Both the appeals have been filed on certificate granted by the\nRajasthan High Court. Both Bhagat Ram and Ram Swaroop were tried in the court of special judge, Ganga-\nnagar for offenses under section 120B IPC for conspiring to ,extort bribe of Rs. Bhagat Ram, therefore. We are, therefore, of the opinion that the\njudgment of Jagat Narayan, J. So far as the State appeal against the\nacquittal of Rain Swaroop is concerned, we find that there are concurrent findings of\nthe trial court and the High Court that the evidence on record had failed to prove that\nhe was guilty of offenses under sections 120B and 165A IPC. We are, therefore, of the view that the State appeal against the\nacqui | Intent: unknown | Outcome: death | IPC: 120B, 161, 218, 347, 389, 5, 165A, 429, 120A, 408, 420, 342, 403",
+      "metadata": {
+        "case_name": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "120B",
+          "161",
+          "218",
+          "347",
+          "389",
+          "5",
+          "165A",
+          "429",
+          "120A",
+          "408",
+          "420",
+          "342",
+          "403"
+        ],
+        "actions": [
+          "embezzled",
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1972"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "CITATION:\nCITATOR INFO :\nR 1973 SC2131 (13)\nR 1980 SC 301 (4)\nRF 1981 SC 365 (2,3)\nR 1988 SC1531 (189)\nACT:\nCriminal Law-Practice and Procedure-Two accused charged with\noffenses for conspiracy and other offences-Acquitted by\ntrial court Appeal heard by two Judges-Acquittal of one\naccused and the other of offenses of conspiracy etc. The trial court acquitted\nboth the accused. unless set aside in appeal to\nthis Court, was binding and conclusive in all subsequent\nproceedings between the parties. Further when the second accused was acquitted of the charge\nunder s. Both Bhagat Ram and Ram Swaroop were acquitted by the special judge,\nGanganagar in respect of all the charges. As regards Bhagat Ram, the learned judge came to the\nconclusion that he could set aside the acquittal of Bhagat Ram for offenses under sections 120B, 218\nand 347 IPC. For the offence under section 161 IPC, Bhagat Ram was sentenced to undergo\nrigorous imprisonment for a period of one year and to pay a fine of Rs. 5001- or in default to\nundergo rigorous imprisonment for a further period of three months. For the offenses under\nsections 218 and 347 IPC, Bhagat Ram was sentenced to undergo rigorous imprisonment for a\nperiod of one year on each count. As regards the words \"that thing\", Bhagat Ram stated that they\nreferred to the embezzled amount which had been retained by Niranjan Dass.Bhagat Ram vs State Of Rajasthan on 31 January, 1972\nIndian Kanoon - http://indiankanoon.org/doc/1287844/ 5\nThe trial court, as stated earlier, acquitted both the accused, while the High Court maintained the\nacquittal of Ram Swaroop. On the matter being referred to the third judge, Bhagat Ram was convicted and sentenced as above. It would appear from the\nresume of facts given above that both Bhagat Ram and Ram Swaroop were acquitted by the spe- cial\njudge. The order of the Division Bench unless set aside in appeal to this Court,\nwas binding and conclusive in all subsequent proceedings between the parties. Public Prosecutor, Federal of Malaya(1), Lord MacDermott observed:\n\"The effect of a verdict of acquittal pronounced by a competent Court on a lawful\ncharge and after a lawful trial is not completely stated by saying that the person\nacquitted cannot be tried again for the same offence.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Bhagat Ram vs State Of Rajasthan on 31 January, 1972 | Final judgment: CITATION:\nCITATOR INFO :\nR 1973 SC2131 (13)\nR 1980 SC 301 (4)\nRF 1981 SC 365 (2,3)\nR 1988 SC1531 (189)\nACT:\nCriminal Law-Practice and Procedure-Two accused charged with\noffenses for conspiracy and other offences-Acquitted by\ntrial court Appeal heard by two Judges-Acquittal of one\naccused and the other of offenses of conspiracy etc. The trial court acquitted\nboth the accused. unless set aside in appeal to\nthis Court, was binding and conclusive in all subsequent\nproceedings between the parties. Further when the second accused was acquitted of the charge\nunder s. Both Bhagat Ram and Ram Swaroop were acquitted by the special judge,\nGanganagar in respect of all the charges. As regards Bhagat Ram, the learned judge came to the\nconclusion that he could set aside the acquittal of Bhagat Ram for offenses under sections 120B, 218\nand 347 IPC. For the offence under section 161 IPC, Bhagat Ram was sentenced to undergo\nrigorous imprisonment for a period of one year and to pay a fine of Rs. 5001- or | Judgment: convicted | IPC: 120B, 161, 218, 347, 389, 5, 165A, 429, 120A, 408, 420, 342, 403",
+      "metadata": {
+        "case_name": "Bhagat Ram vs State Of Rajasthan on 31 January, 1972",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "120B",
+          "161",
+          "218",
+          "347",
+          "389",
+          "5",
+          "165A",
+          "429",
+          "120A",
+          "408",
+          "420",
+          "342",
+          "403"
+        ],
+        "actions": [
+          "embezzled",
+          "misappropriated"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1972"
+      }
+    }
+  ]
+}

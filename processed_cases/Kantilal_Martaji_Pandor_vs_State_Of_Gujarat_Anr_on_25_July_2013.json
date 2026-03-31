@@ -1,0 +1,152 @@
+{
+  "case_id": "Kantilal_Martaji_Pandor_vs_State_Of_Gujarat_Anr_on_25_July_2013",
+  "case_name": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "K. Patnaik\nBench: Sudhansu Jyoti Mukhopadhaya, A. K. ….. K. PATNAIK, J. FACTS\n2. The facts very briefly are that the appellant was married to Laxmiben in 1980. from each other. A daughter was born to Amriben in 1991. On 26.03.1992, a letter written by Amriben was received in Shamlaji Police\nStation. Timothibhai, to take seat on the scooter with him and as a\nresult Amriben had to walk along with Lilavatiben, who was holding her little daughter, to the bus\nstand. On 27.03.1992, early in the morning, the\nhad jumped into the well and had died. 3. A post mortem on the dead body of Amriben (for short ‘the deceased’) was conducted on\n28.03.1992 at 2.30 p.m. and the cause of the death was found to be drowning. Subsequently, however, on 03.04.1992 an FIR\nwas registered by Shamlaji Police Station under Sections 498A and 306 of the Indian Penal Code\n(for short ‘the IPC’) in view of the allegations made by the deceased in her letter dated 26.03.1992 to\nthe police station. 4. At the trial, amongst other witnesses examined on behalf of the prosecution, Ms. Timothibhai,\nPrincipal of the school, was examined as PW-1, the doctor who carried out the post mortem was\nexamined as PW-2, the mother of the deceased was examined as PW-3, Lilavatiben, co-teacher of\ndeceased was examined as PW-4 and the Investigating Officer was examined as PW-10. She submitted that the statements of\nthe deceased in the letter of the deceased to the Police Station (Ext.10) were not proof of the acts or\nconduct of the appellant in the letter and in any case these acts or conduct of the appellant did not\namount to cruelty within the meaning of clauses (a) or (b) of the Explanation under Section 498A,\nIPC. 6. Ms. Bhati submitted that the evidence of PW-3, the mother of the deceased, would show that\nwhen the deceased was carrying the child, PW-3 had been to see the deceased and she did not find\nthat the deceased had any food problem.",
+      "embedding_text": "FACT_CHUNK | Case: Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, | Facts: K. Patnaik\nBench: Sudhansu Jyoti Mukhopadhaya, A. K. ….. K. PATNAIK, J. FACTS\n2. The facts very briefly are that the appellant was married to Laxmiben in 1980. from each other. A daughter was born to Amriben in 1991. On 26.03.1992, a letter written by Amriben was received in Shamlaji Police\nStation. Timothibhai, to take seat on the scooter with him and as a\nresult Amriben had to walk along with Lilavatiben, who was holding her little daughter, to the bus\nstand. On 27.03.1992, early in the morning, the\nhad jumped into the well and had died. 3. A post mortem on the dead body of Amriben (for short ‘the deceased’) was conducted on\n28.03.1992 at 2.30 p.m. and the cause of the death was found to be drowning. Subsequently, however, on 03.04.1992 an FIR\nwas registered by Shamlaji Police Station under Sections 498A and 306 of the Indian Penal Code\n(for short ‘the IPC’) in view of the allegations made by the deceased in her letter dated 26.03.1992 to\nthe police station. 4. At the trial, amongst  | Actions: killed, cheated, kidnapped, threatened, cruelty | Weapon: unknown | Outcome: death | IPC: 174, 498A, 306, 498, 32",
+      "metadata": {
+        "case_name": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "174",
+          "498A",
+          "306",
+          "498",
+          "32"
+        ],
+        "actions": [
+          "killed",
+          "cheated",
+          "kidnapped",
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "On 26.03.1992 in the\nafternoon, the appellant came to the school of Amriben and enquired from the Principal of the\nschool and the teacher of Amriben as to whether Amriben had made a complaint to the Police\nStation. Explanation.- For the purposes of this section, \"cruelty\" means-\n(a) any wilful conduct which is of such a nature as is likely to drive the woman to\ncommit suicide or to cause grave injury or danger to life, limb or health (whether\nmental or physical) of the woman; or\n(b) harassment of the woman where such harassment is with a view to coercing her\nor any person related to her to meet any unlawful demand for any property or\nvaluable security or is on account of failure by her or any person related to her to\nmeet such demand.”\n10. The second limb of clause (a) of the Explanation of Section 498A, IPC, states that cruelty means\nany wilful conduct which is of such a nature as to cause grave injury or danger to life, limb or health\n(whether mental or physical) of the woman. This Court found that apart from the\nstatement attributed to the deceased, none of the witnesses had spoken of anything which they had\nseen directly and the question that this Court had to decide was whether the statement attributed to\nthe deceased could be used as evidence including the contents of Exts.P-7 and P-8 and this Court\nheld that the contents of Exts. Even that apart, when we are dealing with an offence under\nSection 498-A IPC disjuncted from the offence under Section 306 IPC the question of\nher death is not an issue for consideration and on that premise also Section 32(1) of\nthe Evidence Act will stand at bay so far as these materials are concerned.",
+      "embedding_text": "ISSUE_CHUNK | Case: Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, | Legal issues: On 26.03.1992 in the\nafternoon, the appellant came to the school of Amriben and enquired from the Principal of the\nschool and the teacher of Amriben as to whether Amriben had made a complaint to the Police\nStation. Explanation.- For the purposes of this section, \"cruelty\" means-\n(a) any wilful conduct which is of such a nature as is likely to drive the woman to\ncommit suicide or to cause grave injury or danger to life, limb or health (whether\nmental or physical) of the woman; or\n(b) harassment of the woman where such harassment is with a view to coercing her\nor any person related to her to meet any unlawful demand for any property or\nvaluable security or is on account of failure by her or any person related to her to\nmeet such demand.”\n10. The second limb of clause (a) of the Explanation of Section 498A, IPC, states that cruelty means\nany wilful conduct which is of such a nature as to cause grave injury or danger to life, limb or health\n(whether mental or physical) of the woman. This C | IPC: 174, 498A, 306, 498, 32",
+      "metadata": {
+        "case_name": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "174",
+          "498A",
+          "306",
+          "498",
+          "32"
+        ],
+        "actions": [
+          "killed",
+          "cheated",
+          "kidnapped",
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,\n2013\n2013 AIR SCW 4449, AIR 2013 SC (CRIMINAL) 1927, 2013 (4) AJR 502, 2013\nALL MR(CRI) 3327, 2013 CRILR(SC MAH GUJ) 949, 2014 CALCRILR 1 119,\n2013 (9) SCALE 560, (2014) 1 MARRILJ 356, (2014) 1 ORISSA LR 174, (2014) 1\nGUJ LR 516, 2013 (3) RECCIVR 936, (2013) 4 MH LJ (CRI) 512, (2013) 3\nCRILR(RAJ) 949, (2013) 4 ALLCRILR 634, (2013) 3 CHANDCRIC 21, 2013\nCRILR(SC&MP) 949, (2013) 3 RECCRIR 936, (2013) 9 SCALE 560, (2013) 3\nDLT(CRL) 927, (2013) 3 DMC 281, (2013) 56 OCR 476, (2013) 3 CURCRIR 416,\n(2013) 4 CRIMES 22\nAuthor: A. 1567 of 2007\nKantilal Martaji Pandor …… Appellant\nVersus\nState of Gujarat & Anr. Respondents\nJ U D G M E N T\nA. The appellant, who\nwas a teacher, used to travel in a bus along with Amriben, who was also a teacher, for their work in\ntheir respective schools located at a distance of 2 kms. The appellant and AmribenKantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, 2013\nIndian Kanoon - http://indiankanoon.org/doc/118992883/ 1\nfell in love and got married in 1990. The appellant,\nLaxmiben and Amriben were living together in different portions of one house of the appellant in\nvillage Dhuleta Palla. In this letter, Amriben alleged inter alia that the appellant was more interested in money\nand not in love and he had threatened and kidnapped her, although he had a wife and three children\nand the appellant had cheated her and persuaded her to have civil marriage on 21.08.1990. She\nfurther alleged in the letter that after marriage the appellant’s family was living on her salary and\nthe appellant had started torturing her to a limit which was no longer tolerable by her and she was\nalso not given meals and the appellant was threatening to kill her and for all this the appellant and\nhis first wife Laxmiben and his other family members were involved. That evening, the appellant who usually took Amriben back from her school instead\nrequested the Principal of her school, Ms.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, | Arguments: Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,\n2013\n2013 AIR SCW 4449, AIR 2013 SC (CRIMINAL) 1927, 2013 (4) AJR 502, 2013\nALL MR(CRI) 3327, 2013 CRILR(SC MAH GUJ) 949, 2014 CALCRILR 1 119,\n2013 (9) SCALE 560, (2014) 1 MARRILJ 356, (2014) 1 ORISSA LR 174, (2014) 1\nGUJ LR 516, 2013 (3) RECCIVR 936, (2013) 4 MH LJ (CRI) 512, (2013) 3\nCRILR(RAJ) 949, (2013) 4 ALLCRILR 634, (2013) 3 CHANDCRIC 21, 2013\nCRILR(SC&MP) 949, (2013) 3 RECCRIR 936, (2013) 9 SCALE 560, (2013) 3\nDLT(CRL) 927, (2013) 3 DMC 281, (2013) 56 OCR 476, (2013) 3 CURCRIR 416,\n(2013) 4 CRIMES 22\nAuthor: A. 1567 of 2007\nKantilal Martaji Pandor …… Appellant\nVersus\nState of Gujarat & Anr. Respondents\nJ U D G M E N T\nA. The appellant, who\nwas a teacher, used to travel in a bus along with Amriben, who was also a teacher, for their work in\ntheir respective schools located at a distance of 2 kms. The appellant and AmribenKantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, 2013\nIndian Kanoon - http://indianka | Intent: intentional | IPC: 174, 498A, 306, 498, 32 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "174",
+          "498A",
+          "306",
+          "498",
+          "32"
+        ],
+        "actions": [
+          "killed",
+          "cheated",
+          "kidnapped",
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Patnaik\nReportable\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL No. This is an appeal by way of special leave under Article 136 of the Constitution against the judgment\nand order dated 13.09.2007 of the Gujarat High Court in Criminal Appeal No.294 of 1994. She submitted that the High Court held that the acts or conduct of the appellant amounted to cruelty\nfor which the appellant was liable for the offence under Section 498A, IPC, but did not amount to\nabetment of suicide within the meaning of Section 306, IPC. She also cited the decision of this Court in Manju Ram Kalita v. In support of\nthis contention, she relied on the decision of this Court in West Bengal v. Findings of the Court:\n9. In the\ndeceased to commit suicide and hence liable for the offence of abetment of suicide under Section\n306, IPC, the High Court has given a clear finding in paragraph 13 of the impugned judgment that\nthe conviction of the appellant under Section 306, IPC, cannot be sustained in the eye of law and the\npart of the finding has not been challenged by the State in appeal before this Court and has,\ntherefore, become final. Thus, the appellant cannot be held guilty of any wilful conduct which was of\nsuch a nature as is likely to drive the deceased to commit suicide.Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, 2013\nIndian Kanoon - http://indiankanoon.org/doc/118992883/ 4\n12. It is not in evidence that\nthis Court can notice on one fact based on biological reasons assigned that the\npregnant lady or lady, who has given birth to child, need more food, as such women\nare feeling more hungry then other normal women. She had decided to jump into the well leaving the child and accused behind,\ntherefore, the act of the suicide appears to be intentional act to get rid of the frequent\ninsult, ignorance and exploitation. The question that we have, therefore, to decide is whether the Court could have arrived at this\nfinding that the appellant has starved the deceased and committed various acts of mental cruelty\ntowards the deceased only on the basis of the contents of the letter dated 26.03.1992 written by the\ndeceased to the Police Station.",
+      "embedding_text": "REASONING_CHUNK | Case: Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, | Judicial reasoning: Patnaik\nReportable\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL No. This is an appeal by way of special leave under Article 136 of the Constitution against the judgment\nand order dated 13.09.2007 of the Gujarat High Court in Criminal Appeal No.294 of 1994. She submitted that the High Court held that the acts or conduct of the appellant amounted to cruelty\nfor which the appellant was liable for the offence under Section 498A, IPC, but did not amount to\nabetment of suicide within the meaning of Section 306, IPC. She also cited the decision of this Court in Manju Ram Kalita v. In support of\nthis contention, she relied on the decision of this Court in West Bengal v. Findings of the Court:\n9. In the\ndeceased to commit suicide and hence liable for the offence of abetment of suicide under Section\n306, IPC, the High Court has given a clear finding in paragraph 13 of the impugned judgment that\nthe conviction of the appellant under Section 306, IPC, cannot be sus | Intent: intentional | Outcome: death | IPC: 174, 498A, 306, 498, 32",
+      "metadata": {
+        "case_name": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "174",
+          "498A",
+          "306",
+          "498",
+          "32"
+        ],
+        "actions": [
+          "killed",
+          "cheated",
+          "kidnapped",
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The\n10.02.1994 in Sessions Case No.59/92 acquitted Laxmiben, but convicted the appellant under\nSections 498A and 306, IPC, and sentenced him to simple imprisonment for one year and two years\nfor the two offences respectively and also imposed a fine of Rs.100/- for each of the offences. Aggrieved, the appellant filed criminal appeal before the High Court, and by the impugned\njudgment, the High Court acquitted the appellant from the charge under Section 306, IPC, but\nmaintained the conviction and sentence on the appellant under Section 498A, IPC. She vehemently\nsubmitted that in this case the prosecution has not proved beyond reasonable doubt that the\nand (b) of Section 498A, IPC, so as to amount to cruelty within the meaning of this Section and,\ntherefore, the appellant is entitled to be acquitted by this Court of the charge under Section 498A,\nIPC. Husband or relative of husband of a woman subjecting her to cruelty.--\nWhoever, being the husband or the relative of the husband of a woman, subjects such\nwoman to cruelty shall be punished with imprisonment for a term which may extend\nto three years and shall also be liable to fine. It will be clear from the language of Section 498A, IPC, that if a husband subjects his wife to\ncruelty, he shall be punished with imprisonment for a term which may extend to three years and\nshall also be liable to fine. In this case, Inderpal was charged and tried for the offence under Section 306,\nIPC, and convicted by the trial court for the said offence of abetment of suicide. It is not true that when I went to see Amri, at that time, my daughter\nwas crying she had food problem, I say it is false.”\n17. Orilal Jaiswal & Anr. (supra) cited by Ms. 18. In the result, we set aside the impugned judgment of the High Court and acquit the appellant of\nthe charge under Section 498A, IPC. ..……………..……………………….J. (A. K. Patnaik) ...…………..………………………..J.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July, | Final judgment: The\n10.02.1994 in Sessions Case No.59/92 acquitted Laxmiben, but convicted the appellant under\nSections 498A and 306, IPC, and sentenced him to simple imprisonment for one year and two years\nfor the two offences respectively and also imposed a fine of Rs.100/- for each of the offences. Aggrieved, the appellant filed criminal appeal before the High Court, and by the impugned\njudgment, the High Court acquitted the appellant from the charge under Section 306, IPC, but\nmaintained the conviction and sentence on the appellant under Section 498A, IPC. She vehemently\nsubmitted that in this case the prosecution has not proved beyond reasonable doubt that the\nand (b) of Section 498A, IPC, so as to amount to cruelty within the meaning of this Section and,\ntherefore, the appellant is entitled to be acquitted by this Court of the charge under Section 498A,\nIPC. Husband or relative of husband of a woman subjecting her to cruelty.--\nWhoever, being the husband or the relative of the husband of a woman | Judgment: convicted | IPC: 174, 498A, 306, 498, 32",
+      "metadata": {
+        "case_name": "Kantilal Martaji Pandor vs State Of Gujarat & Anr on 25 July,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "174",
+          "498A",
+          "306",
+          "498",
+          "32"
+        ],
+        "actions": [
+          "killed",
+          "cheated",
+          "kidnapped",
+          "threatened",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2013"
+      }
+    }
+  ]
+}

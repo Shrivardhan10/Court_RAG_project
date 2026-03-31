@@ -1,0 +1,152 @@
+{
+  "case_id": "Sathish_vs_State_Rep_By_Inspector_Of_Police_on_19_September_2006",
+  "case_name": "Sathish vs State Rep. By Inspector Of Police on 19 September,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Sathish\n2. Raji\n3. Mark Anthony\n4. Senthil Kumar .. by Inspector of Police\nK-6, T.P.Chatram Police Station\nChennai. .. For Mr.L. 1.1. A1 to A6 were charged for the offence punishable under Sections 120(B), 147, 148, 324, 326, 307\nand 302 IPC and A7 was charged for the offence punishable under Section 120(B) IPC, in connection\nwith the occurrence said to have taken place at about 10.15 p.m. 2.1. 2.2. According to the prosecution, on 17.8.1999, there was a wordy quarrel between P.W.1 to P.W.3\nand the deceased of M.S.Nagar and A1 to A7 of Mangalapuram, while playing carrom in 7th Street,\nMangalapuram, Chetpet, with respect to which, a complaint was lodged by one Surendran in the\nChetpet Police Station. Again, on 18.8.1999, there was a quarrel between both the parties at\nAmbedkar ground, Chetpet and a complaint was lodged by one Manimaran. In view of the above,\nthere was an enmity between both the parties. 2.3. Apprehending danger to their lives at the hands of A7, who is a big rowdy, P.Ws.1, 2 and the\ndeceased stayed in the house of P.W.3 at T.P.Chathiram. On 29.8.1999, at about 10.15 pm, when\nP.Ws.1 to 3 and the deceased went to Indian Wines shop at Shenoy Nagar to purchase brandy, A1 to\nA4 along with two unknown persons, armed with patta knives, came in two autorickshaws. On\nseeing them, P.Ws.1 to 3 and the deceased tried to escape from the place. But, A1 to A4 and the two\nunknown persons, surrounded P.Ws.1 to 3 and the deceased. 2.4. A1 cut P.W.1 on his left leg with patta knife. A2 cut P.W.2 on his right thumb and wrist. A1 cut\nP.W.2 with patta knife on his left wrist and left thumb. A3 cut P.W.3 on his head. A4 cut the\ndeceased on his left ear and left hand. The two unknown persons stabbed the deceased on his\nstomach with the patta knives. A1 and A3 severed the left thumb of P.W.3. A1 and A3 also cut P.W.3\non his right hand and head.",
+      "embedding_text": "FACT_CHUNK | Case: Sathish vs State Rep. By Inspector Of Police on 19 September, | Facts: Sathish\n2. Raji\n3. Mark Anthony\n4. Senthil Kumar .. by Inspector of Police\nK-6, T.P.Chatram Police Station\nChennai. .. For Mr.L. 1.1. A1 to A6 were charged for the offence punishable under Sections 120(B), 147, 148, 324, 326, 307\nand 302 IPC and A7 was charged for the offence punishable under Section 120(B) IPC, in connection\nwith the occurrence said to have taken place at about 10.15 p.m. 2.1. 2.2. According to the prosecution, on 17.8.1999, there was a wordy quarrel between P.W.1 to P.W.3\nand the deceased of M.S.Nagar and A1 to A7 of Mangalapuram, while playing carrom in 7th Street,\nMangalapuram, Chetpet, with respect to which, a complaint was lodged by one Surendran in the\nChetpet Police Station. Again, on 18.8.1999, there was a quarrel between both the parties at\nAmbedkar ground, Chetpet and a complaint was lodged by one Manimaran. In view of the above,\nthere was an enmity between both the parties. 2.3. Apprehending danger to their lives at the hands of A7, who is a big rowdy, P.Ws | Actions: stabbed, attacked, murdered, threatened | Weapon: knife | Outcome: death | IPC: 120, 313, 120B, 324, 326, 302",
+      "metadata": {
+        "case_name": "Sathish vs State Rep. By Inspector Of Police on 19 September,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "120",
+          "313",
+          "120B",
+          "324",
+          "326",
+          "302"
+        ],
+        "actions": [
+          "stabbed",
+          "attacked",
+          "murdered",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "P.W.8 is the Doctor who examined P.Ws.1, 2 and the deceased and issued Accident Register\nExtracts, Exs.P6, P4 and P5 respectively. P.W.6 is the Doctor who examined P.W.3 and issued\nwound certificate, Ex.P2 stating that the injuries are grievous in nature. P.W.7 is the Doctor who\nexamined P.W.4 and issued wound certificate, Ex.P3 stating that the injuries sustained by P.W.4 are\nsimple. The point for determination in this appeal is, whether the Sessions Judge was right in holding\nthat the prosecution has proved the guilt of the accused beyond reasonable doubts. For the said injuries on the deceased, he issued Ex.P5, accident register extract. Next, we have to examine whether A1 to A6 are the persons who attacked the deceased and\nthey are responsible for the death of the deceased. P.W.10 doctor, who treated P.W.1, in his evidence, has stated that there was a\nfracture on his left leg and issued Ex.P11 wound certificate opining that it was a grievous injury. Ex.P4 is the accident register extract issued in respect of P.W.2\nshowing that there was a fracture in the right index finger of P.W.2.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sathish vs State Rep. By Inspector Of Police on 19 September, | Legal issues: P.W.8 is the Doctor who examined P.Ws.1, 2 and the deceased and issued Accident Register\nExtracts, Exs.P6, P4 and P5 respectively. P.W.6 is the Doctor who examined P.W.3 and issued\nwound certificate, Ex.P2 stating that the injuries are grievous in nature. P.W.7 is the Doctor who\nexamined P.W.4 and issued wound certificate, Ex.P3 stating that the injuries sustained by P.W.4 are\nsimple. The point for determination in this appeal is, whether the Sessions Judge was right in holding\nthat the prosecution has proved the guilt of the accused beyond reasonable doubts. For the said injuries on the deceased, he issued Ex.P5, accident register extract. Next, we have to examine whether A1 to A6 are the persons who attacked the deceased and\nthey are responsible for the death of the deceased. P.W.10 doctor, who treated P.W.1, in his evidence, has stated that there was a\nfracture on his left leg and issued Ex.P11 wound certificate opining that it was a grievous injury. Ex.P4 is the accident register e | IPC: 120, 313, 120B, 324, 326, 302",
+      "metadata": {
+        "case_name": "Sathish vs State Rep. By Inspector Of Police on 19 September,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "120",
+          "313",
+          "120B",
+          "324",
+          "326",
+          "302"
+        ],
+        "actions": [
+          "stabbed",
+          "attacked",
+          "murdered",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Sathish vs State Rep. Appellants\nVs. State rep. Respondent\n-----\nAppeal against the judgment dated 30.12.2003 made in S.C.No.205 of 2003 on the file of learned Additional District and Sessions Judge (Fast Track Court No.II), Chennai. -----\nFor Appellants : Mr.V.Gopinath, S.C. Mahendran (A1)\nMr.S.Suresh (A2)\nMr.M.Sathish Kumar (A3) Mr.E.M.K.Yashwanth Rao (A4)\nFor Respondent : Mr.C.T.Selvam\nAddl. Public ProsecutorSathish vs State Rep. on 29.8.1999 in front of Indian\nWines shop at Link Road, within the jurisdiction of respondent Police Station, Chennai, for having\nsaid to have murdered one Udaya @ Udayaprakash. The prosecution case rests upon the statement given by P.W.1 at about 11.45 pm on 29.8.1999,\nmarked as Ex.P1. Based on the said statement, Ex.P1, a First Information Report, Ex.P23 was\nregistered by the Inspector of Police, P.W.21 on 29.8.1999. P.W.1 gave a statement, Ex.P1 to the Inspector of Police, P.W.21. Chatiram Police Station, which was marked asSathish vs State Rep. Based on his\nconfession statement, A2 to A7 were arrested at the residence of A7. as to the incriminating\ncircumstances found against them in the evidence of prosecution witnesses, they denied the same.Sathish vs State Rep. Learned counsel appearing on behalf of the accused took us to the whole evidence and contended\nthat the prosecution had not been able to establish that it was A1 to A4 who committed the murder\nof the deceased Udhaya @ Udhayaprakash. According to him, when the benefit of doubt is extended\nto A5 and A6, the same benefit should be extended to other accused also (appellants). The evidence of P.Ws.1, 2 and 5 that there was a wordy quarrel between theSathish vs State Rep. We find\nsubstance in the submission of learned counsel for the appellants that when the trial Court extended\nthe benefit of doubt to A5 and A6, the same benefit should also be extended to other accused. State of Karnataka, 1993Supp (2) SCC 755]. P.W.1, in his evidence, has stated that A1 cut him on his left leg. Though P.W.3 in his\nevidence has stated that he was attacked by a mob, the evidence of P.W.1 is clear that A1 cut P.W.3\non his left thumb.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sathish vs State Rep. By Inspector Of Police on 19 September, | Arguments: Sathish vs State Rep. Appellants\nVs. State rep. Respondent\n-----\nAppeal against the judgment dated 30.12.2003 made in S.C.No.205 of 2003 on the file of learned Additional District and Sessions Judge (Fast Track Court No.II), Chennai. -----\nFor Appellants : Mr.V.Gopinath, S.C. Mahendran (A1)\nMr.S.Suresh (A2)\nMr.M.Sathish Kumar (A3) Mr.E.M.K.Yashwanth Rao (A4)\nFor Respondent : Mr.C.T.Selvam\nAddl. Public ProsecutorSathish vs State Rep. on 29.8.1999 in front of Indian\nWines shop at Link Road, within the jurisdiction of respondent Police Station, Chennai, for having\nsaid to have murdered one Udaya @ Udayaprakash. The prosecution case rests upon the statement given by P.W.1 at about 11.45 pm on 29.8.1999,\nmarked as Ex.P1. Based on the said statement, Ex.P1, a First Information Report, Ex.P23 was\nregistered by the Inspector of Police, P.W.21 on 29.8.1999. P.W.1 gave a statement, Ex.P1 to the Inspector of Police, P.W.21. Chatiram Police Station, which was marked asSathish vs State Rep. Based o | Intent: negligent | IPC: 120, 313, 120B, 324, 326, 302 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Sathish vs State Rep. By Inspector Of Police on 19 September,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "120",
+          "313",
+          "120B",
+          "324",
+          "326",
+          "302"
+        ],
+        "actions": [
+          "stabbed",
+          "attacked",
+          "murdered",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "By Inspector Of Police on 19 September,\n2006\nAuthor: P.D.Dinakaran\nBench: P.D.Dinakaran\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED: 19.9.2006\nCORAM:\nTHE HONOURABLE MR.JUSTICE P.D.DINAKARAN\nand\nTHE HONOURABLE MR.JUSTICE M.THANIKACHALAM\nCriminal Appeal No.205 of 2004\n1. On 3.9.1999, the material objects were forwarded for chemical analysis through the Court and\nchemical analyst's report is Ex.P30. Since the accused denied the charges framed against them, they were tried in Sessions Case\nNo.205 of 2003 before the learned Additional District and Sessions Judge (Fast Track Court No.II),\nChennai. Hence, the above appeal. On the other hand, sustaining the conviction and sentence imposed by the trial Court, learned\nAdditional Public Prosecutor submitted that the prosecution has proved the guilt of the\n8. Though\nP.Ws.3 and 4 are alleged to have sustained injuries in the occurrence and medical evidence also\ncorroborated the same, yet, they have not specified the overt acts attributed to each of the accused\nand hence, their evidence are not helpful. A1 to A6, the trial Court found the charge under section 302\nIPC proved as against A1 to A4. The trial Court came to the conclusion that the charge under section\n302 IPC remained not proved as against A5 and A6. To prove the charge under section 302 IPC against A1 to A4, the trial Court relied upon the\nevidence of P.Ws.1,2 and 5 besides medical evidence. It is therefore evident from the deposition of P.Ws.8 and 9 that the deceased Udhaya @\nUdhayaprakash was indiscriminately attacked by more than one person and due to the injuries\nsustained by him, he died, in spite of the treatment given to him. Hence, the trial Court has rightly\ndiscarded the evidence of P.W.5. Therefore, when there is no evidence\nroping in a particular accused in the attack on the deceased, it is not safe to convict A1 to A4 also\nunder section 302 IPC for the death of the deceased. The trial Court\nrecorded its finding on the basis of the evidence of P.Ws.1 to 3, injured witnesses. The trial Court\nfound A1 guilty under section 326 IPC (2 counts) in respect of injuries caused by him to P.Ws.1 and\n3.",
+      "embedding_text": "REASONING_CHUNK | Case: Sathish vs State Rep. By Inspector Of Police on 19 September, | Judicial reasoning: By Inspector Of Police on 19 September,\n2006\nAuthor: P.D.Dinakaran\nBench: P.D.Dinakaran\nIN THE HIGH COURT OF JUDICATURE AT MADRAS\nDATED: 19.9.2006\nCORAM:\nTHE HONOURABLE MR.JUSTICE P.D.DINAKARAN\nand\nTHE HONOURABLE MR.JUSTICE M.THANIKACHALAM\nCriminal Appeal No.205 of 2004\n1. On 3.9.1999, the material objects were forwarded for chemical analysis through the Court and\nchemical analyst's report is Ex.P30. Since the accused denied the charges framed against them, they were tried in Sessions Case\nNo.205 of 2003 before the learned Additional District and Sessions Judge (Fast Track Court No.II),\nChennai. Hence, the above appeal. On the other hand, sustaining the conviction and sentence imposed by the trial Court, learned\nAdditional Public Prosecutor submitted that the prosecution has proved the guilt of the\n8. Though\nP.Ws.3 and 4 are alleged to have sustained injuries in the occurrence and medical evidence also\ncorroborated the same, yet, they have not specified the overt acts attributed to eac | Intent: negligent | Outcome: death | IPC: 120, 313, 120B, 324, 326, 302",
+      "metadata": {
+        "case_name": "Sathish vs State Rep. By Inspector Of Police on 19 September,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "120",
+          "313",
+          "120B",
+          "324",
+          "326",
+          "302"
+        ],
+        "actions": [
+          "stabbed",
+          "attacked",
+          "murdered",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "By Inspector Of Police on 19 September, 2006\nIndian Kanoon - http://indiankanoon.org/doc/360402/ 1\n-----\nJ U D G M E N T\n(Delivered by P.D.DINAKARAN,J.) The appeal is directed against the judgment dated 30.12.2003\nmade in Sessions Case No.205 of 2003 on the file of the learned Additional District and Sessions\nJudge (Fast Track Court No.II), Chennai, whereunder the appellants herein were tried along with\nthree other accused namely A5 to A7 therein and convicted and sentenced as mentioned below. The learned Additional District and Sessions Judge (Fast Track Court No.II), Chennai, after\nappreciating the evidence on record and finding that only A1 to A4 were present in the scene of\noccurrence, acquitted A7 of the charge under section 120B and A5 and A6 of the charges under\nSections 120(B), 147, 148, 324, 326, 307 and 302 IPC and convicted (i) A1 for the offence punishable\nunder Sections 324, 326 (2 counts) and 302 IPC and sentenced him to undergo imprisonment for 3\nyears and 7 years, with a fine of Rs.2,000/- (on each count), in default, to undergo three months\nimprisonment on each count and imprisonment for life with a fine of Rs.5,000/-, in default, to\nundergo imprisonment for six months respectively; (ii) A2 under sections 326 and 302 IPC and\nsentenced to undergo rigorous imprisonment for seven years with a fine of Rs.2,000/-, in default,\nimprisonment for three months and imprisonment for life with a fine of Rs.5,000/-, in default, to\nundergo imprisonment for six months respectively; (iii) A3 under Sections 326 and 302 IPC and\nsentenced to undergo rigorous imprisonment for seven years with a fine of Rs.2,000/-, in default,\nimprisonment for three months and imprisonment for life with a fine of Rs.5,000/-, in default, to\nundergo imprisonment for six months respectively; and (iv) A4 under section 302, IPC and\nsentenced to imprisonment for life with a fine of Rs.Rs.5,000/-, in default, to undergo\nimprisonment for six months. He has\nsubmitted that the circumstances emerging out of the evidence were too insignificant to connect the\naccused with other offences under which A1 to A3 were convicted.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sathish vs State Rep. By Inspector Of Police on 19 September, | Final judgment: By Inspector Of Police on 19 September, 2006\nIndian Kanoon - http://indiankanoon.org/doc/360402/ 1\n-----\nJ U D G M E N T\n(Delivered by P.D.DINAKARAN,J.) The appeal is directed against the judgment dated 30.12.2003\nmade in Sessions Case No.205 of 2003 on the file of the learned Additional District and Sessions\nJudge (Fast Track Court No.II), Chennai, whereunder the appellants herein were tried along with\nthree other accused namely A5 to A7 therein and convicted and sentenced as mentioned below. The learned Additional District and Sessions Judge (Fast Track Court No.II), Chennai, after\nappreciating the evidence on record and finding that only A1 to A4 were present in the scene of\noccurrence, acquitted A7 of the charge under section 120B and A5 and A6 of the charges under\nSections 120(B), 147, 148, 324, 326, 307 and 302 IPC and convicted (i) A1 for the offence punishable\nunder Sections 324, 326 (2 counts) and 302 IPC and sentenced him to undergo imprisonment for 3\nyears and 7 years, with  | Judgment: convicted | IPC: 120, 313, 120B, 324, 326, 302",
+      "metadata": {
+        "case_name": "Sathish vs State Rep. By Inspector Of Police on 19 September,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "120",
+          "313",
+          "120B",
+          "324",
+          "326",
+          "302"
+        ],
+        "actions": [
+          "stabbed",
+          "attacked",
+          "murdered",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "negligent",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2006"
+      }
+    }
+  ]
+}

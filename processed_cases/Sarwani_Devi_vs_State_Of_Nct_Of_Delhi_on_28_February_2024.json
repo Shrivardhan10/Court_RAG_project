@@ -1,0 +1,152 @@
+{
+  "case_id": "Sarwani_Devi_vs_State_Of_Nct_Of_Delhi_on_28_February_2024",
+  "case_name": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "2222/2021 & CRL.M.A. 14936/2021\n'SD'. ..... Petitioner\nThrough: Ms.Mallika Parmar (DHCLSC) and\nMr.Brij R. Raghav, Advocates. ..... CORAM:\nHON'BLE MR. JUSTICE ANOOP KUMAR MENDIRATTA\n% JUDGMENT\nANOOP KUMAR MENDIRATTA, J (ORAL)\n1. 2. In brief, FIR No.2202/2014 was registered on 21.10.2014 under Section 354D/506/509/34 IPC at\nPS: Shakarpur, on the complaint of 'Smt. GD' who alleged that while she was on her duty, 'SD' (wife\nof her brother 'P'), manhandled her children and slapped them. She also alleged that 'P' and his\nsons, 'B', 'Y' and 'SK' stalked her daughters and threatened them. After completion of investigation,\nsince the allegations could not be corroborated by independent evidence against petitioner ('SD'),\ncharge-sheet was filed only against 'P', 'B', 'Y' and 'SK' under Section 354D/506/509/34 IPC. Accused 'P', 'B', 'Y' and 'SK' were accordingly summoned to face trial. Vide order dated 22.11.2019, learned MM (East) discharged all\nthe four accused under remaining Section 506/509/34 IPC, observing that there is nothing on\nrecord to show that any of the accused had in any manner uttered any word or made any gesture\nwith an intent to insult the modesty of the complainant. Further, allegations of criminal\nintimidation were found to be ambiguous. 3. The petitioner accordingly stands summoned under\nSection 323 IPC vide impugned order dated 22.11.2019 despite discharge of all other accused under\nSection 354D/506/509/34 IPC. cognizance of the offences by learned MM at the stage of filing of the original charge-sheet, under\nSection 354D/506/509/34 IPC. Further, on the same material, a supplementary charge-sheet has\nbeen filed on the directions of learned MM, whereupon the petitioner has been summoned vide\norder dated 21.11.2019 under Section 323 IPC, though the other accused have been discharged. v. 3653/2018, decided on\n25.07.2018; Anirudh Sen v. Rev. Pet. 498/2006, decided on 08.11.2006;\nR.Sarala v. T.S. Velu & Ors., 2000 SC 1731; and Ramakant Singh & Ors. v. A. 3484/2023. 5. 6. A Revision Petition preferred by the petitioner challenging order dated 21.11.2019 was dismissed\nby the learned Principal District & Sessions Judge vide order dated 24.12.2020 on the ground that\nremedy against the summoning order passed by learned MM lies under Section 482 Cr.P.C.",
+      "embedding_text": "FACT_CHUNK | Case: Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024 | Facts: 2222/2021 & CRL.M.A. 14936/2021\n'SD'. ..... Petitioner\nThrough: Ms.Mallika Parmar (DHCLSC) and\nMr.Brij R. Raghav, Advocates. ..... CORAM:\nHON'BLE MR. JUSTICE ANOOP KUMAR MENDIRATTA\n% JUDGMENT\nANOOP KUMAR MENDIRATTA, J (ORAL)\n1. 2. In brief, FIR No.2202/2014 was registered on 21.10.2014 under Section 354D/506/509/34 IPC at\nPS: Shakarpur, on the complaint of 'Smt. GD' who alleged that while she was on her duty, 'SD' (wife\nof her brother 'P'), manhandled her children and slapped them. She also alleged that 'P' and his\nsons, 'B', 'Y' and 'SK' stalked her daughters and threatened them. After completion of investigation,\nsince the allegations could not be corroborated by independent evidence against petitioner ('SD'),\ncharge-sheet was filed only against 'P', 'B', 'Y' and 'SK' under Section 354D/506/509/34 IPC. Accused 'P', 'B', 'Y' and 'SK' were accordingly summoned to face trial. Vide order dated 22.11.2019, learned MM (East) discharged all\nthe four accused under remaining Section 506/509/3 | Actions: threatened | Weapon: unknown | Outcome: unknown | IPC: 354D, 506, 509, 34, 482, 323, 173, 397, 319",
+      "metadata": {
+        "case_name": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "354D",
+          "506",
+          "509",
+          "34",
+          "482",
+          "323",
+          "173",
+          "397",
+          "319"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "However, subsequently on the prayer of learned Additional Public\nProsecutor that there were specific allegations by name against the other co- accused who had been\nplaced in column no.12, summons were directed to be issued against the petitioners. Summons were not issued\nagainst the petitioner under Section 323 IPC since the incident could not be corroborated by any\nindependent evidence as per charge-sheet. Reverting back to the facts of this case, this Court is of the view that after the charge-sheet was\nfiled on record and cognizance of the offence was taken by the learned MM, it was his conscious\ndecision to not to summon the petitioner and summons were only directed to be issued against the\nother accused. Perhaps, the summoning order under Section\n323 IPC against the petitioner on the basis of same evidence after filing of supplementary\ncharge-sheet under Section 173(8) Cr.P.C., is virtually a review of the original order, whereby\nsummons were issued after taking cognizance under Section 354D/506/509/34 IPConly against\nother co- accused.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024 | Legal issues: However, subsequently on the prayer of learned Additional Public\nProsecutor that there were specific allegations by name against the other co- accused who had been\nplaced in column no.12, summons were directed to be issued against the petitioners. Summons were not issued\nagainst the petitioner under Section 323 IPC since the incident could not be corroborated by any\nindependent evidence as per charge-sheet. Reverting back to the facts of this case, this Court is of the view that after the charge-sheet was\nfiled on record and cognizance of the offence was taken by the learned MM, it was his conscious\ndecision to not to summon the petitioner and summons were only directed to be issued against the\nother accused. Perhaps, the summoning order under Section\n323 IPC against the petitioner on the basis of same evidence after filing of supplementary\ncharge-sheet under Section 173(8) Cr.P.C., is virtually a review of the original order, whereby\nsummons were issued after taking cognizance under S | IPC: 354D, 506, 509, 34, 482, 323, 173, 397, 319",
+      "metadata": {
+        "case_name": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "354D",
+          "506",
+          "509",
+          "34",
+          "482",
+          "323",
+          "173",
+          "397",
+          "319"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024\nAuthor: Anoop Kumar Mendiratta\nBench: Anoop Kumar Mendiratta\n$~69\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n% Date of Judgment: 28.02.2024\n+ CRL.M.C. versus\nSTATE OF NCT OF DELHI. Respondent\nThrough: Ms. Meenakshi Dahiya, APP for the\nState with SI Kavish Rana, PS Laxmi\nNagar. In the meantime, after the accused were discharged of offence under Section 354D IPC vide order\ndated 07.10.2016, a supplementary charge- sheet under Section 323 IPC was filed by theSarwani Devi vs State Of Nct Of Delhi on 28 February, 2024\nIndian Kanoon - http://indiankanoon.org/doc/66547494/ 1\nInvestigating Officer on directions of learned Trial Court against petitioner 'SD' on the basis of same\nevidence as contained in original charge-sheet. The\nsame is stated to be opposed to provisions of law and in support of contentions, reliance is placed\nupon Vinay Singh & Anr. State of NCT of Delhi & Anr., Crl.M.C. State of NCT of Delhi, Crl. State of Jharkhand &\nAnr., Crl. On the other hand, learned APP for the State opposes the petition on the ground that since\naccused under Section 323 IPC on the basis of supplementary charge-sheet under Section 173(8)\nCr.P.C., is not barred. State of NCT of Delhi & Anr. It was argued\non behalf of the petitioners that the summoning order is bad in law and abuse of the process. State of NCT of Delhi (supra), the charge-sheet had been filed showing the\nby the learned MM in respect of the said petitioner and action taken by the learned MM wasSarwani Devi vs State Of Nct Of Delhi on 28 February, 2024\nIndian Kanoon - http://indiankanoon.org/doc/66547494/ 2\nchallenged in the Revision Petition, since the same amounted to review of the earlier order. State by Adugodi Police Station and Another, 2024\n13. This state of affairs continued till consideration of charge against the other accused\nwho were summoned, and finally discharged under Section 354D and Section 506/509/34 IPC vide\norders dated 07.10.2016 and 22.11.2019 respectively. (ANOOP KUMAR MENDIRATTA) JUDGE FEBRUARY 28, 2024/v/sdSarwani Devi vs State Of Nct Of Delhi on 28 February, 2024\nIndian Kanoon - http://indiankanoon.org/doc/66547494/ 4",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024 | Arguments: Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024\nAuthor: Anoop Kumar Mendiratta\nBench: Anoop Kumar Mendiratta\n$~69\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n% Date of Judgment: 28.02.2024\n+ CRL.M.C. versus\nSTATE OF NCT OF DELHI. Respondent\nThrough: Ms. Meenakshi Dahiya, APP for the\nState with SI Kavish Rana, PS Laxmi\nNagar. In the meantime, after the accused were discharged of offence under Section 354D IPC vide order\ndated 07.10.2016, a supplementary charge- sheet under Section 323 IPC was filed by theSarwani Devi vs State Of Nct Of Delhi on 28 February, 2024\nIndian Kanoon - http://indiankanoon.org/doc/66547494/ 1\nInvestigating Officer on directions of learned Trial Court against petitioner 'SD' on the basis of same\nevidence as contained in original charge-sheet. The\nsame is stated to be opposed to provisions of law and in support of contentions, reliance is placed\nupon Vinay Singh & Anr. State of NCT of Delhi & Anr., Crl.M.C. State of NCT of Delhi, Crl. State of Jharkhand & | Intent: unknown | IPC: 354D, 506, 509, 34, 482, 323, 173, 397, 319 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "354D",
+          "506",
+          "509",
+          "34",
+          "482",
+          "323",
+          "173",
+          "397",
+          "319"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Petition under Section 482 of the Code of Criminal Procedure, 1973 ('Cr.P.C.') has been preferred\non behalf of the petitioner challenging the order dated 22.11.2019 passed by learned MM, East,\nKarkardooma Courts, Delhi in FIR No.2202/2014, under Section 354D/506/509/34 IPC, registered\nat PS: Shakarpur whereby petitioner has been summoned for offence under Section 323 IPC. The aforesaid four accused\nwere discharged under Section 354D IPC by the concerned Mahila Court vide order dated\n07.10.2016 and, thereafter, the case was transferred to the learned CMM (East) for further\nproceedings in accordance with law. It was\nheld by this Court that the Magistrate had no power to review initial summoning order and would\nhave the occasion to exercise the jurisdiction to summon the additional accused, if evidence comes\nup during the course of trial in terms of Section 319 Cr.P.C. It was\nobserved by this Court that the order for summoning was passed after four years of taking of the\ncognizance against the other accused who were placed in column no.4. It may further be observed that filing of supplementary charge-sheet under Section 173(8)\nCr.P.C. and the same evidence is\nIndian Kanoon - http://indiankanoon.org/doc/66547494/ 3\nan accused who was earlier not summoned on the basis of the same evidence, which was earlier\nlooked into by the Court and considered by the Investigating Agency. The same is nothing but a review of the original order of summoning and as such abuse of the\nprocess of Court.",
+      "embedding_text": "REASONING_CHUNK | Case: Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024 | Judicial reasoning: Petition under Section 482 of the Code of Criminal Procedure, 1973 ('Cr.P.C.') has been preferred\non behalf of the petitioner challenging the order dated 22.11.2019 passed by learned MM, East,\nKarkardooma Courts, Delhi in FIR No.2202/2014, under Section 354D/506/509/34 IPC, registered\nat PS: Shakarpur whereby petitioner has been summoned for offence under Section 323 IPC. The aforesaid four accused\nwere discharged under Section 354D IPC by the concerned Mahila Court vide order dated\n07.10.2016 and, thereafter, the case was transferred to the learned CMM (East) for further\nproceedings in accordance with law. It was\nheld by this Court that the Magistrate had no power to review initial summoning order and would\nhave the occasion to exercise the jurisdiction to summon the additional accused, if evidence comes\nup during the course of trial in terms of Section 319 Cr.P.C. It was\nobserved by this Court that the order for summoning was passed after four years of taking of the\ncognizance agains | Intent: unknown | Outcome: unknown | IPC: 354D, 506, 509, 34, 482, 323, 173, 397, 319",
+      "metadata": {
+        "case_name": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "354D",
+          "506",
+          "509",
+          "34",
+          "482",
+          "323",
+          "173",
+          "397",
+          "319"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Accordingly the order was set aside. The\nsummoning order was accordingly set aside. It is also pertinent to observe that though the prosecution version has been held\nto be unfounded against co- accused under Section 354D/506/509/34 IPC but the petitioner stands\nsummoned under Section 323 IPC, on the same evidence. to summon the petitioner. For the foregoing reasons, order dated 22.11.2019 passed by the learned MM thereby summoning\nthe petitioner under Section 323 IPC as well as order dated 24.12.2020 passed by Principal District\nand Sessions Judge are set aside. Proceedings against the petitioner stand closed. Personal\nbond/surety bond, if any, furnished by the petitioner are discharged. Pending applications, if any,\nalso stand disposed of. A copy of this judgment be forwarded to the learned MM as well as learned Principal District and\nSessions Judge (East) for information.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024 | Final judgment: Accordingly the order was set aside. The\nsummoning order was accordingly set aside. It is also pertinent to observe that though the prosecution version has been held\nto be unfounded against co- accused under Section 354D/506/509/34 IPC but the petitioner stands\nsummoned under Section 323 IPC, on the same evidence. to summon the petitioner. For the foregoing reasons, order dated 22.11.2019 passed by the learned MM thereby summoning\nthe petitioner under Section 323 IPC as well as order dated 24.12.2020 passed by Principal District\nand Sessions Judge are set aside. Proceedings against the petitioner stand closed. Personal\nbond/surety bond, if any, furnished by the petitioner are discharged. Pending applications, if any,\nalso stand disposed of. A copy of this judgment be forwarded to the learned MM as well as learned Principal District and\nSessions Judge (East) for information. | Judgment: sentenced | IPC: 354D, 506, 509, 34, 482, 323, 173, 397, 319",
+      "metadata": {
+        "case_name": "Sarwani Devi vs State Of Nct Of Delhi on 28 February, 2024",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "354D",
+          "506",
+          "509",
+          "34",
+          "482",
+          "323",
+          "173",
+          "397",
+          "319"
+        ],
+        "actions": [
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "unknown",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2024"
+      }
+    }
+  ]
+}

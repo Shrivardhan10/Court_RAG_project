@@ -1,0 +1,177 @@
+{
+  "case_id": "Capt_Rajinder_Tiwari_vs_The_State_Nct_Of_Delhi_[Along_With_Crl_on_14_December_2006",
+  "case_name": "Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Capt. ... on 14 December, 2006\nAuthor: Badar Durrez Ahmed\nBench: Badar Durrez Ahmed\nJUDGMENT\nBadar Durrez Ahmed, J. 1. These two revision petitions are taken up together as they arise out of the same order on charge\nand charges framed by the learned Metropolitan Magistrate on 20.10.2006. 2. 3. First of all,\nhe made submissions with regard to the charges framed under Sections 493/495/496 IPC. Secondly,\nhe made submissions with regard to the offence under Section 498A. Insofar as the first category of\noffences are concerned, they fall under Chapter XX of the IPC and, he submitted, Section 198 of\nCr.P.C. stipulates that cognizance of such offences can only be taken on the basis of a complaint by\nan aggrieved person. He submitted that in the present case, the Magistrate had proceeded on the\nbasis of a police report and took cognizance of these offences, which the Magistrate was not\nempowered to do. 4. Anupam . ... on 14 December, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1590910/ 1\noffence under Section 498A IPC. v. 5. Insofar as the first point taken by the counsel for the petitioners is concerned, I find that the same\nhas merit. The bar is that\ncognizance of such offences can be taken only on the basis of a complaint filed by an aggrieved\nperson. Section 198 of the Code reads as under:\n198.",
+      "embedding_text": "FACT_CHUNK | Case: Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. | Facts: Capt. ... on 14 December, 2006\nAuthor: Badar Durrez Ahmed\nBench: Badar Durrez Ahmed\nJUDGMENT\nBadar Durrez Ahmed, J. 1. These two revision petitions are taken up together as they arise out of the same order on charge\nand charges framed by the learned Metropolitan Magistrate on 20.10.2006. 2. 3. First of all,\nhe made submissions with regard to the charges framed under Sections 493/495/496 IPC. Secondly,\nhe made submissions with regard to the offence under Section 498A. Insofar as the first category of\noffences are concerned, they fall under Chapter XX of the IPC and, he submitted, Section 198 of\nCr.P.C. stipulates that cognizance of such offences can only be taken on the basis of a complaint by\nan aggrieved person. He submitted that in the present case, the Magistrate had proceeded on the\nbasis of a police report and took cognizance of these offences, which the Magistrate was not\nempowered to do. 4. Anupam . ... on 14 December, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1590910/ 1\n | Actions: none | Weapon: unknown | Outcome: cruelty | IPC: 417, 406, 506, 34, 493, 495, 496, 498A, 494, 4, 198, 497, 498, 376, 198A, 173",
+      "metadata": {
+        "case_name": "Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "417",
+          "406",
+          "506",
+          "34",
+          "493",
+          "495",
+          "496",
+          "498A",
+          "494",
+          "4",
+          "198",
+          "497",
+          "498",
+          "376",
+          "198A",
+          "173"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "So, the issue here is\nwhether Rajinder Tiwari, without being a \"husband\" to the complainant, could be charged of anCapt. An identical issue has arisen in the case of Mohit Gupta and Ors. Issue summons to the accused and notice to the surety. As already indicated above, insofar as the charge under Sections 498A IPC is concerned, that\nissue is no longer open for debate. Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. ... on 14 December, 2006\nAuthor: Badar Durrez Ahmed\nBench: Badar Durrez Ahmed\nJUDGMENT\nBadar Durrez Ahmed, J. 1. These two revision petitions are taken up together as they arise out of the same order on charge\nand charges framed by the learned Metropolitan Magistrate on 20.10.2006.",
+      "embedding_text": "ISSUE_CHUNK | Case: Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. | Legal issues: So, the issue here is\nwhether Rajinder Tiwari, without being a \"husband\" to the complainant, could be charged of anCapt. An identical issue has arisen in the case of Mohit Gupta and Ors. Issue summons to the accused and notice to the surety. As already indicated above, insofar as the charge under Sections 498A IPC is concerned, that\nissue is no longer open for debate. Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. ... on 14 December, 2006\nAuthor: Badar Durrez Ahmed\nBench: Badar Durrez Ahmed\nJUDGMENT\nBadar Durrez Ahmed, J. 1. These two revision petitions are taken up together as they arise out of the same order on charge\nand charges framed by the learned Metropolitan Magistrate on 20.10.2006. | IPC: 417, 406, 506, 34, 493, 495, 496, 498A, 494, 4, 198, 497, 498, 376, 198A, 173",
+      "metadata": {
+        "case_name": "Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "417",
+          "406",
+          "506",
+          "34",
+          "493",
+          "495",
+          "496",
+          "498A",
+          "494",
+          "4",
+          "198",
+          "497",
+          "498",
+          "376",
+          "198A",
+          "173"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. The learned Counsel appearing on behalf of the petitioners straightaway submitted that he is not\npressing these petitions insofar as the charges under 417/406/506/34 IPC and Section 4 of the\nDowry Prohibition Act, 1961 are concerned. The learned Counsel for the petitioners divided his arguments into two compartments. The learned Counsel for the petitioners further submitted that, in any event, a\ncomplaint has been filed with regard to these offences by the complainant and that is also pending\nbefore the same Magistrate. With regard to the offence under Section 498A IPC, it has been submitted by the learned Counsel\ncomplainant inasmuch as the marriage was a nullity on account of the pendency of divorce\nproceedings in respect of his first marriage. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. State of Government of NCT of Delhi and Anr. State of MP 2002\n(2) Crimes 177 (SC) would be applicable and, as per that decision, unless the petitioner fell within\nthe definition of \"husband\" on the basis of a valid marriage, he could not be prosecuted under\nSection 498A IPC and the same would be the case for his relatives. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. The said order reads as under:\n17.10.01 Present: APP for the State. and statements and documents sent\nAlong with it. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. | Arguments: Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. The learned Counsel appearing on behalf of the petitioners straightaway submitted that he is not\npressing these petitions insofar as the charges under 417/406/506/34 IPC and Section 4 of the\nDowry Prohibition Act, 1961 are concerned. The learned Counsel for the petitioners divided his arguments into two compartments. The learned Counsel for the petitioners further submitted that, in any event, a\ncomplaint has been filed with regard to these offences by the complainant and that is also pending\nbefore the same Magistrate. With regard to the offence under Section 498A IPC, it has been submitted by the learned Counsel\ncomplainant inasmuch as the marriage was a nullity on account of the pendency of divorce\nproceedings in respect of his first marriage. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. State of Government of NCT of Delhi and Anr. State of MP 2002\n(2) Crimes 177 (SC) would be applicable and, as per that de | Intent: unknown | IPC: 417, 406, 506, 34, 493, 495, 496, 498A, 494, 4, 198, 497, 498, 376, 198A, 173 | Judgment context: unknown",
+      "metadata": {
+        "case_name": "Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "417",
+          "406",
+          "506",
+          "34",
+          "493",
+          "495",
+          "496",
+          "498A",
+          "494",
+          "4",
+          "198",
+          "497",
+          "498",
+          "376",
+          "198A",
+          "173"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "It is, therefore, clear that these petitions are being\ndisposed of merely on the basis of arguments advanced in respect of the offences under Sections\n493/495/496/498A/34 IPC. He submits that this is an admitted position as would be\napparent from a reading of the order dated 20.10.2006 itself wherein it is recorded that the\nSection 498A IPC not being made out on the ground that \"even though the marriage is not lawful\nbut the accused cannot escape on this ground alone\" and the said counsel placed reliance on the\njudgment of the Supreme Court in the case of Reema Aggarwal v. 2006 (3) JCC 1923 wherein the decision of the\nSupreme Court in the case of Reema Aggarwal (surpa) was considered. However, this Court held\nthat the Larger Bench decision of the Supreme Court in Shivcharan Lal Verma v. Therefore, applying the ratio of\nMohit Gupta (supra), which, in turn, applied the binding ratio of Shivcharan Lal Verma (supra), it is\nabundantly clear that a charge under Section 498A IPC cannot be framed in this case against any of\nthe petitioners. It is clear that Section 198 of the Code of Criminal Procedure, 1973 imposes a bar on the\ncourts from taking cognizance of offences falling under Chapter XX of the IPC. (6) No Court shall take cognizance of an offence under Section 376 of the Indian\nPenal Code (45 of 1860), where such offence consists of sexual inter-course by a man\nwith his own wife, the wife being under fifteen years of age, if more than one year has\nelapsed from the date of the commission of the offence. on 14 December, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1590910/ 3\nwith the leave of the Court, by any other person related to her by blood, marriage or\nadoption. Thus, insofar as the offences\nunder Chapter XX are concerned, the court can take cognizance only on the basis of a complaint by\nsome aggrieved person. These charges have been framed on the basis of the cognizance taken by\nthe court on the basis of the police report as would be clear from the order dated 17.10.2001 passed\nby the learned Metropolitan Magistrate.",
+      "embedding_text": "REASONING_CHUNK | Case: Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. | Judicial reasoning: It is, therefore, clear that these petitions are being\ndisposed of merely on the basis of arguments advanced in respect of the offences under Sections\n493/495/496/498A/34 IPC. He submits that this is an admitted position as would be\napparent from a reading of the order dated 20.10.2006 itself wherein it is recorded that the\nSection 498A IPC not being made out on the ground that \"even though the marriage is not lawful\nbut the accused cannot escape on this ground alone\" and the said counsel placed reliance on the\njudgment of the Supreme Court in the case of Reema Aggarwal v. 2006 (3) JCC 1923 wherein the decision of the\nSupreme Court in the case of Reema Aggarwal (surpa) was considered. However, this Court held\nthat the Larger Bench decision of the Supreme Court in Shivcharan Lal Verma v. Therefore, applying the ratio of\nMohit Gupta (supra), which, in turn, applied the binding ratio of Shivcharan Lal Verma (supra), it is\nabundantly clear that a charge under Section 498A IPC cannot be fra | Intent: unknown | Outcome: cruelty | IPC: 417, 406, 506, 34, 493, 495, 496, 498A, 494, 4, 198, 497, 498, 376, 198A, 173",
+      "metadata": {
+        "case_name": "Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "417",
+          "406",
+          "506",
+          "34",
+          "493",
+          "495",
+          "496",
+          "498A",
+          "494",
+          "4",
+          "198",
+          "497",
+          "498",
+          "376",
+          "198A",
+          "173"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Therefore, the charges framed on the said basis\ncannot be sustained and the impugned order to that extent requires to be set aside. 10. In the circumstances indicated above, these petitions are partly allowed. The charges framed\nunder Section 498A are dropped against all the petitioners. So also, the charges framed under\nSection 493, 495 and 496 IPC . In respect of the other charges, i.e., under\nSections 417/406/506/34 IPC and the charge under Section 4 of the Dowry Prohibition Act, 1961,\nthe impugned order does not require any interference as the counsel for the petitioners had initially\nsubmitted that he was not pressing the petition insofar as these offences are concerned. With these directions, these revision petitions are partly allowed.Capt. ... on 14 December, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1590910/ 5",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl. | Final judgment: Therefore, the charges framed on the said basis\ncannot be sustained and the impugned order to that extent requires to be set aside. 10. In the circumstances indicated above, these petitions are partly allowed. The charges framed\nunder Section 498A are dropped against all the petitioners. So also, the charges framed under\nSection 493, 495 and 496 IPC . In respect of the other charges, i.e., under\nSections 417/406/506/34 IPC and the charge under Section 4 of the Dowry Prohibition Act, 1961,\nthe impugned order does not require any interference as the counsel for the petitioners had initially\nsubmitted that he was not pressing the petition insofar as these offences are concerned. With these directions, these revision petitions are partly allowed.Capt. ... on 14 December, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1590910/ 5 | Judgment: unknown | IPC: 417, 406, 506, 34, 493, 495, 496, 498A, 494, 4, 198, 497, 498, 376, 198A, 173",
+      "metadata": {
+        "case_name": "Capt. Rajinder Tiwari vs The State (Nct Of Delhi) [Along With Crl.",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "417",
+          "406",
+          "506",
+          "34",
+          "493",
+          "495",
+          "496",
+          "498A",
+          "494",
+          "4",
+          "198",
+          "497",
+          "498",
+          "376",
+          "198A",
+          "173"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "unknown",
+        "court": "Supreme Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

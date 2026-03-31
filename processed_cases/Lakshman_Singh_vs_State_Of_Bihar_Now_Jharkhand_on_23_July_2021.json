@@ -1,0 +1,197 @@
+{
+  "case_id": "Lakshman_Singh_vs_State_Of_Bihar_Now_Jharkhand_on_23_July_2021",
+  "case_name": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Shah\nBench: M.R. Shah, Dhananjaya Y. 630-631 OF 2021\nShiv Kumar Singh & Others Etc. SHAH, J. 1. 9, 8, 12, 11, 10, 14, 2 and 13 – Lakshman Singh, Shiv Kumar\nSingh, Upendra Singh, Vijay Singh, Sanjay Prasad Singh, Rajmani Singh, Ayodhya\nPrasad Singh and Ramadhar Singh have preferred the present appeals. 2. As per the case of the prosecution, an FIR was lodged at Paatan Police Station by the first\ninformant – Rajeev Ranjan Tiwari on 26.11.1989 alleging inter alia that on the eve of general\nelection, he was working as a worker of Bhartiya Janta Party at village Golhana Booth No. 132 under\nPaatan Police Station and was issuing slips to the voters towards two hundred yards north away\nfrom the polling booth; at that time, at around 10:40 a.m., the accused persons who belong to\nanother village Naudiha came armed with lathis, sticks, country made pistols and asked him to stop\nissuing voter slips and handover the voters list which he was possessing and on his refusal the\naccused persons started physically beating him (PW8 – Rajiv Ranjan Tiwari) with hands, fists, lathis\nand sticks; the brother of the first informant-PW8, Priya Ranjan Tiwari (PW10) upon knowing\nabout the incident came to rescue him and at that time accused Dinanath Singh @ Dina Singh fired\ngun shot at PW10 with his country made pistol, due to which he received pellet injuries. Accused\nAjay Singh fired at Dinesh Tiwari (PW12), due to which he was injured. It was further alleged that\ndue to scuffle, accused Hira Singh snatched wrist watches of PW8 & PW10; the villagers rushed\nthere and then all the accused persons ran away towards village Naudhia. on 26.11.1989, an FIR was registered\nat about 2:00 p.m. on the very day, i.e., 26.11.1989 against 16 accused named persons for the\noffences under Sections 147, 148, 149, 307, 326, 324, 323 IPC and Section 27 of the Arms Act. At this\nstage, it is required to be noted that even some of the accused – Lakshman Singh, Shiv Kumar Singh\nand Ayodhya Prasad Singh also sustained injuries.",
+      "embedding_text": "FACT_CHUNK | Case: Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, | Facts: Shah\nBench: M.R. Shah, Dhananjaya Y. 630-631 OF 2021\nShiv Kumar Singh & Others Etc. SHAH, J. 1. 9, 8, 12, 11, 10, 14, 2 and 13 – Lakshman Singh, Shiv Kumar\nSingh, Upendra Singh, Vijay Singh, Sanjay Prasad Singh, Rajmani Singh, Ayodhya\nPrasad Singh and Ramadhar Singh have preferred the present appeals. 2. As per the case of the prosecution, an FIR was lodged at Paatan Police Station by the first\ninformant – Rajeev Ranjan Tiwari on 26.11.1989 alleging inter alia that on the eve of general\nelection, he was working as a worker of Bhartiya Janta Party at village Golhana Booth No. 132 under\nPaatan Police Station and was issuing slips to the voters towards two hundred yards north away\nfrom the polling booth; at that time, at around 10:40 a.m., the accused persons who belong to\nanother village Naudiha came armed with lathis, sticks, country made pistols and asked him to stop\nissuing voter slips and handover the voters list which he was possessing and on his refusal the\naccused persons started  | Actions: shot, fired, assaulted, attacked | Weapon: gun | Outcome: injury | IPC: 323, 147, 148, 149, 307, 326, 324, 27, 379, 313, 141, 349, 146, 321, 319",
+      "metadata": {
+        "case_name": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "147",
+          "148",
+          "149",
+          "307",
+          "326",
+          "324",
+          "27",
+          "379",
+          "313",
+          "141",
+          "349",
+          "146",
+          "321",
+          "319"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "It may be that\nthere might not be any serious injuries and/or visible injuries, the hospital might not have issued\nthe injury report. Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,\n2021\n368\nAuthor: M.R. Shah\nBench: M.R. Shah, Dhananjaya Y. Chandrachud\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 606 OF 2021\nLakshman Singh …Appellant\nVersus\nState of Bihar (now Jharkhand) …Respondent\nWITH\nCRIMINAL APPEAL NOS. 630-631 OF 2021\nShiv Kumar Singh & Others Etc. ...Appellants\nVersus\nState of Bihar (now Jharkhand) ...Respondent\nJUDGMENT\nM.R. SHAH, J. 1. Feeling aggrieved and dissatisfied with the impugned common 14:49:36 IST Reason:\njudgment and order dated 31.10.2018 passed by the High Court of Jharkhand at\nRanchi in Criminal Appeal Nos.",
+      "embedding_text": "ISSUE_CHUNK | Case: Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, | Legal issues: It may be that\nthere might not be any serious injuries and/or visible injuries, the hospital might not have issued\nthe injury report. Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,\n2021\n368\nAuthor: M.R. Shah\nBench: M.R. Shah, Dhananjaya Y. Chandrachud\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. 606 OF 2021\nLakshman Singh …Appellant\nVersus\nState of Bihar (now Jharkhand) …Respondent\nWITH\nCRIMINAL APPEAL NOS. 630-631 OF 2021\nShiv Kumar Singh & Others Etc. ...Appellants\nVersus\nState of Bihar (now Jharkhand) ...Respondent\nJUDGMENT\nM.R. SHAH, J. 1. Feeling aggrieved and dissatisfied with the impugned common 14:49:36 IST Reason:\njudgment and order dated 31.10.2018 passed by the High Court of Jharkhand at\nRanchi in Criminal Appeal Nos. | IPC: 323, 147, 148, 149, 307, 326, 324, 27, 379, 313, 141, 349, 146, 321, 319",
+      "metadata": {
+        "case_name": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "147",
+          "148",
+          "149",
+          "307",
+          "326",
+          "324",
+          "27",
+          "379",
+          "313",
+          "141",
+          "349",
+          "146",
+          "321",
+          "319"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,\n2021\n368\nAuthor: M.R. 606 OF 2021\nLakshman Singh …Appellant\nVersus\nState of Bihar (now Jharkhand) …Respondent\nWITH\nCRIMINAL APPEAL NOS. ...Appellants\nVersus\nState of Bihar (now Jharkhand) ...Respondent\nJUDGMENT\nM.R. Based on the statement of\nPW8 – Rajiv Ranjan Tiwari, which was recorded at 12:30 p.m. After conclusion of the investigation, the\ninvestigating officer filed chargesheet against 15 accused including the appellants herein. After closure of the evidence on behalf of the prosecution,\nstatements of the accused persons under Section 313 Cr.P.C. 2.4 Feeling aggrieved and dissatisfied with the judgment and order of conviction and sentence,\nconvicting and sentencing the appellants herein, original accused nos. Shri Manoj Swarup, learned Senior Advocate has appeared on behalf of the appellants – accused\nhave appeared for the State of Jharkhand. It is submitted that the aforesaid witnesses are unreliable and\nuntrustworthy. It is submitted that they are not the independent witnesses. It is submitted that as\nsuch PW12 – Dinesh Tiwary turned hostile. It is submitted that the aforesaid witnesses belong to the\nsame village. 3.3 It is further submitted that even both the courts below have materially erred in\ncoming to the conclusion that the appellants were part of the unlawful assembly and thereby have\ncommitted a grave error in convicting the accused for the offence under Section 147 IPC. It is submitted that the\ncommon object was alleged to be to cast bogus votes, which was never cast. It is submitted that even\nthe voter slip was also available with all other parties and therefore the motive as per the\nprosecution case is questionable. 3.5 It is further submitted that so far as the impugned judgment and order passed by the High Court\nis concerned, the individual role and/or the merits of the case qua the respective appellants –\naccused have not at all been considered by the High Court. It is submitted that the High Court has\nonly stated at page 26, para 23 qua the present appellants that so far as the rests of the appellants\nare concerned, they have been rightly held guilty under Sections 323 & 147 IPC.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, | Arguments: Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,\n2021\n368\nAuthor: M.R. 606 OF 2021\nLakshman Singh …Appellant\nVersus\nState of Bihar (now Jharkhand) …Respondent\nWITH\nCRIMINAL APPEAL NOS. ...Appellants\nVersus\nState of Bihar (now Jharkhand) ...Respondent\nJUDGMENT\nM.R. Based on the statement of\nPW8 – Rajiv Ranjan Tiwari, which was recorded at 12:30 p.m. After conclusion of the investigation, the\ninvestigating officer filed chargesheet against 15 accused including the appellants herein. After closure of the evidence on behalf of the prosecution,\nstatements of the accused persons under Section 313 Cr.P.C. 2.4 Feeling aggrieved and dissatisfied with the judgment and order of conviction and sentence,\nconvicting and sentencing the appellants herein, original accused nos. Shri Manoj Swarup, learned Senior Advocate has appeared on behalf of the appellants – accused\nhave appeared for the State of Jharkhand. It is submitted that the aforesaid witnesses are unreliable and\nuntrustworthy. I | Intent: intentional | IPC: 323, 147, 148, 149, 307, 326, 324, 27, 379, 313, 141, 349, 146, 321, 319 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "147",
+          "148",
+          "149",
+          "307",
+          "326",
+          "324",
+          "27",
+          "379",
+          "313",
+          "141",
+          "349",
+          "146",
+          "321",
+          "319"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Chandrachud\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Feeling aggrieved and dissatisfied with the impugned common 14:49:36 IST Reason:\njudgment and order dated 31.10.2018 passed by the High Court of Jharkhand at\nRanchi in Criminal Appeal Nos. 2.1 The\nlearned trial Court framed the charge against the accused persons for the offences under Sections\n323, 307, 147, 149 and 379 IPC. As the case was\nexclusively triable by the Court of Sessions, the case was committed to the learned Sessions Court,\nwhich was numbered as Sessions Trial No. 242 of 1999 before the High Court. By the common impugned\njudgment and order, the High Court has dismissed the said appeals and has confirmed the judgment\nand order of conviction and sentence passed by the learned trial Court. 2.5 Feeling aggrieved and dissatisfied with the impugned common judgment and order passed by\nthe High Court, original accused nos. 3.1 Learned Senior Advocate appearing on behalf of the\nthe learned trial Court as well as the High Court have committed a grave error in convicting the\naccused for the offences under Sections 323, 147 IPC. 3.2 It is further submitted that both the courts below have materially erred in relying upon the\ndeposition of PW8, PW10 & PW5. 3.6 It is further submitted that both the courts below have not properly appreciated the fact that the\npresence of the accused at the polling station was natural. 3.7 It is further submitted that even otherwise, the courts below have materially erred in convicting\nthe accused for the offence under Section 323 IPC. 3.10 Making the above submissions and relying upon the decisions of this Court in the cases of\nKutumbaka Krishna Mohan Rao v. Public Prosecutor, High Court of A.P., reported in 1991 Supp. 4.8 It is further submitted that bogus voting seriously undermines the most basic feature of\ndemocracy and interferes with the conduct of free and fair election which has been held by this\nCourt in the case of People’s Union for Civil Liberties v.",
+      "embedding_text": "REASONING_CHUNK | Case: Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, | Judicial reasoning: Chandrachud\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. Feeling aggrieved and dissatisfied with the impugned common 14:49:36 IST Reason:\njudgment and order dated 31.10.2018 passed by the High Court of Jharkhand at\nRanchi in Criminal Appeal Nos. 2.1 The\nlearned trial Court framed the charge against the accused persons for the offences under Sections\n323, 307, 147, 149 and 379 IPC. As the case was\nexclusively triable by the Court of Sessions, the case was committed to the learned Sessions Court,\nwhich was numbered as Sessions Trial No. 242 of 1999 before the High Court. By the common impugned\njudgment and order, the High Court has dismissed the said appeals and has confirmed the judgment\nand order of conviction and sentence passed by the learned trial Court. 2.5 Feeling aggrieved and dissatisfied with the impugned common judgment and order passed by\nthe High Court, original accused nos. 3.1 Learned Senior Advocate appearing on behalf of th | Intent: intentional | Outcome: injury | IPC: 323, 147, 148, 149, 307, 326, 324, 27, 379, 313, 141, 349, 146, 321, 319",
+      "metadata": {
+        "case_name": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "147",
+          "148",
+          "149",
+          "307",
+          "326",
+          "324",
+          "27",
+          "379",
+          "313",
+          "141",
+          "349",
+          "146",
+          "321",
+          "319"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2021"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "232/1999 and 242/1999, by which the High CourtLakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, 2021\nIndian Kanoon - http://indiankanoon.org/doc/188128216/ 1\nhas dismissed the said appeals preferred by the appellants herein and has confirmed\nthe judgment and order of conviction and sentence passed by the learned trial Court\nconvicting the appellants for the offences under Sections 323 and 147 IPC and\nsentencing them to undergo six months simple imprisonment under both sections,\noriginal accused nos. The defence also examined DW1 to prove the injuries on accused Ayodhya Prasad Singh,\nRama Singh, Shiv Kumar Singh and Lakshman Singh and brought on record their injury reports.Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, 2021\nIndian Kanoon - http://indiankanoon.org/doc/188128216/ 2\n2.3 Thereafter, on conclusion of the full-fledged trial and on appreciation of the entire evidence on\nrecord and relying upon the deposition of PW8, PW10 & PW5, who all were injured eyewitnesses\nand other eyewitnesses, the learned trial Court convicted the appellants herein for the offences\nunder Sections 323 and 147 IPC and sentenced them to undergo six months simple imprisonment\nfor both the offences. The learned trial Court also convicted accused Dinanath Singh for the offences\nunder Sections 326 & 148 IPC and sentenced him to undergo seven years and two years RI\nrespectively. The learned trial Court also convicted accused Ajay Singh for the offences under\nSections 324 & 148 IPC and sentenced him to undergo three years & two years RI respectively. It is submitted that as\nsuch the learned trial Court has discussed the entire evidence on record and analysed the injury\nreports and thereafter by a detailed judgment has convicted the appellants for the offence of\nvoluntarily causing hurt under Section 323 IPC and for the offence of rioting under Section 147 IPC. 4.7 It is further submitted that as such the learned trial Court took a very lenient view in imposing\nthe sentence of only six months simple imprisonment. It is submitted that therefore when the trial Court has shown\nleniency to the appellants in sentencing them only for six months simple imprisonment, no\ninterference of this Court is called for.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, | Final judgment: 232/1999 and 242/1999, by which the High CourtLakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, 2021\nIndian Kanoon - http://indiankanoon.org/doc/188128216/ 1\nhas dismissed the said appeals preferred by the appellants herein and has confirmed\nthe judgment and order of conviction and sentence passed by the learned trial Court\nconvicting the appellants for the offences under Sections 323 and 147 IPC and\nsentencing them to undergo six months simple imprisonment under both sections,\noriginal accused nos. The defence also examined DW1 to prove the injuries on accused Ayodhya Prasad Singh,\nRama Singh, Shiv Kumar Singh and Lakshman Singh and brought on record their injury reports.Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July, 2021\nIndian Kanoon - http://indiankanoon.org/doc/188128216/ 2\n2.3 Thereafter, on conclusion of the full-fledged trial and on appreciation of the entire evidence on\nrecord and relying upon the deposition of PW8, PW10 & PW5, who all were injured eye | Judgment: convicted | IPC: 323, 147, 148, 149, 307, 326, 324, 27, 379, 313, 141, 349, 146, 321, 319",
+      "metadata": {
+        "case_name": "Lakshman Singh vs State Of Bihar (Now Jharkhand) on 23 July,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "147",
+          "148",
+          "149",
+          "307",
+          "326",
+          "324",
+          "27",
+          "379",
+          "313",
+          "141",
+          "349",
+          "146",
+          "321",
+          "319"
+        ],
+        "actions": [
+          "shot",
+          "fired",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "gun",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2021"
+      }
+    }
+  ]
+}

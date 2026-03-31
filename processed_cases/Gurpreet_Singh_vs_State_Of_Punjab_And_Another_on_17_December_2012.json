@@ -1,0 +1,137 @@
+{
+  "case_id": "Gurpreet_Singh_vs_State_Of_Punjab_And_Another_on_17_December_2012",
+  "case_name": "Gurpreet Singh vs State Of Punjab And Another on 17",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Misc. No. A-708-MA of 2012 (O&M)\nDate of Decision:17.12.2012\nGurpreet Singh\n.....Applicant\nVs. JUSTICE JASBIR SINGH\nHON'BLE MR. JUSTICE RAMESHWAR SINGH MALIK\nfor the applicant. ****\nRAMESHWAR SINGH MALIK, J. Crl. Misc. No.50203 of 2012 The applicant seeks condonation of delay of 30 days in filing the\napplication under Section 378(4) Cr.P.C for grant of leave to file appeal against the judgment dated\n9.5.2012. Crl. Misc. No. Facts first. However, to avoid repetition and also\nfor the sake of brevity, it would be appropriate to refer to the facts, as noticed by the learned trial\nCourt and the same read as under:-\n\"Briefly stated, facts of the case are that on 10.9.2010, ASI Parshotam Singh from\nPolice Station Chatiwind alongwith other police officials, was present at bus stand of\nvillage Chabba, in connection with patrolling and search of bad elements, where,\nGurpreet Singh son of Kulwant Singh of Mehra community, resident of Chatiwind,\n(complainant) came across him and got his statement, Ex.PA, recorded, to the effect\nthat on 9.9.2010, he was riding his motor cycle, make \"Discover\" having temporary\nNo.PB-02-Tem-2010-1870, on which, his brother's wife namely, Poonam and his\nnephew, Karan, aged about five years, were pillion riders and they were coming from\ntheir village to go to Gurudwara Shaheedan Sahib, Amritsar, to pay obeisance there. At about 5.15 p.m., when they were a little behind premises of Banke Bihari\nEnterprises, Chatiwind, a tractor Sawraj-855 with a trolley overloaded with paddy\ncrop, was going ahead, which, was being driven by its driver at a very fast speed. He\n(complainant) blew horn of his motor cycle to get way to overtake the tractor trolley,\nbut to no effect. He (complainant) managed to take his motor cycle parallel to tractor\ntrolley and asked its driver to drive slowly, otherwise, he would run over the other\npersons going on the road, to which, he replied in the affirmative and by saying so, he\naccelerated the tractor trolley and the side of it hit his motor cycle, with the result, his\nsister- in-law, Poonam fell down from motor cycle and got crushed under the tyre of\nthe tractor trolley and died at the spot.",
+      "embedding_text": "FACT_CHUNK | Case: Gurpreet Singh vs State Of Punjab And Another on 17 | Facts: Misc. No. A-708-MA of 2012 (O&M)\nDate of Decision:17.12.2012\nGurpreet Singh\n.....Applicant\nVs. JUSTICE JASBIR SINGH\nHON'BLE MR. JUSTICE RAMESHWAR SINGH MALIK\nfor the applicant. ****\nRAMESHWAR SINGH MALIK, J. Crl. Misc. No.50203 of 2012 The applicant seeks condonation of delay of 30 days in filing the\napplication under Section 378(4) Cr.P.C for grant of leave to file appeal against the judgment dated\n9.5.2012. Crl. Misc. No. Facts first. However, to avoid repetition and also\nfor the sake of brevity, it would be appropriate to refer to the facts, as noticed by the learned trial\nCourt and the same read as under:-\n\"Briefly stated, facts of the case are that on 10.9.2010, ASI Parshotam Singh from\nPolice Station Chatiwind alongwith other police officials, was present at bus stand of\nvillage Chabba, in connection with patrolling and search of bad elements, where,\nGurpreet Singh son of Kulwant Singh of Mehra community, resident of Chatiwind,\n(complainant) came across him and got his statement, | Actions: shot | Weapon: unknown | Outcome: death | IPC: 378, 304, 173, 313, 299, 166",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab And Another on 17",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "378",
+          "304",
+          "173",
+          "313",
+          "299",
+          "166"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The Tribunal,\nwhile decided issue No.1, has come to such conclusion. Gurpreet Singh vs State Of Punjab And Another on 17\nDecember, 2012\nAuthor: Rameshwar Singh Malik\nBench: Jasbir Singh, Rameshwar Singh Malik\nIN THE HIGH COURT OF PUNJAB AND HARYANA\nAT CHANDIGARH\n****\nCrl. Misc. No. A-708-MA of 2012 (O&M)\nDate of Decision:17.12.2012\nGurpreet Singh\n.....Applicant\nVs. State of Punjab and another\n.....Respondents\nCORAM:- HON'BLE MR. JUSTICE JASBIR SINGH\nHON'BLE MR. JUSTICE RAMESHWAR SINGH MALIK\nfor the applicant. ****\nRAMESHWAR SINGH MALIK, J. Crl. No.50203 of 2012 The applicant seeks condonation of delay of 30 days in filing the\napplication under Section 378(4) Cr.P.C for grant of leave to file appeal against the judgment dated\n9.5.2012. Having heard the learned counsel for the applicant, the instant application is allowed for the reasons\nstated therein and the delay of 30 days stands condoned.",
+      "embedding_text": "ISSUE_CHUNK | Case: Gurpreet Singh vs State Of Punjab And Another on 17 | Legal issues: The Tribunal,\nwhile decided issue No.1, has come to such conclusion. Gurpreet Singh vs State Of Punjab And Another on 17\nDecember, 2012\nAuthor: Rameshwar Singh Malik\nBench: Jasbir Singh, Rameshwar Singh Malik\nIN THE HIGH COURT OF PUNJAB AND HARYANA\nAT CHANDIGARH\n****\nCrl. Misc. No. A-708-MA of 2012 (O&M)\nDate of Decision:17.12.2012\nGurpreet Singh\n.....Applicant\nVs. State of Punjab and another\n.....Respondents\nCORAM:- HON'BLE MR. JUSTICE JASBIR SINGH\nHON'BLE MR. JUSTICE RAMESHWAR SINGH MALIK\nfor the applicant. ****\nRAMESHWAR SINGH MALIK, J. Crl. No.50203 of 2012 The applicant seeks condonation of delay of 30 days in filing the\napplication under Section 378(4) Cr.P.C for grant of leave to file appeal against the judgment dated\n9.5.2012. Having heard the learned counsel for the applicant, the instant application is allowed for the reasons\nstated therein and the delay of 30 days stands condoned. | IPC: 378, 304, 173, 313, 299, 166",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab And Another on 17",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "378",
+          "304",
+          "173",
+          "313",
+          "299",
+          "166"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Gurpreet Singh vs State Of Punjab And Another on 17\nDecember, 2012\nAuthor: Rameshwar Singh Malik\nBench: Jasbir Singh, Rameshwar Singh Malik\nIN THE HIGH COURT OF PUNJAB AND HARYANA\nAT CHANDIGARH\n****\nCrl. State of Punjab and another\n.....Respondents\nCORAM:- HON'BLE MR. Having heard the learned counsel for the applicant, the instant application is allowed for the reasons\nstated therein and the delay of 30 days stands condoned. The criminal law was set into motion by the applicant- complainant alleging that the\naccused- respondent has committed the offence in question. Aforesaid statement of complainant was read over to complainant, who, put his\nsignatures, thereon, in token of its correctness. He took intoGurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 2\npossession motor cycle, make Discover, having temporary\nNo.PB-02-Tempt-2010-1870, vide recovery memo, Ex.PK, attested by HC Harpal\nSingh and PHG Jagir Singh. As per record of the office of DTO, Amritsar, the tractor troelly\nNo.PB-46-E-7112 was registered in the name of M/s Sona Chandi Agro Processors\nnear Chabba Varpal Railway Crossing, Tarn Taran Road, Amritsar, whereas, theGurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 3\nmotor cycle No.PB-02-BJ-8841, was registered in the name of Anoop Singh son of\nKulwant Singh. After conclusion of the prosecution\nevidence, statement of the accused- respondent was recorded under Section 313\nCr.P.C. Opting to lead defence evidence, accused examined Smt. He further submits that the prosecution has brought on record sufficient\nand convincing evidence to bring home the guilt against the accused- respondent for\nthe offence punishable under Section 304-A IPC. He concluded by submitting thatGurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 4\nsince the impugned judgment was based on a misconceived approach, the same was\nliable to be modified. A combined reading of the statements suffered by PWs would show that the mensrea\nwas conspicuously missing in the present case. However,\ningredients of section 299 IPC i.e culpable homicide, which is punishable underGurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 5\nsection 304 IPC, are not proved.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Gurpreet Singh vs State Of Punjab And Another on 17 | Arguments: Gurpreet Singh vs State Of Punjab And Another on 17\nDecember, 2012\nAuthor: Rameshwar Singh Malik\nBench: Jasbir Singh, Rameshwar Singh Malik\nIN THE HIGH COURT OF PUNJAB AND HARYANA\nAT CHANDIGARH\n****\nCrl. State of Punjab and another\n.....Respondents\nCORAM:- HON'BLE MR. Having heard the learned counsel for the applicant, the instant application is allowed for the reasons\nstated therein and the delay of 30 days stands condoned. The criminal law was set into motion by the applicant- complainant alleging that the\naccused- respondent has committed the offence in question. Aforesaid statement of complainant was read over to complainant, who, put his\nsignatures, thereon, in token of its correctness. He took intoGurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 2\npossession motor cycle, make Discover, having temporary\nNo.PB-02-Tempt-2010-1870, vide recovery memo, Ex.PK, attested by HC Harpal\nSingh and PHG Jagir Singh. As pe | Intent: intentional | IPC: 378, 304, 173, 313, 299, 166 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab And Another on 17",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "378",
+          "304",
+          "173",
+          "313",
+          "299",
+          "166"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "After completion of investigation and other formalities, challan\nagainst the accused, was presented in the court of Area Magistrate, Amritsar. The offence under Section 304\nIPC was found exclusively triable by the Court of Sessions because of which, the\nlearned Area Magistrate committed the case to the learned Court of Sessions, for its\ntrial. Rakesh Kumari, Ahlmad of\nthe Court of learned Additional District Judge, Amritsar, as DW1 with a view to prove\nthe file of MACT Case No.40 of 10.11.2010 decided on 1.8.2011. After hearing the parties and appreciating the\nevidence brought on record, the learned trial Court came to the conclusion that the\nprosecution has failed to prove its case under Section 304 IPC. That is how, this Court is seized of the\nmatter. the case and giving thoughtful consideration to the contentions raised, this Court is of\nthe considered opinion that present one is not a fit case for granting leave to file\nappeal against the impugned judgment of acquittal. The learned trial Court has rightly found it to be a\ncase of rash and negligent driving only. Thus, this Court feels no hesitation to\nconclude that the learned trial Court has committed no error of law. The learned trial Court, before arriving at a judicious conclusion has recorded cogent\nfindings, which read as under:-\n\"Thus, from the statements of eye-witnesses examined on behalf of the prosecution, it\ncomes out that it was a road side accident, which took place due to rash and negligent\ndriving of tractor trolley by the accused. Therefore, said act of driver of tractor trolley,\ncannot be termed as culpable homicide, as it cannot be said that accused/ driver\nBaldev Singh @ Billu had caused death of Poonam with intention of causing death or\nwith intention of causing such bodily injuries likely to cause death, or with knowledge\nthat he was likely by such act, to cause death. Further, it is the settled proposition of law that whenever two views are possible, the\nview which goes in favour of the accused, is to be followed by the Court.",
+      "embedding_text": "REASONING_CHUNK | Case: Gurpreet Singh vs State Of Punjab And Another on 17 | Judicial reasoning: After completion of investigation and other formalities, challan\nagainst the accused, was presented in the court of Area Magistrate, Amritsar. The offence under Section 304\nIPC was found exclusively triable by the Court of Sessions because of which, the\nlearned Area Magistrate committed the case to the learned Court of Sessions, for its\ntrial. Rakesh Kumari, Ahlmad of\nthe Court of learned Additional District Judge, Amritsar, as DW1 with a view to prove\nthe file of MACT Case No.40 of 10.11.2010 decided on 1.8.2011. After hearing the parties and appreciating the\nevidence brought on record, the learned trial Court came to the conclusion that the\nprosecution has failed to prove its case under Section 304 IPC. That is how, this Court is seized of the\nmatter. the case and giving thoughtful consideration to the contentions raised, this Court is of\nthe considered opinion that present one is not a fit case for granting leave to file\nappeal against the impugned judgment of acquittal. The learned | Intent: intentional | Outcome: death | IPC: 378, 304, 173, 313, 299, 166",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab And Another on 17",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "378",
+          "304",
+          "173",
+          "313",
+          "299",
+          "166"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "A-708-MA of 2012 The present application under Section 378(4) of the Code of\nCriminal Procedure (`Cr.P.C.' for short) has been filed seeking leave to file appeal against the\njudgment dated 9.5.2012 passed by learned Sessions Judge, Amritsar whereby the respondent -\naccused was acquitted of the charge framed against him under Section 304 of the Indian Penal Code\n(`IPC' for short) and he was convicted under Section 304-A IPC. Accordingly, the respondent-Gurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 1\naccused was sentenced vide order of sentence dated 9.5.2012. He was convicted for the offence punishable\nunder Section 304-A IPC vide impugned judgment dated 9.5.2012. Consequently,\nvide order of sentence dated 9.5.2012, the accused- respondent was sentenced to\nundergo rigorous imprisonment for two years and to pay a fine of Rs.5,000/- for the\noffence punishable under Section 304-A IPC. In default of payment of fine, he was\nfurther ordered to undergo rigorous imprisonment for three months. Feeling aggrieved against the above said judgment whereby the accused- respondent\nwas acquitted of the charge framed against him under Section 304 IPC, the applicant-\ncomplainant has approached this Court. Said section provides that\nwhoever causes the death of any person by doing any such rash or negligent act not\namounting to culpable homicide, shall be punished with imprisonment of either\ndescription for a term which may extend to two years, or with fine, or with both. This Court provided guidelines for the\nAppellate Court in dealing with the cases in which the trial courts have acquitted the\naccused. The trial court judgment can not be set aside because the appellate court's view is more\nprobable. Shera Ram alias Vishnu Dutta , (2012) 1\n\"7. A judgment of acquittal has the obvious consequence of granting freedom to the\naccused. 8. The penal laws in India are primarily based upon certain fundamental procedural\nvalues, which are right to fair trial and presumption of innocence. A person is\npresumed to be innocent till proven guilty and once held to be not guilty of a criminal\ncharge, he enjoys the benefit of such presumption which could be interfered with only\nfor valid and proper reasons.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Gurpreet Singh vs State Of Punjab And Another on 17 | Final judgment: A-708-MA of 2012 The present application under Section 378(4) of the Code of\nCriminal Procedure (`Cr.P.C.' for short) has been filed seeking leave to file appeal against the\njudgment dated 9.5.2012 passed by learned Sessions Judge, Amritsar whereby the respondent -\naccused was acquitted of the charge framed against him under Section 304 of the Indian Penal Code\n(`IPC' for short) and he was convicted under Section 304-A IPC. Accordingly, the respondent-Gurpreet Singh vs State Of Punjab And Another on 17 December, 2012\nIndian Kanoon - http://indiankanoon.org/doc/127678645/ 1\naccused was sentenced vide order of sentence dated 9.5.2012. He was convicted for the offence punishable\nunder Section 304-A IPC vide impugned judgment dated 9.5.2012. Consequently,\nvide order of sentence dated 9.5.2012, the accused- respondent was sentenced to\nundergo rigorous imprisonment for two years and to pay a fine of Rs.5,000/- for the\noffence punishable under Section 304-A IPC. In default of payment of fine, | Judgment: convicted | IPC: 378, 304, 173, 313, 299, 166",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab And Another on 17",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "378",
+          "304",
+          "173",
+          "313",
+          "299",
+          "166"
+        ],
+        "actions": [
+          "shot"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    }
+  ]
+}

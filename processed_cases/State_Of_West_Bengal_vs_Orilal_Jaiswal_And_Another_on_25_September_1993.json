@@ -1,0 +1,147 @@
+{
+  "case_id": "State_Of_West_Bengal_vs_Orilal_Jaiswal_And_Another_on_25_September_1993",
+  "case_name": "State Of West Bengal vs Orilal Jaiswal And Another on 25",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Ray\nBench: G.N. Ray\nORDER\nG.N. Ray, J. 1. 195 of 1990. By the aforesaid judgment, the conviction and sentences against the accused, Sri Orilal\nJaiswal and his mother, Smt. 2. The prosecution case in short is that Usha Jaiswal had committed suicide by hanging on April 19,\n1986 in the house of her husband and the in-laws within a year from the date of marriage which was\nsolemnised between Usha Jaiswal and accused No. 1, Orilal Jaiswal on May 31, 1985. had been given at the time of marriage. The prosecution case is that the\ndeceased, Usha Jaiswal, who was only 20 years old had been treated cruelly and had been tortured\nboth mentally and physically by the accused. It has been alleged that within a few days after the\nmarriage, the father-in-law of the accused No. 2 had died and the accused No. 2 had treated the\ndeceased cruelly by telling her that she was a woman of evil luck (alakshmi) and because of her evil\nluck, the father-in-law had died shortly after the marriage. It has also been alleged that after the\nmarriage, the deceased, Usha Jaiswal, had conceived but there had been an abortion after being\nadmitted in the hospital. The accused No. 2, the mother-in-law of Usha Jaiswal caused severe\nmental pain by telling her in the hospital itself she was a woman of evil luck and that she had\nswallowed her baby and she should commit suicide. It has also been alleged that the accused No. 1\nthe husband of the deceased often used to come home drunk and physically assault the deceased. Both the husband and his mother had also caused severe mental torture to the deceased by telling\nthat she had brought bridal presents of sub-standard quality and such articles should be taken back\nand dowry gifts of good quality should be brought. It has been alleged by the prosecution that as a\nresult of such physical and mental torture by the accused persons, the deceased became unhappy\nand on several occasions when she had come to her father's house, she complained that she had\nbeen maltreated and tortured both physically and mentally with cruelty by the husband and\nmother-in-law in the manner aforesaid.",
+      "embedding_text": "FACT_CHUNK | Case: State Of West Bengal vs Orilal Jaiswal And Another on 25 | Facts: Ray\nBench: G.N. Ray\nORDER\nG.N. Ray, J. 1. 195 of 1990. By the aforesaid judgment, the conviction and sentences against the accused, Sri Orilal\nJaiswal and his mother, Smt. 2. The prosecution case in short is that Usha Jaiswal had committed suicide by hanging on April 19,\n1986 in the house of her husband and the in-laws within a year from the date of marriage which was\nsolemnised between Usha Jaiswal and accused No. 1, Orilal Jaiswal on May 31, 1985. had been given at the time of marriage. The prosecution case is that the\ndeceased, Usha Jaiswal, who was only 20 years old had been treated cruelly and had been tortured\nboth mentally and physically by the accused. It has been alleged that within a few days after the\nmarriage, the father-in-law of the accused No. 2 had died and the accused No. 2 had treated the\ndeceased cruelly by telling her that she was a woman of evil luck (alakshmi) and because of her evil\nluck, the father-in-law had died shortly after the marriage. It has also been all | Actions: assaulted, killed, murdered, cruelty | Weapon: unknown | Outcome: death | IPC: 306, 34, 498, 113A, 498A",
+      "metadata": {
+        "case_name": "State Of West Bengal vs Orilal Jaiswal And Another on 25",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "306",
+          "34",
+          "498",
+          "113A",
+          "498A"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1993"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "It has\nbeen indicated by the High Court that although a medical certificate has been produced to indicate\nthat the father was cancer patient when the trial had started but there is no evidence to indicate\nwhether the condition of the father had deteriorated between the date of occurrence and the date of\ntrial. Where such\nevidences are to be accepted or not accepted or not and whether the injuries, anti mortem in nature\nfound on the person of the deceased can be explained or not are different considerations but it will\nnot be correct to hold that there is no evidence about mal treatment given to Usha or there is\nabsence of any evidence of injuries sustained by her before death. Whether the evidence of interested witness is worthy of\ncredence is to be judged in the special facts of the case. Although, the court's conscience must be satisfied that the\naccused is not held guilty when there are reasonable doubts about the complicity of the accused in\nrespect of the offences alleged, it should be borne in mind that there is no absolute standard for\nproof in a criminal trial and the question whether the charges made against the accused have been\nproved beyond all reasonable doubt must depend upon the facts and circumstances of the case and\nthe quality of the evidences adduced in the case and the materials placed on record. We may add here that the Court should be extremely careful in assessing the\nfacts and circumstances of each case and the evidence adduced in the trial for the purpose of finding\nwhether the cruelty meted out to the victim had in fact induced her to end the life by committing\nsuicide. Under explanation (a) of Section 498A I.P.C., \"cruelty\" means - \"any wilful\nconduct which is of such nature as is likely to drive the woman to commit suicide or to cause grave\ninjury or danger to life, limb or health (whether mental or physical) of the woman.\"State Of West Bengal vs Orilal Jaiswal And Another on 25 September, 1993\nIndian Kanoon - http://indiankanoon.org/doc/337402/ 13\n18.",
+      "embedding_text": "ISSUE_CHUNK | Case: State Of West Bengal vs Orilal Jaiswal And Another on 25 | Legal issues: It has\nbeen indicated by the High Court that although a medical certificate has been produced to indicate\nthat the father was cancer patient when the trial had started but there is no evidence to indicate\nwhether the condition of the father had deteriorated between the date of occurrence and the date of\ntrial. Where such\nevidences are to be accepted or not accepted or not and whether the injuries, anti mortem in nature\nfound on the person of the deceased can be explained or not are different considerations but it will\nnot be correct to hold that there is no evidence about mal treatment given to Usha or there is\nabsence of any evidence of injuries sustained by her before death. Whether the evidence of interested witness is worthy of\ncredence is to be judged in the special facts of the case. Although, the court's conscience must be satisfied that the\naccused is not held guilty when there are reasonable doubts about the complicity of the accused in\nrespect of the offences alleged, it shou | IPC: 306, 34, 498, 113A, 498A",
+      "metadata": {
+        "case_name": "State Of West Bengal vs Orilal Jaiswal And Another on 25",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "306",
+          "34",
+          "498",
+          "113A",
+          "498A"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1993"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "State Of West Bengal vs Orilal Jaiswal And Another on 25\nSeptember, 1993\nEquivalent citations: AIR1994SC1418, 1994(1)ALT(CRI)193, 1994(1)BLJR267,\n1994CRILJ2104, I(1994)DMC138SC, JT1993(6)SC69, 1993(3)SCALE845,\n(1) SCC 73, 1994 AIR SCW 844, (1993) 6 JT 69 (SC), 1993 (4) CURCRIR 392.2,\n1993 (2) UJ (SC) 773, 1994 ALLAPPCAS (CRI) 20, 1994 SCC(CRI) 107, 1993 (6)\nJT 69, 1994 (1) BLJR 267, (1994) SC CR R 156, 1994 CALCRILR 10, (1993) 3\nCRIMES 518, (1993) 3 SCJ 315, (1994) 1 DMC 138, (1994) 2 EASTCRIC 262,\n(1994) 3 RECCRIR 186, (1994) MAD LJ(CRI) 187, (1995) 20 MARRILJ 231,\n(1994) 2 HINDULR 575, (1993) 4 CURCRIR 392(2), (1994) 1 CRICJ 53, (1993) 3\nALLCRILR 352\nAuthor: G.N. This appeal has been preferred by the State of West Bengal against the judgment of acquittal\ndated May 14, 1990 passed by the Division Bench of the Calcutta High Court in Criminal Appeal No. It is the case of\nthe prosecution that it was a negotiated marriage and according to the demand of the accusedState Of West Bengal vs Orilal Jaiswal And Another on 25 September, 1993\nIndian Kanoon - http://indiankanoon.org/doc/337402/ 1\npersons and other members of the family of in-laws sufficient dowry including colour T.V., motor\ncycle, gold ornaments etc. She also stated that on the day of committing suicide\nthe accused, Orilal Jaiswal, came to her house at about 10.00 A.M. She stated in her deposition that she became\nshocked on hearing the news of death of her daughter and was not in a position to make any\nstatement. Next day, she requested her\nhusband to take her to the police station to make a statement. by the Police.State Of West Bengal vs Orilal Jaiswal And Another on 25 September, 1993\nIndian Kanoon - http://indiankanoon.org/doc/337402/ 3\n6. She also stated that on the day when her sister had committed\nsuicide, Orilal Jaiswal came at about 10.00 A.M. The learned\nSessions Judge has observed that although in the cross-examination, the doctor conducting the post\nmortem examination had stated in answer to the suggestion given by the learned Counsel for the\naccused that such injuries were also possible due to impact against a hard substance and the\nabrasion noted on the neck of the deceased could be caused by a friction from a nylon rope which\nwas a rough substance, such injuries were ante mortem in nature it was not likely that the said\ninjuries would be caused on the person of the deceased by hitting against wall or other hard object\nafter she had committed suicide.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: State Of West Bengal vs Orilal Jaiswal And Another on 25 | Arguments: State Of West Bengal vs Orilal Jaiswal And Another on 25\nSeptember, 1993\nEquivalent citations: AIR1994SC1418, 1994(1)ALT(CRI)193, 1994(1)BLJR267,\n1994CRILJ2104, I(1994)DMC138SC, JT1993(6)SC69, 1993(3)SCALE845,\n(1) SCC 73, 1994 AIR SCW 844, (1993) 6 JT 69 (SC), 1993 (4) CURCRIR 392.2,\n1993 (2) UJ (SC) 773, 1994 ALLAPPCAS (CRI) 20, 1994 SCC(CRI) 107, 1993 (6)\nJT 69, 1994 (1) BLJR 267, (1994) SC CR R 156, 1994 CALCRILR 10, (1993) 3\nCRIMES 518, (1993) 3 SCJ 315, (1994) 1 DMC 138, (1994) 2 EASTCRIC 262,\n(1994) 3 RECCRIR 186, (1994) MAD LJ(CRI) 187, (1995) 20 MARRILJ 231,\n(1994) 2 HINDULR 575, (1993) 4 CURCRIR 392(2), (1994) 1 CRICJ 53, (1993) 3\nALLCRILR 352\nAuthor: G.N. This appeal has been preferred by the State of West Bengal against the judgment of acquittal\ndated May 14, 1990 passed by the Division Bench of the Calcutta High Court in Criminal Appeal No. It is the case of\nthe prosecution that it was a negotiated marriage and according to the demand of the accusedState Of West Bengal vs O | Intent: unknown | IPC: 306, 34, 498, 113A, 498A | Judgment context: convicted",
+      "metadata": {
+        "case_name": "State Of West Bengal vs Orilal Jaiswal And Another on 25",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "306",
+          "34",
+          "498",
+          "113A",
+          "498A"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1993"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Gujarati Debi Jaiswal, passed by the learned Sessions Judge, 12th\nBench of the City Sessions Court, Calcutta on February 29, 1990 in Sessions Trial No. The learned Session Judge observed that the Investigation Officer had deviated\nfrom his normal duties of investigation in a serious case and most of his statement which was given\nout at the time of cross-examination could not be treated as a substantive statement either for the\nprosecution or for the defence. Therefore\nthey had been to the hospital where they got the information that the sister had died by hanging. The learned Sessions Judge therefore came to the finding that even if the evidences of P.W.5 to\nwere left out of consideration, there was no reason to doubt the veracity of the evidences of the\nmother, P.W.2 regarding the complicity of the accused persons and from such evidence it transpired\nthat the accused persons had systematically abused deceased Usha Jaiswal sometime by calling her\nas a woman of bad omen and sometime asking for taking back bridal presents of inferior quality and\nshe was also abused for the failure to bring further dowry from her parental house. The High Court has not also accepted the prosecution case that Usha had\ncommitted suicide because of such mental torture. A decision of this Court in the case of Ganesh Patel v. Hence, there was no case under Section 306 of the I.P.C. The High Court has also held that although allegation had been made\nagainst the accused No. Hence, deposition of P.W.6 Om Prakash was only\nhearsay evidence and no reliance should be placed on that. Hence, he was able to move at that time. The High Court has noted that there is no evidence as to how and in what manner the victim had\nreceived injuries noted by the doctor holding post mortem examination. The High Court has held\nthat there is no evidence as to who has caused such injuries. Hence, he made statement to the effect. It is only unfortunate that the High Court has not\nconsidered such reasonings of the learned Sessions Judge in their proper perspective.",
+      "embedding_text": "REASONING_CHUNK | Case: State Of West Bengal vs Orilal Jaiswal And Another on 25 | Judicial reasoning: Gujarati Debi Jaiswal, passed by the learned Sessions Judge, 12th\nBench of the City Sessions Court, Calcutta on February 29, 1990 in Sessions Trial No. The learned Session Judge observed that the Investigation Officer had deviated\nfrom his normal duties of investigation in a serious case and most of his statement which was given\nout at the time of cross-examination could not be treated as a substantive statement either for the\nprosecution or for the defence. Therefore\nthey had been to the hospital where they got the information that the sister had died by hanging. The learned Sessions Judge therefore came to the finding that even if the evidences of P.W.5 to\nwere left out of consideration, there was no reason to doubt the veracity of the evidences of the\nmother, P.W.2 regarding the complicity of the accused persons and from such evidence it transpired\nthat the accused persons had systematically abused deceased Usha Jaiswal sometime by calling her\nas a woman of bad omen and sometime ask | Intent: unknown | Outcome: death | IPC: 306, 34, 498, 113A, 498A",
+      "metadata": {
+        "case_name": "State Of West Bengal vs Orilal Jaiswal And Another on 25",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "306",
+          "34",
+          "498",
+          "113A",
+          "498A"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1993"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "1 of 1990 was\nset aside by the High Court and the accused were acquitted of the conviction under Section 306 read\nwith Section 34 I.P.C. and sentence of 5 years' rigorous imprisonment and fine of Rs. 1000 in default\nsimple imprisonment for 3 months and conviction under Section 498 read with Section 34 I.P.C. an\nsentence of one year rigorous imprisonment and a fine of Rs. 1000 in default to suffer simple\nimprisonment for three months. In that view of the matter the\nHigh Court set aside the conviction and sentences and passed the order of acquittal in favour of both\nthe accused. Despite clear and unambiguous evidences about cruelty the High Court unjustly and on\nflimsy grounds did not accept the prosecution case and set aside the well reasoned judgment of the\nlearned Sessions Judge. The impugned judgment has resulted in gross failure of justice and should be set aside and the\nconviction and sentences imposed by the learned Sessions Judge should be upheld by this Court. Justice cannot be made sterile on the\nplea that it is better to let hundred guilty escape than punish an innocent. Letting guilty escape is\nnot doing justice, according to law. (Emphasis supplied)\n17. In the instant case, the learned Sessions Judge has come to the finding that the charges levelled\nagainst the accused have been proved by indicating cogent reasons therefor. The evidence adduced in the case has clearly\nestablished that Usha was subjected to abuses, humiliation and mental torture from the very\nbeginning of her married life. Within a few days after the marriage when a newly married bride\nwould reasonably expects love and affection from the in-laws, she was abused by the mother-in-law,\nthe accused No. When Usha conceived for the first time she had the\nmisfortune of abortion. The evidence in the case\nreveals an act of extreme form of cruelty by telling the unfortunate mother that she was vile enough\nto swallow her own baby and she should commit suicide. There is also evidence in the case that the\nhusband used to come home drunk and abuse her and also used to assault her on occasions.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: State Of West Bengal vs Orilal Jaiswal And Another on 25 | Final judgment: 1 of 1990 was\nset aside by the High Court and the accused were acquitted of the conviction under Section 306 read\nwith Section 34 I.P.C. and sentence of 5 years' rigorous imprisonment and fine of Rs. 1000 in default\nsimple imprisonment for 3 months and conviction under Section 498 read with Section 34 I.P.C. an\nsentence of one year rigorous imprisonment and a fine of Rs. 1000 in default to suffer simple\nimprisonment for three months. In that view of the matter the\nHigh Court set aside the conviction and sentences and passed the order of acquittal in favour of both\nthe accused. Despite clear and unambiguous evidences about cruelty the High Court unjustly and on\nflimsy grounds did not accept the prosecution case and set aside the well reasoned judgment of the\nlearned Sessions Judge. The impugned judgment has resulted in gross failure of justice and should be set aside and the\nconviction and sentences imposed by the learned Sessions Judge should be upheld by this Court. Justice cannot be  | Judgment: convicted | IPC: 306, 34, 498, 113A, 498A",
+      "metadata": {
+        "case_name": "State Of West Bengal vs Orilal Jaiswal And Another on 25",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "306",
+          "34",
+          "498",
+          "113A",
+          "498A"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "murdered",
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1993"
+      }
+    }
+  ]
+}

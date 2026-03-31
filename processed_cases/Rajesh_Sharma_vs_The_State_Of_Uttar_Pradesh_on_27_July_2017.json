@@ -1,0 +1,147 @@
+{
+  "case_id": "Rajesh_Sharma_vs_The_State_Of_Uttar_Pradesh_on_27_July_2017",
+  "case_name": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Khanwilkar, D.Y. 1265 OF 2017\n[Arising out of Special Leave Petition (Crl.) No.2013 of 2017]\nRajesh Sharma & ors. & Anr. 1. Nadkarni, learned ASG and Shri V.V. We place on record our gratitude for the assistance rendered by learned ASG Shri Nadkarni\nand learned senior counsel Shri Giri who in turn was ably assisted by advocates Ms. Uttara Babbar,\nMs. Pragya Baghel and Ms. Svadha Shanker. 3. Proceedings have arisen from complaint dated 2 nd December, 2013 filed by respondent No.2\nwife of appellant No.1. They\nstarted abusing the complainant. They made a demand of dowry of Rs.3,00,000/- and a car which\nthe family could not arrange. She was pregnant and suffered pain in the process and her pregnancy was\nterminated. Order dated 14th July, 2014 read as follows:\n“After perusal of the file and the document brought on record. It appears that he has tortured the complainant. So far as torture and retaining of the stri dhan and demanding 50,000 and a gold\nchain and in not meeting the demand the torture is attributable against Shri Rajesh\nSharma. Rajesh Sharma appears to be main accused. In the circumstances, rest of the\naccused Vijay Sharma, Jaywati Sharma, Praveen Sharma and Priyanka Sharma have\nnot committed any crime and they have not participated in commission of the crime. Whereas, it appears that Rajesh Sharma has committed an offence under Section\n498A, 323 IPC and read with section 3 / 4 DP act appears to have prima facie made\nout. Though the matter was referred to the mediation centre, the mediation\nfailed. 5. Main contention raised in support of this appeal is that there is need to check the tendency to\nrope in all family members to settle a matrimonial dispute. Omnibus allegations against all relatives\nof the husband cannot be taken at face value when in normal course it may only be the husband or at\nbest his parents who may be accused of demanding dowry or causing cruelty. complaint. 7. Learned ASG submitted that Section 498A was enacted to check unconscionable demands by\ngreedy husbands and their families which at times result in cruelty to women and also suicides.",
+      "embedding_text": "FACT_CHUNK | Case: Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017 | Facts: Khanwilkar, D.Y. 1265 OF 2017\n[Arising out of Special Leave Petition (Crl.) No.2013 of 2017]\nRajesh Sharma & ors. & Anr. 1. Nadkarni, learned ASG and Shri V.V. We place on record our gratitude for the assistance rendered by learned ASG Shri Nadkarni\nand learned senior counsel Shri Giri who in turn was ably assisted by advocates Ms. Uttara Babbar,\nMs. Pragya Baghel and Ms. Svadha Shanker. 3. Proceedings have arisen from complaint dated 2 nd December, 2013 filed by respondent No.2\nwife of appellant No.1. They\nstarted abusing the complainant. They made a demand of dowry of Rs.3,00,000/- and a car which\nthe family could not arrange. She was pregnant and suffered pain in the process and her pregnancy was\nterminated. Order dated 14th July, 2014 read as follows:\n“After perusal of the file and the document brought on record. It appears that he has tortured the complainant. So far as torture and retaining of the stri dhan and demanding 50,000 and a gold\nchain and in not meeting the demand the t | Actions: cruelty | Weapon: unknown | Outcome: death | IPC: 498A, 323, 3, 4, 498, 41, 41A, 14",
+      "metadata": {
+        "case_name": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "498A",
+          "323",
+          "3",
+          "4",
+          "498",
+          "41",
+          "41A",
+          "14"
+        ],
+        "actions": [
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The question which has arisen in this appeal is whether any directions are called for to prevent\nthe misuse of Section 498A, as acknowledged in certain studies and decisions. Police Authorities:\n(a) Pursuant to directions given by the Apex Court, the Commissioner of Police, Delhi\nvide Standing Order No.330/2007 had already issued guidelines for arrest in the\ndowry cases registered under Sections 498-A/406 IPC and the said guidelines should\nbe followed by the Delhi Police strictly and scrupulously. This Court had earlier\nnoticed the fact that most of such complaints are filed in the heat of the moment over trivial issues. Some High Courts have\nissued directions to check such abuse. We have considered the background of the issue and also taken into account the 243rd Report of\nthe Law Commission dated 30th August, 2012, 140th Report of the Rajya Sabha Committee on\nPetitions (September, 2011) and earlier decisions of this Court.",
+      "embedding_text": "ISSUE_CHUNK | Case: Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017 | Legal issues: The question which has arisen in this appeal is whether any directions are called for to prevent\nthe misuse of Section 498A, as acknowledged in certain studies and decisions. Police Authorities:\n(a) Pursuant to directions given by the Apex Court, the Commissioner of Police, Delhi\nvide Standing Order No.330/2007 had already issued guidelines for arrest in the\ndowry cases registered under Sections 498-A/406 IPC and the said guidelines should\nbe followed by the Delhi Police strictly and scrupulously. This Court had earlier\nnoticed the fact that most of such complaints are filed in the heat of the moment over trivial issues. Some High Courts have\nissued directions to check such abuse. We have considered the background of the issue and also taken into account the 243rd Report of\nthe Law Commission dated 30th August, 2012, 140th Report of the Rajya Sabha Committee on\nPetitions (September, 2011) and earlier decisions of this Court. | IPC: 498A, 323, 3, 4, 498, 41, 41A, 14",
+      "metadata": {
+        "case_name": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "498A",
+          "323",
+          "3",
+          "4",
+          "498",
+          "41",
+          "41A",
+          "14"
+        ],
+        "actions": [
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017\nAIR 2017 SC (CRIMINAL) 1458, 2017 (4) AJR 408, (2017) 3 JLJR 180, (2017) 3\nBOMCR(CRI) 677, (2017) 3 KER LT 104, (2017) 100 ALLCRIC 927, (2017) 2\nMARRILJ 187, (2017) 3 RAJ LW 2266, (2017) 3 CGLJ 573, (2017) 3 ALLCRILR\n836, 2017 CRILR(SC MAH GUJ) 846, (2017) 3 PAT LJR 240, (2018) 1\nMADLW(CRI) 456, (2017) 3 DLT(CRL) 422, (2017) 2 DMC 747, 2017 CALCRILR\n3 241, (2017) 3 CRIMES 268, (2017) 2 ALLCRIR 2225, 2017 ALLMR(CRI) 3526,\n(2017) 2 ALD(CRL) 568, (2017) 68 OCR 42, (2017) 8 SCALE 313, (2017) 177\nALLINDCAS 224 (SC), (2017) 3 RECCRIR 836, (2017) 5 MH LJ (CRI) 133, (2017)\n3 GUJ LR 2430, (2017) 2 GUJ LH 818, (2017) 3 KER LJ 861, (2017) 3\nCRILR(RAJ) 846, (2017) 3 CURCRIR 211, (2017) 3 UC 1601, (2017) 2 CLR 392\n(SC), 2017 CRILR(SC&MP) 846, (2017) 3 MAD LJ(CRI) 602, 2019 (1) SCC (CRI)\n301, 2017 (3) KLT SN 85 (KER)\nAuthor: Adarsh Kumar Goel\nBench: Chief Justice, A.M. …Appellants\nVersus\nState of U.P. …Respondents\nJUDGMENT\nAdarsh Kumar Goel, J. Leave granted.Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017\nIndian Kanoon - http://indiankanoon.org/doc/182220573/ 1\n2. Appellants 2 to 5 are the parents and siblings of appellant No.1. The\ncomplainant alleged that she was married to appellant No.1 on 28th November, 2012. Her father\ngave dowry as per his capacity but the appellants were not happy with the extent of the dowry. On 10th November, 2013, appellant No.1 dropped the complainant at\nher matrimonial home. On the said version, and further version that her stridhan was retained, appellant No.1\nwas summoned under Section 498A and Section 323 IPC. Appellants 2 to 5 were not summoned. Against the above order, respondent No.2 preferred a revision petition and submitted that\nSessions Judge, Jaunpur vide order dated 3rd July, 2015. To check abuse of overRajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017\nIndian Kanoon - http://indiankanoon.org/doc/182220573/ 2\nimplication, clear supporting material is needed to proceed against other relatives of a husband.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017 | Arguments: Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017\nAIR 2017 SC (CRIMINAL) 1458, 2017 (4) AJR 408, (2017) 3 JLJR 180, (2017) 3\nBOMCR(CRI) 677, (2017) 3 KER LT 104, (2017) 100 ALLCRIC 927, (2017) 2\nMARRILJ 187, (2017) 3 RAJ LW 2266, (2017) 3 CGLJ 573, (2017) 3 ALLCRILR\n836, 2017 CRILR(SC MAH GUJ) 846, (2017) 3 PAT LJR 240, (2018) 1\nMADLW(CRI) 456, (2017) 3 DLT(CRL) 422, (2017) 2 DMC 747, 2017 CALCRILR\n3 241, (2017) 3 CRIMES 268, (2017) 2 ALLCRIR 2225, 2017 ALLMR(CRI) 3526,\n(2017) 2 ALD(CRL) 568, (2017) 68 OCR 42, (2017) 8 SCALE 313, (2017) 177\nALLINDCAS 224 (SC), (2017) 3 RECCRIR 836, (2017) 5 MH LJ (CRI) 133, (2017)\n3 GUJ LR 2430, (2017) 2 GUJ LH 818, (2017) 3 KER LJ 861, (2017) 3\nCRILR(RAJ) 846, (2017) 3 CURCRIR 211, (2017) 3 UC 1601, (2017) 2 CLR 392\n(SC), 2017 CRILR(SC&MP) 846, (2017) 3 MAD LJ(CRI) 602, 2019 (1) SCC (CRI)\n301, 2017 (3) KLT SN 85 (KER)\nAuthor: Adarsh Kumar Goel\nBench: Chief Justice, A.M. …Appellants\nVersus\nState of U.P. …Respondents\nJUDGMENT\nAdarsh Kumar Goe | Intent: unknown | IPC: 498A, 323, 3, 4, 498, 41, 41A, 14 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "498A",
+          "323",
+          "3",
+          "4",
+          "498",
+          "41",
+          "41A",
+          "14"
+        ],
+        "actions": [
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Chandrachud, Adarsh Kumar\nGoel\n1\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. The Court requested\nShri A.S. Giri, learned senior counsel to assist the Court as\namicus. It is clear that the\nhusband Shri Rajesh Sharma demanded car and three lacs rupees and in not meeting\nthe demand. Therefore, a summon be issued against him.”\n4. The trial court was directed to take a fresh\ndecision in the matter. Thereafter, the trial court vide order dated 18th August, 2015 summoned\nthe order of summoning. Thereafter, the High Court found no ground to interfere with the order of summoning and\ndismissed the petition. Hence this appeal. The Madras High Court in M.P. 11.8 Authorising detention without recording reasons as aforesaid by the judicial Magistrate\nconcerned shall be liable for departmental action by the appropriate High Court.”\n11. While granting\npermission, the court must ascertain that there is prima facie material of the accused having done\nsome overt and covert act. This Court had earlier observed that a serious review of the provision was warranted 9. The abuse of the 8 Explanation to Section 498A 9 Preeti Gupta (supra)\nprovision was also noted in the judgments of this Court referred to earlier. In Arnesh Kumar (supra) this Court gave directions to\nsafeguard uncalled for arrests. Function of this Court is not to legislate but only to interpret the law. Certain safeguards against uncalled for arrest or insensitive\ninvestigation have been addressed by this Court. It is also necessary to facilitate closure of proceedings where a genuine\nsettlement has been reached instead of parties being required to move High Court only for that\npurpose. Thus, after careful consideration of the whole issue, we consider it fit to give following directions\n:-\ni) (a) In every district one or more Family Welfare Committees be constituted by the\nDistrict Legal Services Authorities preferably comprising of three members. The matter may be listed for consideration by the Court in April, 2018. It will be open to the parties in the present case to approach the concerned trial or other court\nfor further orders in the light of the above directions.",
+      "embedding_text": "REASONING_CHUNK | Case: Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017 | Judicial reasoning: Chandrachud, Adarsh Kumar\nGoel\n1\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. The Court requested\nShri A.S. Giri, learned senior counsel to assist the Court as\namicus. It is clear that the\nhusband Shri Rajesh Sharma demanded car and three lacs rupees and in not meeting\nthe demand. Therefore, a summon be issued against him.”\n4. The trial court was directed to take a fresh\ndecision in the matter. Thereafter, the trial court vide order dated 18th August, 2015 summoned\nthe order of summoning. Thereafter, the High Court found no ground to interfere with the order of summoning and\ndismissed the petition. Hence this appeal. The Madras High Court in M.P. 11.8 Authorising detention without recording reasons as aforesaid by the judicial Magistrate\nconcerned shall be liable for departmental action by the appropriate High Court.”\n11. While granting\npermission, the court must ascertain that there is prima facie material of the accused having done\nsome | Intent: unknown | Outcome: death | IPC: 498A, 323, 3, 4, 498, 41, 41A, 14",
+      "metadata": {
+        "case_name": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "498A",
+          "323",
+          "3",
+          "4",
+          "498",
+          "41",
+          "41A",
+          "14"
+        ],
+        "actions": [
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The Report stated that as many as 3,72,706 cases were\npending trial of which 3,17,000 were projected to be acquitted. That according to Report of Crime in India, 2013, the National Crime Records\nBureau further pointed out that of 4,66,079 cases that were pending in the start of\n2013, only 7,258 were convicted while 38,165 were acquitted and 8,218 were\nwithdrawn. (f) The committee may give its brief report about the factual aspects and its opinion in the matter. (g) Till report of the committee is received, no arrest should normally be effected. (h) The report may be then considered by the Investigating Officer or the Magistrate on its own\nmerit. (i) Members of the committee may be given such basic minimum training as may be considered\nnecessary by the Legal Services Authority from time to time. (j) The Members of the committee may be given such honorarium as may be considered viable. (k) It will be open to the District and Sessions Judge to utilize the cost fund wherever considered\nnecessary and proper. Such designations may be made within one month from\ntoday. Such designated officer may be required to undergo training for such duration (not less than\none week) as may be considered appropriate. The training may be completed within four months\nfrom today;\niii) In cases where a settlement is reached, it will be open to the District and Sessions Judge or any\nother senior Judicial Officer nominated by him in the district to dispose of the proceedings\nincluding closing of the criminal case if dispute primarily relates to matrimonial discord;\niv) If a bail application is filed with at least one clear day’s notice to the Public\nProsecutor/complainant, the same may be decided as far as possible on the same day. Recovery of\ndisputed dowry items may not by itself be a ground for denial of bail if maintenance or other rights\nof wife/minor children can otherwise be protected. 20. After seeing the working of the above arrangement for six months but latest by March 31, 2018,\nNational Legal Services Authority may give a report about need for any change in above directions\nor for any further directions.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017 | Final judgment: The Report stated that as many as 3,72,706 cases were\npending trial of which 3,17,000 were projected to be acquitted. That according to Report of Crime in India, 2013, the National Crime Records\nBureau further pointed out that of 4,66,079 cases that were pending in the start of\n2013, only 7,258 were convicted while 38,165 were acquitted and 8,218 were\nwithdrawn. (f) The committee may give its brief report about the factual aspects and its opinion in the matter. (g) Till report of the committee is received, no arrest should normally be effected. (h) The report may be then considered by the Investigating Officer or the Magistrate on its own\nmerit. (i) Members of the committee may be given such basic minimum training as may be considered\nnecessary by the Legal Services Authority from time to time. (j) The Members of the committee may be given such honorarium as may be considered viable. (k) It will be open to the District and Sessions Judge to utilize the cost fund wherever considered\nnec | Judgment: convicted | IPC: 498A, 323, 3, 4, 498, 41, 41A, 14",
+      "metadata": {
+        "case_name": "Rajesh Sharma vs The State Of Uttar Pradesh on 27 July, 2017",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "498A",
+          "323",
+          "3",
+          "4",
+          "498",
+          "41",
+          "41A",
+          "14"
+        ],
+        "actions": [
+          "cruelty"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2017"
+      }
+    }
+  ]
+}

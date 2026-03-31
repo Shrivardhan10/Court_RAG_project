@@ -1,0 +1,157 @@
+{
+  "case_id": "Udai_Singh_vs_State_on_2_December_2008",
+  "case_name": "Udai Singh vs State on 2 December, 2008",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "APPEAL NO. Through: Mr. D.M. Sunil Sharma,\nAPP\nCORAM:\n* HON'BLE MR. JUSTICE MUKUL MUDGAL\nHON'BLE MR. JUSTICE P.K.BHASIN\n1. To be referred to the Reporter or not?(Yes)\n3. 2. The facts leading to the trial and conviction of the appellant(hereinafter to be referred as „the\naccused) may first be noticed. The deceased Smt. Taking\nadvantage of that closeness the accused started asking the deceased that they should live as husband\nand wife but she rejected that proposal. The accused, however, instead of dropping the idea of\nmarrying her from his mind threatened her that he would deform her face and body with acid to\nsuch an extent that she would not be liked by anyone. On the night of 17th May, 2000 at about 10\np.m. the deceased was lying with her twelve years old daughter Sonia(PW-\n1) in the balcony of her house on the first floor. At that time the accused came to the\nbalcony scaling the wall near the staircase and poured acid on her and Sonia from a\nbottle which he was having in his hand. The deceased and her daughter felt burning\nsensation on their bodies and so they raised alarm upon which the accused threw the\nbottle in the room near the balcony and ran away. It was also the case of the\nprosecution that Aruna had tried to save herself by trying to prevent the accused from\nthrowing acid on her and in that process some acid had fallen on the accused also. Both the mother and daughter poured water on their bodies and came down weeping\nand shrieking with pain. On hearing their shrieks their relative Tejpal(PW-12), living\nin the neighbourhood, rushed to their house and took both of them to GTB Hospital\nin Shahadara. The deceased when examined by the doctor(PW-3) at the GTB\nHospital was found to be conscious and oriented. At that time her blood pressure was\n112/76 and pulse rate was 92. On being asked by the doctor examining her she\ninformed the doctor that somebody had thrown acid on her half an hour back.",
+      "embedding_text": "FACT_CHUNK | Case: Udai Singh vs State on 2 December, 2008 | Facts: APPEAL NO. Through: Mr. D.M. Sunil Sharma,\nAPP\nCORAM:\n* HON'BLE MR. JUSTICE MUKUL MUDGAL\nHON'BLE MR. JUSTICE P.K.BHASIN\n1. To be referred to the Reporter or not?(Yes)\n3. 2. The facts leading to the trial and conviction of the appellant(hereinafter to be referred as „the\naccused) may first be noticed. The deceased Smt. Taking\nadvantage of that closeness the accused started asking the deceased that they should live as husband\nand wife but she rejected that proposal. The accused, however, instead of dropping the idea of\nmarrying her from his mind threatened her that he would deform her face and body with acid to\nsuch an extent that she would not be liked by anyone. On the night of 17th May, 2000 at about 10\np.m. the deceased was lying with her twelve years old daughter Sonia(PW-\n1) in the balcony of her house on the first floor. At that time the accused came to the\nbalcony scaling the wall near the staircase and poured acid on her and Sonia from a\nbottle which he was having in his hand.  | Actions: killed, threatened | Weapon: acid | Outcome: death | IPC: 302, 34, 307, 313, 323, 161, 304, 299, 300",
+      "metadata": {
+        "case_name": "Udai Singh vs State on 2 December, 2008",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "313",
+          "323",
+          "161",
+          "304",
+          "299",
+          "300"
+        ],
+        "actions": [
+          "killed",
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether Reporters of local papers may be allowed to see the\njudgment?(Yes)\n2. Whether the judgment should be reported in the digest?(Yes)\nJUDGMENT\nP.K.BHASIN, J:\nIn this appeal the appellant assails his conviction and the sentences awarded to him\nby the Court of Additional Sessions Judge, Karkardooma Courts, Delhi for his having\nkilled a young widow, who had spurned his advances for marriage after the death of\nher husband, by throwing acid on her and also for having caused acid burn injuries\non her twelve years old daughter. A dying declaration\ncan be oral or in writing and in any adequate method of communication whether by\nwords or by signs or otherwise will suffice provided the indication is positive and\ndefinite. It could have been elicited from the doctor only as to\nwhether he had asked her as to who had thrown acid on her. Now, the question is whether it was a case of culpable homicide amounting to\nmurder or culpable homicide not amounting to murder. We have to determine whether on the facts\nand circumstances disclosed in the evidence which has been accepted by the courts\nbelow; the crime charged against the appellant has been made\nout...................\"(emphasis laid by us)\n23. We shall have to\nexamine the prosecution case in the case in hand with reference to the evidence adduced to find out\nwhether in the facts and circumstances of the present case the accused Udai Singh can be said to\nhave committed the offence of murder or whether he is guilty of culpable homicide not amounting to\nmurder. Explanation- Whether the provocation was grave and sudden enough to prevent the\noffence from amounting to murder is a question of fact. In the case before us, the medical opinion as to whether the burn\ninjuries sustained by the deceased were sufficient in the ordinary course of nature is absent and notUdai Singh vs State on 2 December, 2008\nIndian Kanoon - http://indiankanoon.org/doc/49979494/ 18\nonly that, as noticed already, even the death of the deceased had taken place after two months of\noccurrence and the cause of death was opined by the autopsy surgeon to be due to shock and\nsecondary infection due to burn injuries.",
+      "embedding_text": "ISSUE_CHUNK | Case: Udai Singh vs State on 2 December, 2008 | Legal issues: Whether Reporters of local papers may be allowed to see the\njudgment?(Yes)\n2. Whether the judgment should be reported in the digest?(Yes)\nJUDGMENT\nP.K.BHASIN, J:\nIn this appeal the appellant assails his conviction and the sentences awarded to him\nby the Court of Additional Sessions Judge, Karkardooma Courts, Delhi for his having\nkilled a young widow, who had spurned his advances for marriage after the death of\nher husband, by throwing acid on her and also for having caused acid burn injuries\non her twelve years old daughter. A dying declaration\ncan be oral or in writing and in any adequate method of communication whether by\nwords or by signs or otherwise will suffice provided the indication is positive and\ndefinite. It could have been elicited from the doctor only as to\nwhether he had asked her as to who had thrown acid on her. Now, the question is whether it was a case of culpable homicide amounting to\nmurder or culpable homicide not amounting to murder. We have to determine whether o | IPC: 302, 34, 307, 313, 323, 161, 304, 299, 300",
+      "metadata": {
+        "case_name": "Udai Singh vs State on 2 December, 2008",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "313",
+          "323",
+          "161",
+          "304",
+          "299",
+          "300"
+        ],
+        "actions": [
+          "killed",
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Udai Singh vs State on 2 December, 2008\nAuthor: P.K.Bhasin\nBench: Mukul Mudgal, P.K.Bhasin\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n% CRL. 496 OF 2003\n+ Date of Decision: 2nd December, 2008\n# UDAI SINGH ..........Appellant\n! Bhalla,\nversus\n$ STATE ........Respondent\n^ Through: Mr. Aruna was a widow whose husband had died\nabout two years before the present occurrence which took place on the night of 17th May, 2000.Udai Singh vs State on 2 December, 2008\nIndian Kanoon - http://indiankanoon.org/doc/49979494/ 1\nAfter the death of her husband she was living with her two children in HMD Colony, Shahdara,\nDelhi and the accused started visiting her house and became close to her and her children. Aruna was declared fit by the doctor for making her\nstatement and so PW-16 recorded her statement Ex. Aruna stated that her husband\nhad died two years ago and she alongwith her daughter Sonia and son Pankaj was residing in HMD\nColony, Delhi. She further stated that during that night at about 10 p.m. She and her daughter poured waterUdai Singh vs State on 2 December, 2008\nIndian Kanoon - http://indiankanoon.org/doc/49979494/ 2\nover themselves and came down crying and shrieking with pain and that on hearing the noise their\nrelative Tejpal, living in the neighbourhood, brought them to GTB hospital in a three wheeler and\ngot them admitted there. On the basis of aforesaid statement of Aruna FIR under Section 307 IPC was registered at about\n12.30 a.m. After the prosecution evidence\nwas over the statement of the accused was recorded under Section 313 Cr.P.C. The evidence of all the three defence witnesses was not found to be of any help to the accused. In this appeal the appellant has assailed the correctness of\nthe decision of the trial Court. Learned counsel for the appellant, Mr. Bhalla contended, the same cannot\nbe relied upon since he had not claimed in his statement under Section 161 Cr.P.C. Alternative submission put forth by the\nlearned counsel was that even if it is accepted that the accused had thrown acid on the deceased and\nher daughter then also in the facts and circumstances of the case it cannot be said that the death of\nthe deceased was as a result of the acid burn injuries caused by him since the deceased died about\ntwo months after the incident and that too because of some infection.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Udai Singh vs State on 2 December, 2008 | Arguments: Udai Singh vs State on 2 December, 2008\nAuthor: P.K.Bhasin\nBench: Mukul Mudgal, P.K.Bhasin\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n% CRL. 496 OF 2003\n+ Date of Decision: 2nd December, 2008\n# UDAI SINGH ..........Appellant\n! Bhalla,\nversus\n$ STATE ........Respondent\n^ Through: Mr. Aruna was a widow whose husband had died\nabout two years before the present occurrence which took place on the night of 17th May, 2000.Udai Singh vs State on 2 December, 2008\nIndian Kanoon - http://indiankanoon.org/doc/49979494/ 1\nAfter the death of her husband she was living with her two children in HMD Colony, Shahdara,\nDelhi and the accused started visiting her house and became close to her and her children. Aruna was declared fit by the doctor for making her\nstatement and so PW-16 recorded her statement Ex. Aruna stated that her husband\nhad died two years ago and she alongwith her daughter Sonia and son Pankaj was residing in HMD\nColony, Delhi. She further stated that during that night at about 10 p.m. S | Intent: intentional | IPC: 302, 34, 307, 313, 323, 161, 304, 299, 300 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Udai Singh vs State on 2 December, 2008",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "313",
+          "323",
+          "161",
+          "304",
+          "299",
+          "300"
+        ],
+        "actions": [
+          "killed",
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Normally, therefore, the court in order to satisfy whether\nthe deceased was in a fit mental condition to make the dying declaration look up to\nthe medical opinion. by its Public Prosecutor, High Court of A.P., Hyderabad\" the law\nrelating to dying declarations laid down in various earlier decisions was noticed and re-iterated in\nthe following paragraphs of the judgment:\n\"7. As observed by this Court in Narain Singh v. this Court observed vide in para 7 of\nthe said decision as under:\nA person who is facing imminent death, with even a shadow of continuing in this\nworld practically non-existent, every motive of falsehood is obliterated. The general principle on which the species of evidence is admitted is that they\nare declarations made in extremity, when the party is at the point of death, and when\nevery hope of this world is gone, when every motive to falsehood is silenced and mind\ninduced by the most powerful consideration to speak the truth; situation so solemn\nthat law considers the same as creating an obligation equal to that which is imposed\nby a positive oath administered in a court of justice.\"\n9. 2004 (10) SCC 776 this Court observed that: (SCC p. State ( 2005 ) 9 SCC 113 this Court observed as under: (SCC pp. This is the reason the court also insists that the dying declaration should be of such\na nature as to inspire full confidence of the court in its correctness. Once the court is satisfied that the\ndeclaration was true and voluntary, undoubtedly, it can base its conviction without any further\ncorroboration. We are, therefore, of the view that Ex. It is,\nthus, clear that the accused was not a stranger to the family of the deceased and that fact lends\nassurance to the statement of the deceased Aruna\n12. Introduction of his name as the culprit in the subsequent statement\nmade by her to PW-16 SI Sanjay Kumar, counsel submitted, could be the idea of the said police\nofficial only and, therefore, no reliance should be placed on the statement Ex.PW-16/A.",
+      "embedding_text": "REASONING_CHUNK | Case: Udai Singh vs State on 2 December, 2008 | Judicial reasoning: Normally, therefore, the court in order to satisfy whether\nthe deceased was in a fit mental condition to make the dying declaration look up to\nthe medical opinion. by its Public Prosecutor, High Court of A.P., Hyderabad\" the law\nrelating to dying declarations laid down in various earlier decisions was noticed and re-iterated in\nthe following paragraphs of the judgment:\n\"7. As observed by this Court in Narain Singh v. this Court observed vide in para 7 of\nthe said decision as under:\nA person who is facing imminent death, with even a shadow of continuing in this\nworld practically non-existent, every motive of falsehood is obliterated. The general principle on which the species of evidence is admitted is that they\nare declarations made in extremity, when the party is at the point of death, and when\nevery hope of this world is gone, when every motive to falsehood is silenced and mind\ninduced by the most powerful consideration to speak the truth; situation so solemn\nthat law considers the s | Intent: intentional | Outcome: death | IPC: 302, 34, 307, 313, 323, 161, 304, 299, 300",
+      "metadata": {
+        "case_name": "Udai Singh vs State on 2 December, 2008",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "313",
+          "323",
+          "161",
+          "304",
+          "299",
+          "300"
+        ],
+        "actions": [
+          "killed",
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2008"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The\nlearned Additional Sessions Judge thus relying upon the aforesaid two dying declarations of the\ndeceased came to the conclusion that the accused was guilty of the offence of murder of Aruna and\nwas also responsible for causing simple injuries to PW-1 Sonia and accordingly convicted the\naccused for the commission of the offences punishable under Sections 302 and 323 IPC vide\njudgment dated 22/03/03. Vide separate order dated 25/03/03 the accused was awarded life\nimprisonment under Section 302 IPC and fine of Rs.3,000/- and one years rigorous imprisonment\nfor his conviction under Section 323 IPC. Bhalla alsoUdai Singh vs State on 2 December, 2008\nIndian Kanoon - http://indiankanoon.org/doc/49979494/ 4\nprayed on behalf of the accused that if the conviction of the accused for the death of the deceased is\naltered to Section 304(II) IPC the sentence of imprisonment for that offence may be restricted to the\nperiod which he has already spent in jail considering the fact that he is in jail for over eight years as\nalso the fact that he was during the lifetime of the deceased visiting her in the hospital to enquire her\nwelfare which is evident from the fact that he was, as per the prosecution case itself, arrested from\nGTB Hospital when he had gone there to meet the deceased. Sunil Sharma, on the other\nhand, submitted that despite the two children of the deceased and her neighbour Tejpal(PW-12)\nturning hostile the accused had been rightly convicted relying upon the two dying declarations of the\ndeceased which were duly corroborated and so the conviction of the appellant deserves to be\nmaintained and prayed that the appeal may be dismissed. In that case also a submission appears to have been made on behalf the convicted accused in appeal\nregarding the absence of the name of the accused in the medical papers prepared in the hospital at\nthe time of admission of the victim. The Sessions Court convicted the accused under Section 302 IPC. However, none of these two doctors gave any opinion as to whether the burn\ninjuries sustained by the deceased were sufficient to cause death in the ordinary course of nature,\nbenefit of which omission on part of the doctors as well as the failure on the part of the prosecutor to\nelicit their opinion when they were being examined by the trial Court is being sought to be derived\nby the convicted accused.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Udai Singh vs State on 2 December, 2008 | Final judgment: The\nlearned Additional Sessions Judge thus relying upon the aforesaid two dying declarations of the\ndeceased came to the conclusion that the accused was guilty of the offence of murder of Aruna and\nwas also responsible for causing simple injuries to PW-1 Sonia and accordingly convicted the\naccused for the commission of the offences punishable under Sections 302 and 323 IPC vide\njudgment dated 22/03/03. Vide separate order dated 25/03/03 the accused was awarded life\nimprisonment under Section 302 IPC and fine of Rs.3,000/- and one years rigorous imprisonment\nfor his conviction under Section 323 IPC. Bhalla alsoUdai Singh vs State on 2 December, 2008\nIndian Kanoon - http://indiankanoon.org/doc/49979494/ 4\nprayed on behalf of the accused that if the conviction of the accused for the death of the deceased is\naltered to Section 304(II) IPC the sentence of imprisonment for that offence may be restricted to the\nperiod which he has already spent in jail considering the fact that he is in jail | Judgment: convicted | IPC: 302, 34, 307, 313, 323, 161, 304, 299, 300",
+      "metadata": {
+        "case_name": "Udai Singh vs State on 2 December, 2008",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "307",
+          "313",
+          "323",
+          "161",
+          "304",
+          "299",
+          "300"
+        ],
+        "actions": [
+          "killed",
+          "threatened"
+        ],
+        "weapon": "acid",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2008"
+      }
+    }
+  ]
+}

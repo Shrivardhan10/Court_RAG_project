@@ -1,0 +1,187 @@
+{
+  "case_id": "Abdul_Salim_Shaikh_Siddique_And_vs_State_Of_Maharashtra_on_7_October_2013",
+  "case_name": "Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Abdul Salim Shaikh (Siddique) And ... Thipsay\nBench: Abhay M. 1118 of 2013\nAbdul Salim Shaikh (Siddique) and another ... Mr. A. Majeed Memon, Advocates for the applicant. Mrs. S.D. ig ... CORAM : ABHAY M. THIPSAY, J\nORDER RESERVED : 6th AUGUST, 2013. ORDER PRONOUNCED : 7th OCTOBER, 2013\nORAL ORDER :Abdul Salim Shaikh (Siddique) And ... No. I - 63/2013 of Sheel Dahighar\nPolice Station, Thane. The said C.R. was initially registered in respect of offences punishable under\nSection 336 of the Indian Penal Code (IPC), Section 304 of IPC, Section 337 of IPC, Section 338 of\nIPC read with Section 34 of IPC. The applicants were arrested on 06.04.2013 by the Crime Branch,\nThane and were produced before the Magistrate on 07.04.2013 for obtaining their remand in police\ncustody. In the course of investigation, the accusation of some other offences also came to be\nlevelled against the applicants and other accused in this case. Tilak 2/14 BA-1118-13 On 06.06.2013, when the investigation was still pending, the applicants\napplied for bail on the ground that the maximum period of detention pending investigation, as\npermitted by Section 167(2) of the Code of Criminal Procedure (hereinafter referred to as \"the\nCode\") was over, and that, since the investigation was still incomplete, the applicants were entitled\nto be released on bail, mandatorily, as per the proviso to sub-section (2) of Section 167 of the Code. This application filed by the applicants and the other accused was heard by the learned Additional\nSessions Judge/Special Judge under the Prevention of Corruption Act Thane, who rejected the\nsame, inter alia, by holding that the maximum period of detention as permissible under the first\nproviso to sub-\nsection (2) of Section 167 of the Code was 90 days in this case, and not 60 days, as contended by the\napplicants. In other words, though the contention of the applicants was that sub-clause (ii) of clause\n(a) of the first proviso to sub-section (2) of Section 167 of the Code was applicable in their case, the\nlearned Judge did not agree with this contention and held, not sub-clause (ii), but sub- clause (i) of\nthe clause (a) of the said proviso was applicable in the facts and circumstances of the case.",
+      "embedding_text": "FACT_CHUNK | Case: Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra | Facts: Abdul Salim Shaikh (Siddique) And ... Thipsay\nBench: Abhay M. 1118 of 2013\nAbdul Salim Shaikh (Siddique) and another ... Mr. A. Majeed Memon, Advocates for the applicant. Mrs. S.D. ig ... CORAM : ABHAY M. THIPSAY, J\nORDER RESERVED : 6th AUGUST, 2013. ORDER PRONOUNCED : 7th OCTOBER, 2013\nORAL ORDER :Abdul Salim Shaikh (Siddique) And ... No. I - 63/2013 of Sheel Dahighar\nPolice Station, Thane. The said C.R. was initially registered in respect of offences punishable under\nSection 336 of the Indian Penal Code (IPC), Section 304 of IPC, Section 337 of IPC, Section 338 of\nIPC read with Section 34 of IPC. The applicants were arrested on 06.04.2013 by the Crime Branch,\nThane and were produced before the Magistrate on 07.04.2013 for obtaining their remand in police\ncustody. In the course of investigation, the accusation of some other offences also came to be\nlevelled against the applicants and other accused in this case. Tilak 2/14 BA-1118-13 On 06.06.2013, when the investigation was still pend | Actions: attacked, forged, forged | Weapon: unknown | Outcome: death | IPC: 336, 304, 337, 338, 34, 167, 304A, 386, 467, 420, 468, 471, 109, 13",
+      "metadata": {
+        "case_name": "Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "336",
+          "304",
+          "337",
+          "338",
+          "34",
+          "167",
+          "304A",
+          "386",
+          "467",
+          "420",
+          "468",
+          "471",
+          "109",
+          "13"
+        ],
+        "actions": [
+          "attacked",
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "the reliability of the material, said to be\navailable against the applicants and whether a prima facie case of the alleged offences has been\nmade out against them. I have examined the matter only from the point of view, as to whether, a\nright to be released on bail, mandatorily, had accrued in favour of the applicants in accordance with\naforesaid relevant provisions and whether such right has been wrongly denied to them. He submitted that he did\nnot intend to raise any contentions, for the present, as to whether the acts and omissions attributed\nto the applicants would amount only to an offence punishable under Section 304A of IPC and not to\nan offence punishable under Section 304 of IPC. What he held is that whether the offence allegedly\ncommitted by the applicants would be one under Part I or Part II of section 304 of IPC, could be\nascertained only after the conclusion of the trial. In particular, there is a specific allegation that a\ndevelopment permission certificate, purportedly issued by the Thane Municipal Corporation, is a\nforged document, and that, it has not been issued by the said Municipal Corporation, and is not\nhaving the signature of the Deputy City Engineer, Town Development, as it purports to have. Since no arguments on merits of the allegations were advanced, there has been no occasion to\nmeticulously analyse whether any offence punishable under Section 467 of IPC was, indeed,\ndisclosed or involved in this case. The real question is whether an occasion had arisen\nfor the Investigating Agency to carry out investigation relating to an offence punishable underAbdul Salim Shaikh (Siddique) And ... When the construction was found to be in\ncontravention of the required norms and it appeared that there existed documents to show that the\nconstruction was being carried out in a regular manner and with the requisite permissions, whether\nthe documents in question were genuine or false/forged needed investigation.",
+      "embedding_text": "ISSUE_CHUNK | Case: Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra | Legal issues: the reliability of the material, said to be\navailable against the applicants and whether a prima facie case of the alleged offences has been\nmade out against them. I have examined the matter only from the point of view, as to whether, a\nright to be released on bail, mandatorily, had accrued in favour of the applicants in accordance with\naforesaid relevant provisions and whether such right has been wrongly denied to them. He submitted that he did\nnot intend to raise any contentions, for the present, as to whether the acts and omissions attributed\nto the applicants would amount only to an offence punishable under Section 304A of IPC and not to\nan offence punishable under Section 304 of IPC. What he held is that whether the offence allegedly\ncommitted by the applicants would be one under Part I or Part II of section 304 of IPC, could be\nascertained only after the conclusion of the trial. In particular, there is a specific allegation that a\ndevelopment permission certificate, purportedly i | IPC: 336, 304, 337, 338, 34, 167, 304A, 386, 467, 420, 468, 471, 109, 13",
+      "metadata": {
+        "case_name": "Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "336",
+          "304",
+          "337",
+          "338",
+          "34",
+          "167",
+          "304A",
+          "386",
+          "467",
+          "420",
+          "468",
+          "471",
+          "109",
+          "13"
+        ],
+        "actions": [
+          "attacked",
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Maharashtra\non 7 October, 2013\nAuthor: Abhay M. Applicants\nversus\nState of Maharashtra ... Respondent\n... Shinde, APP for the State- Respondent. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 1\n1 The applicants are the accused in a case arising out of C.R. Majeed Memon, the learned counsel for the applicants. Shinde, the learned Additional Public Prosecutor for the State. Therefore, the only question in this case is, whether the case of the applicants would fall under\nsub-clause (i) of clause (a) of the first proviso to sub-section (2) of Section 167 of the Code, as\ncontended by the learned A.P.P., or whether, it would fall under clause (ii) thereof, as contended by\nthe learned counsel for the applicants.Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 2\n5. Majeed Memon, the learned counsel for the applicants submitted that he was not advancing\nany arguments on the merits of the allegations levelled against the applicants and about the value,\nor reliability of the material, which the Investigating Agency claims as exists, against them. Memon relied upon the decision of the Supreme Court of India in the case of \"Rajeev\nChaudhary V/s State of Delhi (AIR 2001 SC 3369), wherein the question as to what would be the\nmaximum period of detention pending investigation with respect to an offence punishable under\nsection 386 of IPC fell for consideration of Their Lordships. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 4\nthereof also, that is mainly attacked by Mr. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 5\nread with Section 109 of IPC were added in the case. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 6\nsection 467 of IPC. Indeed, inspite of noticing a some what paradoxical\nsituation in this regard, I am unable to accept the contention of the learned counsel for the\napplicants. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 7\n23.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra | Arguments: vs State Of Maharashtra\non 7 October, 2013\nAuthor: Abhay M. Applicants\nversus\nState of Maharashtra ... Respondent\n... Shinde, APP for the State- Respondent. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 1\n1 The applicants are the accused in a case arising out of C.R. Majeed Memon, the learned counsel for the applicants. Shinde, the learned Additional Public Prosecutor for the State. Therefore, the only question in this case is, whether the case of the applicants would fall under\nsub-clause (i) of clause (a) of the first proviso to sub-section (2) of Section 167 of the Code, as\ncontended by the learned A.P.P., or whether, it would fall under clause (ii) thereof, as contended by\nthe learned counsel for the applicants.Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 2\n5. Majeed Memon, the learned counsel for the applicants submitted that he was not adv | Intent: intentional | IPC: 336, 304, 337, 338, 34, 167, 304A, 386, 467, 420, 468, 471, 109, 13 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "336",
+          "304",
+          "337",
+          "338",
+          "34",
+          "167",
+          "304A",
+          "386",
+          "467",
+          "420",
+          "468",
+          "471",
+          "109",
+          "13"
+        ],
+        "actions": [
+          "attacked",
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Thipsay\nTilak 1/14 BA-1118-13\nIN THE HIGH COURT OF JUDICATURE AT BOMBAY\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL BAIL APPLICATION No. Being aggrieved thereby, the applicants have approached this Court contending that on the expiry of\n60 days from the date of their first remand in custody, they were entitled to be released on bail, as\nthe investigation had not been completed till that time. I have,\ntherefore, not examined the merits of the matter i.e. He submitted that the learned Additional Sessions Judge/Special Judge wrongly held the\noffence to be one falling Tilak 5/14 BA-1118-13 under Part-I of Section 304 of IPC and denied bail to\nthe applicants on the reasoning that the period of detention pending investigation, therefore, could\nbe upto 90 days, which period was not over when the applicants sought their release on bail by\nreferring to the relevant provisions of law. He resorted to elaborate reasoning and reproduced\ncertain observations made in some authoritative pronouncements of the Supreme Court of India,\nand held that, the investigation could not be said to be in relation to an offence punishable under\nSection 304 Part II of IPC and it should be held as being in relation to an offence punishable under\nsection 304 of IPC. Instead of advansing contentions as to\n'whether acts attributed to the applicants and the other accused would amount to an offence falling\nwithin first part of section 304 of IPC, or the second part thereof', or 'whether the division of the\noffence punishable thereunder in two parts, should be ignored at that stage', she opposed the\napplication basically by contending that in any case, the offence punishable under section 467 of\nIPC, which was revealed to have been committed, in the course of investigation, the sub-clause (i) of\nclause (a) of the said proviso would apply, and that, therefore, there is no question of the applicants\nhaving been entitled to be released on what is popularly termed as `default bail'. It cannot, therefore, be disputed that in case of an investigation into\nan offence of forgery of valuable security, made punishable under section 467 of IPC, the maximum\nperiod for which detention pending investigation can be authorized under section 167 (2) of the\nCode, would be of 90 days.",
+      "embedding_text": "REASONING_CHUNK | Case: Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra | Judicial reasoning: Thipsay\nTilak 1/14 BA-1118-13\nIN THE HIGH COURT OF JUDICATURE AT BOMBAY\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL BAIL APPLICATION No. Being aggrieved thereby, the applicants have approached this Court contending that on the expiry of\n60 days from the date of their first remand in custody, they were entitled to be released on bail, as\nthe investigation had not been completed till that time. I have,\ntherefore, not examined the merits of the matter i.e. He submitted that the learned Additional Sessions Judge/Special Judge wrongly held the\noffence to be one falling Tilak 5/14 BA-1118-13 under Part-I of Section 304 of IPC and denied bail to\nthe applicants on the reasoning that the period of detention pending investigation, therefore, could\nbe upto 90 days, which period was not over when the applicants sought their release on bail by\nreferring to the relevant provisions of law. He resorted to elaborate reasoning and reproduced\ncertain observations made in some authoritative pronouncements of | Intent: intentional | Outcome: death | IPC: 336, 304, 337, 338, 34, 167, 304A, 386, 467, 420, 468, 471, 109, 13",
+      "metadata": {
+        "case_name": "Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "336",
+          "304",
+          "337",
+          "338",
+          "34",
+          "167",
+          "304A",
+          "386",
+          "467",
+          "420",
+          "468",
+          "471",
+          "109",
+          "13"
+        ],
+        "actions": [
+          "attacked",
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "He submitted that the offence falling under Section 304 Part II is\npunishable with a maximum term of imprisonment for a period of 10 years, and that, therefore, the\nmaximum period of detention pending investigation as permissible under law would be only 60\ndays. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 3\n(a) the Magistrate may authorise the detention of the accused person, otherwise than in the custody\nof the police, beyond the period of fifteen days, if he is satisfied that adequate grounds exist for\ndoing so, but no Magistrate shall authorise the detention of the accused person in custody under this\nparagraph for a total period exceeding, -\n(i) ninety days, where the Tilak 6/14 BA-1118-13 investigation relates to an offence punishable with\ndeath, imprisonment for life or imprisonment for a term of not less than ten years;\n(ii) sixty days, where the investigation relates to any other offence, and, on the expiry of the said\nperiod of ninety days, or sixty days, as the case may be, the accused person shall be released on\nbail........\" (Emphasis supplied)\n9. Section 386 of the IPC provides that the\noffender 'shall be punished for imprisonment for a term which may extend to 10 years and shall also\nbe liable to fine.' Their Lordship considered as to how the term 'not less than 10 years' appearing in\nsub-section (i) of clause (a) of the first proviso to Section 167(2) is to be construed and held, inter\nalia, that clause (i) of sub-clause (a) of the proviso to section 167(2) would be applicable to an\noffence punishable (i) with death; (2) imprisonment for life; and (3) imprisonment for a term not\nless than 10 years; and that, it would not cover the case of an offence for which punishment could be\nof imprisonment for less than 10 years. In other words, it was held that the expression 'not less than'\noccurring in the aforesaid sub- clause (i) would mean that imprisonment for that particular offence\nshould be 10 years or more.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra | Final judgment: He submitted that the offence falling under Section 304 Part II is\npunishable with a maximum term of imprisonment for a period of 10 years, and that, therefore, the\nmaximum period of detention pending investigation as permissible under law would be only 60\ndays. vs State Of Maharashtra on 7 October, 2013\nIndian Kanoon - http://indiankanoon.org/doc/192992972/ 3\n(a) the Magistrate may authorise the detention of the accused person, otherwise than in the custody\nof the police, beyond the period of fifteen days, if he is satisfied that adequate grounds exist for\ndoing so, but no Magistrate shall authorise the detention of the accused person in custody under this\nparagraph for a total period exceeding, -\n(i) ninety days, where the Tilak 6/14 BA-1118-13 investigation relates to an offence punishable with\ndeath, imprisonment for life or imprisonment for a term of not less than ten years;\n(ii) sixty days, where the investigation relates to any other offence, and, on the expiry of the said\nperio | Judgment: sentenced | IPC: 336, 304, 337, 338, 34, 167, 304A, 386, 467, 420, 468, 471, 109, 13",
+      "metadata": {
+        "case_name": "Abdul Salim Shaikh (Siddique) And ... vs State Of Maharashtra",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "336",
+          "304",
+          "337",
+          "338",
+          "34",
+          "167",
+          "304A",
+          "386",
+          "467",
+          "420",
+          "468",
+          "471",
+          "109",
+          "13"
+        ],
+        "actions": [
+          "attacked",
+          "forged",
+          "forged"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "sentenced",
+        "court": "HIGH COURT",
+        "year": "2013"
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "case_id": "Tajuddin_vs_State_Of_Assam_And_Ors_on_15_September_2006",
+  "case_name": "Tajuddin vs State Of Assam And Ors. on 15 September, 2006",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "on 15 September, 2006\nEquivalent citations: 2007(1)GLT206\nAuthor: D. Biswas\nBench: D. Biswas\nJUDGMENT\nB.P. Katakey, J. 1. This revision petition is directed against the Judgment dated 24.06.2002 passed by the learned\nSession Judge, Karimganj in Criminal Appeal No. 9(1) of 1999 dismissing the appeal preferred by\nthe revision petitioner by upholding the judgment of conviction dated 15.02.99 passed by the\nlearned Sub-Divisional Judicial Magistrate (Sadar), Karimganj in C.R. Case No. 2. The complainant i.e. the victim girl filed the complaint petition being C.R. Case No. It has further been alleged in the said\ncomplaint petition that when the fact of pregnancy was reported to the accused/ revision petitioner,\nthough he initially assured her to marry, but subsequently he refused to marry and thereby deceived\nher by dishonestly inducing her to give consent for sexual relationship and by intentionally inducing\nher to surrender to the accused/ revision petitioner and there by causing damage to the\ncomplainant. The complainant has also alleged that she gave birth to a male child. 3. After examination of the complainant under Section 202 Cr. P.C. Four witnesses including the complainant herself was\nthereafter examined and on the basis of the evidences on record the charge under Section 417 IPC\nwas framed against the accused revision petitioner, which when read over was denied by him\nclaiming trial. 4. We have heard Mr. H.R.A. Choudhury, learned Senior counsel for the revision petitioner and Mr. K. Munir, the learned Public Prosecutor, Assam. 417 of IPC has submitted that from a bare reading of the said penal provision it is evident that the\nconviction under Section 417 IPC can be maintained only when the factum of cheating under Section\n415 IPC is proved. In the instant case it is being the allegation that the\nprosecutrix has suffered damage or harm in body because of the deception by the revision petitioner\nfor which she surrendered to him and there being no allegation of deception in relation to the\nproperty, there cannot be any question of conviction under Section 417 IPC.",
+      "embedding_text": "FACT_CHUNK | Case: Tajuddin vs State Of Assam And Ors. on 15 September, 2006 | Facts: on 15 September, 2006\nEquivalent citations: 2007(1)GLT206\nAuthor: D. Biswas\nBench: D. Biswas\nJUDGMENT\nB.P. Katakey, J. 1. This revision petition is directed against the Judgment dated 24.06.2002 passed by the learned\nSession Judge, Karimganj in Criminal Appeal No. 9(1) of 1999 dismissing the appeal preferred by\nthe revision petitioner by upholding the judgment of conviction dated 15.02.99 passed by the\nlearned Sub-Divisional Judicial Magistrate (Sadar), Karimganj in C.R. Case No. 2. The complainant i.e. the victim girl filed the complaint petition being C.R. Case No. It has further been alleged in the said\ncomplaint petition that when the fact of pregnancy was reported to the accused/ revision petitioner,\nthough he initially assured her to marry, but subsequently he refused to marry and thereby deceived\nher by dishonestly inducing her to give consent for sexual relationship and by intentionally inducing\nher to surrender to the accused/ revision petitioner and there by causing damage to | Actions: cheated | Weapon: unknown | Outcome: injury | IPC: 493, 417, 357, 202, 415, 95, 93",
+      "metadata": {
+        "case_name": "Tajuddin vs State Of Assam And Ors. on 15 September, 2006",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "493",
+          "417",
+          "357",
+          "202",
+          "415",
+          "95",
+          "93"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "But\nfor the purpose of scrutinizing as to whether intentional inducement and deception on the part of\nthe revision petitioner is present in the instant case, we have scrutinize the evidence on record and\nfound that such intentional inducement and deception on the part of the revision-petitioner is\nprosecutrix to surrender herself to the sexual lust of the revision petitioner. Tajuddin vs State Of Assam And Ors. on 15 September, 2006\nEquivalent citations: 2007(1)GLT206\nAuthor: D. Biswas\nBench: D. Biswas\nJUDGMENT\nB.P. Katakey, J. 1. This revision petition is directed against the Judgment dated 24.06.2002 passed by the learned\nSession Judge, Karimganj in Criminal Appeal No. 9(1) of 1999 dismissing the appeal preferred by\nthe revision petitioner by upholding the judgment of conviction dated 15.02.99 passed by the\nlearned Sub-Divisional Judicial Magistrate (Sadar), Karimganj in C.R.",
+      "embedding_text": "ISSUE_CHUNK | Case: Tajuddin vs State Of Assam And Ors. on 15 September, 2006 | Legal issues: But\nfor the purpose of scrutinizing as to whether intentional inducement and deception on the part of\nthe revision petitioner is present in the instant case, we have scrutinize the evidence on record and\nfound that such intentional inducement and deception on the part of the revision-petitioner is\nprosecutrix to surrender herself to the sexual lust of the revision petitioner. Tajuddin vs State Of Assam And Ors. on 15 September, 2006\nEquivalent citations: 2007(1)GLT206\nAuthor: D. Biswas\nBench: D. Biswas\nJUDGMENT\nB.P. Katakey, J. 1. This revision petition is directed against the Judgment dated 24.06.2002 passed by the learned\nSession Judge, Karimganj in Criminal Appeal No. 9(1) of 1999 dismissing the appeal preferred by\nthe revision petitioner by upholding the judgment of conviction dated 15.02.99 passed by the\nlearned Sub-Divisional Judicial Magistrate (Sadar), Karimganj in C.R. | IPC: 493, 417, 357, 202, 415, 95, 93",
+      "metadata": {
+        "case_name": "Tajuddin vs State Of Assam And Ors. on 15 September, 2006",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "493",
+          "417",
+          "357",
+          "202",
+          "415",
+          "95",
+          "93"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Tajuddin vs State Of Assam And Ors. After cross-examination of the witnesses of the complainant by the accused/revisionTajuddin vs State Of Assam And Ors. on 15 September, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1202634/ 1\nopportunity to examine the defence witness, if any, to which he declined. According to the learned Counsel it is evident from the definition of cheating in\nSection 415 IPC that to consitute cheating the deception must be in relation of the property, though\nproperty may or may not be delivered. For\nbetter appreciation Section 415 and 417 IPC are quoted below:Tajuddin vs State Of Assam And Ors. State of Bihar and Anr.: (2000) 4\n9. The word \"harm\" has been defined in Webster's Encyclopedic Unabridged Dictionary as follows:Tajuddin vs State Of Assam And Ors. Baldev Krishna Singla .Tajuddin vs State Of Assam And Ors. It has been submitted by the learned Counsel for the revision-petitioner that in fact subsequently\nthe revision petitioner has married the prosecutrix and they have a minor child of about five years\nold and are living together peacefully, after the conviction of the revision petitioner by the learned\nTrial Court and during pendency of the appeal before the learned Session Judge. The revision petitioner in the revision petition has stated so in paragraph 6 as well as in ground\n'F'. Though the prosecutrix is a party to the present revision proceeding, she did not appear in the\nrevision petition and contest the proceeding before this Court and disputed such statement made in\nthe revision petition. The revision petitioner though in the revision petition has made a\nstatement that he has married the prosecutrix after the judgment of conviction was recorded by the\nTrial Court, no application for compounding offence has been filed by the prosecutrix.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Tajuddin vs State Of Assam And Ors. on 15 September, 2006 | Arguments: Tajuddin vs State Of Assam And Ors. After cross-examination of the witnesses of the complainant by the accused/revisionTajuddin vs State Of Assam And Ors. on 15 September, 2006\nIndian Kanoon - http://indiankanoon.org/doc/1202634/ 1\nopportunity to examine the defence witness, if any, to which he declined. According to the learned Counsel it is evident from the definition of cheating in\nSection 415 IPC that to consitute cheating the deception must be in relation of the property, though\nproperty may or may not be delivered. For\nbetter appreciation Section 415 and 417 IPC are quoted below:Tajuddin vs State Of Assam And Ors. State of Bihar and Anr.: (2000) 4\n9. The word \"harm\" has been defined in Webster's Encyclopedic Unabridged Dictionary as follows:Tajuddin vs State Of Assam And Ors. Baldev Krishna Singla .Tajuddin vs State Of Assam And Ors. It has been submitted by the learned Counsel for the revision-petitioner that in fact subsequently\nthe revision petitioner has married the prosecutr | Intent: intentional | IPC: 493, 417, 357, 202, 415, 95, 93 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Tajuddin vs State Of Assam And Ors. on 15 September, 2006",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "493",
+          "417",
+          "357",
+          "202",
+          "415",
+          "95",
+          "93"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "1489 of 1997\nin the Court of learned Chief Judicial Magistrate, Karimganj, alleging that the accused/ revision\nhouse off and on the thus, developed intimacy and insisted for having sexual relation, which was\nthough initially refused by her, but, when he assured her to marry; she consented for such sexual\nrelation and as a result of which she become pregnant. The\ncomplainant's case was subsequently transferred to the Court of the learned Chief Judicial\nMagistrate (sadar) Karimganj for trial and disposal. the cognizance under Section\n493/417 IPC was taken against the accused/revision petitioner, who on receipt of the summons\nappeared before the learned Trial Court. On conclusion of the trial\nthe learned Trial Court passed the judgment of conviction as aforesaid and against which, though\nthe appeal was preferred before the learned Session Judge, Karimganj, the same was also dismissed\nand hence the present revision petition. The learned Public Prosecutor,\nhowever, has submitted that keeping in view the fact that the revision petitioner has married the\nprosecutrix subsequently, the sentence awarded by the learned Courts may be modified by imposing\nfine only and by maintaining the conviction. The Apex Court in Mrs Veeda Menezes v. The revisional Court in exercise of the power of revision cannot\ndisturb the finding of fact arrived at by both the Court's below unless such finding is perverse. The offence under Section 417 IPC is compoundable with the permission of the Court and at the\ninstance of the person cheated. Therefore,\nthe statement made by the revision petitioner cannot be the ground for compounding the offence, in\nthe absence of any application filed by the prosecutrix. Accordingly we modify the sentence imposed by the\nlearned Trial Court by imposing the fine of Rs. The revision petition is therefore dismissed, however, the sentence imposed by the learned Trial\nCourt is altered as indicated above.Tajuddin vs State Of Assam And Ors.",
+      "embedding_text": "REASONING_CHUNK | Case: Tajuddin vs State Of Assam And Ors. on 15 September, 2006 | Judicial reasoning: 1489 of 1997\nin the Court of learned Chief Judicial Magistrate, Karimganj, alleging that the accused/ revision\nhouse off and on the thus, developed intimacy and insisted for having sexual relation, which was\nthough initially refused by her, but, when he assured her to marry; she consented for such sexual\nrelation and as a result of which she become pregnant. The\ncomplainant's case was subsequently transferred to the Court of the learned Chief Judicial\nMagistrate (sadar) Karimganj for trial and disposal. the cognizance under Section\n493/417 IPC was taken against the accused/revision petitioner, who on receipt of the summons\nappeared before the learned Trial Court. On conclusion of the trial\nthe learned Trial Court passed the judgment of conviction as aforesaid and against which, though\nthe appeal was preferred before the learned Session Judge, Karimganj, the same was also dismissed\nand hence the present revision petition. The learned Public Prosecutor,\nhowever, has submitted that keepin | Intent: intentional | Outcome: injury | IPC: 493, 417, 357, 202, 415, 95, 93",
+      "metadata": {
+        "case_name": "Tajuddin vs State Of Assam And Ors. on 15 September, 2006",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "493",
+          "417",
+          "357",
+          "202",
+          "415",
+          "95",
+          "93"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "1489 of 1997\nconvicting the revision petitioner under Section 417 IPC and sentencing him to under go rigorous\nimprisonment for six months with a fine of Rs. 5,000/-, in default to under go rigorous\nimprisonment for the period of three months and further directing that the fine, if realized, shall be\npaid to the victim girl as compensation under Section 357(3) to the Code of Criminal Procedure. Hence, according to the\nlearned Counsel, the conviction of the revision petitioner is liable to be set aside. It has further been\nsubmitted by the learned Counsel in any case the sentence of imprisonment ought not to have been\npassed as the revision petitioner has, in fact, married the prosecutrix and they are now leading a\nhappy married life along with a minor son who is about five years old. In the instant case, according to the learned Public\nProsecutor, the prosecution having proved the ingredients of Section 415 IPC, learned Court below\nhas rightly convicted the revision petitioner under Section 417 IPC. Punishment for cheating.-Whoever cheats shall be punishable with\nimprisonment of either description for a term which may extend to one year, or with\nfine, or with both. From the meaning of the 'harm' as discussed above, it is therefore, evident that the word 'harm'\nunder Section 415 IPC means the injury caused to the body, mind, reputation or property of the\nthe offence alleged does not relate to the any property no offence under Section 417 IPC is made out,\ncannot be accepted for the simple reason that to constitute the offence of cheating' within the\nmeaning under Section 415 IPC the involvement of property is not the must and a person can be\nconvicted under Section 417 IPC if he made a promise that he will definitely marry the girl and\nthereby induced her and subjected to sexual intercourse and thereby become pregnant and\nultimately evaded from marrying the girl. In view of the aforesaid discussion we are of the view that the revision petitioner has rightly been\nconvicted under Section 417 IPC for the offence of 'cheating' within the meaning of Section 415 IPC.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Tajuddin vs State Of Assam And Ors. on 15 September, 2006 | Final judgment: 1489 of 1997\nconvicting the revision petitioner under Section 417 IPC and sentencing him to under go rigorous\nimprisonment for six months with a fine of Rs. 5,000/-, in default to under go rigorous\nimprisonment for the period of three months and further directing that the fine, if realized, shall be\npaid to the victim girl as compensation under Section 357(3) to the Code of Criminal Procedure. Hence, according to the\nlearned Counsel, the conviction of the revision petitioner is liable to be set aside. It has further been\nsubmitted by the learned Counsel in any case the sentence of imprisonment ought not to have been\npassed as the revision petitioner has, in fact, married the prosecutrix and they are now leading a\nhappy married life along with a minor son who is about five years old. In the instant case, according to the learned Public\nProsecutor, the prosecution having proved the ingredients of Section 415 IPC, learned Court below\nhas rightly convicted the revision petitioner under Sec | Judgment: convicted | IPC: 493, 417, 357, 202, 415, 95, 93",
+      "metadata": {
+        "case_name": "Tajuddin vs State Of Assam And Ors. on 15 September, 2006",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "493",
+          "417",
+          "357",
+          "202",
+          "415",
+          "95",
+          "93"
+        ],
+        "actions": [
+          "cheated"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2006"
+      }
+    }
+  ]
+}

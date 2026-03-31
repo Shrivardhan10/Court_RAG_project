@@ -1,0 +1,172 @@
+{
+  "case_id": "Mohd_Aslam_And_Others_vs_State_Of_U_P_on_30_March_2018",
+  "case_name": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Mohd. Hon'ble Raghvendra Kumar, J. under Section 147 I.P.C.. All sentences were ordered to run concurrently. The prosecution story, in brief, is that Shri Bhagwan Tripathi, the younger brother of Om PrakashMohd. on 30 March, 2018\nIndian Kanoon - http://indiankanoon.org/doc/118179554/ 1\nTripathi and Lalchan Tripathi, younger brother of Harish Chandra Tripathi were studying in class\nXII in Madhusudan Vidyalaya Inter College, Sultanpur. Both these boys were not attending the\nclasses of Commercial Mathematics which was being taught by one Sri Rameshwar Prasad. The\nPrincipal of the College Sri Shobhnath Tripathi had summoned Harish Chandra Tripathi and Om\nPrakash Tripathi through Satya Prakash Tripathi to inform them about the conduct of their younger\nbrothers Satya Prakash Tripathi informed Om Prakash Tripathi about it. Om Prakash Tripathi along\nwith Harish Chandra Tripathi reached at the office of the Principal at about 11.15 A.M. on 11.8.1979. The Principal informed them that their brothers are not attending the class of Master Rameshwar\nPrasad. Both the brothers were called and were told to regularly attend the classes held by Master\nRameshwar Prasad. The two boys also apologized. Both Om Prakash Tripathi and Harish Chandra\nTripathi came out of the Principal's office at 11.45 A.M. They saw accused Mohd. Ayub and Mohd. Aslam armed with knives, accused Jaggannath Gareriya resident of Ahrauli, Police Station\nGosainganj and Fajley armed with Hockey along with 5-6 unknown pe3rsons who were also armed\nwith lathis, and dandas. All these accused persons proceeded towards Harish Chandra and Om\nPrakash after saying that these persons are doing goondai at Kamla Nehru Institute and they have\nbeen luckily spotted and he got spared and be done to death. All these accused started assaulting by\nlathi, danda and knives. At the same time Harish Chandra Dubey and Jitendra Singh also reached\nthere and intervened. All the assailants started bearing Harish Chandra Dubey and Jitendra Singh. ON alarms being raised by them Shailendra, Rajendra Singh, teachers of the school and students\nintervened. Om Prakash Tripathi, harish Chandra Tripathi, Harish Chandra Dubey and Jitendera\nreceived injuries caused by lathi, hockey and knives.",
+      "embedding_text": "FACT_CHUNK | Case: Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018 | Facts: Mohd. Hon'ble Raghvendra Kumar, J. under Section 147 I.P.C.. All sentences were ordered to run concurrently. The prosecution story, in brief, is that Shri Bhagwan Tripathi, the younger brother of Om PrakashMohd. on 30 March, 2018\nIndian Kanoon - http://indiankanoon.org/doc/118179554/ 1\nTripathi and Lalchan Tripathi, younger brother of Harish Chandra Tripathi were studying in class\nXII in Madhusudan Vidyalaya Inter College, Sultanpur. Both these boys were not attending the\nclasses of Commercial Mathematics which was being taught by one Sri Rameshwar Prasad. The\nPrincipal of the College Sri Shobhnath Tripathi had summoned Harish Chandra Tripathi and Om\nPrakash Tripathi through Satya Prakash Tripathi to inform them about the conduct of their younger\nbrothers Satya Prakash Tripathi informed Om Prakash Tripathi about it. Om Prakash Tripathi along\nwith Harish Chandra Tripathi reached at the office of the Principal at about 11.15 A.M. on 11.8.1979. The Principal informed them that their broth | Actions: fired, assaulted, attacked, killed | Weapon: knife | Outcome: death | IPC: 302, 149, 324, 326, 148, 147, 301, 307, 323, 334",
+      "metadata": {
+        "case_name": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "149",
+          "324",
+          "326",
+          "148",
+          "147",
+          "301",
+          "307",
+          "323",
+          "334"
+        ],
+        "actions": [
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018\nAuthor: Shabihul Hasnain\nBench: Shabihul Hasnain, Raghvendra Kumar\nHIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH\nReserved on 28.3.2018\nDelivered on 30.3.2018\nCriminal Appeal No.711 of 1981\nMohd. Aslam alias Aslam and three others......Appellants\nVersus\nThe State .........Respondent\nHon'ble Shabihul Hasnain, J. Hon'ble Raghvendra Kumar, J. (delivered by Hon'ble Shabihul Hasnain, J.) This criminal appeal has been filed against the\njudgment and order dated 30.9.1981, passed by Ist Additional Sessions Judge, Sultanpur, in\nSessions Trail No.111 of 1980, convicting all the appellants under Section 302/149 IPC, 324/149 IPC\nand sentencing each of them to undergo life imprisonment under the first count, to two years' R.I.,\nunder the second count, further convicting appellants No.1 and 3 under Section 148 I.P.C.,\n148 IPC and one year's R.I. under Section 147 I.P.C.. All sentences were ordered to run concurrently.",
+      "embedding_text": "ISSUE_CHUNK | Case: Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018 | Legal issues: Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018\nAuthor: Shabihul Hasnain\nBench: Shabihul Hasnain, Raghvendra Kumar\nHIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH\nReserved on 28.3.2018\nDelivered on 30.3.2018\nCriminal Appeal No.711 of 1981\nMohd. Aslam alias Aslam and three others......Appellants\nVersus\nThe State .........Respondent\nHon'ble Shabihul Hasnain, J. Hon'ble Raghvendra Kumar, J. (delivered by Hon'ble Shabihul Hasnain, J.) This criminal appeal has been filed against the\njudgment and order dated 30.9.1981, passed by Ist Additional Sessions Judge, Sultanpur, in\nSessions Trail No.111 of 1980, convicting all the appellants under Section 302/149 IPC, 324/149 IPC\nand sentencing each of them to undergo life imprisonment under the first count, to two years' R.I.,\nunder the second count, further convicting appellants No.1 and 3 under Section 148 I.P.C.,\n148 IPC and one year's R.I. under Section 147 I.P.C.. All sentences were ordered to run concurrently. | IPC: 302, 149, 324, 326, 148, 147, 301, 307, 323, 334",
+      "metadata": {
+        "case_name": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "149",
+          "324",
+          "326",
+          "148",
+          "147",
+          "301",
+          "307",
+          "323",
+          "334"
+        ],
+        "actions": [
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Aslam And Others vs State Of U.P. Aslam alias Aslam and three others......Appellants\nVersus\nThe State .........Respondent\nHon'ble Shabihul Hasnain, J. Aslam And Others vs State Of U.P. Aslam And Others vs State Of U.P. It has been argued on behalf of the appellant that the case of Aslam- the present appellant will fall\nunder Section 324 IPC. State of Punjab, AIR 1991 Crlj. has missed an important point and that is to the extent that\nthe appellant has not caused injury which was fatal. The blow caused by the present appellant Aslam, though on the\nhead has not caused any grievous harm or injury. Aslam And Others vs State Of U.P. In\nthe present case death is not being caused by the accused-appellant but rather his\ncolleague against whom the appeal has been abated. Blow by the present appellant is on the head causing simple\ninjuries as shown above. has argued that the appellant will be guilty even if the fatal blow has\nnot been caused by him through Section 149 IPC read with 302 IPC because though\nthe fatal blow was caused by Ayub but Aslam was having common object for killing\nthe deceased. State of Maharashtra, AIR 2011 S.C. Aslam And Others vs State Of U.P. State of U.P., AIR 2012 S.C. Taking this view in a later case of Kshudiram Majhi vs The State Of West Bengal, 1972 CriLJ 756\n(SC), it was held that where the accused were in a position to cause many deaths as each one of them\nwas having firearms in his hands. At the most it can be said that offence punishable under Section 301 IPC was made\nout against the accused-appellant Ayub alone. Aslam And Others vs State Of U.P. on 30 March, 2018\nIndian Kanoon - http://indiankanoon.org/doc/118179554/ 5\nassembly, the age of the students and general college atmosphere, it cannot be said that there was\nany common object with the appellant Mohd. The appellant was a student of tender age. Aslam And Others vs State Of U.P. It has also been argued that the deceased was a life convict and was on bail.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018 | Arguments: Aslam And Others vs State Of U.P. Aslam alias Aslam and three others......Appellants\nVersus\nThe State .........Respondent\nHon'ble Shabihul Hasnain, J. Aslam And Others vs State Of U.P. Aslam And Others vs State Of U.P. It has been argued on behalf of the appellant that the case of Aslam- the present appellant will fall\nunder Section 324 IPC. State of Punjab, AIR 1991 Crlj. has missed an important point and that is to the extent that\nthe appellant has not caused injury which was fatal. The blow caused by the present appellant Aslam, though on the\nhead has not caused any grievous harm or injury. Aslam And Others vs State Of U.P. In\nthe present case death is not being caused by the accused-appellant but rather his\ncolleague against whom the appeal has been abated. Blow by the present appellant is on the head causing simple\ninjuries as shown above. has argued that the appellant will be guilty even if the fatal blow has\nnot been caused by him through Section 149 IPC read with 302 IPC becaus | Intent: intentional | IPC: 302, 149, 324, 326, 148, 147, 301, 307, 323, 334 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "149",
+          "324",
+          "326",
+          "148",
+          "147",
+          "301",
+          "307",
+          "323",
+          "334"
+        ],
+        "actions": [
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "on 30 March, 2018\nAuthor: Shabihul Hasnain\nBench: Shabihul Hasnain, Raghvendra Kumar\nHIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH\nReserved on 28.3.2018\nDelivered on 30.3.2018\nCriminal Appeal No.711 of 1981\nMohd. The fatal blow was\nnot caused by him and, hence, the judgment convicting him under Section 302 read with 149 IPC is\nan erroneous finding. The argument of learned A.G.A., thus, fails because death should have been caused by\nthe blow of the accused or was likely to cause death for attracting Section 301 IPC. It has come in lower court judgment that there was a meeting of mind only to the extent\nof causing harm covered under Section 323 IPC. Hence, it\ncannot be imagined that there was any meeting of mind to cause his death. This Court\nhas declared him a juvenile by order dated 22.2.2018. They had no prior\nenmity with the deceased and hence there would not have been any intention or premeditation for\nkilling the deceased. As discussed above, this Court, in the preceding paragraphs, has already\nheld that there was no such common object to commit the offence by the accused involved in this\ncase. Therefore, his\nappeal stands abated. We, therefore, modify the conviction of appellant Jafrul alias Jafrul Hasan under Section 302 I.P.C. and sentence him to a fine of\nRs.500/-, which shall be deposited before the trial court within ten days from the date of the\njudgment. In case of default in payment of fine, learned trial court shall be competent to realize the\nfine in accordance with the provisions of Cr.P.C. The record be remitted back to the trial court for necessary compliance.",
+      "embedding_text": "REASONING_CHUNK | Case: Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018 | Judicial reasoning: on 30 March, 2018\nAuthor: Shabihul Hasnain\nBench: Shabihul Hasnain, Raghvendra Kumar\nHIGH COURT OF JUDICATURE AT ALLAHABAD, LUCKNOW BENCH\nReserved on 28.3.2018\nDelivered on 30.3.2018\nCriminal Appeal No.711 of 1981\nMohd. The fatal blow was\nnot caused by him and, hence, the judgment convicting him under Section 302 read with 149 IPC is\nan erroneous finding. The argument of learned A.G.A., thus, fails because death should have been caused by\nthe blow of the accused or was likely to cause death for attracting Section 301 IPC. It has come in lower court judgment that there was a meeting of mind only to the extent\nof causing harm covered under Section 323 IPC. Hence, it\ncannot be imagined that there was any meeting of mind to cause his death. This Court\nhas declared him a juvenile by order dated 22.2.2018. They had no prior\nenmity with the deceased and hence there would not have been any intention or premeditation for\nkilling the deceased. As discussed above, this Court, in the preceding par | Intent: intentional | Outcome: death | IPC: 302, 149, 324, 326, 148, 147, 301, 307, 323, 334",
+      "metadata": {
+        "case_name": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "149",
+          "324",
+          "326",
+          "148",
+          "147",
+          "301",
+          "307",
+          "323",
+          "334"
+        ],
+        "actions": [
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "(delivered by Hon'ble Shabihul Hasnain, J.) This criminal appeal has been filed against the\njudgment and order dated 30.9.1981, passed by Ist Additional Sessions Judge, Sultanpur, in\nSessions Trail No.111 of 1980, convicting all the appellants under Section 302/149 IPC, 324/149 IPC\nand sentencing each of them to undergo life imprisonment under the first count, to two years' R.I.,\nunder the second count, further convicting appellants No.1 and 3 under Section 148 I.P.C.,\n148 IPC and one year's R.I. However, appellant was convicted under Section 326 and conviction of another accused who had\ncaused the death was confirmed. All the accused were convicted under Section 326/149 IPC So far common object\nas given in Section 149 is concerned, the trial court has ruled in the judgment that common object\nwas for the purpose of assaulting other student group but we cannot imagine that common object\nwas to kill a stranger who intervened all of a sudden and got fatal blow by Ayub while Aslam also\ngave a knife blow causing simple injury. on 30 March, 2018\nIndian Kanoon - http://indiankanoon.org/doc/118179554/ 6\nanimal, shall be punished with imprisonment of either de−scription for a term which\nmay extend to three years, or with fine, or with both.\"\nIn the present case, the appellant is said to have given a blow with the knife on the head of the\ndeceased causing injury which was not grievous in nature. and is sentenced to undergo R.I. for two years only. read with 149 I.P.C., under Section 324 I.P.C. read with Section 149\nI.P.C. and under Section 323 I.P.C. read with Section 149 I.P.C. to that of Section 323 I.P.C. and is\nsentenced to undergo six months' R.I. Ayub is concerned, he has\nbeen reported dead by the Chief Judicial Magistrate vide his report dated 1.2.2008. dated 22.2.2018. read with 149 I.P.C., under Section 324 I.P.C. read with Section 149 I.P.C. and under Section 323\nI.P.C. read with Section 149 I.P.C. to that of under Section 323 I.P.C. Dt.30.3.2018. RKM. Mohd. on 30 March, 2018\nIndian Kanoon - http://indiankanoon.org/doc/118179554/ 8",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018 | Final judgment: (delivered by Hon'ble Shabihul Hasnain, J.) This criminal appeal has been filed against the\njudgment and order dated 30.9.1981, passed by Ist Additional Sessions Judge, Sultanpur, in\nSessions Trail No.111 of 1980, convicting all the appellants under Section 302/149 IPC, 324/149 IPC\nand sentencing each of them to undergo life imprisonment under the first count, to two years' R.I.,\nunder the second count, further convicting appellants No.1 and 3 under Section 148 I.P.C.,\n148 IPC and one year's R.I. However, appellant was convicted under Section 326 and conviction of another accused who had\ncaused the death was confirmed. All the accused were convicted under Section 326/149 IPC So far common object\nas given in Section 149 is concerned, the trial court has ruled in the judgment that common object\nwas for the purpose of assaulting other student group but we cannot imagine that common object\nwas to kill a stranger who intervened all of a sudden and got fatal blow by Ayub while Aslam also\ngav | Judgment: convicted | IPC: 302, 149, 324, 326, 148, 147, 301, 307, 323, 334",
+      "metadata": {
+        "case_name": "Mohd. Aslam And Others vs State Of U.P. on 30 March, 2018",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "149",
+          "324",
+          "326",
+          "148",
+          "147",
+          "301",
+          "307",
+          "323",
+          "334"
+        ],
+        "actions": [
+          "fired",
+          "assaulted",
+          "attacked",
+          "killed"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2018"
+      }
+    }
+  ]
+}

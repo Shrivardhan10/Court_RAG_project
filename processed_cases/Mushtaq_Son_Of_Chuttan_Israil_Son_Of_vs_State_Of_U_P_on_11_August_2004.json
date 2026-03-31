@@ -1,0 +1,127 @@
+{
+  "case_id": "Mushtaq_Son_Of_Chuttan_Israil_Son_Of_vs_State_Of_U_P_on_11_August_2004",
+  "case_name": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Mushtaq Son Of Chuttan, Israil Son Of ... on 11\nAugust, 2004\nAuthor: M.C. Jain\nBench: M.C. Jain, K.K. Misra\nJUDGMENT\nM.C. Jain, J. 1. Four persons, namely, Mushtaq, Israil, Ayyub and Qayyum were tried in S.T. No. 409 of 1979\nbefore the Sessions Judge, Moradabad. The incident had taken place on 25.3.1979 at about 6.30\nP.M. in village Bagrauwa, Police Station Bilari, District Moradabad and the F.I.R. was lodged by an\ninjured eye-witness Bhure PW 1 on 26.3.1979 at 4.00 A.M. The distance of the Police Station from\nthe place of occurrence was about 4 miles. One Rashid was murdered in the incident and injuries\nwere caused to Bhure PW 1 and his wife Smt. Jafri. Rashid was done to death by shooting and injury\nof firearm was also caused to Bhure. Besides, Bhure and his wife Smt. Jafri had sustained lathi\ninjuries too. Firearms were wielded by Ayyub and Qayyum whereas Israil and Mushtaq made use of\nlathis. 2. as well as under Section\n323 I.P.C. read with Section 34 I.P.C. and 307 I.P.C. both read with Section 34 I.P.C. 3. for murdering Rashid and also under Section 307\nI.P.C. read with Section 34 I.P.C. and under Section 323 I.P.C. read with Section 34 I.P.C. 4. read with Section 323 I.P.C. and under Section 307\nI.P.C. 5. Mushtaq. and under\nSection 323 I.P.C. read with Section 34 I.P.C. read with Section 34 I.P.C. Both the sentences were directed to\nrun concurrently. on 11 August, 2004\nIndian Kanoon - http://indiankanoon.org/doc/181044/ 1\n6. 7. At the trial, besides leading medical evidence and that related to investigation of the case, the\nprosecution examined two eye-witnesses, namely, Bhure injured PW 1 and Mehboob Alam PW 2\nwhose name found place as eye-witness in the F.I.R. 8. We have heard Sri Ghanshyam Josrii, holding brief of Pt. It is true that the charge under Section 323 I.P.C. read with Section 34 I.P.C. and\nunder Section 323 I.P.C. simpliciter had been proved against him at the trial on the trustworthy\nevidence of two eye-witnesses out of whom one was himself the injured.",
+      "embedding_text": "FACT_CHUNK | Case: Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11 | Facts: Mushtaq Son Of Chuttan, Israil Son Of ... on 11\nAugust, 2004\nAuthor: M.C. Jain\nBench: M.C. Jain, K.K. Misra\nJUDGMENT\nM.C. Jain, J. 1. Four persons, namely, Mushtaq, Israil, Ayyub and Qayyum were tried in S.T. No. 409 of 1979\nbefore the Sessions Judge, Moradabad. The incident had taken place on 25.3.1979 at about 6.30\nP.M. in village Bagrauwa, Police Station Bilari, District Moradabad and the F.I.R. was lodged by an\ninjured eye-witness Bhure PW 1 on 26.3.1979 at 4.00 A.M. The distance of the Police Station from\nthe place of occurrence was about 4 miles. One Rashid was murdered in the incident and injuries\nwere caused to Bhure PW 1 and his wife Smt. Jafri. Rashid was done to death by shooting and injury\nof firearm was also caused to Bhure. Besides, Bhure and his wife Smt. Jafri had sustained lathi\ninjuries too. Firearms were wielded by Ayyub and Qayyum whereas Israil and Mushtaq made use of\nlathis. 2. as well as under Section\n323 I.P.C. read with Section 34 I.P.C. and 307 I.P.C. both rea | Actions: murdered | Weapon: firearm | Outcome: death | IPC: 323, 34, 302, 307",
+      "metadata": {
+        "case_name": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "34",
+          "302",
+          "307"
+        ],
+        "actions": [
+          "murdered"
+        ],
+        "weapon": "firearm",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2004"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11\nAugust, 2004\nAuthor: M.C. Jain\nBench: M.C. Jain, K.K. Misra\nJUDGMENT\nM.C. Jain, J. 1. Four persons, namely, Mushtaq, Israil, Ayyub and Qayyum were tried in S.T. No. 409 of 1979\nbefore the Sessions Judge, Moradabad. The incident had taken place on 25.3.1979 at about 6.30\nP.M. in village Bagrauwa, Police Station Bilari, District Moradabad and the F.I.R. was lodged by an\ninjured eye-witness Bhure PW 1 on 26.3.1979 at 4.00 A.M. The distance of the Police Station from\nthe place of occurrence was about 4 miles. One Rashid was murdered in the incident and injuries\nwere caused to Bhure PW 1 and his wife Smt.",
+      "embedding_text": "ISSUE_CHUNK | Case: Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11 | Legal issues: Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11\nAugust, 2004\nAuthor: M.C. Jain\nBench: M.C. Jain, K.K. Misra\nJUDGMENT\nM.C. Jain, J. 1. Four persons, namely, Mushtaq, Israil, Ayyub and Qayyum were tried in S.T. No. 409 of 1979\nbefore the Sessions Judge, Moradabad. The incident had taken place on 25.3.1979 at about 6.30\nP.M. in village Bagrauwa, Police Station Bilari, District Moradabad and the F.I.R. was lodged by an\ninjured eye-witness Bhure PW 1 on 26.3.1979 at 4.00 A.M. The distance of the Police Station from\nthe place of occurrence was about 4 miles. One Rashid was murdered in the incident and injuries\nwere caused to Bhure PW 1 and his wife Smt. | IPC: 323, 34, 302, 307",
+      "metadata": {
+        "case_name": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "34",
+          "302",
+          "307"
+        ],
+        "actions": [
+          "murdered"
+        ],
+        "weapon": "firearm",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2004"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of U.P. Ayyub and Qayyum appellants died during the pendency of appeal and the same abated\nso far as they were concerned as per order dated 24.3.2004. It is not necessary to relate the sentences passed against the other\naccused-appellants since they have died and the appeal had abated respecting them.Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. The defence of Israii before the lower Court was of false implication owing to enmity. Mohan Chand, Counsel for the\naccused-appellant Israii confined his argument only on the aspect of sentence that offence proved\nagainst him being only of having voluntarily caused hurt, he should be treated with leniency in the\nmatter of sentence. The accused-appellant\nIsraii allegedly wielded lathi. We accordingly,partly allow this appeal, upholding the Conviction of the accused appellant Israil\nunder Section 323 I.P.C. vs State Of U.P. vs State Of U.P.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11 | Arguments: vs State Of U.P. Ayyub and Qayyum appellants died during the pendency of appeal and the same abated\nso far as they were concerned as per order dated 24.3.2004. It is not necessary to relate the sentences passed against the other\naccused-appellants since they have died and the appeal had abated respecting them.Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. The defence of Israii before the lower Court was of false implication owing to enmity. Mohan Chand, Counsel for the\naccused-appellant Israii confined his argument only on the aspect of sentence that offence proved\nagainst him being only of having voluntarily caused hurt, he should be treated with leniency in the\nmatter of sentence. The accused-appellant\nIsraii allegedly wielded lathi. We accordingly,partly allow this appeal, upholding the Conviction of the accused appellant Israil\nunder Section 323 I.P.C. vs State Of U.P. vs State Of U.P. | Intent: intentional | IPC: 323, 34, 302, 307 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "34",
+          "302",
+          "307"
+        ],
+        "actions": [
+          "murdered"
+        ],
+        "weapon": "firearm",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2004"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The Court is, therefore, concerned only\nwith appellant Israii whose conviction, as stated above, is under Section 323 I.P.C. The bail was\ngranted by this Court on 18.8.1981 consequent upon the filing of the appeal and the bail bonds were\nfurnished in pursuance thereof on 21.8.1981. Thus he suffered incarceration also for about 18 days. The Office is directed to send the copy of the judgement along with record of the lower Court\nwithin one week. The compliance be reported to this Court by 15.9.2004.Mushtaq Son Of Chuttan, Israil Son Of ... Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11\nAugust, 2004\nAuthor: M.C. Jain\nBench: M.C. Jain, K.K. Misra\nJUDGMENT\nM.C. Jain, J.",
+      "embedding_text": "REASONING_CHUNK | Case: Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11 | Judicial reasoning: The Court is, therefore, concerned only\nwith appellant Israii whose conviction, as stated above, is under Section 323 I.P.C. The bail was\ngranted by this Court on 18.8.1981 consequent upon the filing of the appeal and the bail bonds were\nfurnished in pursuance thereof on 21.8.1981. Thus he suffered incarceration also for about 18 days. The Office is directed to send the copy of the judgement along with record of the lower Court\nwithin one week. The compliance be reported to this Court by 15.9.2004.Mushtaq Son Of Chuttan, Israil Son Of ... Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11\nAugust, 2004\nAuthor: M.C. Jain\nBench: M.C. Jain, K.K. Misra\nJUDGMENT\nM.C. Jain, J. | Intent: intentional | Outcome: death | IPC: 323, 34, 302, 307",
+      "metadata": {
+        "case_name": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "34",
+          "302",
+          "307"
+        ],
+        "actions": [
+          "murdered"
+        ],
+        "weapon": "firearm",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2004"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The lower Court convicted Mushtaq and Israil under Section 323 I.P.C. but they were acquitted for the offences under Section 302\nI.P.C. Qayyum was convicted under Section 302 I.P.C. He was, however, acquitted for the offence punishable under\nSection 323 I.P.C. Ayyub was convicted under Section 302 I.P.C. but was acquitted under Section 323 I.P.C read with Section 34 I.P.C. He has been sentenced to one year's rigorous\nimprisonment under Section 323 I.P.C. and one year's rigorous imprisonment has been awarded for\nthe offence under Section 323 I.P.C. We feel inclined to accept the\nsubmission from the side of the accused appellant Israil that no useful purpose would be served to\nunsettle his settled life by awarding him substantive sentence of imprisonment for an offence\ncommitted more than 25 years back of causing simple injuries to two persons (total injuries 3). He was convicted by the trial Court on 13.8.1981. The ends of justice would be met to modify his sentence to the period of imprisonment already\nundergone plus the fine of Rs. In default of payment of fine, he shall undergo further\nrigorous imprisonment for three months on each count. 2,0007- as fine or shall undergo further rigorous imprisonment for six months in default of\npayment of fine. and under Section 323 I.P.C. read with Section 34 I.P.C. on another count\nand modifying his sentence to the period of imprisonment already undergone plus payment of fine\nof Rs. 1,000/- on each count or to suffer rigorous imprisonment for three months on each count\n(total rigorous imprisonment of six months). The fine should be paid by 31.8.2004. In default of\npayment of fine, he shall be arrested and lodged in jail to serve out the sentence of imprisonment\nawarded to be undergone in default of payment of fine indicated above.Mushtaq Son Of Chuttan, Israil Son Of ... on 11 August, 2004\nIndian Kanoon - http://indiankanoon.org/doc/181044/ 2\n11. on 11 August, 2004\nIndian Kanoon - http://indiankanoon.org/doc/181044/ 3",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11 | Final judgment: The lower Court convicted Mushtaq and Israil under Section 323 I.P.C. but they were acquitted for the offences under Section 302\nI.P.C. Qayyum was convicted under Section 302 I.P.C. He was, however, acquitted for the offence punishable under\nSection 323 I.P.C. Ayyub was convicted under Section 302 I.P.C. but was acquitted under Section 323 I.P.C read with Section 34 I.P.C. He has been sentenced to one year's rigorous\nimprisonment under Section 323 I.P.C. and one year's rigorous imprisonment has been awarded for\nthe offence under Section 323 I.P.C. We feel inclined to accept the\nsubmission from the side of the accused appellant Israil that no useful purpose would be served to\nunsettle his settled life by awarding him substantive sentence of imprisonment for an offence\ncommitted more than 25 years back of causing simple injuries to two persons (total injuries 3). He was convicted by the trial Court on 13.8.1981. The ends of justice would be met to modify his sentence to the period of imp | Judgment: convicted | IPC: 323, 34, 302, 307",
+      "metadata": {
+        "case_name": "Mushtaq Son Of Chuttan, Israil Son Of ... vs State Of U.P. on 11",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "34",
+          "302",
+          "307"
+        ],
+        "actions": [
+          "murdered"
+        ],
+        "weapon": "firearm",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "Unknown Court",
+        "year": "2004"
+      }
+    }
+  ]
+}

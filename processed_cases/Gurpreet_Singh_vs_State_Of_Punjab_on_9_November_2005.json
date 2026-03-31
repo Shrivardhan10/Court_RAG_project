@@ -1,0 +1,197 @@
+{
+  "case_id": "Gurpreet_Singh_vs_State_Of_Punjab_on_9_November_2005",
+  "case_name": "Gurpreet Singh vs State Of Punjab on 9 November, 2005",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Prosecution case, in short, was that\nKuljit Singh @ Billa was a student of B.A. Accused Meharban Singh assaulted him with kirpan on\nthe temporal region whereupon Kuljit Singh fell down. In the meantime, accused Harbhajan Singh\nwho too was armed with kirpan came there and also dealt a kirpan blow on the forehead of Kuljit\nSingh. All the aforesaid accused persons thereafter inflicted several injuries upon Kuljit Singh even\nafter he fell down. On halla being raised, people of the locality arrived\nwhereafter the accused persons fled away. Kuljit Singh was taken to Christian Medical Hospital by\nPW 3 and Harvinder Singh where the doctor declared him dead. Thereupon, Harvinder Singh, who\nwas brother of Kuljit Singh \u0016 deceased, left for the police station but on the Brown Road, near\nChristian Medical Hospital, he met Sub Inspector Bakshish Singh (PW 8) who recorded his\nstatement stating therein the aforesaid facts and sent the same to the police station where a case was\nregistered against all the aforesaid four accused persons, including the appellants on the same day at\n7.15 p.m. As accused Meharban Singh died during trial, the same proceeded against the\nremaining three accused persons. In the meantime, upon halla being raised by appellant Gurpreet Singh,\nvillagers arrived there who assaulted Kuljit Singh and stating the aforesaid facts, a complaint was\nfiled by appellant Gurpreet Singh on 3rd February, 1990 as Gurpreet Singh was hospitalized. During the course of trial, the prosecution examined eight witnesses in all, out of whom, Dr. I.P.Singh Chhabra (PW 1) was the doctor who conducted postmortem examination on dead body of\nthe deceased. Parminder Singh (PW 2) and Gurvinder Singh (PW 3) claimed to be eyewitnesses to\nthe occurrence. Head Constable Balbir Singh (PW 4) and Constables Manjit Singh (PW 5),\nGurcharan Singh (PW 6) and Lakhbir Singh (PW 7) were the formal witnesses whereas SI Bakshish\nSingh (PW 8) was the Investigating Officer. from\nmidline, 1-5 c.m. x 0.5 c.m, depth not ascertained along with left haeopheumethroex.\"\nFrom the dimension of injury, it would appear that the same was superficial one inasmuch as,\naccording to the doctor, even its depth could not be ascertained.",
+      "embedding_text": "FACT_CHUNK | Case: Gurpreet Singh vs State Of Punjab on 9 November, 2005 | Facts: Prosecution case, in short, was that\nKuljit Singh @ Billa was a student of B.A. Accused Meharban Singh assaulted him with kirpan on\nthe temporal region whereupon Kuljit Singh fell down. In the meantime, accused Harbhajan Singh\nwho too was armed with kirpan came there and also dealt a kirpan blow on the forehead of Kuljit\nSingh. All the aforesaid accused persons thereafter inflicted several injuries upon Kuljit Singh even\nafter he fell down. On halla being raised, people of the locality arrived\nwhereafter the accused persons fled away. Kuljit Singh was taken to Christian Medical Hospital by\nPW 3 and Harvinder Singh where the doctor declared him dead. Thereupon, Harvinder Singh, who\nwas brother of Kuljit Singh \u0016 deceased, left for the police station but on the Brown Road, near\nChristian Medical Hospital, he met Sub Inspector Bakshish Singh (PW 8) who recorded his\nstatement stating therein the aforesaid facts and sent the same to the police station where a case was\nregistered against all  | Actions: stabbed, assaulted, attacked | Weapon: knife | Outcome: death | IPC: 302, 149, 307, 154, 157, 34, 304, 464, 113, 465, 313, 535, 537, 148, 326, 2",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab on 9 November, 2005",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "149",
+          "307",
+          "154",
+          "157",
+          "34",
+          "304",
+          "464",
+          "113",
+          "465",
+          "313",
+          "535",
+          "537",
+          "148",
+          "326",
+          "2"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "It further provides, inter alia, that in determining\nwhether any error, omission or irregularity in any proceeding under this Code has\noccasioned a failure of justice, the Court shall have regard to the fact whether the\nobjection could and should have been raised at an earlier stage in the proceedings. P., elaborately discussed\nthe applicability of Sections 535 and 537 of the Code of Criminal Procedure, 1898,\nwhich correspond respectively to Sections 464 and 465 of the Code, and held that in\njudging a question of prejudice, as of guilt, courts must act with a broad vision and\nlook to the substance and not to technicalities, and their main concern should be to\nsee whether the accused had a fair trial, whether he knew what he was being tried for,\nwhether the main facts sought to be established against him were explained to him\nfairly and clearly and whether he was given a full and fair chance to defend himself. But it is well settled that in such an eventuality, this\nCourt should first consider the legality or otherwise of conviction of the accused and\nin case the conviction is upheld, a report should be called for from the trial court on\nthe point as to whether the accused was juvenile on the date of occurrence and upon\nreceipt of the report, if it is found that the accused was juvenile on such date and\ncontinues to be so, he shall be sent to juvenile home. 710\nof 1995 filed by appellant Mohinder Pal Singh, call for a report from the trial court as\nto whether on the date of occurrence this appellant was juvenile within the meaning\nof Section 2(h) of the Juvenile Justice Act, 1986?",
+      "embedding_text": "ISSUE_CHUNK | Case: Gurpreet Singh vs State Of Punjab on 9 November, 2005 | Legal issues: It further provides, inter alia, that in determining\nwhether any error, omission or irregularity in any proceeding under this Code has\noccasioned a failure of justice, the Court shall have regard to the fact whether the\nobjection could and should have been raised at an earlier stage in the proceedings. P., elaborately discussed\nthe applicability of Sections 535 and 537 of the Code of Criminal Procedure, 1898,\nwhich correspond respectively to Sections 464 and 465 of the Code, and held that in\njudging a question of prejudice, as of guilt, courts must act with a broad vision and\nlook to the substance and not to technicalities, and their main concern should be to\nsee whether the accused had a fair trial, whether he knew what he was being tried for,\nwhether the main facts sought to be established against him were explained to him\nfairly and clearly and whether he was given a full and fair chance to defend himself. But it is well settled that in such an eventuality, this\nCourt should first c | IPC: 302, 149, 307, 154, 157, 34, 304, 464, 113, 465, 313, 535, 537, 148, 326, 2",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab on 9 November, 2005",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "149",
+          "307",
+          "154",
+          "157",
+          "34",
+          "304",
+          "464",
+          "113",
+          "465",
+          "313",
+          "535",
+          "537",
+          "148",
+          "326",
+          "2"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Gurpreet Singh vs State Of Punjab on 9 November, 2005\n2006 (1) AIR JHAR R 249, 2005 (8) SLT 522, 2006 ALL MR(CRI) 581, 2006 (54)\nALLCRIC 8, 2006 (1) SCC(CRI) 191, 2006 (1) SRJ 163, 2005 (9) SCALE 189,\n2005 (12) SCC 615, (2005) 9 JT 465 (SC), (2005) 36 ALLINDCAS 1 (SC), 2005\n(36) ALLINDCAS 1, (2007) SC CR R 220, 2006 CHANDLR(CIV&CRI) 122, (2006)\n1 EASTCRIC 235, (2006) 1 PAT LJR 235, (2005) 4 RECCRIR 980, (2005) 8 SCJ\n750, (2005) 4 CURCRIR 216, (2006) 1 ALLCRIR 119, (2005) 9 SCALE 189,\n(2006) 1 JLJR 203, (2006) 1 CHANDCRIC 236, (2006) 1 ALLCRILR 310, (2005) 4\nCRIMES 230, (2005) 7 SUPREME 571, (2006) 33 OCR 25, 2006 (1)\nANDHLT(CRI) 161 SC\nAuthor: B.N.Agrawal\nBench: B.N.Agrawal, A.K.Mathur\nCASE NO.:\nAppeal (crl.) 711 of 1995\nGurpreet Singh\nState of Punjab\nDATE OF JUDGMENT: 09/11/2005\nBENCH:\nB.N.AGRAWAL & A.K.MATHUR\nJUDGMENT:\nJ U D G M E N T WITH CRIMINAL APPEAL NO. 710 OF 1995 Mohinder Pal Singh \u0005\u0005\u0005Appellant\nVersus State of Punjab \u0005\u0005Respondent B.N.AGRAWAL, J. Against the order of acquittal of accused Harbhajan Singh,\nno appeal was filed by the State whereas on appeal being filed by the appellants, the High CourtGurpreet Singh vs State Of Punjab on 9 November, 2005\nIndian Kanoon - http://indiankanoon.org/doc/451539/ 1\nconfirmed their conviction and sentence. Part I in Arya College, Ludhiana and he was a witness in a\ncase filed for prosecution of appellant Gurpreet Singh under Section 307 IPC which was pending. On\n22nd January, 1990 at about 5.30 p.m., Kuljit Singh along with his brother Harvinder Singh and\nfriends Parminder Singh (PW 2) and Gurvinder Singh (PW 3) was returning to his house after\nattending classes from Guru Angad Dev College and when they reached near Oriental Public School,\nthe appellants along with accused Meharban Singh, who were present there armed with kirpans,\nconfronted him. Appellant Gurpreet Singh shouted that Kuljit Singh should be done to death and he\nattacked him with kirpan on his head. Thereafter, appellant Mohinder Pal Singh @ Vicky inflicted\nkirpan blow in the abdomen of Kuljit Singh.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Gurpreet Singh vs State Of Punjab on 9 November, 2005 | Arguments: Gurpreet Singh vs State Of Punjab on 9 November, 2005\n2006 (1) AIR JHAR R 249, 2005 (8) SLT 522, 2006 ALL MR(CRI) 581, 2006 (54)\nALLCRIC 8, 2006 (1) SCC(CRI) 191, 2006 (1) SRJ 163, 2005 (9) SCALE 189,\n2005 (12) SCC 615, (2005) 9 JT 465 (SC), (2005) 36 ALLINDCAS 1 (SC), 2005\n(36) ALLINDCAS 1, (2007) SC CR R 220, 2006 CHANDLR(CIV&CRI) 122, (2006)\n1 EASTCRIC 235, (2006) 1 PAT LJR 235, (2005) 4 RECCRIR 980, (2005) 8 SCJ\n750, (2005) 4 CURCRIR 216, (2006) 1 ALLCRIR 119, (2005) 9 SCALE 189,\n(2006) 1 JLJR 203, (2006) 1 CHANDCRIC 236, (2006) 1 ALLCRILR 310, (2005) 4\nCRIMES 230, (2005) 7 SUPREME 571, (2006) 33 OCR 25, 2006 (1)\nANDHLT(CRI) 161 SC\nAuthor: B.N.Agrawal\nBench: B.N.Agrawal, A.K.Mathur\nCASE NO.:\nAppeal (crl.) 711 of 1995\nGurpreet Singh\nState of Punjab\nDATE OF JUDGMENT: 09/11/2005\nBENCH:\nB.N.AGRAWAL & A.K.MATHUR\nJUDGMENT:\nJ U D G M E N T WITH CRIMINAL APPEAL NO. 710 OF 1995 Mohinder Pal Singh \u0005\u0005\u0005Appellant\nVersus State of Punjab \u0005\u0005Respondent B.N.AGRAWAL, J. Against the order of acquittal | Intent: intentional | IPC: 302, 149, 307, 154, 157, 34, 304, 464, 113, 465, 313, 535, 537, 148, 326, 2 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab on 9 November, 2005",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "149",
+          "307",
+          "154",
+          "157",
+          "34",
+          "304",
+          "464",
+          "113",
+          "465",
+          "313",
+          "535",
+          "537",
+          "148",
+          "326",
+          "2"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "The revision application filed by the private prosecutor for\nenhancement of sentence has been rejected by the High Court. Thus, the medical\nevidence supports the prosecution case that the deceased was assaulted by the accused persons with\nkirpan. As before delivering the\nreport to the magistrate, he had delivered its copy at six other places, therefore, the report could be\ndelivered to the concerned magistrate at 0002 hours during night which shows that this witness has\ntaken four hours time in delivering report to the magistrate. Reliance in this connection was placed upon a three Judges' Bench\ndecision of this Court in the case of Shamnsaheb M.Multtani v. After taking into consideration the provisions of Section 464 of the Code of\nCriminal Procedure, this Court laid down that a conviction would be valid even if there is omission\nor irregularity in the framing of charge provided the same did not occasion a failure of justice. In the\nsaid case, Court came to the conclusion that by non-framing of the charge under Section 304-B IPC,\nthere was failure of justice and the accused was prejudiced thereby in view of the fact that under\nSection 113-B of the Evidence Act, there was a statutory presumption against the accused which he\nwas entitled to rebut and no such opportunity of rebuttal was afforded to him in the absence of\ncharge. Therefore, the said decision is quite distinguishable and has no application to the present case. This Court, following the decision of\nConstitution Bench in the case of Willie (William) Slaney vs. The court thus observed in paras 10-11 which read thus:-\n\"10. Sub-Section (1) of Section 464 of the Code of Criminal Procedure, 1973 ('Code'\nfor short) expressly provides that no finding, sentence or order by a Court of\ncompetent jurisdiction shall be deemed invalid merely on the ground that no charge\nwas framed or on the ground of any error, omission or irregularity in the charge\nincluding any misjoinder of charges, unless in the opinion of the Court of appeal,\nconfirmation or revision, a failure of justice has in fact (emphasis supplied) been\noccasioned thereby.",
+      "embedding_text": "REASONING_CHUNK | Case: Gurpreet Singh vs State Of Punjab on 9 November, 2005 | Judicial reasoning: The revision application filed by the private prosecutor for\nenhancement of sentence has been rejected by the High Court. Thus, the medical\nevidence supports the prosecution case that the deceased was assaulted by the accused persons with\nkirpan. As before delivering the\nreport to the magistrate, he had delivered its copy at six other places, therefore, the report could be\ndelivered to the concerned magistrate at 0002 hours during night which shows that this witness has\ntaken four hours time in delivering report to the magistrate. Reliance in this connection was placed upon a three Judges' Bench\ndecision of this Court in the case of Shamnsaheb M.Multtani v. After taking into consideration the provisions of Section 464 of the Code of\nCriminal Procedure, this Court laid down that a conviction would be valid even if there is omission\nor irregularity in the framing of charge provided the same did not occasion a failure of justice. In the\nsaid case, Court came to the conclusion that by non- | Intent: intentional | Outcome: death | IPC: 302, 149, 307, 154, 157, 34, 304, 464, 113, 465, 313, 535, 537, 148, 326, 2",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab on 9 November, 2005",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "149",
+          "307",
+          "154",
+          "157",
+          "34",
+          "304",
+          "464",
+          "113",
+          "465",
+          "313",
+          "535",
+          "537",
+          "148",
+          "326",
+          "2"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2005"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "The appellants of these two appeals along with accused Bhajan Singh @ Harbhajan Singh and\nMeharban Singh were made accused in a case under Section 302 of the Indian Penal Code (for short\n'IPC') but as accused Meharban Singh died during trial, the remaining three accused persons were\ntried and by its judgment the trial court acquitted accused Bhajan Singh @ Harbhajan Singh\nwhereas these two appellants were convicted under Section 302 IPC and sentenced to undergo\nimprisonment for life and to pay a fine of Rs. 2,000/- each, in default to undergo further\nimprisonment for a period of six months. Upon the\nconclusion of trial, accused Harbhajan Singh was acquitted whereas the appellants were convicted\nand their appeal before the High Court having failed, as stated above, the present appeals by special\nleave. In that case, charge was framed under Section 302 IPC and the accused persons\nwere acquitted by the trial court. When the matter was taken in appeal by the State, High Court\nreversed the order of acquittal but convicted accused under Section 304-B IPC which was challenged\nbefore this Court. This being the position, this Court set aside the conviction under Section 304-B IPC,\nremitted the matter to the trial court, directing it to proceed from the stage of defence evidence. Thakkidiram Reddy and others, (1998) 6 Supreme Court Cases 554, in which case charge was\nframed under Section 302 IPC simpliciter but eleven accused persons were convicted under SectionGurpreet Singh vs State Of Punjab on 9 November, 2005\nIndian Kanoon - http://indiankanoon.org/doc/451539/ 6\n302/149 IPC by the trial court. When the matter was taken to the High Court, conviction of one\naccused under Section 302/149 IPC was maintained but of all other ten accused persons reversed\nand they were acquitted of the charge. State of\nMaharashtra 1997 Criminal Lal Journal 4406 wherein charge was framed under\nSection 302/149 IPC against nine accused persons who were acquitted by the trial\ncourt and when State of Maharashtra preferred an appeal, the High Court upheld\nacquittal of eight accused persons but reversed the acquittal of ninth accused and\nconvicted him under Section 302 IPC simpliciter.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Gurpreet Singh vs State Of Punjab on 9 November, 2005 | Final judgment: The appellants of these two appeals along with accused Bhajan Singh @ Harbhajan Singh and\nMeharban Singh were made accused in a case under Section 302 of the Indian Penal Code (for short\n'IPC') but as accused Meharban Singh died during trial, the remaining three accused persons were\ntried and by its judgment the trial court acquitted accused Bhajan Singh @ Harbhajan Singh\nwhereas these two appellants were convicted under Section 302 IPC and sentenced to undergo\nimprisonment for life and to pay a fine of Rs. 2,000/- each, in default to undergo further\nimprisonment for a period of six months. Upon the\nconclusion of trial, accused Harbhajan Singh was acquitted whereas the appellants were convicted\nand their appeal before the High Court having failed, as stated above, the present appeals by special\nleave. In that case, charge was framed under Section 302 IPC and the accused persons\nwere acquitted by the trial court. When the matter was taken in appeal by the State, High Court\nreversed the  | Judgment: convicted | IPC: 302, 149, 307, 154, 157, 34, 304, 464, 113, 465, 313, 535, 537, 148, 326, 2",
+      "metadata": {
+        "case_name": "Gurpreet Singh vs State Of Punjab on 9 November, 2005",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "149",
+          "307",
+          "154",
+          "157",
+          "34",
+          "304",
+          "464",
+          "113",
+          "465",
+          "313",
+          "535",
+          "537",
+          "148",
+          "326",
+          "2"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "2005"
+      }
+    }
+  ]
+}

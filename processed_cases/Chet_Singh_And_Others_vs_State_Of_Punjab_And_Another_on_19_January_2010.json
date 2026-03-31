@@ -1,0 +1,142 @@
+{
+  "case_id": "Chet_Singh_And_Others_vs_State_Of_Punjab_And_Another_on_19_January_2010",
+  "case_name": "Chet Singh And Others vs State Of Punjab And Another on 19",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Substantive sentences were ordered to run concurrently. According to the prosecution, Dalip Singh complainant and his brother Pritam Singh were\nagriculturists by profession and having joint cultivation. The land of Chet Singh accused adjoined\ntheir land. The complainant had carved out a Khal for the purpose of irrigating his fields from the\nmain canal. The said Khal passed through rectangle No.30 Killa Nos. 6 and 7. About 10/15 days\nearlier to the present occurrence, Chet Singh accused had demolished the Khal. On 2.6.1999 at\nabout 11.00 AM, the complainant and his brother Pritam Singh were re-laying the demolished Khal. In the meantime, all the four accused duly armed reached there. Chet Singh raised lalkara to teach a\nlesson to the complainant and his brother for relaying the Khal. Upon this, Harmesh Singh gave a\nbutt blow of his gun, hitting Pritam Singh near his right ear. Chet Singh gave a bala blow on the head\nof Pritam Singh. On receiving injuries, Pritam Singh fell down. While he was lying on the ground, he\nwas given a gandasa blow from its reverse side by Gurmej Singh, hitting him on his nose. When the\ncomplainant tried to rescue his brother, Desa Singh gave a gandasa blow from its reverse side hitting\nhim on his head. Chet Singh put a saffa around the neck of the complainant, as a result whereof, the\ncomplainant fell down and received scratches around his neck. Desa Singh gave gandasa blow from\nits blunt side on the left palm of the complainant. Chet Singh gave a kick blow in the abdomen of the\ncomplainant. On receiving the injuries, Pritam Singh became unconscious. The occurrence was also\nwitnessed by Kundan Singh son of the complainant, who was at that time standing at a little\ndistance from the place of the occurrence. When an alarm was raised, all the accused fled away from\nthe spot while carrying their respective weapons. The injured were first taken to Civil Hospital, Mamdot, from where they were further referred to\nCivil Hospital, Ferozepur. Dr Mahesh Chander Markan, Medical Officer, Civil Hospital, Ferozepur\nconducted medico-legal examination on the person of Pritam Singh on 2.6.1999 and found the\nfollowing injuries:\n1.",
+      "embedding_text": "FACT_CHUNK | Case: Chet Singh And Others vs State Of Punjab And Another on 19 | Facts: Substantive sentences were ordered to run concurrently. According to the prosecution, Dalip Singh complainant and his brother Pritam Singh were\nagriculturists by profession and having joint cultivation. The land of Chet Singh accused adjoined\ntheir land. The complainant had carved out a Khal for the purpose of irrigating his fields from the\nmain canal. The said Khal passed through rectangle No.30 Killa Nos. 6 and 7. About 10/15 days\nearlier to the present occurrence, Chet Singh accused had demolished the Khal. On 2.6.1999 at\nabout 11.00 AM, the complainant and his brother Pritam Singh were re-laying the demolished Khal. In the meantime, all the four accused duly armed reached there. Chet Singh raised lalkara to teach a\nlesson to the complainant and his brother for relaying the Khal. Upon this, Harmesh Singh gave a\nbutt blow of his gun, hitting Pritam Singh near his right ear. Chet Singh gave a bala blow on the head\nof Pritam Singh. On receiving injuries, Pritam Singh fell down. While h | Actions: none | Weapon: gun | Outcome: death | IPC: 323, 34, 307, 325, 313, 482, 320, 326, 300",
+      "metadata": {
+        "case_name": "Chet Singh And Others vs State Of Punjab And Another on 19",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "34",
+          "307",
+          "325",
+          "313",
+          "482",
+          "320",
+          "326",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "In view of the\naforementioned affidavits, this Court vide ordered dated 22.10.2008 ordered for impleading\ncomplainant Dalip Singh as respondent No.2 and notice was, accordingly, issued to him. The main question which needs consideration in the present appeal is as to whether an offence\nunder Section 307 IPC can be said to have been made out against the appellants or not. January 19, 2010 (T.P.S.MANN)\nPds JUDGE\nWhether to be referred to Reporter: Yes/NoChet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 6 Chet Singh And Others vs State Of Punjab And Another on 19\nJanuary, 2010\nAuthor: T.P.S.Mann\nBench: T.P.S.Mann\nCriminal Appeal No. 1234-SB of 2002 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT\nCHANDIGARH\nCriminal Appeal No.",
+      "embedding_text": "ISSUE_CHUNK | Case: Chet Singh And Others vs State Of Punjab And Another on 19 | Legal issues: In view of the\naforementioned affidavits, this Court vide ordered dated 22.10.2008 ordered for impleading\ncomplainant Dalip Singh as respondent No.2 and notice was, accordingly, issued to him. The main question which needs consideration in the present appeal is as to whether an offence\nunder Section 307 IPC can be said to have been made out against the appellants or not. January 19, 2010 (T.P.S.MANN)\nPds JUDGE\nWhether to be referred to Reporter: Yes/NoChet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 6 Chet Singh And Others vs State Of Punjab And Another on 19\nJanuary, 2010\nAuthor: T.P.S.Mann\nBench: T.P.S.Mann\nCriminal Appeal No. 1234-SB of 2002 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT\nCHANDIGARH\nCriminal Appeal No. | IPC: 323, 34, 307, 325, 313, 482, 320, 326, 300",
+      "metadata": {
+        "case_name": "Chet Singh And Others vs State Of Punjab And Another on 19",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "34",
+          "307",
+          "325",
+          "313",
+          "482",
+          "320",
+          "326",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Chet Singh And Others vs State Of Punjab And Another on 19\nJanuary, 2010\nAuthor: T.P.S.Mann\nBench: T.P.S.Mann\nCriminal Appeal No. 1234-SB of 2002\nDATE OF DECISION: January 19, 2010\nChet Singh and others\n.....APPELLANTS\nVERSUS\nState of Punjab and another\n.....RESPONDENTS\nCORAM: HON'BLE MR JUSTICE T.P.S.MANN\nfor State-respondent No.1. for complainant-respondent No.2.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 1\nT.P.S .MANN,J. (Oral):\nThe appellants were tried by Additional Sessions Judge, Ferozepur for offences under Sections 307,\n323/34 IPC for causing injuries to Dalip Singh and Pritam Singh. Opinion of ENT specialist was advised.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 2\n3. On the basis of statement made by Dalip Singh complainant, formal FIR No.71 dated 4.6.1999 was\nregistered against the appellants at Police Station, Mamdot. After completion of the investigation,\nthe appellants were challaned for offences under Sections 307, 323, 34 IPC. The case was committed\nto the Court of Sessions and vide order dated 4.1.2000, learned Additional Sessions Judge framed\nthe charge against the appellants for the aforementioned offences. The appellants pleaded not guilty\nand claimed trial. When examined under Section 313 Cr.P.C, the appellants pleaded their false implication. They\nstated that Dalip Singh and Pritam Singh wanted to carve out the Khal through their land and when\nthey prevented them from doing so, some unknown persons caused injuries to them. It may be mentioned here that soon after the registration of the criminal case against the appellants,\nan understanding was arrived at between the parties. Affidavits dated 23.6.1999 were submitted by\nDalip Singh complainant and Pritam Singh, wherein they stated that the injuries on their persons\nwere inflicted by unknown persons, who had come with muffled faces, whereas the present\nthe fact that the offence under Section 307 IPC was not compoundable and the affidavits had not\nbeen handed over to the police, learned Additional Sessions Judge, Ferozepur vide order dated\n2.7.1999 declined to grant the concession of anticipatory bail to the appellants.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Chet Singh And Others vs State Of Punjab And Another on 19 | Arguments: Chet Singh And Others vs State Of Punjab And Another on 19\nJanuary, 2010\nAuthor: T.P.S.Mann\nBench: T.P.S.Mann\nCriminal Appeal No. 1234-SB of 2002\nDATE OF DECISION: January 19, 2010\nChet Singh and others\n.....APPELLANTS\nVERSUS\nState of Punjab and another\n.....RESPONDENTS\nCORAM: HON'BLE MR JUSTICE T.P.S.MANN\nfor State-respondent No.1. for complainant-respondent No.2.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 1\nT.P.S .MANN,J. (Oral):\nThe appellants were tried by Additional Sessions Judge, Ferozepur for offences under Sections 307,\n323/34 IPC for causing injuries to Dalip Singh and Pritam Singh. Opinion of ENT specialist was advised.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 2\n3. On the basis of statement made by Dalip Singh complainant, formal FIR No.71 dated 4.6.1999 was\nregistered against the appellants at Police Station, | Intent: unknown | IPC: 323, 34, 307, 325, 313, 482, 320, 326, 300 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Chet Singh And Others vs State Of Punjab And Another on 19",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "34",
+          "307",
+          "325",
+          "313",
+          "482",
+          "320",
+          "326",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "1234-SB of 2002 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT\nCHANDIGARH\nCriminal Appeal No. Hence, they are now before this Court by way of an appeal. The Court held that this was certainly\nnot the type of the injury, as would attract the provisions of Section 307 IPC, which envisages an\ninjury sufficient in the ordinary course of nature to cause death and the injury described by the\ndoctor was a lesser injury, which would fall within clause Eighthly of Section 320 IPC and, therefore,\npunishable under Section 326 thereof. The offence under Section 325 IPC is legally compoundable, though with the permission of the\nCourt, as required by Section 320 (2) Cr.P.C, whereas for compounding offence under Section 323\nIPC, no such permission is required as per Section 320 (1) Cr.P.C.",
+      "embedding_text": "REASONING_CHUNK | Case: Chet Singh And Others vs State Of Punjab And Another on 19 | Judicial reasoning: 1234-SB of 2002 -1-\nIN THE HIGH COURT OF PUNJAB AND HARYANA AT\nCHANDIGARH\nCriminal Appeal No. Hence, they are now before this Court by way of an appeal. The Court held that this was certainly\nnot the type of the injury, as would attract the provisions of Section 307 IPC, which envisages an\ninjury sufficient in the ordinary course of nature to cause death and the injury described by the\ndoctor was a lesser injury, which would fall within clause Eighthly of Section 320 IPC and, therefore,\npunishable under Section 326 thereof. The offence under Section 325 IPC is legally compoundable, though with the permission of the\nCourt, as required by Section 320 (2) Cr.P.C, whereas for compounding offence under Section 323\nIPC, no such permission is required as per Section 320 (1) Cr.P.C. | Intent: unknown | Outcome: death | IPC: 323, 34, 307, 325, 313, 482, 320, 326, 300",
+      "metadata": {
+        "case_name": "Chet Singh And Others vs State Of Punjab And Another on 19",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "34",
+          "307",
+          "325",
+          "313",
+          "482",
+          "320",
+          "326",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Vide judgment and order dated\n24.7.2002, the trial Court convicted Chet Singh-appellant under Section 307 IPC and sentenced him\nto undergo rigorous imprisonment for three years and to pay a fine of Rs.1,000/-. In default of\npayment of fine, he was directed to undergo further rigorous imprisonment for six months. The\nother appellants were held vicariously liable under Section 307/34 IPC and sentenced to undergo\nrigorous imprisonment for two years and to pay a fine of Rs.500/- each. In default of payment of\nfine, the defaulting accused was to undergo further rigorous imprisonment for three months. All the\nimprisonment for six months each. In defence,\nthey examined DW-1 Swaran Singh, Patwari, DW-2 Surinder Kaur, Stenotypist and DW-3 Amar\nNath Sharma, Advocate.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 3\nThe trial Court believed the prosecution version and convicted and sentenced the appellants, as\nmentioned above. While holding so the Court held as under:\n\"The only contention raised on behalf of the appellant is that the offence of which he\ncould be convicted was one under Section 326 of the Indian Penal Code and not\nunder Section 307 thereof and that consequently, the sentence awarded to him is\nexcessive. Accordingly, the\nconviction recorded against the appellant is converted into one under the section last mentioned\nand in consequence the sentence imposed on him is reduced from rigorous imprisonment for four\nyears to that already suffered which works out to rigorous imprisonment for about 18 months. As such, this injury can not be considered to fall within the ambit of\nSection 307 IPC. As the same had been caused by a blunt weapon and it had resulted into a fracture,\nthe injury would, at the most, fall under Section 325 IPC. Apart from\nthe same, all the appellants have been rightly convicted under Section 323 IPC for causing other\nsimple injuries to aforementioned Pritam Singh and Dalip Singh.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 5\nThe question of compromise having been effected between the parties assumes significance now.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Chet Singh And Others vs State Of Punjab And Another on 19 | Final judgment: Vide judgment and order dated\n24.7.2002, the trial Court convicted Chet Singh-appellant under Section 307 IPC and sentenced him\nto undergo rigorous imprisonment for three years and to pay a fine of Rs.1,000/-. In default of\npayment of fine, he was directed to undergo further rigorous imprisonment for six months. The\nother appellants were held vicariously liable under Section 307/34 IPC and sentenced to undergo\nrigorous imprisonment for two years and to pay a fine of Rs.500/- each. In default of payment of\nfine, the defaulting accused was to undergo further rigorous imprisonment for three months. All the\nimprisonment for six months each. In defence,\nthey examined DW-1 Swaran Singh, Patwari, DW-2 Surinder Kaur, Stenotypist and DW-3 Amar\nNath Sharma, Advocate.Chet Singh And Others vs State Of Punjab And Another on 19 January, 2010\nIndian Kanoon - http://indiankanoon.org/doc/53498236/ 3\nThe trial Court believed the prosecution version and convicted and sentenced the appellants, as\nmentione | Judgment: convicted | IPC: 323, 34, 307, 325, 313, 482, 320, 326, 300",
+      "metadata": {
+        "case_name": "Chet Singh And Others vs State Of Punjab And Another on 19",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "34",
+          "307",
+          "325",
+          "313",
+          "482",
+          "320",
+          "326",
+          "300"
+        ],
+        "actions": [],
+        "weapon": "gun",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2010"
+      }
+    }
+  ]
+}

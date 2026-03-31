@@ -1,0 +1,167 @@
+{
+  "case_id": "Sawal_Das_vs_State_Of_Bihar_on_9_January_1974",
+  "case_name": "Sawal Das vs State Of Bihar on 9 January, 1974",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Hameedullah Beg\nBench: M. Hameedullah Beg, P.N. Bhagwati\nSAWAL DAS\nVs. HAMEEDULLAH\nBENCH:\nBEG, M. HAMEEDULLAH\nBHAGWATI, P.N. CITATION:\nACT:\nIndian Penal Code (Act 45 of 1860), s. 302/34--Offence under s. 201--Sentence. Evidence Act (1 of 1872) Ss. 103 and 106--Scope of\nHEADNOTE:\nThe appellant is the husband of the deceased. The evidence\nin the case established that, the relations between the\ndeceased and her mother-in-law; were very strained; that, on\nthe morning of the murder following a quarrel between them\nthe appellant went with his wife, the deceased, into a room,\ninto which his father and mother then followed; that,\nimmediately thereafter, cries of the murdered woman were\nheard to save her from being killed; and, that, a littleSawal Das vs State Of Bihar on 9 January, 1974\nIndian Kanoon - http://indiankanoon.org/doc/1402611/ 1\nwhile later, the appellant and his father conveyed the dead\nbody of the deceased and disposed it of by burning it at the\nburning that without informing the relations of the deceased\nwho were living in the town and without performing any\nfuneral rites. 302/34 1. P. C. 201, I. P. C. 302/34 I. P. C. 302 1. P. C. 201 1. P. C. and passed a sentence of three years against\nthe father. 302. (2) Under Ss. 103 and 106, Evidence Act, the burden of\nproving such a plea specifically set up by an accused, which\nmay absolve him from criminal liability, lies upon him;\nthough, the quantum of evidence by which he may succeed in\ndischarging the burden, may be lower than the burden resting\nupon the prosecution to establish the guilt of the accused\nbeyond reasonable doubt. [79B]\n(3) But, neither the application of s. 103 nor of s. 106 ,\nEvidence Act, could, however, absolve the prosecution from\nthe duty of discharging its general or primary burden of\nproving the prosecution case beyond reasonable doubt. It is\nonly when the prosecution has led evidence which, if\nbelieved, will sustain a conviction, or, which makes out a\nprima facie case that the question arises of considering\nfacts of which the burden of proof may lie upon the accused.",
+      "embedding_text": "FACT_CHUNK | Case: Sawal Das vs State Of Bihar on 9 January, 1974 | Facts: Hameedullah Beg\nBench: M. Hameedullah Beg, P.N. Bhagwati\nSAWAL DAS\nVs. HAMEEDULLAH\nBENCH:\nBEG, M. HAMEEDULLAH\nBHAGWATI, P.N. CITATION:\nACT:\nIndian Penal Code (Act 45 of 1860), s. 302/34--Offence under s. 201--Sentence. Evidence Act (1 of 1872) Ss. 103 and 106--Scope of\nHEADNOTE:\nThe appellant is the husband of the deceased. The evidence\nin the case established that, the relations between the\ndeceased and her mother-in-law; were very strained; that, on\nthe morning of the murder following a quarrel between them\nthe appellant went with his wife, the deceased, into a room,\ninto which his father and mother then followed; that,\nimmediately thereafter, cries of the murdered woman were\nheard to save her from being killed; and, that, a littleSawal Das vs State Of Bihar on 9 January, 1974\nIndian Kanoon - http://indiankanoon.org/doc/1402611/ 1\nwhile later, the appellant and his father conveyed the dead\nbody of the deceased and disposed it of by burning it at the\nburning that without informing the | Actions: killed, murdered, raped | Weapon: unknown | Outcome: death | IPC: 302, 201, 109, 34, 103, 106, 6, 540, 164, 114",
+      "metadata": {
+        "case_name": "Sawal Das vs State Of Bihar on 9 January, 1974",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "201",
+          "109",
+          "34",
+          "103",
+          "106",
+          "6",
+          "540",
+          "164",
+          "114"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1974"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The only evidence given of what could have taken place inside the room was the cry of\n\"Bachao Bachao\"\nalthough there is some understandable variation between accounts of witnesses as to\nwhether the murdered woman also uttered some more words showing that she was\nbeing actually killed. Witnesses essential to the unfolding of the narrative on which the prosecution is\nbased, must, of course, be called by the prosecution, whether in the result the effect of\ntheir testimony is for or against the case for the prosecution\". We think that, upon the facts of this case, there could be a reasonable doubt as to whether Section\n34 I.P.C. Sawal Das vs State Of Bihar on 9 January, 1974\nCOURT 778, 1974 3 SCR 74, 1974 4 SCC 193, 1974 SCC(CRI) 362, 1974 SCD\n220\nAuthor: M.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sawal Das vs State Of Bihar on 9 January, 1974 | Legal issues: The only evidence given of what could have taken place inside the room was the cry of\n\"Bachao Bachao\"\nalthough there is some understandable variation between accounts of witnesses as to\nwhether the murdered woman also uttered some more words showing that she was\nbeing actually killed. Witnesses essential to the unfolding of the narrative on which the prosecution is\nbased, must, of course, be called by the prosecution, whether in the result the effect of\ntheir testimony is for or against the case for the prosecution\". We think that, upon the facts of this case, there could be a reasonable doubt as to whether Section\n34 I.P.C. Sawal Das vs State Of Bihar on 9 January, 1974\nCOURT 778, 1974 3 SCR 74, 1974 4 SCC 193, 1974 SCC(CRI) 362, 1974 SCD\n220\nAuthor: M. | IPC: 302, 201, 109, 34, 103, 106, 6, 540, 164, 114",
+      "metadata": {
+        "case_name": "Sawal Das vs State Of Bihar on 9 January, 1974",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "201",
+          "109",
+          "34",
+          "103",
+          "106",
+          "6",
+          "540",
+          "164",
+          "114"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1974"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Sawal Das vs State Of Bihar on 9 January, 1974\nCOURT 778, 1974 3 SCR 74, 1974 4 SCC 193, 1974 SCC(CRI) 362, 1974 SCD\n220\nAuthor: M. STATE OF BIHAR\nDATE OF JUDGMENT09/01/1974\nBENCH:\nBEG, M. but found the appellant\n,alone guilty of the offence under s. The High\nCourt also found the appellant and his father guilty under\ns. The best evidence would have been\nthat of a doctor who could have been called by the appellant\non his phone, but no doctor was called. There is\nnothing in the present case which could fasten or con-\nclusively fix the liability for any particular or separate\nact of the appellant which may be said to have caused his\nwife's death. State of Maharashtra, [1964] 1 S.C.R. State of U. State of Maharashtra, [1973] 1 S.C.R. 291,\nfollowed.Sawal Das vs State Of Bihar on 9 January, 1974\nIndian Kanoon - http://indiankanoon.org/doc/1402611/ 2\n75\nA (5) Further, the prosecution has not examined an important\nwitness namely,. The appellant could, there ask\nthe Court to give him the benefit of the presumption under\ns. 114 illustration (g), Evidence act and to infer that, if\nshe had' been produced, her evidence would have damaged the\nprosecution case against the appellant. Her statement under\ns. [82G]\n(8) As regards sentence, the appellant deserves the maximum\nsentence that can be imposed under s. A\ndistinction between the case of the appellant and his\nfather, as regards sentence is justified because; (a) It was\nthe duty of the appellant as a husband to have done\nsomething to protect his wife even if It is assumed for\nthe sake of argument, that the actual death may have been\nbrought about by the acts of others, and, (b) the appellant\nhad taken a leading part in disposing of the body of the\nmurdered woman. S, Jauhar and Sudha Misra, for the appellant. Prasad, for the respondent.Sawal Das vs State Of Bihar on 9 January, 1974\nIndian Kanoon - http://indiankanoon.org/doc/1402611/ 3\nThe Judgment of the Court was delivered by BEG, J.-The appellant before us by special leave, Sawal\nDas, his father Jamuna Prasad, and his stepmother Kalawati Devi, were charged with offences\npunishable under Section 302 Indian Penal Code simpliciter on the allegation that they had\nintentionally caused the death of Smt.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sawal Das vs State Of Bihar on 9 January, 1974 | Arguments: Sawal Das vs State Of Bihar on 9 January, 1974\nCOURT 778, 1974 3 SCR 74, 1974 4 SCC 193, 1974 SCC(CRI) 362, 1974 SCD\n220\nAuthor: M. STATE OF BIHAR\nDATE OF JUDGMENT09/01/1974\nBENCH:\nBEG, M. but found the appellant\n,alone guilty of the offence under s. The High\nCourt also found the appellant and his father guilty under\ns. The best evidence would have been\nthat of a doctor who could have been called by the appellant\non his phone, but no doctor was called. There is\nnothing in the present case which could fasten or con-\nclusively fix the liability for any particular or separate\nact of the appellant which may be said to have caused his\nwife's death. State of Maharashtra, [1964] 1 S.C.R. State of U. State of Maharashtra, [1973] 1 S.C.R. 291,\nfollowed.Sawal Das vs State Of Bihar on 9 January, 1974\nIndian Kanoon - http://indiankanoon.org/doc/1402611/ 2\n75\nA (5) Further, the prosecution has not examined an important\nwitness namely,. The appellant could, there ask\nthe Court to give him the benefi | Intent: intentional | IPC: 302, 201, 109, 34, 103, 106, 6, 540, 164, 114 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Sawal Das vs State Of Bihar on 9 January, 1974",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "201",
+          "109",
+          "34",
+          "103",
+          "106",
+          "6",
+          "540",
+          "164",
+          "114"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1974"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "In appeal to this Court,\nHELD : (1) The evidence regarding death by burning consisted\nmostly of rumours and beliefs. It was clearly hearsay and\nwas rightly excluded by the lower courts. Her evidence was necessary\nfor unfolding the prosecution case and hence, the prose-\ncution should not have withheld her evidence whatever may be\nits effect upon the case. (6) Therefore, although it must be held that, the deceased\nwas murdered it was not possible to find conclusively that\nthe person who could have throttled or done some other act\nwhich actually killed the deceased was the appellant and not\nhis father or mother. (7) So far as the case of disposal of the body by the\nrightly believed and held to be conclusive by both the\nCourts below. Appeal by Special Leave from the Judgment and Order dated the 16th September, 1971 of the Patna\nHigh Court in Criminal Appeal No. Chanda Devi\non the first floor of the house, called out to the appellant that his \"rascal wife\" was quarrelling withSawal Das vs State Of Bihar on 9 January, 1974\nIndian Kanoon - http://indiankanoon.org/doc/1402611/ 4\nher and informed him as well as Jamuna that either she or Chanda Devi will live in the house\nhenceforth. The Trial Court observed that no\nDoctor- was called in to substantiate the appellant's plea. It also observed that no burnt pieces of cloth or marks of smoke or soot\non the walls or roof of the room in which Smt. by the Police, or\nthe information given by Gorakhnath Singh on 28-5-1965, which, according to the\ninformation and belief given by the witnesses are concerned, it is clear that these are\nbased on hear-say which was rightly excluded. The Trial Court pointed out that the\ncirculated by them so as to protect themselves against an accusation for murder. We,\ntherefore, attach no importance whatsoever either to the document which the\nprosecution or the one which the appellant placed before us as the First Information\nReport. The best evidence in such a case could have been that of a Doctor\nwho, as the High Court pointed out, should have been called but was not called\ndespite the fact that there was a telephone in the house.",
+      "embedding_text": "REASONING_CHUNK | Case: Sawal Das vs State Of Bihar on 9 January, 1974 | Judicial reasoning: In appeal to this Court,\nHELD : (1) The evidence regarding death by burning consisted\nmostly of rumours and beliefs. It was clearly hearsay and\nwas rightly excluded by the lower courts. Her evidence was necessary\nfor unfolding the prosecution case and hence, the prose-\ncution should not have withheld her evidence whatever may be\nits effect upon the case. (6) Therefore, although it must be held that, the deceased\nwas murdered it was not possible to find conclusively that\nthe person who could have throttled or done some other act\nwhich actually killed the deceased was the appellant and not\nhis father or mother. (7) So far as the case of disposal of the body by the\nrightly believed and held to be conclusive by both the\nCourts below. Appeal by Special Leave from the Judgment and Order dated the 16th September, 1971 of the Patna\nHigh Court in Criminal Appeal No. Chanda Devi\non the first floor of the house, called out to the appellant that his \"rascal wife\" was quarrelling withSawal Das vs S | Intent: intentional | Outcome: death | IPC: 302, 201, 109, 34, 103, 106, 6, 540, 164, 114",
+      "metadata": {
+        "case_name": "Sawal Das vs State Of Bihar on 9 January, 1974",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "201",
+          "109",
+          "34",
+          "103",
+          "106",
+          "6",
+          "540",
+          "164",
+          "114"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1974"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "34 and\n302--Circumstantial evidence Accused charged under\ns.302/34--When accused may be convicted under s. 302, when\nthe others are acquitted under s. On this evidence, rejecting the appellant's contention that\nthe deceased died accidentally of injuries caused by fire,\nthe trial court convicted the appellant, his father, and\nmother for offences under s. The trial court\nalso convicted the appellant and his father under s. On appeal, the High Court acquitted them of the\noffence under s. No separate sentence on the appellant was\npassed in view of the sentence of life imprisonment for the\noffence under s. C., the individual liability of the appellant has to\nbe established by the prosecution before he could be\nconvicted under s. The Trial Court had amended\nand converted the charges against the appellant and Jamuna Prasad and Kalawati Devi into those\nunder Sections 302/34 Indian Penal Code and convicted each of them with the aid of' Section 34\nIndian Penal Code for the offence of murder and sentenced:\nthem to life imprisonment. It had also convicted the appellant and his father under\nSection 201 Indian Penal Code, but it did not pass separate sentences against them\nfor this offence. The driver Sita Ram was also convicted under Section 201 Indian\nPenal Code and sentenced to three years rigorous imprisonment. It acquitted all the\nother accused persons. On appeal, the High Court of Patna had acquitted the\n/34 Indian Penal Code, but it found the appellant alone guilty of an offence\npunishable under Section 302 Indian Penal Code simpliciter and sentenced him to\nlife imprisonment. It had also found the appellant and his father guilty under Section\n201 Indian Penal Code, but, while passing a sentence of three years rigorous\nimprisonment on Jamuna Prasad, it had not passed a separate sentence on the\nallowed appeals of Kalawati Devi and Sita Ram and acquitted them. Kalawati have been acquitted. Kalawati and Jamuna Prasad for murder, by the use of Section 34 Indian Penal Code,\nthe individual and not the conjoint liability of the appellant has to be established by\nthe prosecution before the appellant could be convicted under (1) A.I.R.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sawal Das vs State Of Bihar on 9 January, 1974 | Final judgment: 34 and\n302--Circumstantial evidence Accused charged under\ns.302/34--When accused may be convicted under s. 302, when\nthe others are acquitted under s. On this evidence, rejecting the appellant's contention that\nthe deceased died accidentally of injuries caused by fire,\nthe trial court convicted the appellant, his father, and\nmother for offences under s. The trial court\nalso convicted the appellant and his father under s. On appeal, the High Court acquitted them of the\noffence under s. No separate sentence on the appellant was\npassed in view of the sentence of life imprisonment for the\noffence under s. C., the individual liability of the appellant has to\nbe established by the prosecution before he could be\nconvicted under s. The Trial Court had amended\nand converted the charges against the appellant and Jamuna Prasad and Kalawati Devi into those\nunder Sections 302/34 Indian Penal Code and convicted each of them with the aid of' Section 34\nIndian Penal Code for the offence of murder and  | Judgment: convicted | IPC: 302, 201, 109, 34, 103, 106, 6, 540, 164, 114",
+      "metadata": {
+        "case_name": "Sawal Das vs State Of Bihar on 9 January, 1974",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "201",
+          "109",
+          "34",
+          "103",
+          "106",
+          "6",
+          "540",
+          "164",
+          "114"
+        ],
+        "actions": [
+          "killed",
+          "murdered",
+          "raped"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "High Court",
+        "year": "1974"
+      }
+    }
+  ]
+}

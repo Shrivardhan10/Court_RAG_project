@@ -1,0 +1,162 @@
+{
+  "case_id": "Narwinder_Singh_vs_State_Of_Punjab_on_5_January_2011",
+  "case_name": "Narwinder Singh vs State Of Punjab on 5 January, 2011",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "590 OF 2005\nNarwinder Singh ... 1. We may briefly notice the facts. Sukhjit Kaur, alias Rani was married to Narwinder Singh of Village Mehdipur on 30th September,\n1984. A male child had first been born to the couple and at the time of the incident, the wife was\npregnant a second time. About two months after the marriage, Sukhjit Kaur\ninformed her mother Gursharan Kaur that her in-laws were asking her to bring valuable articles\nsuch as a scooter from her parents. It is also the case of the prosecution that an additional demand\nof Rs.5,000/- was made by Narwinder Singh, in the year 1986, which amount too was paid by his\nmother-in-law Gursharan Kaur. Unfortunately, on 25th May, 1987, Bhai Davinder Singh, father of\nSukhjit Kaur was murdered by extremists. About\nsix months prior to the fatal incident, there had been a quarrel between the husband and wife, which\nwas settled with the intervention of several relatives including Kulbir Singh and Onkar Singh, PW-5. About ten days prior to the incident, Sukhjit Kaur went to Onkar Singh's house in Village Nabipur\nand informed him that the accused were demanding Rs.50,000/-. They were saying that her late\nfather had left enough money for the family and that she should get her share. Onkar Singh told her\nthat he would inform Gursharan Kaur, who was then living in England about the demand and seek\ninstructions from her. Unfortunately, on 30th May, 1988, Onkar Singh came to know about the\ndeath of his niece Sukhjit Kaur (hereinafter referred to as `the deceased'). He alongwith Gurjit Kaur,\nsister of the deceased, Hanwant Singh, Darshan Singh and Mohan Singh went to village Mehdipur\nand saw the dead body of Sukhjit Kaur alias Rani lying in the house. Blood was oozing from her\nnose. Onkar Singh, thereafter, lodged a FIR naming the accused as having been responsible for her\ndeath. 3. In support of its case, the prosecution relied inter- alia on the evidence of Kulbir Singh (PW-2)\nand Onkar Singh (PW-5), both uncles of the deceased, Gursharan Kaur (PW-6) the mother and\nGurjit Kaur (PW-7).",
+      "embedding_text": "FACT_CHUNK | Case: Narwinder Singh vs State Of Punjab on 5 January, 2011 | Facts: 590 OF 2005\nNarwinder Singh ... 1. We may briefly notice the facts. Sukhjit Kaur, alias Rani was married to Narwinder Singh of Village Mehdipur on 30th September,\n1984. A male child had first been born to the couple and at the time of the incident, the wife was\npregnant a second time. About two months after the marriage, Sukhjit Kaur\ninformed her mother Gursharan Kaur that her in-laws were asking her to bring valuable articles\nsuch as a scooter from her parents. It is also the case of the prosecution that an additional demand\nof Rs.5,000/- was made by Narwinder Singh, in the year 1986, which amount too was paid by his\nmother-in-law Gursharan Kaur. Unfortunately, on 25th May, 1987, Bhai Davinder Singh, father of\nSukhjit Kaur was murdered by extremists. About\nsix months prior to the fatal incident, there had been a quarrel between the husband and wife, which\nwas settled with the intervention of several relatives including Kulbir Singh and Onkar Singh, PW-5. About ten days prior to the in | Actions: murdered, harassed, cruelty | Weapon: poison | Outcome: death | IPC: 306, 304, 313, 113, 302, 222, 498, 464, 221",
+      "metadata": {
+        "case_name": "Narwinder Singh vs State Of Punjab on 5 January, 2011",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "306",
+          "304",
+          "313",
+          "113",
+          "302",
+          "222",
+          "498",
+          "464",
+          "221"
+        ],
+        "actions": [
+          "murdered",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "The criminal court, particularly the superior court should make a close\nexamination to ascertain whether there was really a failure of justice or whether it is only a\ncamouflage.\"\nWe are of the considered opinion that the aforesaid observations do not apply to the facts of the\nconcluded that there was no evidence to indicate the commission of offence under Section 304-B\nIPC. Narwinder Singh vs State Of Punjab on 5 January, 2011\nAIR 2011 SC (CRIMINAL) 241, 2011 CRI LJ (SUPP) 402 (SC), (2011) 1\nMADLW(CRI) 536, (2011) 1 MARRILJ 161, (2011) 1 CRILR(RAJ) 244, (2011) 1\nRAJ LW 573, 2011 (2) SCC 47, (2011) 1 ALLCRIR 350, (2011) 2 ALD(CRL) 36,\n(2011) 1 CRIMES 200, (2011) 2 DMC 474, (2011) 1 DLT(CRL) 115, (2011) 72\nALLCRIC 650, 2011 CRILR(SC&MP) 244, (2011) 1 CHANDCRIC 219, (2011) 1\nSCALE 114, (2010) 1 CRILR(RAJ) 742, (2010) 3 RAJ LW 2608, (2011) 1\nRECCRIR 427, (2011) 1 CURCRIR 201, (2011) 98 ALLINDCAS 35 (SC), (2011) 2\nMAD LJ(CRI) 100, 2011 CRILR(SC MAH GUJ) 244, 2011 ALLMR(CRI) 632, 2011\nCALCRILR 2 3, (2011) 1 JCR 228 (SC), 2011 (1) KLT SN 47 (SC), 2011 (2)\nKCCR SN 88 (SC)\nAuthor: Surinder Singh Nijjar\nBench: B.",
+      "embedding_text": "ISSUE_CHUNK | Case: Narwinder Singh vs State Of Punjab on 5 January, 2011 | Legal issues: The criminal court, particularly the superior court should make a close\nexamination to ascertain whether there was really a failure of justice or whether it is only a\ncamouflage.\"\nWe are of the considered opinion that the aforesaid observations do not apply to the facts of the\nconcluded that there was no evidence to indicate the commission of offence under Section 304-B\nIPC. Narwinder Singh vs State Of Punjab on 5 January, 2011\nAIR 2011 SC (CRIMINAL) 241, 2011 CRI LJ (SUPP) 402 (SC), (2011) 1\nMADLW(CRI) 536, (2011) 1 MARRILJ 161, (2011) 1 CRILR(RAJ) 244, (2011) 1\nRAJ LW 573, 2011 (2) SCC 47, (2011) 1 ALLCRIR 350, (2011) 2 ALD(CRL) 36,\n(2011) 1 CRIMES 200, (2011) 2 DMC 474, (2011) 1 DLT(CRL) 115, (2011) 72\nALLCRIC 650, 2011 CRILR(SC&MP) 244, (2011) 1 CHANDCRIC 219, (2011) 1\nSCALE 114, (2010) 1 CRILR(RAJ) 742, (2010) 3 RAJ LW 2608, (2011) 1\nRECCRIR 427, (2011) 1 CURCRIR 201, (2011) 98 ALLINDCAS 35 (SC), (2011) 2\nMAD LJ(CRI) 100, 2011 CRILR(SC MAH GUJ) 244, 2011 ALLMR(CRI) 632, 2011\nCALCR | IPC: 306, 304, 313, 113, 302, 222, 498, 464, 221",
+      "metadata": {
+        "case_name": "Narwinder Singh vs State Of Punjab on 5 January, 2011",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "306",
+          "304",
+          "313",
+          "113",
+          "302",
+          "222",
+          "498",
+          "464",
+          "221"
+        ],
+        "actions": [
+          "murdered",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Narwinder Singh vs State Of Punjab on 5 January, 2011\nAIR 2011 SC (CRIMINAL) 241, 2011 CRI LJ (SUPP) 402 (SC), (2011) 1\nMADLW(CRI) 536, (2011) 1 MARRILJ 161, (2011) 1 CRILR(RAJ) 244, (2011) 1\nRAJ LW 573, 2011 (2) SCC 47, (2011) 1 ALLCRIR 350, (2011) 2 ALD(CRL) 36,\n(2011) 1 CRIMES 200, (2011) 2 DMC 474, (2011) 1 DLT(CRL) 115, (2011) 72\nALLCRIC 650, 2011 CRILR(SC&MP) 244, (2011) 1 CHANDCRIC 219, (2011) 1\nSCALE 114, (2010) 1 CRILR(RAJ) 742, (2010) 3 RAJ LW 2608, (2011) 1\nRECCRIR 427, (2011) 1 CURCRIR 201, (2011) 98 ALLINDCAS 35 (SC), (2011) 2\nMAD LJ(CRI) 100, 2011 CRILR(SC MAH GUJ) 244, 2011 ALLMR(CRI) 632, 2011\nCALCRILR 2 3, (2011) 1 JCR 228 (SC), 2011 (1) KLT SN 47 (SC), 2011 (2)\nKCCR SN 88 (SC)\nAuthor: Surinder Singh Nijjar\nBench: B. Appellant\nVERSUS\nState of Punjab ...Respondent\nJUDGMENT\nSURINDER SINGH NIJJAR, J. According to the in-laws of the appellant, they had given sufficient dowry at\nthe marriage of their daughter to the appellant. It appears that the appellant and his parents Daljit\nSingh and Joginder Kaur remained dissatisfied. After the death of Bhai Davinder Singh, there was\nsea-change in the attitude of the appellant and her parents, and they started maltreating her. The sister of Sukhjit Kaur stated that the demands made by the accused had\nbeen satisfied off and on and that the behaviour of the accused had compelled Sukhjit Kaur to\ncommit suicide. The prosecution case was then put to the accused and their statements recorded under Section\n313 of Cr.P.C. The accused also produced three witnesses in defence, namely\nHardev Singh (DW-1), Jarnail Singh (DW-2) and Pritam Singh (DW-3), as also certain letters\nwritten inter-se the parties.Narwinder Singh vs State Of Punjab on 5 January, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1419989/ 2\n5. Aggrieved, against the aforesaid conviction and sentence, the appellant and his parents filed an\nappeal before the Punjab and Haryana High Court. Lastly, it is submitted that the High Court committed a grave error in convicting the appellant\nunder Section 306 IPC.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Narwinder Singh vs State Of Punjab on 5 January, 2011 | Arguments: Narwinder Singh vs State Of Punjab on 5 January, 2011\nAIR 2011 SC (CRIMINAL) 241, 2011 CRI LJ (SUPP) 402 (SC), (2011) 1\nMADLW(CRI) 536, (2011) 1 MARRILJ 161, (2011) 1 CRILR(RAJ) 244, (2011) 1\nRAJ LW 573, 2011 (2) SCC 47, (2011) 1 ALLCRIR 350, (2011) 2 ALD(CRL) 36,\n(2011) 1 CRIMES 200, (2011) 2 DMC 474, (2011) 1 DLT(CRL) 115, (2011) 72\nALLCRIC 650, 2011 CRILR(SC&MP) 244, (2011) 1 CHANDCRIC 219, (2011) 1\nSCALE 114, (2010) 1 CRILR(RAJ) 742, (2010) 3 RAJ LW 2608, (2011) 1\nRECCRIR 427, (2011) 1 CURCRIR 201, (2011) 98 ALLINDCAS 35 (SC), (2011) 2\nMAD LJ(CRI) 100, 2011 CRILR(SC MAH GUJ) 244, 2011 ALLMR(CRI) 632, 2011\nCALCRILR 2 3, (2011) 1 JCR 228 (SC), 2011 (1) KLT SN 47 (SC), 2011 (2)\nKCCR SN 88 (SC)\nAuthor: Surinder Singh Nijjar\nBench: B. Appellant\nVERSUS\nState of Punjab ...Respondent\nJUDGMENT\nSURINDER SINGH NIJJAR, J. According to the in-laws of the appellant, they had given sufficient dowry at\nthe marriage of their daughter to the appellant. It appears that the appellant and his parents D | Intent: unknown | IPC: 306, 304, 313, 113, 302, 222, 498, 464, 221 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Narwinder Singh vs State Of Punjab on 5 January, 2011",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "306",
+          "304",
+          "313",
+          "113",
+          "302",
+          "222",
+          "498",
+          "464",
+          "221"
+        ],
+        "actions": [
+          "murdered",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Sudershan Reddy, Surinder Singh Nijjar\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. This appeal has been filed against the judgment and order dated 6th October, 2004 of the Punjab\nand Haryana High Court at Chandigarh in Criminal Appeal No. Initially, a case under Section 306 IPC was registered against the accused but, a charge under\nSection 304-B of the IPC was ultimately framed by the Court. The trial court held that from the evidence of Kulbir Singh, Onkar Singh, Gursharan Kaur and\nGurjit Kaur (PWs) and the letter Ex.P.1, it appeared that demands for dowry had been made by the\naccused from Sukhjit Kaur time and again and that she had been harassed and thus compelled to\ncommit suicide. The appeal was, therefore, partly\nallowed. The death occurred within seven years of marriage, therefore, by\nvirtue of Section 113-B of the Evidence Act, the trial court had rightly presumed that the appellant\nand his parents had committed the offence under Section 304-B IPC.Narwinder Singh vs State Of Punjab on 5 January, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1419989/ 3\n9. The High Court, upon close\nscrutiny of the evidence, concluded that there was evidence of a quarrel between the husband and\nwife about six months prior to the occurrence, which had been settled with the intervention of the\neldest. In view of the findings recorded, the High Court converted the conviction of the\n10. The High Court has recorded a firm finding that the harassment was not for or in\nconnection with any demands for dowry. In such\ncircumstances, the High Court was, therefore, fully justified in convicting the appellant under\nSection 306 IPC. It is true that Section 222 CrPC entitles a court to convict a person of an offence\nwhich is minor in comparison to the one for which he is tried but Section 306 IPC\ncannot be said to be a minor offence in relation to an offence under Section 302 IPC\nwithin the meaning of Section 222 CrPC for the two offences are of distinct and\ndifferent categories.",
+      "embedding_text": "REASONING_CHUNK | Case: Narwinder Singh vs State Of Punjab on 5 January, 2011 | Judicial reasoning: Sudershan Reddy, Surinder Singh Nijjar\nREPORTABLE\nIN THE SUPREME COURT OF INDIA\nCRIMINAL APPELLATE JURISDICTION\nCRIMINAL APPEAL NO. This appeal has been filed against the judgment and order dated 6th October, 2004 of the Punjab\nand Haryana High Court at Chandigarh in Criminal Appeal No. Initially, a case under Section 306 IPC was registered against the accused but, a charge under\nSection 304-B of the IPC was ultimately framed by the Court. The trial court held that from the evidence of Kulbir Singh, Onkar Singh, Gursharan Kaur and\nGurjit Kaur (PWs) and the letter Ex.P.1, it appeared that demands for dowry had been made by the\naccused from Sukhjit Kaur time and again and that she had been harassed and thus compelled to\ncommit suicide. The appeal was, therefore, partly\nallowed. The death occurred within seven years of marriage, therefore, by\nvirtue of Section 113-B of the Evidence Act, the trial court had rightly presumed that the appellant\nand his parents had committed the offence under | Intent: unknown | Outcome: death | IPC: 306, 304, 313, 113, 302, 222, 498, 464, 221",
+      "metadata": {
+        "case_name": "Narwinder Singh vs State Of Punjab on 5 January, 2011",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "306",
+          "304",
+          "313",
+          "113",
+          "302",
+          "222",
+          "498",
+          "464",
+          "221"
+        ],
+        "actions": [
+          "murdered",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "406-SB of 1992 wherein the\nto rigorous imprisonment for two years and to pay a fine of Rs.1,000/- and in default of payment\nthereof to undergo further rigorous imprisonment for one month.Narwinder Singh vs State Of Punjab on 5 January, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1419989/ 1\n2. The trial court accordingly convicted the accused for an offence punishable under\nSection 304-B IPC, and sentenced them to undergo rigorous imprisonment for seven years and to\nfine and in default of payment of fine to undergo further rigorous imprisonment for a specified\nperiod. The High Court acquitted the parents of the appellant. However, the conviction of the\nundergo rigorous imprisonment for two years and to pay a fine of Rs.1,000/- and in default of\npayment, he has to undergo further rigorous imprisonment for one month. no distinction between the case of the appellant and that of his parents, who have been acquitted. The High Court having acquitted the parents, the appellant also could not have been convicted. Kuldip Singh, learned counsel, appearing for the State of Punjab submits that the appellant is\nin fact fortunate being convicted only under Section 306 IPC. Mahajan that the High Court could not\nhave convicted the appellant under Section 306 IPC as the charge had been framed under Section\n304-B IPC. Mahajan that the appellant could not\nhave been convicted under Section 306 IPC in the absence of a charge being framed against him\nunder the aforesaid section. In the case of Sangaraboina Sreenu\n(supra), it was observed as follows:Narwinder Singh vs State Of Punjab on 5 January, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1419989/ 4\n\"This appeal must succeed for the simple reason that having acquitted the appellant\nof the charge under Section 302 IPC -- which was the only charge framed against him\n-- the High Court could not have convicted him of the offence under Section 306 IPC. Can the accused be convicted in\nsuch a case for the offence under Section 304-B IPC without the said offence forming\npart of the charge? Deptt. of the Environment).",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Narwinder Singh vs State Of Punjab on 5 January, 2011 | Final judgment: 406-SB of 1992 wherein the\nto rigorous imprisonment for two years and to pay a fine of Rs.1,000/- and in default of payment\nthereof to undergo further rigorous imprisonment for one month.Narwinder Singh vs State Of Punjab on 5 January, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1419989/ 1\n2. The trial court accordingly convicted the accused for an offence punishable under\nSection 304-B IPC, and sentenced them to undergo rigorous imprisonment for seven years and to\nfine and in default of payment of fine to undergo further rigorous imprisonment for a specified\nperiod. The High Court acquitted the parents of the appellant. However, the conviction of the\nundergo rigorous imprisonment for two years and to pay a fine of Rs.1,000/- and in default of\npayment, he has to undergo further rigorous imprisonment for one month. no distinction between the case of the appellant and that of his parents, who have been acquitted. The High Court having acquitted the parents, the appellant also could  | Judgment: convicted | IPC: 306, 304, 313, 113, 302, 222, 498, 464, 221",
+      "metadata": {
+        "case_name": "Narwinder Singh vs State Of Punjab on 5 January, 2011",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "306",
+          "304",
+          "313",
+          "113",
+          "302",
+          "222",
+          "498",
+          "464",
+          "221"
+        ],
+        "actions": [
+          "murdered",
+          "harassed",
+          "cruelty"
+        ],
+        "weapon": "poison",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "2011"
+      }
+    }
+  ]
+}

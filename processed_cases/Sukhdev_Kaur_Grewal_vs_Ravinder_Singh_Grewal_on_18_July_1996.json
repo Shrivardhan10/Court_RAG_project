@@ -1,0 +1,157 @@
+{
+  "case_id": "Sukhdev_Kaur_Grewal_vs_Ravinder_Singh_Grewal_on_18_July_1996",
+  "case_name": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,\n1996\nEquivalent citations: II(1997)DMC69\nJUDGMENT\nGitesh Ranjan Bhattacharjee, J. 1. This is an appeal against the judgment and order dated the 22nd February, 1991 in Matrimonial\nSuit No. The parties are Sikh by religion and are\ngoverned by the Hindu Marriage Act, 1955. They were married according to Sikh rites and\nceremonies on or about 23rd January, 1970 at 2/3A, Panditiya Road, Calcutta-29. Their marriage\nwas consummated and two sons were born in that wedlock, - one on 28th May, 1972 and the other\non 17th September, 1974. Both the sons however have, by now, crossed their minority and have\nattained majority. At the time of the marriage the petitioner was in service in the Security Force as\nan Assistant Company Commander. It was a negotiated marriage. 2. It is the case of the petitioner-husband that after the marriage, the petitioner returned to the place\nof his posting at Doomdooma (Assam) and the wife refused to accompany him on several pleas and\nultimately she went there, but she stayed there only for a period of two months and that as she did\nnot like the service of the petitioner in the Force the petitioner-husband resigned from the Security\nForce in 1971 and took up civilian life, and came down to Calcutta and started living with his parents\nat 95A, Bangur Avenue, but as the wife maintained that she disliked living with in-laws and she did\nnot live with the petitioner at his parents place for more than a week at a stretch; the petitioner\njoined the Western Indian Match Co. Ltd. as Security Officer in August, 1971 and was allotted\nresidential quarters in the factory premises, but the wife had the idea that the job of a Security\nOfficer was a job of Darwan and a sophisticated lady could not live in the Darwan's quarters; that\nhowever due to earnest request of the petitioner, the wife lived in the said quarters for a few days on\noccasions at intervals when she conceived for the first time after more than a year of the marriage;\nthat in 1973 the wife joined B.Ed.",
+      "embedding_text": "FACT_CHUNK | Case: Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, | Facts: Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,\n1996\nEquivalent citations: II(1997)DMC69\nJUDGMENT\nGitesh Ranjan Bhattacharjee, J. 1. This is an appeal against the judgment and order dated the 22nd February, 1991 in Matrimonial\nSuit No. The parties are Sikh by religion and are\ngoverned by the Hindu Marriage Act, 1955. They were married according to Sikh rites and\nceremonies on or about 23rd January, 1970 at 2/3A, Panditiya Road, Calcutta-29. Their marriage\nwas consummated and two sons were born in that wedlock, - one on 28th May, 1972 and the other\non 17th September, 1974. Both the sons however have, by now, crossed their minority and have\nattained majority. At the time of the marriage the petitioner was in service in the Security Force as\nan Assistant Company Commander. It was a negotiated marriage. 2. It is the case of the petitioner-husband that after the marriage, the petitioner returned to the place\nof his posting at Doomdooma (Assam) and the wife refused to accompany hi | Actions: assaulted, killed, threatened, misappropriated, cruelty | Weapon: knife | Outcome: death | IPC: 406, 403, 420, 125, 13, 10",
+      "metadata": {
+        "case_name": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "406",
+          "403",
+          "420",
+          "125",
+          "13",
+          "10"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "threatened",
+          "misappropriated",
+          "cruelty"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "High Court",
+        "year": "1996"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "against the petitioner-husband and issued process and also\nissued search warrants for recovery of goods and on the strength of the search warrants the police\nsearched the petitioner's residence at 52/4, Bangur Avenue on the 2nd September, 1983 and seized\nand removed 21 items of goods including furniture, sewing machine, ceiling fans, refrigerator etc. took congnizance and issued summons against the husband\nunder Section 420, I.P.C. only and also issued two search warrants on the prayer of the wife for\nsearch and seizure of articles including ornaments and accordingly the police made search of the\nresidences of the husband as well as of his parents in presence of the wife and seized articles and\nornaments. did not issue any summons against the mother of the husband and\nrather issued summons in the criminal case against the husband alone under Section 420, I.P.C. The learned Court below has felt that since the\nallegations made against the mother of the husband were not substantiated and that is why process\nwas issued against her in the criminal case, such unsubstantiated allegations which were not proved\nto be true caused mental cruelty to the petitioner-husband. The learned Court below has also noted\nthat since no summons was issued against the petitioner under Sections 403 and 406, I.P.C. In this connection it is however to be noted that unless there are\nexceptional circumstances of an outrageous nature compelling the wife to take recourse to such a\ndrastic step and the ingredients of the alleged offences are really satisfied, the mere fact that the\nornaments and articles of the wife might have been lying in the house of the husband or in the house\nof his parents would not ipso facto justify the wife in rushing to the Court or filing a criminal case\nagainst the husband and his mother alleging cheating, criminal breach of trust and criminal\nmisappropriation and getting search warrants issued in that criminal case against the husband and\nhis parents, without first trying to get her articles and ornaments amicably returned by the husband\nand his parents.",
+      "embedding_text": "ISSUE_CHUNK | Case: Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, | Legal issues: against the petitioner-husband and issued process and also\nissued search warrants for recovery of goods and on the strength of the search warrants the police\nsearched the petitioner's residence at 52/4, Bangur Avenue on the 2nd September, 1983 and seized\nand removed 21 items of goods including furniture, sewing machine, ceiling fans, refrigerator etc. took congnizance and issued summons against the husband\nunder Section 420, I.P.C. only and also issued two search warrants on the prayer of the wife for\nsearch and seizure of articles including ornaments and accordingly the police made search of the\nresidences of the husband as well as of his parents in presence of the wife and seized articles and\nornaments. did not issue any summons against the mother of the husband and\nrather issued summons in the criminal case against the husband alone under Section 420, I.P.C. The learned Court below has felt that since the\nallegations made against the mother of the husband were not substantiated and  | IPC: 406, 403, 420, 125, 13, 10",
+      "metadata": {
+        "case_name": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "406",
+          "403",
+          "420",
+          "125",
+          "13",
+          "10"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "threatened",
+          "misappropriated",
+          "cruelty"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "High Court",
+        "year": "1996"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "The husband who is respondent herein filed the\nsuit for divorce on the ground of desertion and cruelty. for the family;\nthat after the child birth the respondent persistently refused access to the petitioner and she was\nliving with her parents and refused to live with him on one plea or the other and even refused to\nallow the petitioner to stay at her parent's place even for a single night; that the wife surreptitiously\ntook up the job of the teacher in Shhri Sikshayatan against the wishes of the petitioner in or about\nJanuary, 1976; that she lived in her parent's house and the repeated persuasion of the petitioner to\nbring her back failed; that the wife lived a free life behind the back of the petitioner and she made\nsecret trips to different places including Thailand; that whenever she asked for money the petitioner\npaid; that she refused conjugal access to the petitioner on most occasions; that at long last when the\nchildren, the wife returned to the petitioner in or about December, 1982 and initially she lived with\nthe petitioner's parents and subsequently a flat at 52/4, Bangur Avenue was hired by the petitioner\nand she lived there with the children till August, 1989, but during this period she always misbehaved\nwith the petitioner and also refused conjugal access to the petitioner; that in the morning of the 20th\nAugust, 1983 the wife wanted to go to her parent's place to which the petitioner consented; that the\nwife did not return and the petitioner went to her parent's place in the next afternoon and quite\nunexpectedly he was subjected to abuses; that subsequently on or about the 20th August, 1983, the\nwife filed case No. and in fact all removable articles were seized and removed; that the police also searched the parent's\nplace of the petitioner at 61, Bangur Avenue on the 2nd September, 1983 and seized and removed 19\nitems of gold and silver ornaments and cutleries in presence and on the identification of the\ngoods seized on false allegations the wife has committed cruelty; that the respondent filed a petition\nfor maintenance under Section 125, Cr.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, | Arguments: The husband who is respondent herein filed the\nsuit for divorce on the ground of desertion and cruelty. for the family;\nthat after the child birth the respondent persistently refused access to the petitioner and she was\nliving with her parents and refused to live with him on one plea or the other and even refused to\nallow the petitioner to stay at her parent's place even for a single night; that the wife surreptitiously\ntook up the job of the teacher in Shhri Sikshayatan against the wishes of the petitioner in or about\nJanuary, 1976; that she lived in her parent's house and the repeated persuasion of the petitioner to\nbring her back failed; that the wife lived a free life behind the back of the petitioner and she made\nsecret trips to different places including Thailand; that whenever she asked for money the petitioner\npaid; that she refused conjugal access to the petitioner on most occasions; that at long last when the\nchildren, the wife returned to the petitioner in or about December, | Intent: unknown | IPC: 406, 403, 420, 125, 13, 10 | Judgment context: unknown",
+      "metadata": {
+        "case_name": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "406",
+          "403",
+          "420",
+          "125",
+          "13",
+          "10"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "threatened",
+          "misappropriated",
+          "cruelty"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "High Court",
+        "year": "1996"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "6/1985 passed by the learned Additional District Judge, 11th Court, Alipore, granting\ndecree of divorce under the Hindu Marriage Act, 1955 in favour of the petitioner- husband and\nagainst the wife on the ground of cruelty of the wife. in the Court of the learned\nS.D.J.M. on false allegations that the petitioner misbehaved with\nher and assaulted and abused her and also drove her out on the 6th June, 1974 etc.; that the\nresidence on or about the 20th August, 1983 and has since then abandoned the petitioner and has\nvoluntarily withdrawn from the society of the petitioner and thus deserted him without any\nreasonable cause and without the consent of the petitioner. It may however be mentioned here that the two childrenSukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, 1996\nIndian Kanoon - http://indiankanoon.org/doc/561465/ 2\nhave since attained majority and therefore the question of custody does not now survive and has not\nbeen pressed also. The learned Trial Court on consideration of the pleadings and the evidence came to the finding\nthat the ground of desertion was not attracted in the case and even the learned Lawyer for the\ncircumstances the learned Court held that there was no desertion by the wife for a continuous period\nof two years immediately proceeding from 1974 to 1982, covering nearly eight years, the spouses\nlived separate from one another, but that period cannot be taken into consideration in view of the\nfact that in 1982 the parties again started living together as husband and wife and continued their\ncohabitation upto the third week of August, 1983 when they again separated finally. Therefore the\nperiod of desertion will have to be computed from August, 1983 for the purpose of consideration\nwhether the wife has deserted the petitioner, if at all, for the requisite period of two years before the\nsuit for the divorce was filed by the husband. That is\nwhy the learned Trial Court held that the ground of desertion was not available to the\n5. The learned Trial Court has however granted the decree of divorce on the ground of cruelty\ncommitted by the wife.",
+      "embedding_text": "REASONING_CHUNK | Case: Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, | Judicial reasoning: 6/1985 passed by the learned Additional District Judge, 11th Court, Alipore, granting\ndecree of divorce under the Hindu Marriage Act, 1955 in favour of the petitioner- husband and\nagainst the wife on the ground of cruelty of the wife. in the Court of the learned\nS.D.J.M. on false allegations that the petitioner misbehaved with\nher and assaulted and abused her and also drove her out on the 6th June, 1974 etc.; that the\nresidence on or about the 20th August, 1983 and has since then abandoned the petitioner and has\nvoluntarily withdrawn from the society of the petitioner and thus deserted him without any\nreasonable cause and without the consent of the petitioner. It may however be mentioned here that the two childrenSukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, 1996\nIndian Kanoon - http://indiankanoon.org/doc/561465/ 2\nhave since attained majority and therefore the question of custody does not now survive and has not\nbeen pressed also. The learned Trial Court on consideration | Intent: unknown | Outcome: death | IPC: 406, 403, 420, 125, 13, 10",
+      "metadata": {
+        "case_name": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "406",
+          "403",
+          "420",
+          "125",
+          "13",
+          "10"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "threatened",
+          "misappropriated",
+          "cruelty"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "High Court",
+        "year": "1996"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Bhagat v. D. 16. Obviously,\nnon-execution of a decree of restitution of conjugal rights is valid ground under Section 13(l)(lA)(ii)\nof the Hindu Marriage Act for granting divorce. 17. I agree.Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, 1996\nIndian Kanoon - http://indiankanoon.org/doc/561465/ 13 Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,\n1996\nEquivalent citations: II(1997)DMC69\nJUDGMENT\nGitesh Ranjan Bhattacharjee, J. 1. This is an appeal against the judgment and order dated the 22nd February, 1991 in Matrimonial\nSuit No. 6/1985 passed by the learned Additional District Judge, 11th Court, Alipore, granting\ndecree of divorce under the Hindu Marriage Act, 1955 in favour of the petitioner- husband and\nagainst the wife on the ground of cruelty of the wife.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, | Final judgment: Bhagat v. D. 16. Obviously,\nnon-execution of a decree of restitution of conjugal rights is valid ground under Section 13(l)(lA)(ii)\nof the Hindu Marriage Act for granting divorce. 17. I agree.Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July, 1996\nIndian Kanoon - http://indiankanoon.org/doc/561465/ 13 Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,\n1996\nEquivalent citations: II(1997)DMC69\nJUDGMENT\nGitesh Ranjan Bhattacharjee, J. 1. This is an appeal against the judgment and order dated the 22nd February, 1991 in Matrimonial\nSuit No. 6/1985 passed by the learned Additional District Judge, 11th Court, Alipore, granting\ndecree of divorce under the Hindu Marriage Act, 1955 in favour of the petitioner- husband and\nagainst the wife on the ground of cruelty of the wife. | Judgment: unknown | IPC: 406, 403, 420, 125, 13, 10",
+      "metadata": {
+        "case_name": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal on 18 July,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "406",
+          "403",
+          "420",
+          "125",
+          "13",
+          "10"
+        ],
+        "actions": [
+          "assaulted",
+          "killed",
+          "threatened",
+          "misappropriated",
+          "cruelty"
+        ],
+        "weapon": "knife",
+        "intent": "unknown",
+        "outcome": "death",
+        "judgment": "unknown",
+        "court": "High Court",
+        "year": "1996"
+      }
+    }
+  ]
+}

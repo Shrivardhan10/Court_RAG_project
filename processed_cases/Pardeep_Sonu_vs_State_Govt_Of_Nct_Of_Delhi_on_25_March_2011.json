@@ -1,0 +1,142 @@
+{
+  "case_id": "Pardeep_Sonu_vs_State_Govt_Of_Nct_Of_Delhi_on_25_March_2011",
+  "case_name": "Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "No.928/2008\n% Date of Decision: 25.03.2011\nPardeep @ Sonu .... of NCT of Delhi) .... Lovkesh Sawhney, APP\nCORAM:\nHON'BLE MR. JUSTICE ANIL KUMAR\nHON'BLE MR.JUSTICE S.L.BHAYANA\n1. 2. To be referred to the reporter or not? YES\n3. ANIL KUMAR, J. *\n1. Of Nct Of Delhi) on 25 March, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1583974/ 1\n2. The brief facts to comprehend the case are that on 16th August, 2005 an FIR was registered on\nthe basis of statement made by a minor girl aged about 8 years, namely Khushbu @ Diksha. She had\ndisclosed that she lives along with her parents and other siblings in one room in a rented house\nbearing No. RZ 57 K, Ist Floor, Gali No.7, Tuglaqabad Extension. 3. Khusbu @ Diksha was a student of 3rd Class. About 20-22 days prior to 16th August, 2005 her\nmother had gone to the village and she was living along with her father and brother. It was disclosed\nthat she was sleeping in her room along with her brother on an iron cot measuring about 4 Ft. x 6\nFt.. Her father was sleeping on the roof. When she tried to cry, she was gagged by the accused by putting his palm on her\nmouth and thereafter the accused raped her. When she raised noise, her brother who was sleeping\nnext to her woke up and switched on the light. When the brother of Khushbu @ Diksha, namely\nPankaj, got up and switched on the light, the accused asked him to switch off the light and also\nthreatened them that if they will disclose anything to anyone, he would kill their father and\nthereafter, he ran away from there. According to Khushbu @ Diksha, when her mother came back\nfrom the village 20-22 days after the incident , she disclosed the incident to her mother. The mother\nof Khushbu @ Diksha disclosed it to father of Khushbu @ Diksha and they went to the Police Station\nand an FIR No.737 of 2005 dated 16th August, 2005 under Sections 376/506 of the Indian Penal\nCode was registered.",
+      "embedding_text": "FACT_CHUNK | Case: Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March, | Facts: No.928/2008\n% Date of Decision: 25.03.2011\nPardeep @ Sonu .... of NCT of Delhi) .... Lovkesh Sawhney, APP\nCORAM:\nHON'BLE MR. JUSTICE ANIL KUMAR\nHON'BLE MR.JUSTICE S.L.BHAYANA\n1. 2. To be referred to the reporter or not? YES\n3. ANIL KUMAR, J. *\n1. Of Nct Of Delhi) on 25 March, 2011\nIndian Kanoon - http://indiankanoon.org/doc/1583974/ 1\n2. The brief facts to comprehend the case are that on 16th August, 2005 an FIR was registered on\nthe basis of statement made by a minor girl aged about 8 years, namely Khushbu @ Diksha. She had\ndisclosed that she lives along with her parents and other siblings in one room in a rented house\nbearing No. RZ 57 K, Ist Floor, Gali No.7, Tuglaqabad Extension. 3. Khusbu @ Diksha was a student of 3rd Class. About 20-22 days prior to 16th August, 2005 her\nmother had gone to the village and she was living along with her father and brother. It was disclosed\nthat she was sleeping in her room along with her brother on an iron cot measuring about 4 Ft. x 6\nFt.. Her fat | Actions: raped, threatened | Weapon: unknown | Outcome: injury | IPC: 376, 506, 313, 161, 164, 391",
+      "metadata": {
+        "case_name": "Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "161",
+          "164",
+          "391"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Whether reporters of Local papers may YES\nbe allowed to see the judgment? Whether the judgment should be YES\nreported in the Digest? the evidence must be relevant to the issues;\niii. the Court will after considering that the evidence to go on to consider whether\nthere might have been reasonable doubt as to the guilt of the appellant if that\nevidence had been given together with the other evidence at the trial. Later on, the aunty who lives across our room asked me\nwhether I had gone to bathroom. Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,\n2011\nAuthor: Anil Kumar\nBench: Anil Kumar, S.L.Bhayana\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n+ Crl.A.",
+      "embedding_text": "ISSUE_CHUNK | Case: Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March, | Legal issues: Whether reporters of Local papers may YES\nbe allowed to see the judgment? Whether the judgment should be YES\nreported in the Digest? the evidence must be relevant to the issues;\niii. the Court will after considering that the evidence to go on to consider whether\nthere might have been reasonable doubt as to the guilt of the appellant if that\nevidence had been given together with the other evidence at the trial. Later on, the aunty who lives across our room asked me\nwhether I had gone to bathroom. Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,\n2011\nAuthor: Anil Kumar\nBench: Anil Kumar, S.L.Bhayana\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n+ Crl.A. | IPC: 376, 506, 313, 161, 164, 391",
+      "metadata": {
+        "case_name": "Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "161",
+          "164",
+          "391"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Pardeep @ Sonu vs State (Govt. Appellant\nVersus\nState (Govt. Respondent\nThrough Mr. The appellant has challenged his conviction in Sessions Case No.123 of 2006, titled as „State v. In the night she felt pain in her private part and she found\nthat the appellant was lying next to her, between her and her brother, and he had inserted his figure\ninside her vagina. The appellant was arrested on 16th August, 2005 in presence of the mother\nand father, namely Smt.Sridevi & Sh.Om Prakash of the prosecutrix Khushbu @ Diksha. The charge framed against the accused/appellant is as under:-\n\"That 20-22 days prior to 16th August, 2005 in the night time (time unknown) on the\nsecond floor of house No.57 K, Gali No.7, Tuglaqabad Extension, New Delhi you\ncommitted rape upon the person baby Khusbu aged about 8 years a minor and\nthereby you are guilty of an offence punishable under Sections 376 of the Indian\nPenal Code and within my cognizance. The\nstatement of the appellant was also recorded under Section 313 of the Criminal Procedure Code.Pardeep @ Sonu vs State (Govt. According to the trial court, the testimony of Khushbu @ Diksha, PW-2 was corroborated by her\nmother Smt.Sridevi PW-1 and the statement of Khushbu @ Diksha was also corroborated by her\nfather Sh.Om Prakash PW-3 and brother Sh.Pankaj PW-4, and by the statement of Dr.Anupama\nBahadur PW-6. contended that perusal of the statement of the prosecutrix recorded under Section 161 of the\nCriminal Procedure Code, Ex. PW-2/A recorded on 16th August, 2005; statement recorded under\nSection 164 of the Criminal Procedure Code on 18th August, 2005, Ex. PW2/B and the statement\nrecorded before the court as PW-2 unequivocally reflected that the evidence of the prosecutrix is full\nof discrepancies and does not inspire confidence. On behalf of the appellant, it is contended that he has been falsely implicated by the prosecutrix\nand her brother who were tutored by their father on account of their fathers disputes with his\nfather regarding demand of increase of rent of the room and about the payment of electricity\ncharges.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March, | Arguments: Pardeep @ Sonu vs State (Govt. Appellant\nVersus\nState (Govt. Respondent\nThrough Mr. The appellant has challenged his conviction in Sessions Case No.123 of 2006, titled as „State v. In the night she felt pain in her private part and she found\nthat the appellant was lying next to her, between her and her brother, and he had inserted his figure\ninside her vagina. The appellant was arrested on 16th August, 2005 in presence of the mother\nand father, namely Smt.Sridevi & Sh.Om Prakash of the prosecutrix Khushbu @ Diksha. The charge framed against the accused/appellant is as under:-\n\"That 20-22 days prior to 16th August, 2005 in the night time (time unknown) on the\nsecond floor of house No.57 K, Gali No.7, Tuglaqabad Extension, New Delhi you\ncommitted rape upon the person baby Khusbu aged about 8 years a minor and\nthereby you are guilty of an offence punishable under Sections 376 of the Indian\nPenal Code and within my cognizance. The\nstatement of the appellant was also recorded under Section  | Intent: intentional | IPC: 376, 506, 313, 161, 164, 391 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "161",
+          "164",
+          "391"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Of Nct Of Delhi) on 25 March,\n2011\nAuthor: Anil Kumar\nBench: Anil Kumar, S.L.Bhayana\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n+ Crl.A. The evidence of the mother Smt.Sridevi as PW-1\nand the father Sh.Om Prakash PW-4 also did not corroborate the statement of the prosecutrix as\ntheir testimonies are based on whatsoever was allegedly disclosed by the prosecutrix first to her\nmother, Smt.Sridevi who had disclosed the same facts to her husband, Sh.Om Prakash, father of the\nprosecutrix and therefore, on the basis of their testimonies, it is rather established that her\ntestimony is unreliable and discrepancies of the prosecutrixs testimony are further highlighted\nvarious discrepancies in the statement of the prosecutrix and her brother Sh.Pankaj which according\nto him in the present facts and circumstances cannot be termed minor or inconsequential and thus\nmake their testimonies unreliable. State of Madhya Pradesh to contend that if the evidence of the prosecutrix is full of\ndiscrepancies and does not inspire confidence and if the person who had been informed about the\nincident had not been examined and therefore, there was no corroboration, in such circumstances\non the basis of the uncorroborated evidence, the finding of the guilt cannot be arrived at though\nfinding of guilt in some cases of rape can be based on the uncorroborated evidence of the\nprosecutrix. Mr.Sawhney, learned Additional Public Prosecutor has also contended that from the testimony\nof the father, Sh.Om Prakash, it is apparent that 3rd child Priyanka was not at home and therefore,\nthe plea on behalf of the appellant that whereabouts of the third child will cast doubt about the\nprosecutrix version cannot be accepted. It is further contended that if the Court finds it difficult to accept the\ntestimony of the prosecutrix, it may seek assurance of her testimony, which may be in the form of\ncorroboration from other evidence. Under Section 391 of the Criminal Procedure\nCode discretion is vested with the appellate court to take further evidence in an appeal is an\nexception to the general rule that an appeal must be decided on the evidence which was before the\ntrial court.",
+      "embedding_text": "REASONING_CHUNK | Case: Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March, | Judicial reasoning: Of Nct Of Delhi) on 25 March,\n2011\nAuthor: Anil Kumar\nBench: Anil Kumar, S.L.Bhayana\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n+ Crl.A. The evidence of the mother Smt.Sridevi as PW-1\nand the father Sh.Om Prakash PW-4 also did not corroborate the statement of the prosecutrix as\ntheir testimonies are based on whatsoever was allegedly disclosed by the prosecutrix first to her\nmother, Smt.Sridevi who had disclosed the same facts to her husband, Sh.Om Prakash, father of the\nprosecutrix and therefore, on the basis of their testimonies, it is rather established that her\ntestimony is unreliable and discrepancies of the prosecutrixs testimony are further highlighted\nvarious discrepancies in the statement of the prosecutrix and her brother Sh.Pankaj which according\nto him in the present facts and circumstances cannot be termed minor or inconsequential and thus\nmake their testimonies unreliable. State of Madhya Pradesh to contend that if the evidence of the prosecutrix is full of\ndiscrepancies a | Intent: intentional | Outcome: injury | IPC: 376, 506, 313, 161, 164, 391",
+      "metadata": {
+        "case_name": "Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "161",
+          "164",
+          "391"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Pradeep @ Sonu, arising from the FIR No.737 of 2005, under Sections 376/506 Indian Penal Code,\nPS Okhla Industrial Area convicting the appellant under Section 376 of the Indian Penal Code and\nSection 506 of the Indian Penal Code and sentencing the appellant to undergo rigorous life\nimprisonment under Section 376 (2)(f) of the Indian Penal Code and a fine of Rs.5,000/- and in\ndefault to undergo simple imprisonment for two months and simple imprisonment for two years for\noffence under Section 506 of the Indian Penal Code.Pardeep @ Sonu vs State (Govt. According to the learned Sessions Judge, the case of rape and intimidation was conclusively made\nout against the appellant and therefore, he convicted the appellant under Sections 376 and 506 of\nthe Indian Penal Code and sentenced him to undergo rigorous imprisonment for life for offence\nunder Section 376 and simple imprisonment for 2 years for offence under Section 506 of the Indian\nPenal Code. The Supreme Court had, however, set aside the acquittal by the High Court\nholding that the explanation for the delay that the father of the prosecutrix and brother-in-law were\nnot in the village was not unnatural and also the fact that the girl/prosecutrix was unconscious\nduring the day and the police station was at a distance of 15 km. The Supreme Court in this case had set aside the acquittal by the High Court\nas the High Court had not even noticed the testimony of the prosecutrix in the judgment under\nappeal. In this case, the High Court had\nacquitted the accused holding that the statement of the prosecutrix was not corroborated by the\nevidence of the doctor, who examined her as there were no external injuries and there were no blood\nstains on her dress nor there was any injury on her female organ though hymen was ruptured and\nthere was no fresh bleeding from the private parts. The\nSupreme Court had set aside the acquittal also on the ground that such stark testimony had not been\nconsidered by the High Court and in the circumstances, evidence of the prosecutrix was found to be\nun- impeached and well corroborated by evidence of other prosecution witnesses.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March, | Final judgment: Pradeep @ Sonu, arising from the FIR No.737 of 2005, under Sections 376/506 Indian Penal Code,\nPS Okhla Industrial Area convicting the appellant under Section 376 of the Indian Penal Code and\nSection 506 of the Indian Penal Code and sentencing the appellant to undergo rigorous life\nimprisonment under Section 376 (2)(f) of the Indian Penal Code and a fine of Rs.5,000/- and in\ndefault to undergo simple imprisonment for two months and simple imprisonment for two years for\noffence under Section 506 of the Indian Penal Code.Pardeep @ Sonu vs State (Govt. According to the learned Sessions Judge, the case of rape and intimidation was conclusively made\nout against the appellant and therefore, he convicted the appellant under Sections 376 and 506 of\nthe Indian Penal Code and sentenced him to undergo rigorous imprisonment for life for offence\nunder Section 376 and simple imprisonment for 2 years for offence under Section 506 of the Indian\nPenal Code. The Supreme Court had, however, set aside th | Judgment: convicted | IPC: 376, 506, 313, 161, 164, 391",
+      "metadata": {
+        "case_name": "Pardeep @ Sonu vs State (Govt. Of Nct Of Delhi) on 25 March,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "376",
+          "506",
+          "313",
+          "161",
+          "164",
+          "391"
+        ],
+        "actions": [
+          "raped",
+          "threatened"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2011"
+      }
+    }
+  ]
+}

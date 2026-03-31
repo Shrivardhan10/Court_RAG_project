@@ -1,0 +1,142 @@
+{
+  "case_id": "Mohammed_Iftequar_Ahmed_vs_The_State_Of_Telangana_on_23_July_2025",
+  "case_name": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "JUSTICE K. SUJANA\nCRIMINAL PETITION No.4593 of 2025\nORDER:\nThis Criminal Petition is filed Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (for\nshort 'the BNSS') seeking to quash the proceedings against the petitioner/accused in C.C.No.613 of\n2023 on the file of the learned III Additional Judicial Magistrate of First Class, Mahabubnagar,\nregistered for the offences punishable under Sections 354D and 509 of the Indian Penal Code, 1860\n(for short, 'IPC') and Section 66(A) of the Information Technology Act, 2008 (for short, 'IT Act'). 2. The brief facts of the case are that on 24.07.2023, the de-facto complainant lodged a report before\nthe Police against the petitioner stating that she was married to Mr. Mohammed Iftekar Ahmed in\nOctober 2021, and they had a daughter. Due to family disputes, they divorced on 13.03.2023 before\ntheir family members and community elders, as per customary practices and since then they have\nbeen living separately. Subsequently, the petitioner allegedly extracted voice recordings of her\nprivate SKS,J conversations with friends from her mobile phone and shared them with her relatives\nand acquaintances, spreading false publicity against her and also reported that the petitioner\nthreatened her to live with him or he would circulate her private photos and videos on social media\nto ruin her reputation and damage her prestige in the society. 3. Basing on the said complaint, the Police registered a case in Crime No.229 of 2023 for the\noffences punishable under Sections 354D and 509 of IPC and Section 66(A) of IT Act and they filed\nthe charge sheet, vide C.C.No.613 of 2023 before the learned III Additional Judicial First Class\nMagistrate, Mahabubnagar. Aggrieved thereby, the petitioner filed the present criminal petition to\nquash the proceeding against him. Valiur\n5. LW.4 also submitted an affidavit stating that\nhe had no knowledge about what is alleged in the complaint and is also ready and willing to come\nbefore the Court and depose of the same to that effect and further contended that the elements\nrequired to establish offence under Section 506 of IPC, such as AIR 2015 SC 1523 SKS,J intent to\ninsult the modesty of a woman and repeated unwelcome contact are not there in the present case.",
+      "embedding_text": "FACT_CHUNK | Case: Mohammed Iftequar Ahmed vs The State Of Telangana on 23 | Facts: JUSTICE K. SUJANA\nCRIMINAL PETITION No.4593 of 2025\nORDER:\nThis Criminal Petition is filed Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (for\nshort 'the BNSS') seeking to quash the proceedings against the petitioner/accused in C.C.No.613 of\n2023 on the file of the learned III Additional Judicial Magistrate of First Class, Mahabubnagar,\nregistered for the offences punishable under Sections 354D and 509 of the Indian Penal Code, 1860\n(for short, 'IPC') and Section 66(A) of the Information Technology Act, 2008 (for short, 'IT Act'). 2. The brief facts of the case are that on 24.07.2023, the de-facto complainant lodged a report before\nthe Police against the petitioner stating that she was married to Mr. Mohammed Iftekar Ahmed in\nOctober 2021, and they had a daughter. Due to family disputes, they divorced on 13.03.2023 before\ntheir family members and community elders, as per customary practices and since then they have\nbeen living separately. Subsequently, the petitioner alleg | Actions: threatened, harassed | Weapon: unknown | Outcome: cruelty | IPC: 528, 354D, 509, 66, 66A, 506",
+      "metadata": {
+        "case_name": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "528",
+          "354D",
+          "509",
+          "66",
+          "66A",
+          "506"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23\nJuly, 2025\nTHE HONOURABLE SMT. JUSTICE K. SUJANA\nCRIMINAL PETITION No.4593 of 2025\nORDER:\nThis Criminal Petition is filed Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (for\nshort 'the BNSS') seeking to quash the proceedings against the petitioner/accused in C.C.No.613 of\n2023 on the file of the learned III Additional Judicial Magistrate of First Class, Mahabubnagar,\nregistered for the offences punishable under Sections 354D and 509 of the Indian Penal Code, 1860\n(for short, 'IPC') and Section 66(A) of the Information Technology Act, 2008 (for short, 'IT Act'). 2. The brief facts of the case are that on 24.07.2023, the de-facto complainant lodged a report before\nthe Police against the petitioner stating that she was married to Mr. Mohammed Iftekar Ahmed in\nOctober 2021, and they had a daughter. Due to family disputes, they divorced on 13.03.2023 before\ntheir family members and community elders, as per customary practices and since then they have\nbeen living separately. Subsequently, the petitioner allegedly extracted voice recordings of her\nprivate SKS,J conversations with friends from her mobile phone and shared them with her relatives\nand acquaintances, spreading false publicity against her and also reported that the petitioner\nthreatened her to live with him or he would circulate her private photos and videos on social media\nto ruin her reputation and damage her prestige in the society.",
+      "embedding_text": "ISSUE_CHUNK | Case: Mohammed Iftequar Ahmed vs The State Of Telangana on 23 | Legal issues: Mohammed Iftequar Ahmed vs The State Of Telangana on 23\nJuly, 2025\nTHE HONOURABLE SMT. JUSTICE K. SUJANA\nCRIMINAL PETITION No.4593 of 2025\nORDER:\nThis Criminal Petition is filed Section 528 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (for\nshort 'the BNSS') seeking to quash the proceedings against the petitioner/accused in C.C.No.613 of\n2023 on the file of the learned III Additional Judicial Magistrate of First Class, Mahabubnagar,\nregistered for the offences punishable under Sections 354D and 509 of the Indian Penal Code, 1860\n(for short, 'IPC') and Section 66(A) of the Information Technology Act, 2008 (for short, 'IT Act'). 2. The brief facts of the case are that on 24.07.2023, the de-facto complainant lodged a report before\nthe Police against the petitioner stating that she was married to Mr. Mohammed Iftekar Ahmed in\nOctober 2021, and they had a daughter. Due to family disputes, they divorced on 13.03.2023 before\ntheir family members and community elders, as per customary practi | IPC: 528, 354D, 509, 66, 66A, 506",
+      "metadata": {
+        "case_name": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "528",
+          "354D",
+          "509",
+          "66",
+          "66A",
+          "506"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23\nJuly, 2025\nTHE HONOURABLE SMT. learned Assistant Public Prosecutor, appearing for respondent No.1-State and Sri Mohd. Learned counsel for the petitioner submitted that the petitioner is innocent and none of the\nalleged offences are applicable to him and that the contents of the complaint and SKS,J those in the\ncharge sheet are entirely inconsistent and contradictory, and that there is no evidence linking the\ndocumentary proof, filed the charge sheet solely based on the material provided by respondent No. Union of India 1.Mohammed Iftequar Ahmed vs The State Of Telangana on 23 July, 2025\nIndian Kanoon - http://indiankanoon.org/doc/88604638/ 1\n6. Learned counsel for the petitioner contended that there are no specific allegations to attract the\noffence under Section 354D of IPC, which criminalizes the act of stalking, which involves following,\ncontacting or attempting to contact a person repeatedly despite their clear indication of disinterest. In support of this, the prosecution relied on the statement of LW.4, who admitted that he had no\nknowledge of being listed as an eyewitness in the case. Despite the divorce, the petitioner allegedly\ncontinued to contact the complainant, pressuring her to cohabit with him, and resorted to threats\nand blackmail her with the intent to defame and harm her reputation and further submitted that the\nactions of the petitioner amount to psychological harassment and constitute offences under relevant\nsections of law and relied on the principles laid down in State of Haryana Vs. It is\nalleged that the petitioner sent repeated messages to respondent No.2 insisting her to live with him\nand threatened to publish private photographs and videos retrieved from her laptop and mobile\nphone. The petitioner has placed WhatsApp chats on record showing that respondent No.2 also\nresponded positively to his messages. This material, however, requires appreciation during theMohammed Iftequar Ahmed vs The State Of Telangana on 23 July, 2025\nIndian Kanoon - http://indiankanoon.org/doc/88604638/ 2\ncourse of trial and cannot come to a conclusion to quash the charge at the present stage. SUJANA, J Date: 23.07.2025 SSMohammed Iftequar Ahmed vs The State Of Telangana on 23 July, 2025\nIndian Kanoon - http://indiankanoon.org/doc/88604638/ 3",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Mohammed Iftequar Ahmed vs The State Of Telangana on 23 | Arguments: Mohammed Iftequar Ahmed vs The State Of Telangana on 23\nJuly, 2025\nTHE HONOURABLE SMT. learned Assistant Public Prosecutor, appearing for respondent No.1-State and Sri Mohd. Learned counsel for the petitioner submitted that the petitioner is innocent and none of the\nalleged offences are applicable to him and that the contents of the complaint and SKS,J those in the\ncharge sheet are entirely inconsistent and contradictory, and that there is no evidence linking the\ndocumentary proof, filed the charge sheet solely based on the material provided by respondent No. Union of India 1.Mohammed Iftequar Ahmed vs The State Of Telangana on 23 July, 2025\nIndian Kanoon - http://indiankanoon.org/doc/88604638/ 1\n6. Learned counsel for the petitioner contended that there are no specific allegations to attract the\noffence under Section 354D of IPC, which criminalizes the act of stalking, which involves following,\ncontacting or attempting to contact a person repeatedly despite their clear indication of d | Intent: unknown | IPC: 528, 354D, 509, 66, 66A, 506 | Judgment context: sentenced",
+      "metadata": {
+        "case_name": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "528",
+          "354D",
+          "509",
+          "66",
+          "66A",
+          "506"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "2\nand that continuation of proceedings under Section 66A of the IT Act is an abuse of process, as the\nsaid provision was laid down by the Hon'ble Supreme Court in Shreya Singhal Vs. Therefore, he prayed the Court to quash the proceedings against the petitioner by allowing this\ncriminal petition. Therefore, prayed the Court\nto dismiss the petition. However, the\ncontention regarding Section 66A of IT Act may be considered separately, but it does not invalidate\nthe allegations that fall squarely under other relevant penal provisions and prayed the Court to pass\nappropriate orders. available on record, it is observed the offences alleged against the petitioner are punishable under\nSections 354D and 509 of IPC and Section 66(A) of IT Act. However, Section 66(A) of the IT Act was\nlaid down by the Hon'ble Supreme Court in Shreya Singhal v. Union of India (supra), and thus, it is\nno longer a valid provision under law. Therefore, Section 509 IPC is not applicable in the present case.",
+      "embedding_text": "REASONING_CHUNK | Case: Mohammed Iftequar Ahmed vs The State Of Telangana on 23 | Judicial reasoning: 2\nand that continuation of proceedings under Section 66A of the IT Act is an abuse of process, as the\nsaid provision was laid down by the Hon'ble Supreme Court in Shreya Singhal Vs. Therefore, he prayed the Court to quash the proceedings against the petitioner by allowing this\ncriminal petition. Therefore, prayed the Court\nto dismiss the petition. However, the\ncontention regarding Section 66A of IT Act may be considered separately, but it does not invalidate\nthe allegations that fall squarely under other relevant penal provisions and prayed the Court to pass\nappropriate orders. available on record, it is observed the offences alleged against the petitioner are punishable under\nSections 354D and 509 of IPC and Section 66(A) of IT Act. However, Section 66(A) of the IT Act was\nlaid down by the Hon'ble Supreme Court in Shreya Singhal v. Union of India (supra), and thus, it is\nno longer a valid provision under law. Therefore, Section 509 IPC is not applicable in the present case. | Intent: unknown | Outcome: cruelty | IPC: 528, 354D, 509, 66, 66A, 506",
+      "metadata": {
+        "case_name": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "528",
+          "354D",
+          "509",
+          "66",
+          "66A",
+          "506"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2025"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "With respect to Section 509 IPC, which\npertains to words, gestures, or acts intended to insult the modesty of a woman and provides for\nsimple imprisonment up to three years and fine, but as seen from the complaint, it appears that\nthere is no specific allegation indicating use of abusive or insulting language by the petitioner\ntoward the complainant. Accordingly, the Criminal Petition is allowed-in-part and the proceedings against the petitioner\nfor the offences punishable under Section 509 IPC and Section 66(A) of IT Act are hereby quashed. However, the proceedings initiated against the petitioner for the offence punishable under Section\n354D of IPC shall continue. Miscellaneous applications, if any pending, shall also stand closed. _______________ K. Mohammed Iftequar Ahmed vs The State Of Telangana on 23\nJuly, 2025\nTHE HONOURABLE SMT.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Mohammed Iftequar Ahmed vs The State Of Telangana on 23 | Final judgment: With respect to Section 509 IPC, which\npertains to words, gestures, or acts intended to insult the modesty of a woman and provides for\nsimple imprisonment up to three years and fine, but as seen from the complaint, it appears that\nthere is no specific allegation indicating use of abusive or insulting language by the petitioner\ntoward the complainant. Accordingly, the Criminal Petition is allowed-in-part and the proceedings against the petitioner\nfor the offences punishable under Section 509 IPC and Section 66(A) of IT Act are hereby quashed. However, the proceedings initiated against the petitioner for the offence punishable under Section\n354D of IPC shall continue. Miscellaneous applications, if any pending, shall also stand closed. _______________ K. Mohammed Iftequar Ahmed vs The State Of Telangana on 23\nJuly, 2025\nTHE HONOURABLE SMT. | Judgment: sentenced | IPC: 528, 354D, 509, 66, 66A, 506",
+      "metadata": {
+        "case_name": "Mohammed Iftequar Ahmed vs The State Of Telangana on 23",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "528",
+          "354D",
+          "509",
+          "66",
+          "66A",
+          "506"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "unknown",
+        "outcome": "cruelty",
+        "judgment": "sentenced",
+        "court": "Supreme Court",
+        "year": "2025"
+      }
+    }
+  ]
+}

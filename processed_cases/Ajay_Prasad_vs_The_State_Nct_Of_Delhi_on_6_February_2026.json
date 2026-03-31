@@ -1,0 +1,197 @@
+{
+  "case_id": "Ajay_Prasad_vs_The_State_Nct_Of_Delhi_on_6_February_2026",
+  "case_name": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Gazipur\nCuriae) for Victim. CORAM:\nHON'BLE MS. JUSTICE CHANDRASEKHARAN SUDHA\nJUDGMENT\nCHANDRASEKHARAN SUDHA, J. 1. In this appeal filed under Section 374 of the Code of Criminal Procedure, 1973 (the Cr.P.C.), the\nsole accused in Sessions Case No. 2. 3. On the basis of Ext. PW2/A FIS of PW2, given on 14.02.2014, Crime No. 123/2014, Ghazipur\nPolice Station, i.e., Ex. PW1/A FIR was registered by PW6, ASI. PW6 conducted investigation into\nthe crime and on the completion of the same, filed the charge-sheet/final report dated 29.07.2014,\nalleging commission of the offences punishable under the aforementioned offences. 4. As per order dated 16.12.2014, a\nCharge under Sections 354A, 354D IPC and Section 12 of the PoCSO Act was framed, read over and\nexplained to the accused, to which he pleaded not guilty. 5. After the close of the prosecution evidence, the accused was questioned under Section 313(1)(b)\nCr.P.C with regard to the incriminating circumstances appearing against him in the evidence of the\nprosecution. The accused denied all those circumstances and maintained his innocence. 7. After questioning the accused under Section 313 Cr.P.C., compliance of Section 232 Cr.P.C. was\nmandatory. In the case on hand, no hearing as contemplated under Section 232 Cr.P.C. However, non-compliance of the said provision does not ipso facto vitiate the\nproceedings unless omission to comply with the same is shown to have resulted in serious and\nsubstantial prejudice to the accused (See Moidu K. In the case on hand, the accused has no case that non- compliance of\nSection 232 Cr.P.C. has caused any prejudice to him. 8. No separate sentence has been awarded under\nSection 12 of the PoCSO Act in light of Section 42 of the PoCSO Act. The sentences have been\ndirected to run concurrently. Benefit under Section 428 Cr.P.C has also been granted. Aggrieved, the\naccused has come up in appeal. 10. It was further submitted that there are material contradictions in the testimony of PW2. Further, PW3 and PW4 do not support the prosecution case. It was also submitted that PW2 was not\na minor at the time of the incident.",
+      "embedding_text": "FACT_CHUNK | Case: Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026 | Facts: Gazipur\nCuriae) for Victim. CORAM:\nHON'BLE MS. JUSTICE CHANDRASEKHARAN SUDHA\nJUDGMENT\nCHANDRASEKHARAN SUDHA, J. 1. In this appeal filed under Section 374 of the Code of Criminal Procedure, 1973 (the Cr.P.C.), the\nsole accused in Sessions Case No. 2. 3. On the basis of Ext. PW2/A FIS of PW2, given on 14.02.2014, Crime No. 123/2014, Ghazipur\nPolice Station, i.e., Ex. PW1/A FIR was registered by PW6, ASI. PW6 conducted investigation into\nthe crime and on the completion of the same, filed the charge-sheet/final report dated 29.07.2014,\nalleging commission of the offences punishable under the aforementioned offences. 4. As per order dated 16.12.2014, a\nCharge under Sections 354A, 354D IPC and Section 12 of the PoCSO Act was framed, read over and\nexplained to the accused, to which he pleaded not guilty. 5. After the close of the prosecution evidence, the accused was questioned under Section 313(1)(b)\nCr.P.C with regard to the incriminating circumstances appearing against him in the evidence  | Actions: threatened, harassed | Weapon: unknown | Outcome: cruelty | IPC: 374, 354A, 354D, 12, 207, 313, 232, 42, 428, 164, 137, 138, 11, 154, 222, 506, 235",
+      "metadata": {
+        "case_name": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "374",
+          "354A",
+          "354D",
+          "12",
+          "207",
+          "313",
+          "232",
+          "42",
+          "428",
+          "164",
+          "137",
+          "138",
+          "11",
+          "154",
+          "222",
+          "506",
+          "235"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "9.The only point that arises for consideration in this appeal is whether the conviction entered and\nsentence passed against the appellant/accused by the trial court are sustainable or not. I put it to you when you had come to depose u/s 164 Cr.PC, whether you were taught by your\nfather or any police official to depose in the Court in a particular manner? PW5/C is a certificate dated 01.07.2014\nissued regarding the date of birth of PW2. PW5 in her cross-examination admitted that no birth\ncertificate issued from the MCD or from any other Government authority or any other proof of date\nof birth of PW2 had been submitted by the parents at the time of her admission in the school. Whether it be the grant of permission under S.142 to put leading question,\nor the leave under S.154 to ask questions which might be put in cross examination by\nthe adverse party, the Evidence Act leaves the matter entirely to the discretion of the\ncourt.",
+      "embedding_text": "ISSUE_CHUNK | Case: Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026 | Legal issues: 9.The only point that arises for consideration in this appeal is whether the conviction entered and\nsentence passed against the appellant/accused by the trial court are sustainable or not. I put it to you when you had come to depose u/s 164 Cr.PC, whether you were taught by your\nfather or any police official to depose in the Court in a particular manner? PW5/C is a certificate dated 01.07.2014\nissued regarding the date of birth of PW2. PW5 in her cross-examination admitted that no birth\ncertificate issued from the MCD or from any other Government authority or any other proof of date\nof birth of PW2 had been submitted by the parents at the time of her admission in the school. Whether it be the grant of permission under S.142 to put leading question,\nor the leave under S.154 to ask questions which might be put in cross examination by\nthe adverse party, the Evidence Act leaves the matter entirely to the discretion of the\ncourt. | IPC: 374, 354A, 354D, 12, 207, 313, 232, 42, 428, 164, 137, 138, 11, 154, 222, 506, 235",
+      "metadata": {
+        "case_name": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "374",
+          "354A",
+          "354D",
+          "12",
+          "207",
+          "313",
+          "232",
+          "42",
+          "428",
+          "164",
+          "137",
+          "138",
+          "11",
+          "154",
+          "222",
+          "506",
+          "235"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n% Judgment Reserved on: 02.02.2026\nJudgment pronounced on: 06.02.2026\n+ CRL.A. 424/2017\nAJAY PRASAD .....Appellant\nversus\nTHE STATE NCT OF DELHI .....Respondent\nThrough: Mr. Utkarsh, APP for State with SI\nChempat Singh, P.S. The prosecution case, in brief, is that the appellant/accused repeatedly stalked and harassed PW2\nfor several months and, on 14.02.2014, abused and threatened her near her house. On behalf of the prosecution, PWs.1 to 6 were examined, and Exhibits PW1/A, PW1/C, PW1/D,\nPW1/DA, PW2/A-D, P1, PW4/A, PW5/A-C and PW6/A-F were marked in support of the case.Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 1\n6. versus State of Kerala, 2009 (3) KHC 89; 2009\nSCC OnLine Ker 2888). No oral or documentary evidence was marked\non behalf of the appellant. It was submitted by the learned counsel for the appellant that the complaint was made only to\nescape the liability of repaying the money owed by PW4, father of PW2, to the mother of the\naccused. PW2 was also unable to state her date of birth. PW2/D, the 164 statement of PW2, is seen recorded on 17.02.2014. Ultimately, my sister namely Shital called the Police....\"Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 3\n13.3. She\ndeposed that her father had accompanied her to the Court for recording her statement U/s. I had been told by\nseveral persons as to what was to be stated.\" Then the trial court has recorded: \"The witness is\nsomewhat confused on this question and on being explained again in simple and plain language, she\nuttered that she does not remember as to in what context she was being asked and also as to what\nshe had stated earlier.\"\n14. and persons of the localityAjay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 4\napprehended the accused and gave beatings to him.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026 | Arguments: Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\n% Judgment Reserved on: 02.02.2026\nJudgment pronounced on: 06.02.2026\n+ CRL.A. 424/2017\nAJAY PRASAD .....Appellant\nversus\nTHE STATE NCT OF DELHI .....Respondent\nThrough: Mr. Utkarsh, APP for State with SI\nChempat Singh, P.S. The prosecution case, in brief, is that the appellant/accused repeatedly stalked and harassed PW2\nfor several months and, on 14.02.2014, abused and threatened her near her house. On behalf of the prosecution, PWs.1 to 6 were examined, and Exhibits PW1/A, PW1/C, PW1/D,\nPW1/DA, PW2/A-D, P1, PW4/A, PW5/A-C and PW6/A-F were marked in support of the case.Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 1\n6. versus State of Kerala, 2009 (3) KHC 89; 2009\nSCC OnLine Ker 2888). No oral or documentary evidence was marked\non behalf of the appellant. It was submitted by the learned counsel for the appellant that the  | Intent: intentional | IPC: 374, 354A, 354D, 12, 207, 313, 232, 42, 428, 164, 137, 138, 11, 154, 222, 506, 235 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "374",
+          "354A",
+          "354D",
+          "12",
+          "207",
+          "313",
+          "232",
+          "42",
+          "428",
+          "164",
+          "137",
+          "138",
+          "11",
+          "154",
+          "222",
+          "506",
+          "235"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Hence, as per the\nfinal report/ chargesheet, the accused is alleged to have committed the offences punishable under\nSections 354A, 354D IPC and Section 12 of the PoCSO Act. When the accused was produced before the trial court, all the copies of the prosecution records\nwere furnished to him as contemplated under Section 207 Cr.PC. is seen done\nby the trial court. Hence, the present crime has been registered against\nhim by avoiding Rakesh, the real culprit. The prosecution case stands proved and hence\nno interference is called for.Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 2\n12. PW2/A FIS of PW2, recorded on the date of incident, she has stated thus:-\n\"For the last 5 months, a person named Ajay Prasad, son of Uma Shankar, resident of\nF-46B, Harijan Basti, Delhi, has been following me while I travel to and from my\noffice. In the said statement,\nPW2 states thus:-\n\"On 14.02.2014, I was returning home from the office in the evening. PW2, when examined before the trial court on 13.03.2015 deposed thus: \"In the evening I was\nreturning from office for home the accused met me. The trial court has recorded thus:- At this stage, it is being observed at the witness is under\nsome impression of fear and it appears that she has been made frightened. At this juncture, the prosecutor sought the permission of the Court to\n\"cross examine\" the witness, which request was allowed by the trial court. It is incorrect that on 14.02.14 at about 8.30 pm when I along with my daughter\nSheetal and victim was present in the house we heard noise from outside and after\ncoming out at the door of the house we saw accused present in the court standing\noutside our house and giving filthy abuses. It is incorrect to suggest that I am\ndeposing falsely before the court at the instance of accused as I want to save him.\"\n(Emphasis supplied) 15.2 PW4 in the cross-examination deposed that he could not recall when PW2\nwas born or the documents he had furnished at the time of PW2's admission in the school.",
+      "embedding_text": "REASONING_CHUNK | Case: Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026 | Judicial reasoning: Hence, as per the\nfinal report/ chargesheet, the accused is alleged to have committed the offences punishable under\nSections 354A, 354D IPC and Section 12 of the PoCSO Act. When the accused was produced before the trial court, all the copies of the prosecution records\nwere furnished to him as contemplated under Section 207 Cr.PC. is seen done\nby the trial court. Hence, the present crime has been registered against\nhim by avoiding Rakesh, the real culprit. The prosecution case stands proved and hence\nno interference is called for.Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 2\n12. PW2/A FIS of PW2, recorded on the date of incident, she has stated thus:-\n\"For the last 5 months, a person named Ajay Prasad, son of Uma Shankar, resident of\nF-46B, Harijan Basti, Delhi, has been following me while I travel to and from my\noffice. In the said statement,\nPW2 states thus:-\n\"On 14.02.2014, I was returning home from the office in the | Intent: intentional | Outcome: cruelty | IPC: 374, 354A, 354D, 12, 207, 313, 232, 42, 428, 164, 137, 138, 11, 154, 222, 506, 235",
+      "metadata": {
+        "case_name": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "374",
+          "354A",
+          "354D",
+          "12",
+          "207",
+          "313",
+          "232",
+          "42",
+          "428",
+          "164",
+          "137",
+          "138",
+          "11",
+          "154",
+          "222",
+          "506",
+          "235"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "147/2014 on the file of the Additional Sessions Judge-01 (East),\nKarkardooma Court, Delhi assails the judgment dated 28.02.2017 and order on sentence dated\n21.03.2017 as per which he has been convicted and sentenced for the offences punishable under\nSection 354A and 354D of the Indian Penal Code, 1860 (the IPC) and Section 12 of the Protection of\nChildren from Sexual Offences Act, 2012 (the PoCSO Act). On consideration of the oral and documentary evidence and after hearing both sides, the trial\ncourt, vide the impugned judgment and order on sentence, found the accused guilty of the offences\npunishable under Sections 354A and 354D IPC and Section 12 of the PoCSO Act and accordingly,\nsentenced him to undergo rigorous imprisonment for a period of six months along with fine of\n1,000/- for offence punishable under Section 354A IPC, and in default of payment of fine, to\nundergo simple imprisonment for one month and to rigorous imprisonment for a period of 2 years\nand fine of 5,000/-and in default of payment of fine, to undergo simple imprisonment of 3 months\nfor the offence punishable under Section 354D IPC. 25. Now coming to Section 354D IPC:-\n\"354D. (2) Whoever commits the offence of stalking shall be punished on first conviction\nwith imprisonment of either description for a term which may extend to three years,Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026\nIndian Kanoon - http://indiankanoon.org/doc/25341341/ 8\nand shall also be liable to fine; and be punished on a second or subsequent\nconviction, with imprisonment of either description for a term which may extend to\nfive years, and shall also be liable to fine.\"\n26. I have already referred to the testimony of PW2 and PW4, which are inconsistent in material\nparticulars. If\nPW4 is to be believed, he was never present at home at the relevant time and that he was at his\noffice. He was informed by his elder daughter, namely, PW3, that a quarrel had happened in the\nlane situated near their residence and that PW3 had informed the police about the same.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026 | Final judgment: 147/2014 on the file of the Additional Sessions Judge-01 (East),\nKarkardooma Court, Delhi assails the judgment dated 28.02.2017 and order on sentence dated\n21.03.2017 as per which he has been convicted and sentenced for the offences punishable under\nSection 354A and 354D of the Indian Penal Code, 1860 (the IPC) and Section 12 of the Protection of\nChildren from Sexual Offences Act, 2012 (the PoCSO Act). On consideration of the oral and documentary evidence and after hearing both sides, the trial\ncourt, vide the impugned judgment and order on sentence, found the accused guilty of the offences\npunishable under Sections 354A and 354D IPC and Section 12 of the PoCSO Act and accordingly,\nsentenced him to undergo rigorous imprisonment for a period of six months along with fine of\n1,000/- for offence punishable under Section 354A IPC, and in default of payment of fine, to\nundergo simple imprisonment for one month and to rigorous imprisonment for a period of 2 years\nand fine of 5,000/-and in  | Judgment: convicted | IPC: 374, 354A, 354D, 12, 207, 313, 232, 42, 428, 164, 137, 138, 11, 154, 222, 506, 235",
+      "metadata": {
+        "case_name": "Ajay Prasad vs The State Nct Of Delhi on 6 February, 2026",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "374",
+          "354A",
+          "354D",
+          "12",
+          "207",
+          "313",
+          "232",
+          "42",
+          "428",
+          "164",
+          "137",
+          "138",
+          "11",
+          "154",
+          "222",
+          "506",
+          "235"
+        ],
+        "actions": [
+          "threatened",
+          "harassed"
+        ],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "cruelty",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2026"
+      }
+    }
+  ]
+}

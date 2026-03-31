@@ -1,0 +1,182 @@
+{
+  "case_id": "Muthu_Naicker_And_Ors_vs_State_Of_Tamil_Nadu_on_10_August_1978 (1)",
+  "case_name": "Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August,",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Muthu Naicker And Ors. Desai\nBench: D.A. Desai, P.N. Shinghal\nJUDGMENT\nD.A. Desai, J. 1. 25 of 1969 in which 28 persons were put up for trial for various offences Including\nthe one under Section 302 read with Section 34, I.P.C. against accused Nos. 1 to 10, 16, 17, 19 and\n20, and under Section 302 read with Section 149, I.P.C. against rest of the accused and 3 other\ncharges for specific offences under Sections 323, 324, 325 read with Section 149 and Section 427\nread with Section 34, I.P.C. 1 to 27. No appeal was preferred against the acquittal\nof original accused No. 28 and it has become final. Original accused Nos. 8 to 18\nand 20 to 27 applied for and obtained special leave in Criminal Appeal No. 238 of 1972. Original\naccused Nos. they\napplied for and obtained special leave in Criminal Appeal No. 97 of 1973. 2. A curious feature of this case which has caused us not inconsiderable anxiety is that in all 28Muthu Naicker And Ors. The prosecution in all examined 34 witnesses including prosecution\nwitnesses Nos. 1 to 27 for various offences. Accused Nos. Accused Nos. Accused Nos. Accused Nos. Accused No. for the aforementioned offences. They were awarded\nvarying sentences on each count simultaneously directing that the substantive sentences would run\nconcurrently. 3. Karpakkam village was no exception to the ordinary faction ridden rural community, the dispute\nvivisecting the village community dating back to 1956 when accused No. 11 Kuppu Naicker who has\na well in land bearing Survey No. 102, wanted to lay a pipe-line to take water to the field bearing No. 186/2 belonging to his wife, Dhanammal. There was another well sunk by the local Panchayat in\nSurvey No. 170 for the use of the village community and when accused 11 wanted to take water from\nhis well in Survey No. 102, an apprehension was entertained by the residents of the village that there\nwould not be enough water in the well in Survey No. 170 and there would be water shortage.",
+      "embedding_text": "FACT_CHUNK | Case: Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, | Facts: Muthu Naicker And Ors. Desai\nBench: D.A. Desai, P.N. Shinghal\nJUDGMENT\nD.A. Desai, J. 1. 25 of 1969 in which 28 persons were put up for trial for various offences Including\nthe one under Section 302 read with Section 34, I.P.C. against accused Nos. 1 to 10, 16, 17, 19 and\n20, and under Section 302 read with Section 149, I.P.C. against rest of the accused and 3 other\ncharges for specific offences under Sections 323, 324, 325 read with Section 149 and Section 427\nread with Section 34, I.P.C. 1 to 27. No appeal was preferred against the acquittal\nof original accused No. 28 and it has become final. Original accused Nos. 8 to 18\nand 20 to 27 applied for and obtained special leave in Criminal Appeal No. 238 of 1972. Original\naccused Nos. they\napplied for and obtained special leave in Criminal Appeal No. 97 of 1973. 2. A curious feature of this case which has caused us not inconsiderable anxiety is that in all 28Muthu Naicker And Ors. The prosecution in all examined 34 witnesses including pro | Actions: attacked | Weapon: knife | Outcome: death | IPC: 302, 34, 149, 323, 324, 325, 427, 2, 147, 148, 426, 326, 313, 161, 14",
+      "metadata": {
+        "case_name": "Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August,",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "302",
+          "34",
+          "149",
+          "323",
+          "324",
+          "325",
+          "427",
+          "2",
+          "147",
+          "148",
+          "426",
+          "326",
+          "313",
+          "161",
+          "14"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "1978"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "This became a prestige issue which led to attacks and counter\nblasts. However, in a situation in which we are placed in this case, where the learned Sessions\nJudge rejects the entire prosecution evidence as unworthy of belief, and the High Court implicitly\nrelies on almost the entire evidence, we could not escape the duty to examine the evidence for the\npurpose of ascertaining whether there has been any such error of law or fact as to vitiate the findings\nin the impugned judgment. But while finding out\nwhether a person was a curious spectator or a member of an unlawful assembly it is necessary to\nkeep in mind the life in a village ordinarily uneventful except for small squabbles where the village\ncommunity is faction ridden and when a serious crime is committed people rush just to quench their\nthirst to know what is happening. was lodged soon after the occurrence and that in\nrespect of it some contradictory suggestions have been made would not detract from its credibility,\nHe said that the approach should be; Is the story on the whole reliable and whether appreciation of\nevidence by the High Court is fair and balanced? Lastly, he said that if the court\nis not satisfied about the role attributed to accused 19, even though the stone weighing about 4 kg.,\nis found at the scene of occurrence, because the medical evidence may not justify the allegation of\ndropping of the stone on the head of the deceased, the Court may give him the benefit of doubt but\naside of that, the Court may only examine special features in respect of the role attributed to\nindividual accused with regard to injuries being caused to some prosecution witnesses and decide\nwhether on those specific charges any one is entitled to benefit of doubt.Muthu Naicker And Ors. But then in this background the Court has to be careful to find out whether\nthis very-fact may not induce some witnesses to involve as many persons of the opposite faction as\npossible. The witness has\nbeen cross-examined at great length and we are constrained to observe that the learned Sessions\nJudge hardly bothered to determine whether the questions put in cross-examination were\npermissible or not.",
+      "embedding_text": "ISSUE_CHUNK | Case: Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, | Legal issues: This became a prestige issue which led to attacks and counter\nblasts. However, in a situation in which we are placed in this case, where the learned Sessions\nJudge rejects the entire prosecution evidence as unworthy of belief, and the High Court implicitly\nrelies on almost the entire evidence, we could not escape the duty to examine the evidence for the\npurpose of ascertaining whether there has been any such error of law or fact as to vitiate the findings\nin the impugned judgment. But while finding out\nwhether a person was a curious spectator or a member of an unlawful assembly it is necessary to\nkeep in mind the life in a village ordinarily uneventful except for small squabbles where the village\ncommunity is faction ridden and when a serious crime is committed people rush just to quench their\nthirst to know what is happening. was lodged soon after the occurrence and that in\nrespect of it some contradictory suggestions have been made would not detract from its credibility,\nHe said that | IPC: 302, 34, 149, 323, 324, 325, 427, 2, 147, 148, 426, 326, 313, 161, 14",
+      "metadata": {
+        "case_name": "Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August,",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "302",
+          "34",
+          "149",
+          "323",
+          "324",
+          "325",
+          "427",
+          "2",
+          "147",
+          "148",
+          "426",
+          "326",
+          "313",
+          "161",
+          "14"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "1978"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State Of Tamil Nadu on 10 August,\n1978\n1978 SUPREME COURT 1647\nAuthor: D.A. The State of Tamil Nadu preferred an appeal to the High\nCourt of Madras against original accused Nos. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 1\npersons were challenged before the learned Sessions Judge who framed charges against the accused\nunder 39 different heads. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 2\nin any manner in laying the pipelines. The trial of the accused resulted in acquittal and in appeal by the State,\nthe Court reached the conclusion as hereinbefore recorded.Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 3\n4. State of\nU.P. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 4\ncommitted was likely to be committed by any member of the unlawful assembly in prosecution of\nthe common object of the unlawful assembly and becomes or continues to remain a member of the\nunlawful assembly. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 5\n6, 7, 8, 9, 10, 15, 16, 17, 19, 20, 21, 23 and 28 were charged for an offence under Section 426/34\nI.P.C. Defence of all the accused except accused 4 was of total denial. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 6\nI.P.C. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 7\n13. Some people mischievously behaved by obliterating the line\nwhereupon witness Thandapani recorded the statement Ext. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 8\nP.W. He further stated that accused 5 Ramu alias\nRaman s/o accused 23 attacked him with a spear but he escaped the blow and in the process his\nshirt was torn. 1\nstated that ha entered the house of Krishnappa Naicker and bolted the door. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 9\nVishwanathan hurling stones at Gajarajan.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, | Arguments: vs State Of Tamil Nadu on 10 August,\n1978\n1978 SUPREME COURT 1647\nAuthor: D.A. The State of Tamil Nadu preferred an appeal to the High\nCourt of Madras against original accused Nos. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 1\npersons were challenged before the learned Sessions Judge who framed charges against the accused\nunder 39 different heads. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 2\nin any manner in laying the pipelines. The trial of the accused resulted in acquittal and in appeal by the State,\nthe Court reached the conclusion as hereinbefore recorded.Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 3\n4. State of\nU.P. vs State Of Tamil Nadu on 10 August, 1978\nIndian Kanoon - http://indiankanoon.org/doc/1879133/ 4\ncommitted was likely to be committed by any member of the unlawful assembly in prosecution of\nth | Intent: intentional | IPC: 302, 34, 149, 323, 324, 325, 427, 2, 147, 148, 426, 326, 313, 161, 14 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August,",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "302",
+          "34",
+          "149",
+          "323",
+          "324",
+          "325",
+          "427",
+          "2",
+          "147",
+          "148",
+          "426",
+          "326",
+          "313",
+          "161",
+          "14"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "1978"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "These three appeals arise out of the judgment rendered by a Division Bench of the High Court of\nMadras in Criminal Appeal No. These 8 accused preferred Criminal Appeal No, 230 of 1972 under Section 2(a) of the Supreme\nCourt (Enlargement of Criminal Appellate Jurisdiction) Act, 1970\", Original accused Nos. Thus, these three appeals\narise from the same Judgment and accordingly were heard together and are being disposed of by\nthis common judgment. 2216/67 in the Court of the\nDistrict Munsif, Poonanalle against P. In the appreciation of evidence by the trial court as well as in appeal against acquittal of the\naccused by the High Court there is very little or no meeting ground with the unfortunate though\nunavoidable result that both sides practically read the entire evidence before us and wanted us to\nreach the conclusion on our own appreciation of evidence. there is an appeal to this Court\nas of right, but in appeals by special leave ordinarily this Court does not undertake to reappreciate\nevidence. The High Court in one paragraph of the judgment (para 60)\nagrees with the trial Court that the evidence of prosecution witnesses Nos. Even then there are 27 accused who are before this Court and\nthere is evidence of 31 witnesses which is to be examined. Simultaneously, it is to be borne in mind that in a\nsituation as it unfolds in the case before us, the easy tendency to involve as many persons of the\nopposite faction as possible by merely naming them as having been seen in the melee is a tendency\nwhich is more often discernible and is to be eschewed and, therefore, the evidence has to be\nexamined with utmost care and caution. It is in such a situation that this Court in Masalti v. In reaching this conclusion the High Court largely\naccepted the evidence of prosecution witnesses except P. Each one is assigned a particular role and\ntherefore, unless participation by the overt act is satisfactorily established it cannot be said that the\ncharge is brought home to the particular accused.",
+      "embedding_text": "REASONING_CHUNK | Case: Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, | Judicial reasoning: These three appeals arise out of the judgment rendered by a Division Bench of the High Court of\nMadras in Criminal Appeal No. These 8 accused preferred Criminal Appeal No, 230 of 1972 under Section 2(a) of the Supreme\nCourt (Enlargement of Criminal Appellate Jurisdiction) Act, 1970\", Original accused Nos. Thus, these three appeals\narise from the same Judgment and accordingly were heard together and are being disposed of by\nthis common judgment. 2216/67 in the Court of the\nDistrict Munsif, Poonanalle against P. In the appreciation of evidence by the trial court as well as in appeal against acquittal of the\naccused by the High Court there is very little or no meeting ground with the unfortunate though\nunavoidable result that both sides practically read the entire evidence before us and wanted us to\nreach the conclusion on our own appreciation of evidence. there is an appeal to this Court\nas of right, but in appeals by special leave ordinarily this Court does not undertake to reappreciate | Intent: intentional | Outcome: death | IPC: 302, 34, 149, 323, 324, 325, 427, 2, 147, 148, 426, 326, 313, 161, 14",
+      "metadata": {
+        "case_name": "Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August,",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "302",
+          "34",
+          "149",
+          "323",
+          "324",
+          "325",
+          "427",
+          "2",
+          "147",
+          "148",
+          "426",
+          "326",
+          "313",
+          "161",
+          "14"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "1978"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "295 of 1970 convicting 27 appellants for different offences who were\nacquitted of all charges leveled against them by the learned Sessions Judge, Chingleput Division in\nSessions Case No. The learned Sessions Judge entertained a reasonable doubt about the\nveracity of the prosecution evidence and giving benefit of doubt, rejected the prosecution case in its\nentirety and acquitted all the accused. The High Court practically accepted the entire\nprosecution case and convicted accused Nos. 1 to 27, i.e, all the accused in respect of whom the State\nhad preferred an appeal, and sentenced them to varying terms of Imprisonment on different counts. 1-7 and 19 were convicted amongst others, for an offence under Section 302\nread with Section 34 of the I.P.C. and each of them was sentenced to suffer imprisonment for life. 1 to 7 and 19 were also convicted for various other offences and in respect of their\nconvictions for offences other than the one under Section 302 read with Section 34, I.P.C. 1, 2, 4, 6, 7, 8 and 13 who are alleged to have suffered injuries at the scene of\noccurrence and in all probability in the course of the occurrence, and yet the learned Sessions Judge\nwas not impressed by the evidence of any of these witnesses and rejected the entire prosecution case\nas unworthy of belief and acquitted all the accused. When the matter was taken to the High Court by\nthe State against all accused, except the last, the High Court was of the opinion that the appreciation\nof evidence by the learned Sessions Judge has been \"so unreasonable that the evidence given by the\nwitnesses was discarded only on the ground that it is the evidence of partisan, witnesses and the\njudgment of the trial court is vitiated by incoherent and heterogeneous medley of confused thinking,\nclarity and cogency being foreign to the judgment of the trial Court\", With this cryptic observation\nthe High Court accepted almost the entire prosecution case except where a concession was made by\nthe learned Public Prosecutor appearing for the State and convicted all the appellants, viz., original\naccused Nos.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August, | Final judgment: 295 of 1970 convicting 27 appellants for different offences who were\nacquitted of all charges leveled against them by the learned Sessions Judge, Chingleput Division in\nSessions Case No. The learned Sessions Judge entertained a reasonable doubt about the\nveracity of the prosecution evidence and giving benefit of doubt, rejected the prosecution case in its\nentirety and acquitted all the accused. The High Court practically accepted the entire\nprosecution case and convicted accused Nos. 1 to 27, i.e, all the accused in respect of whom the State\nhad preferred an appeal, and sentenced them to varying terms of Imprisonment on different counts. 1-7 and 19 were convicted amongst others, for an offence under Section 302\nread with Section 34 of the I.P.C. and each of them was sentenced to suffer imprisonment for life. 1 to 7 and 19 were also convicted for various other offences and in respect of their\nconvictions for offences other than the one under Section 302 read with Section 34, I.P.C. 1, 2 | Judgment: convicted | IPC: 302, 34, 149, 323, 324, 325, 427, 2, 147, 148, 426, 326, 313, 161, 14",
+      "metadata": {
+        "case_name": "Muthu Naicker And Ors. vs State Of Tamil Nadu on 10 August,",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "302",
+          "34",
+          "149",
+          "323",
+          "324",
+          "325",
+          "427",
+          "2",
+          "147",
+          "148",
+          "426",
+          "326",
+          "313",
+          "161",
+          "14"
+        ],
+        "actions": [
+          "attacked"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "SUPREME COURT",
+        "year": "1978"
+      }
+    }
+  ]
+}

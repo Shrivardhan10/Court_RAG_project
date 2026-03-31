@@ -1,0 +1,152 @@
+{
+  "case_id": "Pawan_Chaddha_vs_State_on_27_January_2016",
+  "case_name": "Pawan Chaddha vs State on 27 January, 2016",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "640/2011 & Crl. MA 18063/2012\nPAWAN CHADDHA ..... Sub Inspector Mahesh Singh, P.S. Pandav\nNagar. + CRL.A. 966/2011\nLAJPAT RAI VERMA ..... .... Sub Inspector Mahesh Singh, P.S. Pandav\nNagar. + CRL.A. 947/2013\nLAJPAT RAI VERMA ..... ..... Sub Inspector Mahesh Singh, P.S.Pandav\nNagar. + CRL.A. 1572/2013\nVIKAS CHADDHA & ANR ..... %\nCORAM:\nCrl.Appeals Nos.640/2011, 966/2011, 947/2013 &1572/2013 Page 1 of 20\nHON'BLE MS. JUSTICE SUNITA GUPTA\nJUDGMENT\n: SUNITA GUPTA, J. 1. 2. The sentences were to run concurrently. 3. Appeal\nNo.640/2011. The complainant filed Crl. Appeal Nos. 966/2011 and 947/2013 seeking enhancement\nof sentence of the convicts Pawan Chadha and Mukesh Chadha respectively. Thereafter, convicts\nVikas Chadha and Mukesh Chadha filed Crl. 4. Since all appeals are arising out of the common judgment, as such, the same are taken up\ntogether. Prosecution case:\n5. The police machinery swung in action on receipt of DD No.71B regarding a quarrel on 02.09.2008\nby Head Constable Govind Sahai (PW2), who alongwith Constable Sushil Kumar (PW4) reached the\nspot i.e. A-98, Pandav Nagar, Delhi where he met the complainant Lajpat Rai Verma in injured\ncondition, who was bleeding from his head. After preparing injury report, he sent the complainant\nto LBS Hospital alongwith Constable Sushil. After\ncompleting investigation, charge-sheet was submitted against all the three accused persons. 6. In order to substantiate its case, prosecution in all examined 13 witnesses. It was alleged that the complainant had slipped from the stairs and received some\ninjuries in the presence of Bunny Mehra who tried to take him to the hospital but the complainant\nrefused and got registered a false case taking advantage of the injuries. The complainant wanted to\ntake money for vacating the premises through Sardar Mangal Singh and Sardar Mahender Singh. 7. It is further submitted that Bunny Mehra did not support the case of the prosecution. As regards,\nPW11, she in fact is not an eye witness to the incident and has made material improvements in her\ntestimony. The whole case rests on the testimony of the complainant. Further, the concerned doctor who had\nprepared the MLC of the injured was not examined.",
+      "embedding_text": "FACT_CHUNK | Case: Pawan Chaddha vs State on 27 January, 2016 | Facts: 640/2011 & Crl. MA 18063/2012\nPAWAN CHADDHA ..... Sub Inspector Mahesh Singh, P.S. Pandav\nNagar. + CRL.A. 966/2011\nLAJPAT RAI VERMA ..... .... Sub Inspector Mahesh Singh, P.S. Pandav\nNagar. + CRL.A. 947/2013\nLAJPAT RAI VERMA ..... ..... Sub Inspector Mahesh Singh, P.S.Pandav\nNagar. + CRL.A. 1572/2013\nVIKAS CHADDHA & ANR ..... %\nCORAM:\nCrl.Appeals Nos.640/2011, 966/2011, 947/2013 &1572/2013 Page 1 of 20\nHON'BLE MS. JUSTICE SUNITA GUPTA\nJUDGMENT\n: SUNITA GUPTA, J. 1. 2. The sentences were to run concurrently. 3. Appeal\nNo.640/2011. The complainant filed Crl. Appeal Nos. 966/2011 and 947/2013 seeking enhancement\nof sentence of the convicts Pawan Chadha and Mukesh Chadha respectively. Thereafter, convicts\nVikas Chadha and Mukesh Chadha filed Crl. 4. Since all appeals are arising out of the common judgment, as such, the same are taken up\ntogether. Prosecution case:\n5. The police machinery swung in action on receipt of DD No.71B regarding a quarrel on 02.09.2008\nby Head Constable Govind Saha | Actions: none | Weapon: unknown | Outcome: death | IPC: 323, 34, 308, 313, 161, 134, 147, 149, 325, 321, 360",
+      "metadata": {
+        "case_name": "Pawan Chaddha vs State on 27 January, 2016",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "323",
+          "34",
+          "308",
+          "313",
+          "161",
+          "134",
+          "147",
+          "149",
+          "325",
+          "321",
+          "360"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "(3) Whether corroboration of the testimony of a single witness is or is not necessary,\nmust depend upon facts and circumstances of each case and no general rule can be\nlaid down in a matter like this and much depends upon the judicial discretion of the\nJudge before whom the case comes. The next question which arises for consideration is as to whether the act of accused Pawan\nChadha in causing injuries on the person of the victim, attracts ingredients of offence under Section\n308 IPC. The quarrel had taken place on a trivial\nissue. It was a case where the injuries were\ncaused in a quarrel which took place on a trivial issue i.e. It was held that the quarrel had taken place on a trivial issue.",
+      "embedding_text": "ISSUE_CHUNK | Case: Pawan Chaddha vs State on 27 January, 2016 | Legal issues: (3) Whether corroboration of the testimony of a single witness is or is not necessary,\nmust depend upon facts and circumstances of each case and no general rule can be\nlaid down in a matter like this and much depends upon the judicial discretion of the\nJudge before whom the case comes. The next question which arises for consideration is as to whether the act of accused Pawan\nChadha in causing injuries on the person of the victim, attracts ingredients of offence under Section\n308 IPC. The quarrel had taken place on a trivial\nissue. It was a case where the injuries were\ncaused in a quarrel which took place on a trivial issue i.e. It was held that the quarrel had taken place on a trivial issue. | IPC: 323, 34, 308, 313, 161, 134, 147, 149, 325, 321, 360",
+      "metadata": {
+        "case_name": "Pawan Chaddha vs State on 27 January, 2016",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "323",
+          "34",
+          "308",
+          "313",
+          "161",
+          "134",
+          "147",
+          "149",
+          "325",
+          "321",
+          "360"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "Pawan Chaddha vs State on 27 January, 2016\nAuthor: Sunita Gupta\nBench: Sunita Gupta\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\nDate of Decision: 27th January, 2016\n+ CRL.A. Appellant\nversus\nSTATE ..... Respondent\nThrough: Mr. Akshay Malik, Additional Public\nProsecutor for the State. Appellant\nversus\nPAWAN KUMAR CHADDHA & ORS. Respondents\nMr Ashok Kumar Garg, Additonal Public\nProsecutor for the State. Appellant\nversus\nMUKESH CHAND & ANR. Respondents\nMr Ashok Kumar Garg, Additonal Public\nProsecutor for the State. Appellants\nversus\nSTATE GOVT OF NCT OF DELHI ..... Respondent\nThrough: Mr Ashok Kumar Garg, Additonal Public\nProsecutor for the State. Sub Inspector Mahesh Singh, P.S/ PandavPawan Chaddha vs State on 27 January, 2016\nIndian Kanoon - http://indiankanoon.org/doc/43593686/ 1\nNagar. The appellants/\nconvict - Vikas and Mukesh were ordered to be released on probation of good conduct for a period of\nsix months on furnishing a personal bond in the sum of Rs.10,000/- each with one surety in the like\namount to keep peace and good behaviour. Feeling aggrieved, initially the appellant - Pawan Chadha preferred an appeal being Crl. After collecting MLC of the injured, he recorded the\nstatement of the complainant Ex.PW1/A on which he prepared a ruqqa and got the case FIR\nregistered. During the course of investigation, statement of witnesses was recorded. ThePawan Chaddha vs State on 27 January, 2016\nIndian Kanoon - http://indiankanoon.org/doc/43593686/ 2\ncharge for offence under Section 308 IPC was framed against accused Pawan Chadha whereas\ncharge for offence under Section 323/34 IPC was framed against accused Pawan Chadha, Vikas\nChadha and Mukesh Chadha. All the accused in their\nstatements recorded under Section 313 Cr.PC pleaded their innocence and alleged false implication\nin this case. In\nsupport of their defence one witness, namely, Sardar Mangal Singh (DW1) was examined. Submissions of appellants:\n8. Assailing the findings of the learned Trial Court, learned counsel for the appellants submits that\nout of 13 witnesses examined by the prosecution, the material witnesses were the complainant -\nLajpat Rai Verma (PW3), Bunny Mehra (PW6) and Madhu Verma (wife of the complainant) - PW11.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Pawan Chaddha vs State on 27 January, 2016 | Arguments: Pawan Chaddha vs State on 27 January, 2016\nAuthor: Sunita Gupta\nBench: Sunita Gupta\n* IN THE HIGH COURT OF DELHI AT NEW DELHI\nDate of Decision: 27th January, 2016\n+ CRL.A. Appellant\nversus\nSTATE ..... Respondent\nThrough: Mr. Akshay Malik, Additional Public\nProsecutor for the State. Appellant\nversus\nPAWAN KUMAR CHADDHA & ORS. Respondents\nMr Ashok Kumar Garg, Additonal Public\nProsecutor for the State. Appellant\nversus\nMUKESH CHAND & ANR. Respondents\nMr Ashok Kumar Garg, Additonal Public\nProsecutor for the State. Appellants\nversus\nSTATE GOVT OF NCT OF DELHI ..... Respondent\nThrough: Mr Ashok Kumar Garg, Additonal Public\nProsecutor for the State. Sub Inspector Mahesh Singh, P.S/ PandavPawan Chaddha vs State on 27 January, 2016\nIndian Kanoon - http://indiankanoon.org/doc/43593686/ 1\nNagar. The appellants/\nconvict - Vikas and Mukesh were ordered to be released on probation of good conduct for a period of\nsix months on furnishing a personal bond in the sum of Rs.10,000/- each with one surety  | Intent: intentional | IPC: 323, 34, 308, 313, 161, 134, 147, 149, 325, 321, 360 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Pawan Chaddha vs State on 27 January, 2016",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "323",
+          "34",
+          "308",
+          "313",
+          "161",
+          "134",
+          "147",
+          "149",
+          "325",
+          "321",
+          "360"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "However, the complainant\nhimself admitted that he had fallen down, therefore, the defence taken by the appellants that he had\nsustained injuries due to fall from stairs is more probable. The Honble Supreme Court on\nconsideration of relevant authorities and provisions of Indian Evidence Act laid down the following\nproposition:\n\"10. (1) As a general rule, a court can and may act on the testimony of a single witness\nthough uncorroborated. (2) Unless corroboration is insisted upon by statute, courts should not insist on\ncorroboration except in cases where the nature of the testimony of the single witness\nitself requires as a rule of prudence, that corroboration should be insisted upon, for\nexample in the case of a child witness, or of a witness whose evidence is that of an\naccomplice or of an analogous character. The matter thus must depend upon the circumstances of each case\nand the quality of the evidence of the single witness whose testimony has to be either\naccepted or rejected. If such a testimony is found by the court to be entirely reliable,\nthere is no legal impediment to the conviction of the accused person on such proof. Hence, in our opinion, it is a\nsound and well- established rule of law that the court is concerned with the quality\nand not with the quantity of the evidence necessary for, proving or disproving a fact. In the first category of proof, the court should have no difficulty in coming to its\nconclusion either way-it may convict or may acquit on the testimony of a single\nwitness, if it is found to be above approach or suspicion of interestedness,\nincompetence or subornation. In the second category, the court, equally has no\ndifficulty in coming to its conclusion. It is in the third category of cases, that the court\nhas to be circumspect and has to look for corroboration in material particulars by\nreliable testimony, direct or circumstantial. Irrespective of the quality of the oral evidence of a single\nwitness, if courts were to insist on plurality of witnesses in proof of any fact, they will\nbe indirectly encouraging subornation of witnesses.",
+      "embedding_text": "REASONING_CHUNK | Case: Pawan Chaddha vs State on 27 January, 2016 | Judicial reasoning: However, the complainant\nhimself admitted that he had fallen down, therefore, the defence taken by the appellants that he had\nsustained injuries due to fall from stairs is more probable. The Honble Supreme Court on\nconsideration of relevant authorities and provisions of Indian Evidence Act laid down the following\nproposition:\n\"10. (1) As a general rule, a court can and may act on the testimony of a single witness\nthough uncorroborated. (2) Unless corroboration is insisted upon by statute, courts should not insist on\ncorroboration except in cases where the nature of the testimony of the single witness\nitself requires as a rule of prudence, that corroboration should be insisted upon, for\nexample in the case of a child witness, or of a witness whose evidence is that of an\naccomplice or of an analogous character. The matter thus must depend upon the circumstances of each case\nand the quality of the evidence of the single witness whose testimony has to be either\naccepted or rejected. If su | Intent: intentional | Outcome: death | IPC: 323, 34, 308, 313, 161, 134, 147, 149, 325, 321, 360",
+      "metadata": {
+        "case_name": "Pawan Chaddha vs State on 27 January, 2016",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "323",
+          "34",
+          "308",
+          "313",
+          "161",
+          "134",
+          "147",
+          "149",
+          "325",
+          "321",
+          "360"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "Vide judgment dated 29.03.2011, learned Additional Sessions Judge (East), Karkardooma Courts,\nDelhi in case FIR No.365/2008 under Section 308/34 registered at Police Station Pandav Nagar,\nDelhi convicted the appellant - Pawan Chadha for offence under Section 308 and Section 323/34\nIPC while co-accused Vikas Chadha and Mukesh Chadha were held guilty and convicted under\nSection 323/34 IPC. Vide order dated 31.03.2011, convict - Pawan Chadha was sentenced to undergo rigorous\nimprisonment for a period of three (3) years for offence under Section 308 IPC and was also\ndirected to pay fine of Rs.10,000/-, in default to undergo simple imprisonment for a period of one\nmonth. He was further sentenced to undergo simple imprisonment for a period of six months for\noffence under Section 323/34 and to pay a fine of Rs. 1,000/-, in default to undergo simple\nimprisonment for a period of 15 days. Appeal No.1572/2013 challenging the impugned\njudgment vide which they were convicted under Section 323/34 IPC. Vide impugned judgment, all the three accused were convicted and sentenced as mentioned\nhereinbefore. Under the circumstances, the prosecution failed\nto bring home the guilt of the accused beyond reasonable doubt as such they are entitled to be\nacquitted. Moreover, since Pawan Chadha has been convicted\nwith the aid of Section 34 IPC, therefore, even accused Mukesh Chadha is liable to be\nconvicted under Section 308 read with 34 IPC. Learned counsel for the complainant relied upon\nVadivelu Thevar vs The State Of Madras, AIR 1957 SC 614 where the appellants were charged with\nmurder and were convicted on the sole testimony of a witness. (supra), six appellants were convicted by the trial Court under Section\n308/147/149 for assaulting the complainant with lathis. Therefore, it was held that appellants cannot be said to have committed any offence under Section\n308 IPC and were instead held liable to be convicted under Section 323 and 325 IPC. Similarly, in Sunder (supra), this Court altered the conviction of the appellant from Section 308\nto 323 IPC and reduced the six months imprisonment to probation.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Pawan Chaddha vs State on 27 January, 2016 | Final judgment: Vide judgment dated 29.03.2011, learned Additional Sessions Judge (East), Karkardooma Courts,\nDelhi in case FIR No.365/2008 under Section 308/34 registered at Police Station Pandav Nagar,\nDelhi convicted the appellant - Pawan Chadha for offence under Section 308 and Section 323/34\nIPC while co-accused Vikas Chadha and Mukesh Chadha were held guilty and convicted under\nSection 323/34 IPC. Vide order dated 31.03.2011, convict - Pawan Chadha was sentenced to undergo rigorous\nimprisonment for a period of three (3) years for offence under Section 308 IPC and was also\ndirected to pay fine of Rs.10,000/-, in default to undergo simple imprisonment for a period of one\nmonth. He was further sentenced to undergo simple imprisonment for a period of six months for\noffence under Section 323/34 and to pay a fine of Rs. 1,000/-, in default to undergo simple\nimprisonment for a period of 15 days. Appeal No.1572/2013 challenging the impugned\njudgment vide which they were convicted under Section 323/34 IP | Judgment: convicted | IPC: 323, 34, 308, 313, 161, 134, 147, 149, 325, 321, 360",
+      "metadata": {
+        "case_name": "Pawan Chaddha vs State on 27 January, 2016",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "323",
+          "34",
+          "308",
+          "313",
+          "161",
+          "134",
+          "147",
+          "149",
+          "325",
+          "321",
+          "360"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "death",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2016"
+      }
+    }
+  ]
+}

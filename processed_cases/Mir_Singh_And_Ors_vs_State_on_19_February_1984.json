@@ -1,0 +1,167 @@
+{
+  "case_id": "Mir_Singh_And_Ors_vs_State_on_19_February_1984",
+  "case_name": "Mir Singh And Ors. vs State on 19 February, 1984",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Mir Singh And Ors. (1) Shri P.L. 3 and 4. 1 to 4. were found to be under 21 years age\nand first offenders were ordered to be released on probation of good conduct on their entering into a\nbond in the sum of Rs. 5,000.00 with one surety each in the similar amount to appear ana receive\nthe sentence when called upon during the period of one year and in the meantime to keep peace and\nbe of good behavior. (3) We may make a reference, though, briefly, to the facts leading to the prosecution of the\nSeptember 1973, when Chanderwati was guarding the crop in her field the appellant Charan Singh\nalias Charne drove his she-buffalos into the said fields. On the refusal of Charan Singh to drive them\nout of the field Chanderwati herself drove them out. This is said to have provoked Charan Singh who\nabused Chanderwati and then left the scene. Within next 15/20 minutes, while Chanderwati was. returning to her house and reached near the turning of her Gali. armed with\nlathis and knife appeared on the site and at .the asking. Ajit Singh, who was armed with knife, gave two knife blows on the calf of her left leg. At this stage,\nher son Public Witness 2 Dev Singh who was coming out of his house also raised an alarm which\nattracted Ghanderwati's husband, Kanhaiya, her daughter Batto and her mother-in-law Samli\ntogether with one Manohar Lal and Bhagwat who were sitting in their house. As a result of this beating, Kanhaiya bleeder and fell unconscious. Charne\nBatto. Thereafter, the accused are said to have escaped from the scene of occurrence. At the time of\nincident Batto was carrying a baby in her womb. (4) The report in this regard was transmitted to police by Dev Singh P.W.2 on telephone and on the\narrival of police they found Kanhaiya, Chanderwati and Batto lying injured. Public Witness 2/A was recorded and the injured were\nremoved to Willingdon hospital. The report, Ext. I. R. No.",
+      "embedding_text": "FACT_CHUNK | Case: Mir Singh And Ors. vs State on 19 February, 1984 | Facts: Mir Singh And Ors. (1) Shri P.L. 3 and 4. 1 to 4. were found to be under 21 years age\nand first offenders were ordered to be released on probation of good conduct on their entering into a\nbond in the sum of Rs. 5,000.00 with one surety each in the similar amount to appear ana receive\nthe sentence when called upon during the period of one year and in the meantime to keep peace and\nbe of good behavior. (3) We may make a reference, though, briefly, to the facts leading to the prosecution of the\nSeptember 1973, when Chanderwati was guarding the crop in her field the appellant Charan Singh\nalias Charne drove his she-buffalos into the said fields. On the refusal of Charan Singh to drive them\nout of the field Chanderwati herself drove them out. This is said to have provoked Charan Singh who\nabused Chanderwati and then left the scene. Within next 15/20 minutes, while Chanderwati was. returning to her house and reached near the turning of her Gali. armed with\nlathis and knife appeared on the si | Actions: stabbed, assaulted, attacked, threatened | Weapon: knife | Outcome: injury | IPC: 307, 34, 325, 324, 323, 313, 326, 320, 317",
+      "metadata": {
+        "case_name": "Mir Singh And Ors. vs State on 19 February, 1984",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "307",
+          "34",
+          "325",
+          "324",
+          "323",
+          "313",
+          "326",
+          "320",
+          "317"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1984"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Mir Singh and others) on\nthe ground that after having charged the accused under Section 307/34 Indian Penal Code, the\nlearned Additional Sessions Judge did not apply his mind as to whether the offence under Section\n307/34 is made out or not. He suspected fracture of the skull, thigh, leg and\nwrist and as such the patient was referred for X-ray examination for which he issued requisition slip\nExt. The success of this case depends upon the fact as to whether the\neye-witness account is credit-worthy or not. Naseem seems to be under an impression that the only measure to judge whether an\noffence is a lesser offence or not would be to take into consideration the punishment\nprovided for the offence.",
+      "embedding_text": "ISSUE_CHUNK | Case: Mir Singh And Ors. vs State on 19 February, 1984 | Legal issues: Mir Singh and others) on\nthe ground that after having charged the accused under Section 307/34 Indian Penal Code, the\nlearned Additional Sessions Judge did not apply his mind as to whether the offence under Section\n307/34 is made out or not. He suspected fracture of the skull, thigh, leg and\nwrist and as such the patient was referred for X-ray examination for which he issued requisition slip\nExt. The success of this case depends upon the fact as to whether the\neye-witness account is credit-worthy or not. Naseem seems to be under an impression that the only measure to judge whether an\noffence is a lesser offence or not would be to take into consideration the punishment\nprovided for the offence. | IPC: 307, 34, 325, 324, 323, 313, 326, 320, 317",
+      "metadata": {
+        "case_name": "Mir Singh And Ors. vs State on 19 February, 1984",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "307",
+          "34",
+          "325",
+          "324",
+          "323",
+          "313",
+          "326",
+          "320",
+          "317"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1984"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs State on 19 February, 1984\nJUDGMENT\nMalik Sharief-Ud-Din, J. Singla, Additional Sessions Judge, Delhi found the appellants guilty Under Section\n325/34 Indian Penal Code as Well as Under Section 324/34 Indian Penal Code the conclusions\narrived at by him were that the appellants had caused grievous hurt on the right wrist of Kanhaiya\nLal Public Witness 1 and had also caused hurt on Batto and Chanderwati Public Witness s. After finding the acc-used guilty and convicting them for\nthe aforesaid offences Charne and Ajit Singh appellants who. (2) Aggrieved by the order of conviction and sentence all the three appellants have preferred this\nappeal. The State has also moved an acquittal appeal No. 368/76 (State v. This has been treated as acquittal of the accused under Section 307/34\nIndian Penal Code as a result of which the State was obliged to file a counter appeal. all the three appellants. of Mir Singh appellant \"ISKO Maza Chakha\nDO\" the accused Charan singh gave a lathi blow on her leg, Mir Singh also charged her leg with lathi. They came to rescue\nChanderwati but immediately on their arrival Ajit Singh appellant, who was armed with knife, gave-Mir Singh And Ors. vs State on 19 February, 1984\nIndian Kanoon - http://indiankanoon.org/doc/784552/ 1\nknife blows on the head, back and the calf of Kanhaiya. Mir Singh and Charne appellants, who were\narmed with lathis charged Kanhaiya with lathis and struck him on his head, back and, leg. While this\nwas going on the appellant Mir Singh is said to have exhorted the other appellants in these words\n\"ISKO Khatamkar DO\". Batto,\nanother victim, raised alarm and Mir Singh appellant again exhorted the other appellants saying \"IS\nSali Ko Bhi Maza Chakha DO\" and simultaneously he inflicted lathi blows on her leg. The statement of Dev\nSingh Public Witness 2 marked as Ext. Public Witness 13/A came to be recorded by Head\nConstable Sat Parkash who in pursuance of the statement of Dev Singh Public Witness 2 recorded a\nformal F. Sampuran Singh, who was investigating the case, records the statements of the\nvictims Batto and Chanderwati.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Mir Singh And Ors. vs State on 19 February, 1984 | Arguments: vs State on 19 February, 1984\nJUDGMENT\nMalik Sharief-Ud-Din, J. Singla, Additional Sessions Judge, Delhi found the appellants guilty Under Section\n325/34 Indian Penal Code as Well as Under Section 324/34 Indian Penal Code the conclusions\narrived at by him were that the appellants had caused grievous hurt on the right wrist of Kanhaiya\nLal Public Witness 1 and had also caused hurt on Batto and Chanderwati Public Witness s. After finding the acc-used guilty and convicting them for\nthe aforesaid offences Charne and Ajit Singh appellants who. (2) Aggrieved by the order of conviction and sentence all the three appellants have preferred this\nappeal. The State has also moved an acquittal appeal No. 368/76 (State v. This has been treated as acquittal of the accused under Section 307/34\nIndian Penal Code as a result of which the State was obliged to file a counter appeal. all the three appellants. of Mir Singh appellant \"ISKO Maza Chakha\nDO\" the accused Charan singh gave a lathi blow on her leg | Intent: intentional | IPC: 307, 34, 325, 324, 323, 313, 326, 320, 317 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Mir Singh And Ors. vs State on 19 February, 1984",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "307",
+          "34",
+          "325",
+          "324",
+          "323",
+          "313",
+          "326",
+          "320",
+          "317"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1984"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "All that the accused want the court to believe is that the genesis and sequences of the\noccurrence was different than what is suggested by the prosecution and that the occurrence took\nplace in the preemies of the accused in a different context than the one put forward by the\nprosecution. In this ease we find that\nthe fact of the incident having taken place, between the parties on that day is not in\ndispute. We, therefore, propose to deal with the prosecution evidence to discover as\nto how far it has succeeded in establishing the guilt of the accused. On the strength of\nevidence of Kanhaiya Public Witness 1 we find that a few months prior to the incident\nMir Singh accused had abused Chanderwati Public Witness 4 in a drunken state and\non her hurling counter-abuses Mir Singh had issued a warning to her. We are, therefore, of the view that the prosecution has sufficiently\nconnected all the three appellants with the commission of this crime, and the\ntestimony of eye witness is trustworthy and is corroborated by the medical evidence. (24) At this stage we may, therefore, narrate some of the relevant facts. vs State on 19 February, 1984\nIndian Kanoon - http://indiankanoon.org/doc/784552/ 8\nis no evidence to the effect that operation was, in fact, performed and therefore the\ncourt has no material before it to conclude that the operation was in fact performed. (27) That apart, in this case we have evidence of Public Witness 1 Kanhaiya, Public\nWitness 3 Batto and Public Witness 4 Chanderwati to the effect that Batto was\ndischarged from the hospital after more than 21 days which clearly brings the case\nwithin the definition of grievous hurt as defined in Section 320 eightly, Indian Penal\nCode We find no reason to disbelieve the testimony of Public Witnesses. We are therefore of the view that even though it\ncannot be said that an offence u/s. We find that offence under Section 326 Indian Penal Code\nin the first place is an offence altogether different category and is friable by a\nMagistrate of the First Class while an offence under Section 307 Indian Penal Code\ncan only be tried by a Sessions Court.",
+      "embedding_text": "REASONING_CHUNK | Case: Mir Singh And Ors. vs State on 19 February, 1984 | Judicial reasoning: All that the accused want the court to believe is that the genesis and sequences of the\noccurrence was different than what is suggested by the prosecution and that the occurrence took\nplace in the preemies of the accused in a different context than the one put forward by the\nprosecution. In this ease we find that\nthe fact of the incident having taken place, between the parties on that day is not in\ndispute. We, therefore, propose to deal with the prosecution evidence to discover as\nto how far it has succeeded in establishing the guilt of the accused. On the strength of\nevidence of Kanhaiya Public Witness 1 we find that a few months prior to the incident\nMir Singh accused had abused Chanderwati Public Witness 4 in a drunken state and\non her hurling counter-abuses Mir Singh had issued a warning to her. We are, therefore, of the view that the prosecution has sufficiently\nconnected all the three appellants with the commission of this crime, and the\ntestimony of eye witness is trustworthy a | Intent: intentional | Outcome: injury | IPC: 307, 34, 325, 324, 323, 313, 326, 320, 317",
+      "metadata": {
+        "case_name": "Mir Singh And Ors. vs State on 19 February, 1984",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "307",
+          "34",
+          "325",
+          "324",
+          "323",
+          "313",
+          "326",
+          "320",
+          "317"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1984"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "They were also convicted under Section 323/34 Indian Penal Code for causing hurt to Kanhaiya Lal\nand Chanderwati Public Witness s. Appellant Mir Singh was refused the benefit of Probation Of Offenders Act and\nwas sentenced to undergo rigorous imprisonment for one year under Section 325/ 34, to rigorous\nimprisonment for six months' under Section; 324/34 and to rigorous imprisonment for three\nmonths under Section 323/34 Indian Penal Code All the sentences were directed to run\nconcurrently. R.K. Gupta, surgeon. We, however, do not agree. These notes have been made by Dr. Gupta only after he\nconducted the operation and these have duly been proved by Public Witness 8 who\ndue to his long association with Dr. R.K. Gupta Public Witness s is conversant with\nhis writings and signature. The nature of discovery made by Dr. Gupta Public\nWitness clearly shows that the injury on the person of Batto was grievous and this is a\nmatter of public record. 1, 3 and 4\nKanhaiya, Batto and Chanderwati. 307 Indian Penal Code has been made out, there is\nsufficient evidence to hold that an offence under Section 326 Indian Penal Code has\nbeen committed. offence under Section 326 Indian Penal Code is not a minor offence vis-a-vis an\noffence under Section 317 Indian Penal Code because the punishment provided for an\noffence under section 326 is also life imprisonment and therefore the appellants\ncannot be held guilty of having committed an offence under Section 326 as they have\nnot been initially charged for this offence. We do not subscribe to this view-point. Mr. To our mind it appears that an accused can be\npunished for an offence under Section 326 Indian Penal Code where he is charged\nunder Section 307 IPC. In theMir Singh And Ors. Prior to it, use of knife was made by\nAjit Singh in respect of other two victims namely, Kanhaiya Lal and Chanderwati but\nno such grievous injury was inflicted. To this extent we accept the appeal against acquittal preferred by the\nState and hold Ajit Singh appellant guilty of the offence under Section 326 Indian\nPenal Code Ajit Singh appellant is accordingly convicted under Section 326 Indian\nPenal Code In view of his young age, we take a lenient view and sentence him to\nundergo rigorous imprisonment for two years and to payment of fine of Rs.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Mir Singh And Ors. vs State on 19 February, 1984 | Final judgment: They were also convicted under Section 323/34 Indian Penal Code for causing hurt to Kanhaiya Lal\nand Chanderwati Public Witness s. Appellant Mir Singh was refused the benefit of Probation Of Offenders Act and\nwas sentenced to undergo rigorous imprisonment for one year under Section 325/ 34, to rigorous\nimprisonment for six months' under Section; 324/34 and to rigorous imprisonment for three\nmonths under Section 323/34 Indian Penal Code All the sentences were directed to run\nconcurrently. R.K. Gupta, surgeon. We, however, do not agree. These notes have been made by Dr. Gupta only after he\nconducted the operation and these have duly been proved by Public Witness 8 who\ndue to his long association with Dr. R.K. Gupta Public Witness s is conversant with\nhis writings and signature. The nature of discovery made by Dr. Gupta Public\nWitness clearly shows that the injury on the person of Batto was grievous and this is a\nmatter of public record. 1, 3 and 4\nKanhaiya, Batto and Chanderwati. 307 Ind | Judgment: convicted | IPC: 307, 34, 325, 324, 323, 313, 326, 320, 317",
+      "metadata": {
+        "case_name": "Mir Singh And Ors. vs State on 19 February, 1984",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "307",
+          "34",
+          "325",
+          "324",
+          "323",
+          "313",
+          "326",
+          "320",
+          "317"
+        ],
+        "actions": [
+          "stabbed",
+          "assaulted",
+          "attacked",
+          "threatened"
+        ],
+        "weapon": "knife",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "Sessions Court",
+        "year": "1984"
+      }
+    }
+  ]
+}

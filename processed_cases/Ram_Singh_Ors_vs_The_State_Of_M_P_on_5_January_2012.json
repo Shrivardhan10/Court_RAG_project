@@ -1,0 +1,137 @@
+{
+  "case_id": "Ram_Singh_Ors_vs_The_State_Of_M_P_on_5_January_2012",
+  "case_name": "Ram Singh & Ors. vs The State Of M.P on 5 January, 2012",
+  "chunk_count": 5,
+  "chunks": [
+    {
+      "chunk_type": "facts",
+      "text": "Ram Singh & Ors. Maheshwari\nBench: U.C. P. JUDICATURE AT JABALPUR\nCRIMINAL APPEAL NO. 1860 of 1996\nRam Singh and 2 others\nVersus. JUDGMENT (Oral)\n(05.01.2012) U.C. MAHESHWARI J. being aggrieved by the\njudgment dated 9.10.96 passed by the IInd Addl. In default of depositing the fine amount further RI one\nmonth has been awarded on each of the count. 2. The facts giving rise to this appeal in short are that on dated 16.10.90 at about 11.20 AM,\ncomplainant Vishambhar Singh lodged the FIR Crime No.215/90 at P.S Barhi contending that today\nin the morning at about 10 O' Clock he accompanied with his son Tejbhan and his harwaha, Dhanu\nKol and Satiya Kol went to plow his field. In continuation, they\nalso pulled the plower of Sataiya. Thereafter Ram Singh gave a blow of\nFarsa on the head of victim Vishambhar Singh resultantly he sustained injury and fell down. and Tejbhan Singh by means of sticks with a threatening to kill and bury them in such field. On\nhearing the noise of shouting of Vishambhar Singh, the villagers, namely, Dhanu Kol, Sataiya Kol,Ram Singh & Ors. vs The State Of M.P on 5 January, 2012\nIndian Kanoon - http://indiankanoon.org/doc/81856890/ 1\nGopal Singh and Sewak Kol came to rescue them, on which, the appellants fled away from the place\nof incident. Thereafter, both the victims were brought to Police Station by the aforesaid villagers\nwhere after lodging the report of Vishambhar Singh (Ex.P/26), they were sent to the hospital Barahi\nwhere after medical examination their MLC reports were prepared. For some of the injuries\nsustained by the victim, they were referred for x-ray. On carrying out the x-ray (Ex.P/34), the\nfracture of Tibia bone of the left leg was revealed. They abjured the guilt, on which, the trial was held. 4. By referring the MLC report of victim Vishambhar Singh (Ex.P/10) prepared by Dr. On carrying out the x-ray, such fracture was found in\ninjury of swelling and not the incised wound. Besides this, one swelling and one abrasion was found on his person.",
+      "embedding_text": "FACT_CHUNK | Case: Ram Singh & Ors. vs The State Of M.P on 5 January, 2012 | Facts: Ram Singh & Ors. Maheshwari\nBench: U.C. P. JUDICATURE AT JABALPUR\nCRIMINAL APPEAL NO. 1860 of 1996\nRam Singh and 2 others\nVersus. JUDGMENT (Oral)\n(05.01.2012) U.C. MAHESHWARI J. being aggrieved by the\njudgment dated 9.10.96 passed by the IInd Addl. In default of depositing the fine amount further RI one\nmonth has been awarded on each of the count. 2. The facts giving rise to this appeal in short are that on dated 16.10.90 at about 11.20 AM,\ncomplainant Vishambhar Singh lodged the FIR Crime No.215/90 at P.S Barhi contending that today\nin the morning at about 10 O' Clock he accompanied with his son Tejbhan and his harwaha, Dhanu\nKol and Satiya Kol went to plow his field. In continuation, they\nalso pulled the plower of Sataiya. Thereafter Ram Singh gave a blow of\nFarsa on the head of victim Vishambhar Singh resultantly he sustained injury and fell down. and Tejbhan Singh by means of sticks with a threatening to kill and bury them in such field. On\nhearing the noise of shouting of Vishambh | Actions: none | Weapon: unknown | Outcome: injury | IPC: 326, 34, 325, 324, 374, 307, 341, 320",
+      "metadata": {
+        "case_name": "Ram Singh & Ors. vs The State Of M.P on 5 January, 2012",
+        "chunk_type": "facts",
+        "ipc_sections": [
+          "326",
+          "34",
+          "325",
+          "324",
+          "374",
+          "307",
+          "341",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "issue",
+      "text": "Now, I proceed to consider the conviction of the appellants under section 326 or 326/34 of the\nIPC with respect of the injuries sustained by Vishambhar Singh and the conviction under section\n325/34 of the IPC with respect of the injuries of Tejbhan Singh whether the same is sustainable or it\nrequires some modification. Incised like wound, muscle, tissue are torn. Ram Singh & Ors. vs The State Of M.P on 5 January, 2012\nAuthor: U.C. Maheshwari\nBench: U.C. Maheshwari\n(1)\nHIGH COURT OF M. P. JUDICATURE AT JABALPUR\nCRIMINAL APPEAL NO. 1860 of 1996\nRam Singh and 2 others\nVersus. State of Madhya Pradesh\nFor respondent : Shri Rakesh Kesharwani, P.L. JUDGMENT (Oral)\n(05.01.2012) U.C. MAHESHWARI J. This appeal is directed by the appellants under Section 374(2) of the Cr.P.C.",
+      "embedding_text": "ISSUE_CHUNK | Case: Ram Singh & Ors. vs The State Of M.P on 5 January, 2012 | Legal issues: Now, I proceed to consider the conviction of the appellants under section 326 or 326/34 of the\nIPC with respect of the injuries sustained by Vishambhar Singh and the conviction under section\n325/34 of the IPC with respect of the injuries of Tejbhan Singh whether the same is sustainable or it\nrequires some modification. Incised like wound, muscle, tissue are torn. Ram Singh & Ors. vs The State Of M.P on 5 January, 2012\nAuthor: U.C. Maheshwari\nBench: U.C. Maheshwari\n(1)\nHIGH COURT OF M. P. JUDICATURE AT JABALPUR\nCRIMINAL APPEAL NO. 1860 of 1996\nRam Singh and 2 others\nVersus. State of Madhya Pradesh\nFor respondent : Shri Rakesh Kesharwani, P.L. JUDGMENT (Oral)\n(05.01.2012) U.C. MAHESHWARI J. This appeal is directed by the appellants under Section 374(2) of the Cr.P.C. | IPC: 326, 34, 325, 324, 374, 307, 341, 320",
+      "metadata": {
+        "case_name": "Ram Singh & Ors. vs The State Of M.P on 5 January, 2012",
+        "chunk_type": "issue",
+        "ipc_sections": [
+          "326",
+          "34",
+          "325",
+          "324",
+          "374",
+          "307",
+          "341",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "argument",
+      "text": "vs The State Of M.P on 5 January, 2012\nAuthor: U.C. State of Madhya Pradesh\nFor respondent : Shri Rakesh Kesharwani, P.L. This appeal is directed by the appellants under Section 374(2) of the Cr.P.C. Sessions Judge, Katni in S.T.No.45/91 convicting\nthe appellant No.1 under section 326 and 325/34 of the IPC while appellants No.2 and 3 under\nsection 326/34 and 325/34 of IPC for RI 5 years with fine of Rs.250 in the earlier sections and RI 2\nyears with fine of Rs.250/- in the later. At about 10 O' Clock, when he was sitting in the field while\nthe aforesaid other three persons were plowing the field, appellant No.1 Ram Singh lashed with\nFarsa, a sharp edged weapon, and appellants No.2 and 3 Ranjeet Singh and Jagdish Singh lashed\nwith sticks, came and stood in front of the plower and asked to stop plowing. Thereafter appellant No.1 Ram Singh gave one blow of Farsa on\nthe occipital region while two other blows on waist and hand of Tejbhan Singh resultantly he\nsustained injuries and fell down and also became unconscious. On completion of the investigation, the appellants\nwere charge sheeted for the offence of section 307 and 341/34 of the IPC. After committing the case\nto the Sessions Court, on evaluation of the charge sheet, the charge of section 307 and 307/34 of IPC\nrespectively was framed against appellants No.1,2 and\n3. Shri Jagtendra Prasad, learned counsel for the appellants after taking me through the record of\nthe trial court, without challenging the findings holding guilty to the appellants for the alleged\nincident has made his limited submission saying that in view of the available medical evidence, the\nMLC reports, x-ray reports and also the depositions of the concerning doctor, it is apparent that\nnone of the victim has sustained any such injury which is made punishable under section 326 of the\nIPC. D.K.Swarnakar (PW 4), he argued that such victim did not sustain any injury on any vital part of his\nbody and whatsoever injury has been sustained by him, on proper appreciation, the case is not made\nout against the appellants more than section 325 of the IPC as he sustained some fracture of Tibia\nbone in the left leg besides the other injuries.",
+      "embedding_text": "ARGUMENT_CHUNK | Case: Ram Singh & Ors. vs The State Of M.P on 5 January, 2012 | Arguments: vs The State Of M.P on 5 January, 2012\nAuthor: U.C. State of Madhya Pradesh\nFor respondent : Shri Rakesh Kesharwani, P.L. This appeal is directed by the appellants under Section 374(2) of the Cr.P.C. Sessions Judge, Katni in S.T.No.45/91 convicting\nthe appellant No.1 under section 326 and 325/34 of the IPC while appellants No.2 and 3 under\nsection 326/34 and 325/34 of IPC for RI 5 years with fine of Rs.250 in the earlier sections and RI 2\nyears with fine of Rs.250/- in the later. At about 10 O' Clock, when he was sitting in the field while\nthe aforesaid other three persons were plowing the field, appellant No.1 Ram Singh lashed with\nFarsa, a sharp edged weapon, and appellants No.2 and 3 Ranjeet Singh and Jagdish Singh lashed\nwith sticks, came and stood in front of the plower and asked to stop plowing. Thereafter appellant No.1 Ram Singh gave one blow of Farsa on\nthe occipital region while two other blows on waist and hand of Tejbhan Singh resultantly he\nsustained injuries and fell down | Intent: intentional | IPC: 326, 34, 325, 324, 374, 307, 341, 320 | Judgment context: convicted",
+      "metadata": {
+        "case_name": "Ram Singh & Ors. vs The State Of M.P on 5 January, 2012",
+        "chunk_type": "argument",
+        "ipc_sections": [
+          "326",
+          "34",
+          "325",
+          "324",
+          "374",
+          "307",
+          "341",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "reasoning",
+      "text": "Maheshwari\n(1)\nHIGH COURT OF M. On appreciation of the evidence, all the\n326/34 of the IPC with respect of injury sustained by Vishambhar Singh while under section 325/34\nof IPC with respect of the injury sustained by Tejbhan Singh and each of them were punished with\nthe above mentioned punishment against which, they have come forward to this court with this\nappeal. As such, the same\nis falling under section 324 and 325 of the IPC and, as section 325 IPC being major section of the\nsame category of section 324 IPC in which the higher punishment has been provided thus, no\nseparate conviction could be held against the appellants under section 324 IPC if they are held guilty\nunder section 325 of the IPC. Thus mere on some language of MLC report, the alleged\ninjury could not be deemed to be grievous in nature. The aforesaid fine\namount is to be deposited by them within sixty days from today, failing which, the concerning\nconnection of the impugned judgment of the trial court then the same be adjusted in the aforesaid\nimposed fine amount. On depositing the aforesaid sum of fine, out of it, Rs.4000/- be given to the victim Vishambhar\nSingh and Rs.3000/- be given to victim Tejbhan Singh by calling them in the trial court through\nsummons.",
+      "embedding_text": "REASONING_CHUNK | Case: Ram Singh & Ors. vs The State Of M.P on 5 January, 2012 | Judicial reasoning: Maheshwari\n(1)\nHIGH COURT OF M. On appreciation of the evidence, all the\n326/34 of the IPC with respect of injury sustained by Vishambhar Singh while under section 325/34\nof IPC with respect of the injury sustained by Tejbhan Singh and each of them were punished with\nthe above mentioned punishment against which, they have come forward to this court with this\nappeal. As such, the same\nis falling under section 324 and 325 of the IPC and, as section 325 IPC being major section of the\nsame category of section 324 IPC in which the higher punishment has been provided thus, no\nseparate conviction could be held against the appellants under section 324 IPC if they are held guilty\nunder section 325 of the IPC. Thus mere on some language of MLC report, the alleged\ninjury could not be deemed to be grievous in nature. The aforesaid fine\namount is to be deposited by them within sixty days from today, failing which, the concerning\nconnection of the impugned judgment of the trial court then the same b | Intent: intentional | Outcome: injury | IPC: 326, 34, 325, 324, 374, 307, 341, 320",
+      "metadata": {
+        "case_name": "Ram Singh & Ors. vs The State Of M.P on 5 January, 2012",
+        "chunk_type": "reasoning",
+        "ipc_sections": [
+          "326",
+          "34",
+          "325",
+          "324",
+          "374",
+          "307",
+          "341",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    },
+    {
+      "chunk_type": "judgment",
+      "text": "So with respect of his injuries, the appellants\ncould not have been convicted by the trial court for the offence of section 325 or 325/34 of the IPC. In such premises, in the lack of any positive\nand admissible evidence showing that the alleged injuries or any of them was covered under the\ndefinition of grievous hurt defined under section 320 of the IPC, the alleged incised wound, hence\nthe appellants could not be convicted under section 324/34 of the IPC as they have caused the\nalleged injuries to this victim in furtherance of their common intention. In view of the aforesaid discussion, the approach of the trial court holding guilty to the\nsection 325/34 IPC with respect of the injuries caused to Tejbhan, being not sustainable, is hereby\nset aside and, instead such sections, in view of the aforesaid discussion and keeping in view that the\nalleged offence was committed by the appellants in furtherance of their common intention, they are\nheld guilty for the offence of section 325/34 IPC for causing the alleged injury to victim Vishambhar\nSingh and under section 324/34 IPC with respect of causing the injuries to victim Tejbhan Singh. So, in such premises, I do not find fit to send them against to jail. Instead it, I deem fit to punish them with the sentence for which they have already suffered between\n18.10.90 to 11.12.1990 i.e one month and 24 days by imposing some amount of fine, with a direction\nto pay the same to the victims, to sub-serve the justice with them also. 13. Therefore, by affirming the findings of the trial court holding guilty to the appellants for\ncommitting the alleged incident, this appeal is allowed in part and the conviction and sentence\nawarded by the trial court under section 326 or 326/34 and 325/34 of the IPC is hereby set aside. InRam Singh & Ors. vs The State Of M.P on 5 January, 2012\nIndian Kanoon - http://indiankanoon.org/doc/81856890/ 5\nview of the aforesaid discussion, with respect of the injury caused to victim Vishambhar Singh, the\nTejbhan, they are convicted under section 324/34 of the IPC.",
+      "embedding_text": "JUDGMENT_CHUNK | Case: Ram Singh & Ors. vs The State Of M.P on 5 January, 2012 | Final judgment: So with respect of his injuries, the appellants\ncould not have been convicted by the trial court for the offence of section 325 or 325/34 of the IPC. In such premises, in the lack of any positive\nand admissible evidence showing that the alleged injuries or any of them was covered under the\ndefinition of grievous hurt defined under section 320 of the IPC, the alleged incised wound, hence\nthe appellants could not be convicted under section 324/34 of the IPC as they have caused the\nalleged injuries to this victim in furtherance of their common intention. In view of the aforesaid discussion, the approach of the trial court holding guilty to the\nsection 325/34 IPC with respect of the injuries caused to Tejbhan, being not sustainable, is hereby\nset aside and, instead such sections, in view of the aforesaid discussion and keeping in view that the\nalleged offence was committed by the appellants in furtherance of their common intention, they are\nheld guilty for the offence of section 325/34 IPC | Judgment: convicted | IPC: 326, 34, 325, 324, 374, 307, 341, 320",
+      "metadata": {
+        "case_name": "Ram Singh & Ors. vs The State Of M.P on 5 January, 2012",
+        "chunk_type": "judgment",
+        "ipc_sections": [
+          "326",
+          "34",
+          "325",
+          "324",
+          "374",
+          "307",
+          "341",
+          "320"
+        ],
+        "actions": [],
+        "weapon": "unknown",
+        "intent": "intentional",
+        "outcome": "injury",
+        "judgment": "convicted",
+        "court": "HIGH COURT",
+        "year": "2012"
+      }
+    }
+  ]
+}
