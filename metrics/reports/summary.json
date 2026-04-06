@@ -1,0 +1,46 @@
+{
+  "retrieval": {
+    "ipc_top_k_accuracy": 0.5,
+    "ipc_precision": 0.16666666666666666,
+    "ipc_recall": 0.5,
+    "ipc_f1": 0.25,
+    "precedent_recall_at_k": 0.5,
+    "precedent_mrr": 0.5,
+    "precedent_ndcg_at_k": 0.5,
+    "avg_semantic_similarity": 0.7
+  },
+  "generation": {
+    "prosecutor_ipc_correctness": 0.5,
+    "defence_ipc_correctness": 0.0,
+    "judge_ipc_correctness": 0.5,
+    "prosecutor_reasoning_score": 3.4,
+    "defence_reasoning_score": 3.3,
+    "judge_reasoning_score": 3.6,
+    "hallucination_rate": 0.0
+  },
+  "end_to_end": {
+    "judgment_accuracy": 0.5,
+    "sentencing_accuracy": 0.5,
+    "consistency_score": 0.75,
+    "charge_correction_rate": 0.0,
+    "robustness_stability": 0.5,
+    "avg_total_latency_sec": 37.2,
+    "avg_prosecution_latency_sec": 20.55,
+    "avg_defence_latency_sec": 16.4,
+    "avg_judge_latency_sec": 0.15000000000000002
+  },
+  "ablation": {
+    "full_system": {
+      "n": 1.0,
+      "judgment_accuracy": 1.0
+    },
+    "no_precedent": {
+      "n": 1.0,
+      "judgment_accuracy": 0.0
+    }
+  },
+  "config": {
+    "k": 5,
+    "input": "metrics\\data\\sample_eval_runs.jsonl"
+  }
+}

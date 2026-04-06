@@ -1,0 +1,31 @@
+{
+  "scope": {
+    "total_rows": 21,
+    "valid_rows": 15,
+    "excluded_failed_rows": 6
+  },
+  "learning_core_metrics": {
+    "prosecutor_quality_score": 1.0,
+    "defence_quality_score": 0.8666666666666667,
+    "judge_quality_score": 1.0,
+    "defence_ipc_correctness": 0.5,
+    "judge_ipc_correctness": 1.0
+  },
+  "supporting_reasoning_metrics": {
+    "judgment_ipc_recall_valid_only": 0.8666666666666667,
+    "judgment_ipc_jaccard_valid_only": 0.3738095238095238,
+    "consistency_score_valid_only": 0.6041582491582491
+  },
+  "multi_agent_vs_baselines": {
+    "full_vs_no_defence": {
+      "defence_quality_delta": 0.6666666666666667,
+      "defence_ipc_correctness_delta": 0.5
+    },
+    "full_vs_rule_only": {
+      "prosecutor_quality_delta": 0.19999999999999996,
+      "judge_quality_delta": 0.19999999999999996,
+      "defence_quality_delta": 0.6666666666666667
+    }
+  },
+  "note": "Outcome-exact metrics are intentionally excluded from this focused report because this view is for courtroom argument-learning quality."
+}
