@@ -122,6 +122,22 @@ print(result["judge"])
 3. Run any `run_case(...)` cell.
 4. Verify returned keys include: `prosecution`, `defence`, `judge`.
 
+## Interactive UI (Role-Play + Compare)
+
+The project includes a Streamlit app that supports two learning modes:
+- **Role-Play Mode**: choose to act as either prosecution or defence, draft your argument, and then get a judge order.
+- **Compare Mode**: generate prosecution and defence arguments side-by-side, then view the judge's outcome.
+
+Run:
+
+```powershell
+streamlit run ui_app.py
+```
+
+Notes:
+- Keep `backend/.env` configured with `GEMINI_API_KEY`.
+- The app can use manually entered case facts or load sample text from `processed_cases/*.json`.
+
 ## Cleanup Summary
 
 - Staged embedding scripts are grouped under `embedding_generation/`.
