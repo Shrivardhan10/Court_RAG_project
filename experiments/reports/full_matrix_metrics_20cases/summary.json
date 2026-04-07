@@ -1,0 +1,458 @@
+{
+  "retrieval": {
+    "ipc_top_k_accuracy": 0.2571428571428571,
+    "ipc_precision": 0.04642857142857143,
+    "ipc_recall": 0.2523809523809524,
+    "ipc_f1": 0.07694083694083693,
+    "precedent_recall_at_k": 0.0,
+    "precedent_mrr": 0.0,
+    "precedent_ndcg_at_k": 0.0,
+    "avg_semantic_similarity": null
+  },
+  "generation": {
+    "prosecutor_ipc_correctness": 0.3011904761904762,
+    "defence_ipc_correctness": 0.0880952380952381,
+    "judge_ipc_correctness": 0.2261904761904762,
+    "prosecutor_quality_score": 0.6857142857142857,
+    "defence_quality_score": 0.38571428571428573,
+    "judge_quality_score": 0.8,
+    "prosecutor_reasoning_score": null,
+    "defence_reasoning_score": null,
+    "judge_reasoning_score": null,
+    "hallucination_rate": null
+  },
+  "end_to_end": {
+    "judgment_accuracy": 0.02857142857142857,
+    "judgment_ipc_recall": 0.2261904761904762,
+    "judgment_ipc_precision": 0.11106859410430839,
+    "judgment_ipc_jaccard": 0.08590986394557823,
+    "sentencing_accuracy": 0.1357142857142857,
+    "consistency_score": 0.7536735486735486,
+    "charge_correction_rate": 0.0072992700729927005,
+    "robustness_stability": 0.2857142857142857,
+    "avg_total_latency_sec": 0.3978888271509537,
+    "avg_prosecution_latency_sec": 0.22517490167325985,
+    "avg_defence_latency_sec": 0.38217348666706435,
+    "avg_judge_latency_sec": 0.11964712000529593
+  },
+  "end_to_end_valid_only": {
+    "judgment_accuracy": 0.04,
+    "judgment_ipc_recall": 0.31666666666666665,
+    "judgment_ipc_precision": 0.15549603174603174,
+    "judgment_ipc_jaccard": 0.12027380952380952,
+    "sentencing_accuracy": 0.19,
+    "consistency_score": 0.6551429681429681,
+    "charge_correction_rate": 0.010309278350515464,
+    "robustness_stability": 0.32,
+    "avg_total_latency_sec": 0.5043398360069841,
+    "avg_prosecution_latency_sec": 0.22517490167325985,
+    "avg_defence_latency_sec": 0.38217348666706435,
+    "avg_judge_latency_sec": 0.11964712000529593
+  },
+  "ablation": {
+    "full_system": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "no_precedent": {
+      "n": 20.0,
+      "judgment_accuracy": 0.05
+    },
+    "no_ipc_retrieval": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "no_defence_agent": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "single_llm_no_rag": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "single_llm_with_rag": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "rule_only_ipc_mapper": {
+      "n": 20.0,
+      "judgment_accuracy": 0.15
+    }
+  },
+  "ablation_valid_only": {
+    "full_system": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "no_precedent": {
+      "n": 20.0,
+      "judgment_accuracy": 0.05
+    },
+    "no_ipc_retrieval": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "no_defence_agent": {
+      "n": 20.0,
+      "judgment_accuracy": 0.0
+    },
+    "rule_only_ipc_mapper": {
+      "n": 20.0,
+      "judgment_accuracy": 0.15
+    }
+  },
+  "variant_metrics": {
+    "full_system": {
+      "n": 20,
+      "n_valid": 20,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.4083333333333333,
+        "judgment_ipc_precision": 0.08448412698412698,
+        "judgment_ipc_jaccard": 0.08115079365079365,
+        "sentencing_accuracy": 0.25,
+        "consistency_score": 0.6219167637917637,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.964333895011805,
+        "avg_prosecution_latency_sec": 0.33132986499695105,
+        "avg_defence_latency_sec": 0.511837939999532,
+        "avg_judge_latency_sec": 0.12116609001532197
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.4083333333333333,
+        "judgment_ipc_precision": 0.08448412698412698,
+        "judgment_ipc_jaccard": 0.08115079365079365,
+        "sentencing_accuracy": 0.25,
+        "consistency_score": 0.6219167637917637,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.964333895011805,
+        "avg_prosecution_latency_sec": 0.33132986499695105,
+        "avg_defence_latency_sec": 0.511837939999532,
+        "avg_judge_latency_sec": 0.12116609001532197
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.55,
+        "defence_ipc_correctness": 0.35,
+        "judge_ipc_correctness": 0.4083333333333333,
+        "prosecutor_quality_score": 1.0,
+        "defence_quality_score": 0.85,
+        "judge_quality_score": 1.0,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    },
+    "no_defence_agent": {
+      "n": 20,
+      "n_valid": 20,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.4083333333333333,
+        "judgment_ipc_precision": 0.08448412698412698,
+        "judgment_ipc_jaccard": 0.08115079365079365,
+        "sentencing_accuracy": 0.15,
+        "consistency_score": 0.6219167637917637,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.3406658449908718,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.4083333333333333,
+        "judgment_ipc_precision": 0.08448412698412698,
+        "judgment_ipc_jaccard": 0.08115079365079365,
+        "sentencing_accuracy": 0.15,
+        "consistency_score": 0.6219167637917637,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.3406658449908718,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.55,
+        "defence_ipc_correctness": 0.0,
+        "judge_ipc_correctness": 0.4083333333333333,
+        "prosecutor_quality_score": 1.0,
+        "defence_quality_score": 0.2,
+        "judge_quality_score": 1.0,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    },
+    "no_ipc_retrieval": {
+      "n": 20,
+      "n_valid": 20,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.3833333333333333,
+        "judgment_ipc_precision": 0.08351190476190476,
+        "judgment_ipc_jaccard": 0.08073412698412698,
+        "sentencing_accuracy": 0.15,
+        "consistency_score": 0.7068813131313131,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.5802361800102517,
+        "avg_prosecution_latency_sec": 0.1721243200241588,
+        "avg_defence_latency_sec": 0.29006782500073314,
+        "avg_judge_latency_sec": 0.11804403498535976
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.3833333333333333,
+        "judgment_ipc_precision": 0.08351190476190476,
+        "judgment_ipc_jaccard": 0.08073412698412698,
+        "sentencing_accuracy": 0.15,
+        "consistency_score": 0.7068813131313131,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.5802361800102517,
+        "avg_prosecution_latency_sec": 0.1721243200241588,
+        "avg_defence_latency_sec": 0.29006782500073314,
+        "avg_judge_latency_sec": 0.11804403498535976
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.475,
+        "defence_ipc_correctness": 0.0,
+        "judge_ipc_correctness": 0.3833333333333333,
+        "prosecutor_quality_score": 1.0,
+        "defence_quality_score": 0.71,
+        "judge_quality_score": 1.0,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    },
+    "no_precedent": {
+      "n": 20,
+      "n_valid": 20,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.05,
+        "judgment_ipc_recall": 0.14166666666666666,
+        "judgment_ipc_precision": 0.25,
+        "judgment_ipc_jaccard": 0.14166666666666666,
+        "sentencing_accuracy": 0.25,
+        "consistency_score": 0.32499999999999996,
+        "charge_correction_rate": 0.05,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.6364164500148035,
+        "avg_prosecution_latency_sec": 0.17207051999866962,
+        "avg_defence_latency_sec": 0.3446146950009279,
+        "avg_judge_latency_sec": 0.11973123501520604
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.05,
+        "judgment_ipc_recall": 0.14166666666666666,
+        "judgment_ipc_precision": 0.25,
+        "judgment_ipc_jaccard": 0.14166666666666666,
+        "sentencing_accuracy": 0.25,
+        "consistency_score": 0.32499999999999996,
+        "charge_correction_rate": 0.05,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.6364164500148035,
+        "avg_prosecution_latency_sec": 0.17207051999866962,
+        "avg_defence_latency_sec": 0.3446146950009279,
+        "avg_judge_latency_sec": 0.11973123501520604
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.2916666666666667,
+        "defence_ipc_correctness": 0.26666666666666666,
+        "judge_ipc_correctness": 0.14166666666666666,
+        "prosecutor_quality_score": 1.0,
+        "defence_quality_score": 0.74,
+        "judge_quality_score": 1.0,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    },
+    "rule_only_ipc_mapper": {
+      "n": 20,
+      "n_valid": 20,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.15,
+        "judgment_ipc_recall": 0.24166666666666667,
+        "judgment_ipc_precision": 0.275,
+        "judgment_ipc_jaccard": 0.21666666666666667,
+        "sentencing_accuracy": 0.15,
+        "consistency_score": 1.0,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 4.6810007188469174e-05,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.15,
+        "judgment_ipc_recall": 0.24166666666666667,
+        "judgment_ipc_precision": 0.275,
+        "judgment_ipc_jaccard": 0.21666666666666667,
+        "sentencing_accuracy": 0.15,
+        "consistency_score": 1.0,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 4.6810007188469174e-05,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.24166666666666667,
+        "defence_ipc_correctness": 0.0,
+        "judge_ipc_correctness": 0.24166666666666667,
+        "prosecutor_quality_score": 0.8,
+        "defence_quality_score": 0.2,
+        "judge_quality_score": 0.8,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    },
+    "single_llm_no_rag": {
+      "n": 20,
+      "n_valid": 0,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.0,
+        "judgment_ipc_precision": 0.0,
+        "judgment_ipc_jaccard": 0.0,
+        "sentencing_accuracy": 0.0,
+        "consistency_score": 1.0,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.07282003002474084,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.0,
+        "judgment_ipc_precision": 0.0,
+        "judgment_ipc_jaccard": 0.0,
+        "sentencing_accuracy": 0.0,
+        "consistency_score": 0.0,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": null,
+        "avg_total_latency_sec": null,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.0,
+        "defence_ipc_correctness": 0.0,
+        "judge_ipc_correctness": 0.0,
+        "prosecutor_quality_score": 0.0,
+        "defence_quality_score": 0.0,
+        "judge_quality_score": 0.0,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    },
+    "single_llm_with_rag": {
+      "n": 20,
+      "n_valid": 0,
+      "end_to_end_all": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.0,
+        "judgment_ipc_precision": 0.0,
+        "judgment_ipc_jaccard": 0.0,
+        "sentencing_accuracy": 0.0,
+        "consistency_score": 1.0,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": 1.0,
+        "avg_total_latency_sec": 0.19070257999701426,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "end_to_end_valid_only": {
+        "judgment_accuracy": 0.0,
+        "judgment_ipc_recall": 0.0,
+        "judgment_ipc_precision": 0.0,
+        "judgment_ipc_jaccard": 0.0,
+        "sentencing_accuracy": 0.0,
+        "consistency_score": 0.0,
+        "charge_correction_rate": 0.0,
+        "robustness_stability": null,
+        "avg_total_latency_sec": null,
+        "avg_prosecution_latency_sec": null,
+        "avg_defence_latency_sec": null,
+        "avg_judge_latency_sec": null
+      },
+      "generation_valid_only": {
+        "prosecutor_ipc_correctness": 0.0,
+        "defence_ipc_correctness": 0.0,
+        "judge_ipc_correctness": 0.0,
+        "prosecutor_quality_score": 0.0,
+        "defence_quality_score": 0.0,
+        "judge_quality_score": 0.0,
+        "prosecutor_reasoning_score": null,
+        "defence_reasoning_score": null,
+        "judge_reasoning_score": null,
+        "hallucination_rate": null
+      }
+    }
+  },
+  "multi_agent_comparisons": {
+    "full_system_vs_no_defence_agent": {
+      "judgment_accuracy_delta": 0.0,
+      "judge_ipc_recall_delta": 0.0,
+      "judge_ipc_jaccard_delta": 0.0,
+      "judge_sentence_severity_delta": -36.3,
+      "judge_compensation_delta": -157500.0,
+      "full_system_less_severe_count": 8.0,
+      "full_system_harsher_count": 0.0,
+      "same_severity_count": 12.0,
+      "paired_cases": 20.0
+    },
+    "full_system_vs_single_llm_with_rag": {
+      "judgment_accuracy_delta": null,
+      "judge_ipc_recall_delta": null,
+      "judge_ipc_jaccard_delta": null,
+      "judge_sentence_severity_delta": null,
+      "judge_compensation_delta": null,
+      "full_system_less_severe_count": 0.0,
+      "full_system_harsher_count": 0.0,
+      "same_severity_count": 0.0,
+      "paired_cases": 0.0
+    },
+    "full_system_vs_single_llm_no_rag": {
+      "judgment_accuracy_delta": null,
+      "judge_ipc_recall_delta": null,
+      "judge_ipc_jaccard_delta": null,
+      "judge_sentence_severity_delta": null,
+      "judge_compensation_delta": null,
+      "full_system_less_severe_count": 0.0,
+      "full_system_harsher_count": 0.0,
+      "same_severity_count": 0.0,
+      "paired_cases": 0.0
+    }
+  },
+  "scope": {
+    "total_rows": 140,
+    "valid_rows": 100,
+    "excluded_failed_rows": 40
+  },
+  "config": {
+    "k": 5,
+    "input": "experiments\\reports\\experiment_runs_20cases.jsonl"
+  }
+}

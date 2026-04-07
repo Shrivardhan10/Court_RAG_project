@@ -160,6 +160,34 @@ def _parse_sentence_profile(text: str) -> Dict[str, Any]:
     return {"type": "unknown", "years": None}
 
 
+def _sentence_severity_score(text: str) -> Optional[float]:
+    profile = _parse_sentence_profile(text)
+    kind = str(profile.get("type", "unknown"))
+    years = profile.get("years")
+    if kind == "death":
+        return 100.0
+    if kind == "life":
+        return 80.0
+    if kind == "term":
+        if isinstance(years, int):
+            return float(years)
+        return 10.0
+    return None
+
+
+def _extract_compensation_amount(text: str) -> Optional[float]:
+    if not text:
+        return None
+    amounts: List[float] = []
+    for token in re.findall(r"₹\s*(\d[\d,]*)", text, flags=re.IGNORECASE):
+        amounts.append(float(token.replace(",", "")))
+    for token in re.findall(r"\b(?:INR|Rs\.?|Rupees)\s*(\d[\d,]*)", text, flags=re.IGNORECASE):
+        amounts.append(float(token.replace(",", "")))
+    if not amounts:
+        return None
+    return max(amounts)
+
+
 def _sentence_count(text: str) -> int:
     text = (text or "").strip()
     if not text:
@@ -482,6 +510,11 @@ def compute_multi_agent_comparisons(rows: Sequence[Dict[str, Any]]) -> Dict[str,
         acc_deltas: List[float] = []
         recall_deltas: List[float] = []
         jaccard_deltas: List[float] = []
+        severity_deltas: List[float] = []
+        compensation_deltas: List[float] = []
+        less_severe_count = 0
+        harsher_count = 0
+        equal_severity_count = 0
 
         case_ids = sorted({case for case, _ in index.keys()})
         for case_id in case_ids:
@@ -503,10 +536,32 @@ def compute_multi_agent_comparisons(rows: Sequence[Dict[str, Any]]) -> Dict[str,
             recall_deltas.append(base_rec - alt_rec)
             jaccard_deltas.append(base_jac - alt_jac)
 
+            base_sev = _sentence_severity_score(str(base.get("outputs", {}).get("judge", "")))
+            alt_sev = _sentence_severity_score(str(alt.get("outputs", {}).get("judge", "")))
+            if base_sev is not None and alt_sev is not None:
+                sev_delta = base_sev - alt_sev
+                severity_deltas.append(sev_delta)
+                if sev_delta < 0:
+                    less_severe_count += 1
+                elif sev_delta > 0:
+                    harsher_count += 1
+                else:
+                    equal_severity_count += 1
+
+            base_comp = _extract_compensation_amount(str(base.get("outputs", {}).get("judge", "")))
+            alt_comp = _extract_compensation_amount(str(alt.get("outputs", {}).get("judge", "")))
+            if base_comp is not None and alt_comp is not None:
+                compensation_deltas.append(base_comp - alt_comp)
+
         return {
             "judgment_accuracy_delta": mean(acc_deltas) if acc_deltas else None,
             "judge_ipc_recall_delta": mean(recall_deltas) if recall_deltas else None,
             "judge_ipc_jaccard_delta": mean(jaccard_deltas) if jaccard_deltas else None,
+            "judge_sentence_severity_delta": mean(severity_deltas) if severity_deltas else None,
+            "judge_compensation_delta": mean(compensation_deltas) if compensation_deltas else None,
+            "full_system_less_severe_count": float(less_severe_count),
+            "full_system_harsher_count": float(harsher_count),
+            "same_severity_count": float(equal_severity_count),
             "paired_cases": float(len(acc_deltas)),
         }
 
@@ -603,7 +658,12 @@ def render_markdown_report(
             f"- {name}: paired_cases={int(vals.get('paired_cases', 0.0) or 0)}, "
             f"judgment_accuracy_delta={vals.get('judgment_accuracy_delta')}, "
             f"judge_ipc_recall_delta={vals.get('judge_ipc_recall_delta')}, "
-            f"judge_ipc_jaccard_delta={vals.get('judge_ipc_jaccard_delta')}"
+            f"judge_ipc_jaccard_delta={vals.get('judge_ipc_jaccard_delta')}, "
+            f"judge_sentence_severity_delta={vals.get('judge_sentence_severity_delta')}, "
+            f"judge_compensation_delta={vals.get('judge_compensation_delta')}, "
+            f"full_system_less_severe_count={int(vals.get('full_system_less_severe_count', 0.0) or 0)}, "
+            f"full_system_harsher_count={int(vals.get('full_system_harsher_count', 0.0) or 0)}, "
+            f"same_severity_count={int(vals.get('same_severity_count', 0.0) or 0)}"
         )
 
     lines.append("")
